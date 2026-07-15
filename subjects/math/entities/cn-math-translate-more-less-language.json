@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8fea90d09449b10545d4a149a15a701152baa11797025f518fafe4e2ee437c88",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-translate-more-less-language",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-translate-more-less-language-pep",
+    "review-cn-math-translate-more-less-language-bnup",
+    "review-cn-math-translate-more-less-language-jsep"
+  ],
+  "subject": "math",
+  "summary": "甲比乙多若干与乙比甲少同样多描述同一差值关系，可互换叙述但标准量角色随之改变。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“多几少几语言的关系转换”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把多几与是几倍混为一类。",
+  "title": "多几少几语言的关系转换"
+}

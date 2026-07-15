@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7c4a07bfb2ffd9eb554eecda4702b78a10546e8e0722d869a32365ebbd03379a",
+  "domain": "统计与概率",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-arithmetic-mean",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:statistics-and-probability",
+    "anchor-stage-2-statistics-and-probability",
+    "review-cn-math-arithmetic-mean-pep",
+    "review-cn-math-arithmetic-mean-bnup",
+    "review-cn-math-arithmetic-mean-jsep"
+  ],
+  "subject": "math",
+  "summary": "平均数是总量在各数据间均匀分配的代表值，等于总和除以个数。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“平均数”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 用最大值和最小值的中点代替平均数。",
+  "title": "平均数"
+}

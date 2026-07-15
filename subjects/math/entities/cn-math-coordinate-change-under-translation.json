@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "47a735903f521a480321eb44eb4a3f1ddd7709af6680c2c6bdff545bab7f20e9",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-coordinate-change-under-translation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-coordinate-change-under-translation-pep",
+    "review-cn-math-coordinate-change-under-translation-bnup",
+    "review-cn-math-coordinate-change-under-translation-jsep"
+  ],
+  "subject": "math",
+  "summary": "水平平移主要改变一个坐标，竖直平移主要改变另一个坐标，变化量与方向对应。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“平移后的坐标变化”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 平移时同时随意改变两个坐标。",
+  "title": "平移后的坐标变化"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "46948c9b930619b79ec30261824420a273f45f2850ce5c877e30e978bc50bd41",
+  "fromId": "cn-math-claim-evidence-reasoning",
+  "id": "rel-math-ce9643088b5186bc2eccbafd",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“主张证据与理由”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-example-versus-general-proof"
+}

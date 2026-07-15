@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "58ad720ddbcc7d6137e257d79f618a9579efad60c6fd81bceeb5c18f8501bb57",
+  "domain": "PINYIN_SYMBOL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-pinyin-final-uei",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-hanyu-pinyin-scheme",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"symbol\":\"uei\",\"symbolCategory\":\"韵母\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "韵母uei"
+}

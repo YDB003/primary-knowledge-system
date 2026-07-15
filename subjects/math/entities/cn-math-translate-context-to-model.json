@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "702446d389fc2e324ce0bd0955cce95b2a1bde02663cbc1a41ebf1205b5ff3dc",
+  "domain": "综合与实践",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-translate-context-to-model",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:synthesis-and-practice",
+    "anchor-stage-1-synthesis-and-practice",
+    "review-cn-math-translate-context-to-model-pep",
+    "review-cn-math-translate-context-to-model-bnup",
+    "review-cn-math-translate-context-to-model-jsep"
+  ],
+  "subject": "math",
+  "summary": "用算式、图、表或关系表示现实问题。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“把情境转化为数学模型”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "把情境转化为数学模型"
+}

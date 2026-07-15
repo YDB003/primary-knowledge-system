@@ -1,0 +1,12 @@
+{
+  "contentHash": "5a5c5aa7ece428f7b1051339c0c6e4aa0dd8f8f943a42ba2deec7f1a62113d36",
+  "fromId": "cn-math-mental-add-sub-hundreds",
+  "id": "rel-math-024fd1b6bfb9f5ec0a124319",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“多位数加减的口算分解”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-written-addition"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "5175c9f7a7e52a1cf00309f3be10fcf907310b380fbe78dced2b79e6ad16b880",
+  "fromId": "cn-math-convert-time-units",
+  "id": "rel-math-8c76c589ba5d521f7dbe0d6c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“时间单位换算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-convert-area-units"
+}

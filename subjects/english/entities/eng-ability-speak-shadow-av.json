@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "83622954af73077aa028eb8cf438139f4888a9810fff4d236b552be8f7154f99",
+  "domain": "speaking_interaction",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-speak-shadow-av",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 大声跟读简短音视频材料\n\n## 能力说明\n\n大声跟读简短音视频材料，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能跟随录音模仿并读出短句。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：speaking_interaction\n- 课标锚点：[[eng-anchor-l1-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "大声跟读简短音视频材料"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "4e73d340dae589bff723c27cc8f90b1ba3527231aecb85ee3c827c3b6268e31b",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-have-dinner",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "have dinner 表示“吃晚饭”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "have dinner"
+}

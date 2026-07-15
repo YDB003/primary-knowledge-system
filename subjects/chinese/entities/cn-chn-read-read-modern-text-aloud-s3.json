@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9b76a0c36c896d2e7572c64a4ec682ba74a01d7737d37c4b57a5b6fe6f14a144",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-read-modern-text-aloud-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-read-modern-text-aloud-s3-curriculum-standard",
+    "review-cn-chn-read-read-modern-text-aloud-s3-unified-pre-2024",
+    "review-cn-chn-read-read-modern-text-aloud-s3-unified-2024-revision",
+    "review-cn-chn-read-read-modern-text-aloud-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在通读理解后，以稳定语速、准确停连和适合文本情感的语调熟练朗读现代课文。\n\n## 掌握证据\n\n- 能朗读较长课文时保持稳定语速和准确停连。\n- 能根据情感变化调整语调并完成连贯朗读。\n\n## 常见错误\n\n- 只追求速度，停连和语调不能表现句意变化。",
+  "title": "熟练朗读现代课文"
+}

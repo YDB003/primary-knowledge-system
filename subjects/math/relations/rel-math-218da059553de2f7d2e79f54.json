@@ -1,0 +1,12 @@
+{
+  "contentHash": "16754704434c6032e2b2c44b33d560cf404a40c8df2af466c92c3c4946177c48",
+  "fromId": "cn-math-mixed-number-add-subtract",
+  "id": "rel-math-218da059553de2f7d2e79f54",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“带分数加减”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-times-integer"
+}

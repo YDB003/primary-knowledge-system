@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "71c3fea95be49f65d8baca21315b5362d764e3b6b38bf2c30a92efda1243b4ba",
+  "domain": "SENTENCE_PATTERN",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-sentence-pattern-person-is-from-place",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "主语加 be from 加地点可说明某人的来源。I 后用 am，单数第三人称通常用 is。",
+  "title": "I am from China."
+}

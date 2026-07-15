@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "aa4f99a26c658098406c79411c78b67a3c6f4fd7caadd0707ab083ea3eb35bb1",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u8349",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":9,\"writtenForm\":\"草\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "草"
+}

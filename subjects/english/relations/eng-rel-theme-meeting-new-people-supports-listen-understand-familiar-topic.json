@@ -1,0 +1,14 @@
+{
+  "contentHash": "a51774b6cbab7b9126fa44d57458258c899691df951e7ea3e8b69b8fd83df147",
+  "fromId": "eng-theme-meeting-new-people",
+  "id": "eng-rel-theme-meeting-new-people-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

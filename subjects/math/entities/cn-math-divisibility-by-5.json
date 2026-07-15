@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "fd7d1fec92e7c659eb3f52db32b22e0ace1d2fb6a1b27929f67e0f56ab956dc5",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-divisibility-by-5",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-divisibility-by-5-pep",
+    "review-cn-math-divisibility-by-5-bnup",
+    "review-cn-math-divisibility-by-5-jsep"
+  ],
+  "subject": "math",
+  "summary": "十进制整数的个位是0或5时且仅当它能被5整除。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“5的倍数特征”。\n- 能用数的结构或数量关系解释“5的倍数特征”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 只要数字中出现5就认为整个数是5的倍数。",
+  "title": "5的倍数特征"
+}

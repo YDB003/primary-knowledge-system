@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "e9653bd04bd974b43e67c913345f6c084da20bb647ec197fa4d37388b19cca7e",
+  "domain": "GENRE",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-item-genre-poetry",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022",
+    "anchor-stage-2-reading-appreciation"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"genreCategory\":\"课程标准直接命名文体身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "诗歌"
+}

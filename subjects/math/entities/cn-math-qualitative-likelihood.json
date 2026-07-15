@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4f4c43be5f6fbac7790280fd55092d8dbdc066e596a9c6e036a6ac4d2f56a707",
+  "domain": "统计与概率",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-qualitative-likelihood",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:statistics-and-probability",
+    "anchor-stage-2-statistics-and-probability",
+    "review-cn-math-qualitative-likelihood-pep",
+    "review-cn-math-qualitative-likelihood-bnup",
+    "review-cn-math-qualitative-likelihood-jsep"
+  ],
+  "subject": "math",
+  "summary": "根据有利结果在所有可能结果中的相对多少比较可能性。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“可能性大小的定性比较”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 只根据上一次结果判断下一次。",
+  "title": "可能性大小的定性比较"
+}

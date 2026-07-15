@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "61cdfb42898209b8488d08a40e945220ed22b935fcc370961d7c41b4095a2ccb",
+  "domain": "统计与概率",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-compare-two-data-groups",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:statistics-and-probability",
+    "anchor-stage-3-statistics-and-probability",
+    "review-cn-math-compare-two-data-groups-pep",
+    "review-cn-math-compare-two-data-groups-bnup",
+    "review-cn-math-compare-two-data-groups-jsep"
+  ],
+  "subject": "math",
+  "summary": "比较两组数据应同时看中心、范围、趋势和样本背景。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“比较两组数据”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 只比较一个最高点。",
+  "title": "比较两组数据"
+}

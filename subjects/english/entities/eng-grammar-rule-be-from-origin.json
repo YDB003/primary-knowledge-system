@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b6297cbd85a6867743699d4619d322b833308b5bff60ba14c06891bd80ebb1eb",
+  "domain": "GRAMMAR_RULE",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-grammar-rule-be-from-origin",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "be from 的核心意义是“来自”。be 动词形式随主语变化，from 后接国家、城市或其他地点。",
+  "title": "be from 表示来源"
+}

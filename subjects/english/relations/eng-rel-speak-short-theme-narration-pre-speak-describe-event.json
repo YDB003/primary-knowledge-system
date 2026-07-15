@@ -1,0 +1,15 @@
+{
+  "contentHash": "a8bee9ceb8bebfd344a688b04fc4727d4120592bc6e82176adae45c8c7671c91",
+  "fromId": "eng-ability-speak-short-theme-narration",
+  "id": "eng-rel-speak-short-theme-narration-pre-speak-describe-event",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n说清事件的人物、时间、地点和经过，必须先能围绕同一主题连续叙述几句相关信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-event"
+}

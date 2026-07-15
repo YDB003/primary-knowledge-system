@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "eca04c3876ed05d1c57f5e4e29124229b8f9207f8f39eaae76216aadbf4db6ce",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-inq-discuss-problem-jointly-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-organizing-inquiry",
+    "review-cn-chn-inq-discuss-problem-jointly-s2-curriculum-standard",
+    "review-cn-chn-inq-discuss-problem-jointly-s2-unified-pre-2024",
+    "review-cn-chn-inq-discuss-problem-jointly-s2-unified-2024-revision",
+    "review-cn-chn-inq-discuss-problem-jointly-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“共同讨论问题”这一操作，以成员围绕同一问题回应证据的讨论记录作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能共同讨论问题，产出成员围绕同一问题回应证据的讨论记录。\n- 能在另一项合作探究任务中共同讨论问题，仍产出成员围绕同一问题回应证据的讨论记录。\n\n## 常见错误\n\n- 成员只轮流发言，没有回应同一问题或他人依据。",
+  "title": "共同讨论问题"
+}

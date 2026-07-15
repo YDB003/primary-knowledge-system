@@ -1,0 +1,12 @@
+{
+  "contentHash": "c03962b1e9cadda8b1713e3c0ec4c30e5b24805c79a66bf31188c42191103588",
+  "fromId": "cn-math-area-by-unit-squares",
+  "id": "rel-math-56bfef9916ab5f58c6f6d2b5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用单位正方形测量面积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-square-area-units"
+}

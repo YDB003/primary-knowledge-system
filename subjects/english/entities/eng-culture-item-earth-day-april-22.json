@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "cdc8ae9717afca412edbbd73aa01001b1c55f1a4a3dd202f997f872c73deb9e5",
+  "domain": "CULTURE_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-culture-item-earth-day-april-22",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "地球日是倡导关心地球环境的公共纪念日，日期为 4 月 22 日。它可以作为讨论个人环保行动的主题入口。",
+  "title": "Earth Day"
+}

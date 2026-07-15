@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "740f1a586c67fb9a53739c611b63f1da9c749b87b11884ed9f02757a8933fe4e",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-use-pinyin-check-pronunciation-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-use-pinyin-check-pronunciation-s1-curriculum-standard",
+    "review-cn-chn-lit-use-pinyin-check-pronunciation-s1-unified-pre-2024",
+    "review-cn-chn-lit-use-pinyin-check-pronunciation-s1-unified-2024-revision",
+    "review-cn-chn-lit-use-pinyin-check-pronunciation-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在拼音认读或拼写任务中借助拼音核对字音，以规范符号或读音呈现结果。\n\n## 掌握证据\n\n- 能在新的拼音材料中独立借助拼音核对字音。\n- 能朗读或书写结果，并按拼音规则自行核对。\n\n## 常见错误\n\n- 混淆相近拼音符号，或在拼读与拼写时漏掉规则步骤。",
+  "title": "借助拼音核对字音"
+}

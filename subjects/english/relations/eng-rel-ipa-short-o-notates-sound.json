@@ -1,0 +1,15 @@
+{
+  "contentHash": "fd3b501619f6bce68d8cc426029cc78d1bc4d8608cb9faa74806eeed6afb15c2",
+  "fromId": "eng-ipa-short-o",
+  "id": "eng-rel-ipa-short-o-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ɒ/ 这个书写符号用于标记英语声音“短元音 /ɒ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-short-o"
+}

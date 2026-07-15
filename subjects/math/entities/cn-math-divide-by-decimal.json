@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a522c29c2bfbfa0fd8b407047ba444c6a8af4e6fac6125c96ea09355a69bb6de",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-divide-by-decimal",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-divide-by-decimal-pep",
+    "review-cn-math-divide-by-decimal-bnup",
+    "review-cn-math-divide-by-decimal-jsep"
+  ],
+  "subject": "math",
+  "summary": "利用商不变性质，把被除数和除数同时乘10的幂，使除数化为整数后再计算。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“除数是小数的除法”。\n- 能用数量关系或运算结构解释“除数是小数的除法”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 只移动除数的小数点而没有同步改变被除数。",
+  "title": "除数是小数的除法"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "4aa06b28efa642762f296e6ccc74af4764af8b33e406ca818df7e8678b8c03be",
+  "fromId": "cn-math-chart-axis-scale",
+  "id": "rel-math-eded8a2e72643ea6aa556a2b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“统计图坐标与刻度”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-line-chart"
+}

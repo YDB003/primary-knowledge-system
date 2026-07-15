@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7a7793a28a41df4b8cbb2e4d75d08fb6edfead97c13c19fa5a28acd7804fa982",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-listen-for-key-points-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-listen-for-key-points-s3-curriculum-standard",
+    "review-cn-chn-expr-listen-for-key-points-s3-unified-pre-2024",
+    "review-cn-chn-expr-listen-for-key-points-s3-unified-2024-revision",
+    "review-cn-chn-expr-listen-for-key-points-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在倾听后，只辨认讲话中的关键事项，不承担转述任务。\n\n## 掌握证据\n\n- 能记录所听讲话的关键事项。\n- 能指出各要点对应的原信息。\n\n## 常见错误\n\n- 把举例细节误列为讲话要点。",
+  "title": "听取讲话要点"
+}

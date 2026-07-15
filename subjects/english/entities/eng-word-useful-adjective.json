@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "ad734fe212ff8ad9e80dff7493e791eb38bf675d3f1ddae9c45958aaac6e51d3",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-word-useful-adjective",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "useful 在本知识点中作adjective，基本义为“有用的”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "useful"
+}

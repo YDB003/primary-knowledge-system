@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "2c6d182ba6a25c10871ebc802bbaa691e55d4a99d9c7dd6f42e5e66368209647",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u6708",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"月\",\"variantForms\":[\"肉\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "肉的部首变体月"
+}

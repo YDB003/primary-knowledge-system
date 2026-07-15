@@ -1,0 +1,15 @@
+{
+  "contentHash": "fc8bb8b7e58a284e55f5eac3f7943617322f258c10c6ac1dc229929c2f088b3f",
+  "fromId": "eng-ability-pron-perceive-thought-groups",
+  "id": "eng-rel-pron-perceive-thought-groups-pre-strategy-read-thought-groups",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n形成按意义单位阅读较长句子的习惯，必须先能感知句中的自然意群和停顿。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-strategy-read-thought-groups"
+}

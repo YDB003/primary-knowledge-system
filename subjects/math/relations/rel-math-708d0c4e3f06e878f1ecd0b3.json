@@ -1,0 +1,12 @@
+{
+  "contentHash": "ad70efacbf6ae472a31f01d17fdf9fc6adf94c591a1e767667b3467d0fafa19a",
+  "fromId": "cn-math-observe-varying-attributes",
+  "id": "rel-math-708d0c4e3f06e878f1ecd0b3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“有目的观察变化属性”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-continue-sequence-pattern"
+}

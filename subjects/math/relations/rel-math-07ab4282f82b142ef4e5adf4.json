@@ -1,0 +1,12 @@
+{
+  "contentHash": "c8f63102046e52d9cdc90ffb9c093d5be0a21d170bfed20c65befcd39c07a00b",
+  "fromId": "cn-math-subtraction-missing-part",
+  "id": "rel-math-07ab4282f82b142ef4e5adf4",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“减法求未知部分”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-addition-subtraction-inverse"
+}

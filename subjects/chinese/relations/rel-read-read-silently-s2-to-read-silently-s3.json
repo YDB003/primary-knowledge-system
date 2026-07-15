@@ -1,0 +1,12 @@
+{
+  "contentHash": "85238184ba4cfd1e663af9c8dd3ea5ac440f3567420af1990335afab41a108a3",
+  "fromId": "cn-chn-read-read-silently-s2",
+  "id": "rel-read-read-silently-s2-to-read-silently-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "持续默读较长文本依赖已能独立连续默读多个段落，否则阅读路径会在篇幅增加后频繁中断。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-read-silently-s3"
+}

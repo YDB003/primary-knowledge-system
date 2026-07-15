@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "595dd477b12c6935978c3634390fbf47207261e4d49f96bcbbab049308c3fe7b",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-rectangle-perimeter",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-rectangle-perimeter-pep",
+    "review-cn-math-rectangle-perimeter-bnup",
+    "review-cn-math-rectangle-perimeter-jsep"
+  ],
+  "subject": "math",
+  "summary": "长方形周长等于两条长和两条宽之和。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“长方形周长”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 只算长乘宽。",
+  "title": "长方形周长"
+}

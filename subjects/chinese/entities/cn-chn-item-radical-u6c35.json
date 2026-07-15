@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "1c4c26d7fa89904456b006a272e0c64d70e73a68c79d1f37594b5aaa2374793f",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u6c35",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"氵\",\"variantForms\":[\"水\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "水的部首变体氵"
+}

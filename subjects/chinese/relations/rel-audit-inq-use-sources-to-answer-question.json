@@ -1,0 +1,12 @@
+{
+  "contentHash": "c4a26b94b7aa81871e3ba28812dd528b91ff26abd762781a02c0b33a70c94662",
+  "fromId": "cn-chn-inq-use-sources-with-basic-methods-s3",
+  "id": "rel-audit-inq-use-sources-to-answer-question",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "运用资料回答问题必须先判断资料与问题的关系并选出可用依据；否则无法把有效资料依据对应到问题答案。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-inq-apply-sources-to-answer-question-s3"
+}

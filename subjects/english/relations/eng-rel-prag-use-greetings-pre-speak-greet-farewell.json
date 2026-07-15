@@ -1,0 +1,15 @@
+{
+  "contentHash": "3d267c3ccc7ab9a9c6d686835a4896efccdb70433d70a124aa8428bb12ac2654",
+  "fromId": "eng-ability-prag-use-greetings",
+  "id": "eng-rel-prag-use-greetings-pre-speak-greet-farewell",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n完成见面问候与离开道别这一组合任务，必须能在见面环节使用合适的简单问候语。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-greet-farewell"
+}

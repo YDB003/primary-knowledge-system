@@ -1,0 +1,14 @@
+{
+  "contentHash": "a5335bdf96df6d5583823b3365de90018fd12093102b7c9c7d567d012bcc7491",
+  "fromId": "eng-theme-food-from-farm-to-table",
+  "id": "eng-rel-theme-food-from-farm-to-table-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

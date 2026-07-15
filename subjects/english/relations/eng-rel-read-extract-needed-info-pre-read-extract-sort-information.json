@@ -1,0 +1,15 @@
+{
+  "contentHash": "ed2b718b7eab843dae826404881be30c2771e52a293506018cc499bbee8c4279",
+  "fromId": "eng-ability-read-extract-needed-info",
+  "id": "eng-rel-read-extract-needed-info-pre-read-extract-sort-information",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n整理语篇中的人物、时间、地点和事件，必须先能按任务定位并提取对应词句或图像信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-extract-sort-information"
+}

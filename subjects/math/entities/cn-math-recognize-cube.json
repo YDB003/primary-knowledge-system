@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8a1660ccc2bca913c5417a8e6d2da0341c33871a52e7b1c70c5d4d466067f551",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-recognize-cube",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-recognize-cube-pep",
+    "review-cn-math-recognize-cube-bnup",
+    "review-cn-math-recognize-cube-jsep"
+  ],
+  "subject": "math",
+  "summary": "正方体是六个全等正方形面围成的特殊长方体，所有棱等长。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“正方体的识别”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 认为正方体与长方体完全无关。",
+  "title": "正方体的识别"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "2ca0a928b20c3b794b472a21ab5602f7857267c4a36a537e697230974ace5d6a",
+  "fromId": "cn-math-written-subtraction",
+  "id": "rel-math-36e71497aaf1d503b56a3738",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“多位数减法笔算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplication-facts"
+}

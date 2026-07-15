@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "0ed6b3e2fb7664148dcfc9cc9216814631bbd5e3393886c328af2f51ac75791c",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7a7f",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":9,\"writtenForm\":\"穿\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "穿"
+}

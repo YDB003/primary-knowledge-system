@@ -1,0 +1,15 @@
+{
+  "contentHash": "872b2f24fb5f26f543405a7e20fb3ac5a19dd72a1be89c26668cc4afcf67788f",
+  "fromId": "eng-ipa-v",
+  "id": "eng-rel-ipa-v-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/v/ 这个书写符号用于标记英语声音“浊辅音 /v/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-v"
+}

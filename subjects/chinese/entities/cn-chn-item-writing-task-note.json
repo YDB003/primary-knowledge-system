@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "c7decf5ceceb470972c1f6d9bae655168fc08fd2e56b00a642feb35a79bf98b5",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-item-writing-task-note",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"习作任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "便条"
+}

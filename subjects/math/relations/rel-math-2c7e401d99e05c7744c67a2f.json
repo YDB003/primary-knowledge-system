@@ -1,0 +1,12 @@
+{
+  "contentHash": "65761d535e1f020b9320a35af3e8d5e1aaa88e3a4c318a5222612805147c4b73",
+  "fromId": "cn-math-compare-area-directly",
+  "id": "rel-math-2c7e401d99e05c7744c67a2f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“直接重合比较面积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-area-by-unit-squares"
+}

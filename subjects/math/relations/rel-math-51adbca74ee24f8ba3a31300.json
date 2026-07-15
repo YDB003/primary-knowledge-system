@@ -1,0 +1,12 @@
+{
+  "contentHash": "f1c7b0c1d332c3ba2a8648b830296cd4dbb847b66160fdab166807f5eea28d87",
+  "fromId": "cn-math-clarify-problem-goal",
+  "id": "rel-math-51adbca74ee24f8ba3a31300",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“澄清问题目标”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-choose-problem-representation"
+}

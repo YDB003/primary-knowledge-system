@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4e5af771c630b0c7997eb83f199704340673cc5445ea4dd1c9d73633efcfacf6",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-collect-books-reading-materials-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-collect-books-reading-materials-s2-curriculum-standard",
+    "review-cn-chn-read-collect-books-reading-materials-s2-unified-pre-2024",
+    "review-cn-chn-read-collect-books-reading-materials-s2-unified-2024-revision",
+    "review-cn-chn-read-collect-books-reading-materials-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "根据持续阅读需要，把可继续阅读的图书或资料纳入个人收藏，并留下可再次找到它们的记录。\n\n## 掌握证据\n\n- 能选择与阅读兴趣或主题相关的图书资料并记录名称与来源。\n- 能按主题整理收藏，并核对所记位置可以再次找到资料。\n\n## 常见错误\n\n- 只临时浏览资料，没有收藏记录，之后无法再次找到。",
+  "title": "收集图书和阅读资料"
+}

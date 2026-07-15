@@ -1,0 +1,14 @@
+{
+  "contentHash": "e9038c0108a199b732668d78abc68de7f2880b6117be7e1e7cfd8aec5d60d5ff",
+  "fromId": "eng-phrase-do-homework",
+  "id": "eng-rel-phrase-do-homework-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

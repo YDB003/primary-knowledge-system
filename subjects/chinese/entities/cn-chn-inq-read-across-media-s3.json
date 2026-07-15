@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8f47953613b0d952225df1c9cf96c283738cafb5e19a636ceeca9300cc872e8c",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-read-across-media-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-read-across-media-s3-curriculum-standard",
+    "review-cn-chn-inq-read-across-media-s3-unified-pre-2024",
+    "review-cn-chn-inq-read-across-media-s3-unified-2024-revision",
+    "review-cn-chn-inq-read-across-media-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“阅读跨媒介材料”这一操作，以从两种以上媒介读取并标明出处的信息记录作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能阅读跨媒介材料，产出从两种以上媒介读取并标明出处的信息记录。\n- 能换用另一组跨媒介信息阅读跨媒介材料，仍产出从两种以上媒介读取并标明出处的信息记录。\n\n## 常见错误\n\n- 只阅读文字部分，忽略其他媒介承载的信息。",
+  "title": "阅读跨媒介材料"
+}

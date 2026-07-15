@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "55b22d33dcd9ff40666037320be4bb3280f04a8e6b5ba8c4a67ad8f424b6fdf4",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u534a",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"writtenForm\":\"半\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "半"
+}

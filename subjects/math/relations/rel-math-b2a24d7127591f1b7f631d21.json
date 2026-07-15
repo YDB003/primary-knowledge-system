@@ -1,0 +1,12 @@
+{
+  "contentHash": "e49b6b4ea8ce510e9a0651885156f9f8c389bf5d75abe0fee3f6704721a84379",
+  "fromId": "cn-math-nonstandard-length-units",
+  "id": "rel-math-b2a24d7127591f1b7f631d21",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用非标准单位测量长度”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-standard-length-units"
+}

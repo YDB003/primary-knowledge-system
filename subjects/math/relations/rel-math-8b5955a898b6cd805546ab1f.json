@@ -1,0 +1,12 @@
+{
+  "contentHash": "e476d4dd38abd326d0eb4e541a2e9c025b85c26bcafc4474a138a36207350a77",
+  "fromId": "cn-math-describe-data-trend",
+  "id": "rel-math-8b5955a898b6cd805546ab1f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“描述数据变化趋势”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-misleading-chart-scale"
+}

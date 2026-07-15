@@ -1,0 +1,12 @@
+{
+  "contentHash": "67f1a16f20adbf9201a5414370af470f61fc18ad810ee6f495fe486151734c3c",
+  "fromId": "cn-chn-item-punctuation-symbol-exclamation-mark",
+  "id": "rel-punctuation-exclamation-supports-terminal-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "感叹号符号身份支持按感叹语气选用对应句末点号的书面表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-choose-terminal-punctuation-by-expression-s1"
+}

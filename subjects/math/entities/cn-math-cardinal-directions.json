@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "fec38119fae03b3f0f39e256e4f1c3b45274cc32f3dffa7167912d35d21bb238",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-cardinal-directions",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-cardinal-directions-pep",
+    "review-cn-math-cardinal-directions-bnup",
+    "review-cn-math-cardinal-directions-jsep"
+  ],
+  "subject": "math",
+  "summary": "基本方向有固定相对关系，可进一步描述东北、西北、东南和西南。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“东南西北与扩展方向”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把地图上的上方在所有情境中都当作实际北方。",
+  "title": "东南西北与扩展方向"
+}

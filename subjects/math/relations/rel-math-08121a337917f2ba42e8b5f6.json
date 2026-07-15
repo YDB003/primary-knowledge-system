@@ -1,0 +1,12 @@
+{
+  "contentHash": "6c66b2c086d085b16859a9ed8d9c5a42b1f02bfb06674184143fd6b5f673bc2b",
+  "fromId": "cn-math-estimate-mass",
+  "id": "rel-math-08121a337917f2ba42e8b5f6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“质量估测”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-mass-add-subtract-context"
+}

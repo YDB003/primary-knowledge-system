@@ -1,0 +1,12 @@
+{
+  "contentHash": "b28b1382032f75ea773a8e8d6ed9b1b71a100be23e29e088fd90d8d23a92ae17",
+  "fromId": "cn-math-divide-by-fraction",
+  "id": "rel-math-e17249385516f01c3e8405d1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“除以分数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-mixed-operations"
+}

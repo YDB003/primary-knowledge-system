@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "64d070bab186981d9963ccd5a259478e78e60de8f9868f725f84af7510a317bb",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u8863",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"variantForms\":[\"衤\"],\"writtenForm\":\"衣\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "衣"
+}

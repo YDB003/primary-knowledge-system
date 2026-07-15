@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "3161615a4552f3b03969a50d9cf596ce5ad0414c6f896e718199be828ec97d6b",
+  "domain": "speaking_interaction",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-speak-express-feeling-attitude-view",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 表达个人情感态度和观点\n\n## 能力说明\n\n表达个人情感态度和观点，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能围绕所读所看内容表达感受和简单理由。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：speaking_interaction\n- 课标锚点：[[eng-anchor-l2-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "表达个人情感态度和观点"
+}

@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "793aaab0e4e9fdfc840ff0087d1aff54dcb8bbeb46fe2da64f8426bbfca262b0",
+  "domain": "IPA_SYMBOL",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-ipa-long-ee",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 符号\n\n/iː/ 是本知识库“48 个英语音标”教学集合中的书写符号，归入元音类。\n\n## 表示对象\n\n这个符号用于标记“长元音 /iː/”。没有需要单独记录的常见替代写法。\n\n## 使用边界\n\n符号是记录声音的工具，不等同于字母。不同英语口音的实际音值可能略有差异。",
+  "title": "/iː/ 音标符号"
+}

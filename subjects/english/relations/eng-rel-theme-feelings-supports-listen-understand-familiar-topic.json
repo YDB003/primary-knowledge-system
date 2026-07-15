@@ -1,0 +1,14 @@
+{
+  "contentHash": "26d12d9d05e840c1cdf1539f8b82ffa5618c633ba868585379b453ffbc2f717f",
+  "fromId": "eng-theme-feelings",
+  "id": "eng-rel-theme-feelings-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

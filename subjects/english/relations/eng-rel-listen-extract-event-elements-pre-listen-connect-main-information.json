@@ -1,0 +1,15 @@
+{
+  "contentHash": "82edb926132ba42d44094b7b53a92a514696587155f89f2f80617e655d67fe2e",
+  "fromId": "eng-ability-listen-extract-event-elements",
+  "id": "eng-rel-listen-extract-event-elements-pre-listen-connect-main-information",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n说明听看材料主要信息的先后、因果或并列关系，必须先提取参与这些关系的信息项。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-connect-main-information"
+}

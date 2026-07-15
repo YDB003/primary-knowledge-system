@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e04fdfcf6a3c0831859c086f4457a2b1bcc5c4d40e8f373e08ba09c3fe6d48a9",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-multiplication-repeated-addition",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-multiplication-repeated-addition-pep",
+    "review-cn-math-multiplication-repeated-addition-bnup",
+    "review-cn-math-multiplication-repeated-addition-jsep"
+  ],
+  "subject": "math",
+  "summary": "用乘法简洁表示若干个相同加数相加。\n\n## 可观察证据\n\n- 能把相同加数连加式改写成乘法式。\n- 能说明乘法式中的组数和每组数。\n\n## 常见误区\n\n- 把不同加数的加法也机械改写成乘法。",
+  "title": "乘法表示相同加数连加"
+}

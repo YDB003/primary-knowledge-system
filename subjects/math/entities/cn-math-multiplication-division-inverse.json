@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "188c6775f825c17f61c6d18d3b31e224fae2c3b3f12987b9ff5d59503d579e9a",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-multiplication-division-inverse",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-multiplication-division-inverse-pep",
+    "review-cn-math-multiplication-division-inverse-bnup",
+    "review-cn-math-multiplication-division-inverse-jsep"
+  ],
+  "subject": "math",
+  "summary": "乘法由组数和每组数求总量，除法可由总量与其中一个量还原另一个量。\n\n## 可观察证据\n\n- 能由一个乘法式写出相关除法式。\n- 能用乘法检验除法结果。\n\n## 常见误区\n\n- 把乘除法当作没有共同数量结构的两类计算。",
+  "title": "乘法与除法的互逆关系"
+}

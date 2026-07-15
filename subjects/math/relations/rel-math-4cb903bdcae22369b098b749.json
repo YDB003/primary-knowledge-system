@@ -1,0 +1,12 @@
+{
+  "contentHash": "072fb20c1d5a9653b7f6ec08d9d5c6e45ec40ff165e1f93faa99aab90a116728",
+  "fromId": "cn-math-find-percentage-rate",
+  "id": "rel-math-4cb903bdcae22369b098b749",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“求一个量占另一个量的百分率”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-find-whole-from-percentage"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "5ccbc1757de3d9665452595a08c2919063701c7df34051b871f2dca7092e10f6",
+  "fromId": "cn-math-compare-fractions-same-numerator",
+  "id": "rel-math-6f65700a2c50f9327e00b105",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“同分子分数比较”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-fractions-on-number-line"
+}

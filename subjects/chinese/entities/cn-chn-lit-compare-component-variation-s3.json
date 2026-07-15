@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "473bd163d0a28b8b17f97bb4b6fc14ccf2a8ac085697195424c10e632140ed76",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-compare-component-variation-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-compare-component-variation-s3-curriculum-standard",
+    "review-cn-chn-lit-compare-component-variation-s3-unified-pre-2024",
+    "review-cn-chn-lit-compare-component-variation-s3-unified-2024-revision",
+    "review-cn-chn-lit-compare-component-variation-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "观察汉字构形时比较部件在字形中的变形，以笔画、偏旁、部件或结构关系呈现结果。\n\n## 掌握证据\n\n- 能在陌生字形中准确比较部件在字形中的变形。\n- 能指出所依据的构形位置或部件线索。\n\n## 常见错误\n\n- 把笔画、偏旁、部件和整字结构混为同一层级。",
+  "title": "比较部件在字形中的变形"
+}

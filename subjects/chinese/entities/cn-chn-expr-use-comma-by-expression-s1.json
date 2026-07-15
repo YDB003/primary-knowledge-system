@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "cf3e5e6a6d430fadbc22d57253ced549072a78937b622b9a5a7d4a3cd610b9f1",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-use-comma-by-expression-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-use-comma-by-expression-s1-curriculum-standard",
+    "review-cn-chn-expr-use-comma-by-expression-s1-unified-pre-2024",
+    "review-cn-chn-expr-use-comma-by-expression-s1-unified-2024-revision",
+    "review-cn-chn-expr-use-comma-by-expression-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在自己的写话中，只处理需要句内停顿的位置并使用逗号，不混入其他标点选择。\n\n## 掌握证据\n\n- 能在自己的写话中写出逗号并标明对应的句内停顿位置。\n- 能在另一句写话的句内停顿处写出逗号。\n\n## 常见错误\n\n- 把一句话内部的逗号误写成句号。",
+  "title": "按表达需要使用逗号"
+}

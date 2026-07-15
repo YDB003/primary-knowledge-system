@@ -1,0 +1,12 @@
+{
+  "contentHash": "f4413ab631605ad0defc796c6a31c76090da44db44bf8c94b4c586fba7cdc333",
+  "fromId": "cn-math-classify-one-criterion",
+  "id": "rel-math-70e49331b7459a34ec2c560d",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“按单一标准分类”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-classify-multiple-criteria"
+}

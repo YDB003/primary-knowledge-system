@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9eab01081af0efab4cc12ee4271529d57f667ebdf2442c883f4f6fa13c4ae31d",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-resist-uncivil-language-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-resist-uncivil-language-s3-curriculum-standard",
+    "review-cn-chn-expr-resist-uncivil-language-s3-unified-pre-2024",
+    "review-cn-chn-expr-resist-uncivil-language-s3-unified-2024-revision",
+    "review-cn-chn-expr-resist-uncivil-language-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头交流中拒绝使用不文明语言，并对出现的不文明用语作出明确回应。\n\n## 掌握证据\n\n- 能在自己的发言中停止使用并替换一处不文明用语。\n- 能在他人使用不文明语言时说出不接受该用语的回应。\n\n## 常见错误\n\n- 听到或说出不文明用语后仍照常使用。",
+  "title": "抵制不文明的语言"
+}

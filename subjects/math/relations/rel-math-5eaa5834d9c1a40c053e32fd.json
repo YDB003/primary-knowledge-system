@@ -1,0 +1,12 @@
+{
+  "contentHash": "b7f96d6aa9d1c11402be88810241023d9c8fc1525c2e6c015ca51b848bf168e4",
+  "fromId": "cn-math-convert-area-units",
+  "id": "rel-math-5eaa5834d9c1a40c053e32fd",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“面积单位换算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-convert-volume-units"
+}

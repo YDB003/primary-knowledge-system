@@ -1,0 +1,12 @@
+{
+  "contentHash": "edf02e4bff1975dcb2f30492598af95fbcddc8b31a5ad97dacac811a509d10e3",
+  "fromId": "cn-math-define-measurement-target",
+  "id": "rel-math-68d1fdf015b7544036494f53",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“明确测量对象与属性”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-select-project-tools"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "7d9e09f84b5e68aded2caeee62d3e2456fb3ee857d35a2dff72e9ba6b4b6b1e2",
+  "fromId": "cn-chn-read-determine-contextual-word-meaning-s1",
+  "id": "rel-read-determine-contextual-word-meaning-s1-to-interpret-contextual-sentence-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "解释语境中的整句含义需要先能依据上下文确定关键词义，否则句意判断缺少关键语言信息。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-interpret-contextual-sentence-s2"
+}

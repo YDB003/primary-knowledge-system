@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "42e7a44b90a8ffa95fb8344abe8d4630f78c3e1eb0184607ce27fc934c7ceeb0",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-item-writing-task-short-letter",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"习作任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "简短书信"
+}

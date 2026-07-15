@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "10c9c089342a656fb1f5cd42c67d185dbb8f802b9ef10023c963e78c2a6bbe5d",
+  "domain": "writing",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-write-use-punctuation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 正确使用常见标点符号\n\n## 能力说明\n\n正确使用常见标点符号，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能根据句子功能使用句号、问号、感叹号或逗号。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：writing\n- 课标锚点：[[eng-anchor-l2-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "正确使用常见标点符号"
+}

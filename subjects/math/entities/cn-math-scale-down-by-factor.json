@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "56263a520cf670755bce2d596bc907b16d2eb5efc3044cc64fbc0fe6441591e3",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-scale-down-by-factor",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-scale-down-by-factor-pep",
+    "review-cn-math-scale-down-by-factor-bnup",
+    "review-cn-math-scale-down-by-factor-jsep"
+  ],
+  "subject": "math",
+  "summary": "把一个量缩小到原来的若干分之一，等价于除以相应正整数倍数或乘对应分数。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“按倍数缩小”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把缩小3倍解释为原量减3。",
+  "title": "按倍数缩小"
+}

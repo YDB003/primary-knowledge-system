@@ -1,0 +1,12 @@
+{
+  "contentHash": "bfe3baf95ee4dba9f0d6dcf766315cef8aa4cfb5aef15f37a9f98e3f11e2b2be",
+  "fromId": "cn-math-total-from-data",
+  "id": "rel-math-be666730567e399d800589b8",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“由分类数据求总数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-category-difference"
+}

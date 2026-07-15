@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "9f76ff6b84ccd670b82542d6c4b1d83a64cbdc54cd171906e7ea830dec0eab30",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u624c",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"扌\",\"variantForms\":[\"手\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "手的部首变体扌"
+}

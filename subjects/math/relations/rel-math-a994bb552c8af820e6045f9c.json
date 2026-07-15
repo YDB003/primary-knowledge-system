@@ -1,0 +1,12 @@
+{
+  "contentHash": "b388228933c912dcde8dafef4f5d7fdd8b70b293e9d3ef253bd51bda01c13d5f",
+  "fromId": "cn-math-generalize-pattern-rule",
+  "id": "rel-math-a994bb552c8af820e6045f9c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“概括规律规则”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-verify-pattern-rule"
+}

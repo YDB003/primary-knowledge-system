@@ -1,0 +1,12 @@
+{
+  "contentHash": "fa1a6f63dd5a94088b9b9b7fcf65d0e3c87d262ad34771b7c5b4155cf8513dd4",
+  "fromId": "cn-math-ray",
+  "id": "rel-math-2a91aabae3007f9f5e8a3c36",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“射线”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-straight-line"
+}

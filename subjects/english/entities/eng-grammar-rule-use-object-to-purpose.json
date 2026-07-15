@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f4bb8c08d4c54a598f263c35c5897466a639f5aa7f101b26dc95808dc6a178db",
+  "domain": "GRAMMAR_RULE",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-grammar-rule-use-object-to-purpose",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "这个结构把工具或资源与用途连接起来。to 后使用动词原形，主语为单数第三人称时 use 变为 uses。",
+  "title": "use ... to ... 表示用途"
+}

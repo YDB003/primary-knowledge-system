@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5cdb2eb86c0ee2adb696cf5a287e1d7c56836c8d7a0e77bace4076a0bff63f1a",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-communicate-personal-response-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-communicate-personal-response-s1-curriculum-standard",
+    "review-cn-chn-read-communicate-personal-response-s1-unified-pre-2024",
+    "review-cn-chn-read-communicate-personal-response-s1-unified-2024-revision",
+    "review-cn-chn-read-communicate-personal-response-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "把已经形成的个人感受或想法向他人说清楚，使听者知道感受所针对的人物或事件。\n\n## 掌握证据\n\n- 能向同伴描述自己对人物或事件的感受。\n- 能指出触发感受的阅读内容，使听者明白感受对象。\n\n## 常见错误\n\n- 只说喜欢或不喜欢，没有说明感受针对谁或什么事件。",
+  "title": "交流对人物或事件的个人感受"
+}

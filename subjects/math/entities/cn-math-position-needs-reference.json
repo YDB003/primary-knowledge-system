@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d3cd98bd68eb947309953b6c2ab449cb6bd6f67400273062f662dbd857e443f6",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-position-needs-reference",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-position-needs-reference-pep",
+    "review-cn-math-position-needs-reference-bnup",
+    "review-cn-math-position-needs-reference-jsep"
+  ],
+  "subject": "math",
+  "summary": "同一对象相对于不同参照物可能有不同位置，完整描述需给出参照点和方向。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“位置描述需要参照”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只说在左边却不说明相对谁。",
+  "title": "位置描述需要参照"
+}

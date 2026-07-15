@@ -1,0 +1,15 @@
+{
+  "contentHash": "a292a5d1f6823219e0f417a128371746d9c96e45eb638776b162c12592697b6e",
+  "fromId": "eng-ability-read-extract-sort-information",
+  "id": "eng-rel-read-extract-sort-information-pre-read-classify-information",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n按指定维度给语篇信息归类，必须先提取并整理待分类的主要信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-classify-information"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "91fecec7f60ec896abadfe8c6420c193c2fd7bd2069960239d90f8ad329929af",
+  "fromId": "cn-math-division-unknown-factor",
+  "id": "rel-math-2b709e029b660344c17cc32a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“除法求未知因数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplication-division-inverse"
+}

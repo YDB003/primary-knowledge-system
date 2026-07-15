@@ -1,0 +1,12 @@
+{
+  "contentHash": "ba554d979f21b5b6b994ade17fa74df0242d52ad8c09e7645782547536123faf",
+  "fromId": "cn-math-subtraction-comparison",
+  "id": "rel-math-927fbc25095dacad1d5c0946",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“减法表示相差”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-subtraction-missing-part"
+}

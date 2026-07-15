@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0912ec5ee959bdc0dfc289f5eae3cd9400a514a0e09cb86ca6218c5cc481dfb8",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-written-addition",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-written-addition-pep",
+    "review-cn-math-written-addition-bnup",
+    "review-cn-math-written-addition-jsep"
+  ],
+  "subject": "math",
+  "summary": "把相同计数单位对齐，从低位起相加，满十向前一位进一。\n\n## 可观察证据\n\n- 能正确完成含进位的多位数加法竖式。\n- 能用计数单位解释对齐和进位。\n\n## 常见误区\n\n- 只对齐数字末尾或忘记记录进位。",
+  "title": "多位数加法笔算"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "e0db12d5649b73f5b1fa0ca3701035cb28f54afdb402893997bcc5e93a8ff043",
+  "fromId": "cn-math-compare-mass-by-hefting",
+  "id": "rel-math-edbfebce309bcc728cd6680c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用掂量比较轻重”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-gram-kilogram-ton"
+}

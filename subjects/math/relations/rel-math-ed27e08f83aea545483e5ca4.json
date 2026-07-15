@@ -1,0 +1,12 @@
+{
+  "contentHash": "e211fa5a69bffceb27b2cff9052652976192e00eccb49d4db2494243b5c67934",
+  "fromId": "cn-math-fraction-reduction",
+  "id": "rel-math-ed27e08f83aea545483e5ca4",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“约分”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-simplest-form"
+}

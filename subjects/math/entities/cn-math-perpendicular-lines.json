@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "901b0a17e4d5adddad75ea4a07f1f4b5846d9f0ec6bc37aa6952be33ae310e11",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-perpendicular-lines",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-perpendicular-lines-pep",
+    "review-cn-math-perpendicular-lines-bnup",
+    "review-cn-math-perpendicular-lines-jsep"
+  ],
+  "subject": "math",
+  "summary": "两条直线相交成直角时互相垂直，其中一条是另一条的垂线。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“垂直与垂线”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 看到近似十字形就不测量地判断垂直。",
+  "title": "垂直与垂线"
+}

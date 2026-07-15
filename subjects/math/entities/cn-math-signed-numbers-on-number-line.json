@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6fa803f8512949fc60ef42d36bc6a4e54be2aa99e2d0579b1639423452aacfdc",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-signed-numbers-on-number-line",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-signed-numbers-on-number-line-pep",
+    "review-cn-math-signed-numbers-on-number-line-bnup",
+    "review-cn-math-signed-numbers-on-number-line-jsep"
+  ],
+  "subject": "math",
+  "summary": "在方向和单位统一的数线上，正数位于0的一侧，负数位于另一侧，每个数对应确定位置。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“正负数在数线上的位置”。\n- 能用数的结构或数量关系解释“正负数在数线上的位置”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 把负数按绝对数字大小排在正数更右侧。",
+  "title": "正负数在数线上的位置"
+}

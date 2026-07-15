@@ -1,0 +1,12 @@
+{
+  "contentHash": "20a37bf7ae045c1ac291cd09cc4ac5bce2ec3a916f9ad8116eb7d7ab62ba2201",
+  "fromId": "cn-chn-item-genre-fable",
+  "id": "rel-genre-fable-supports-read-form-personal-response-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“寓言”文体身份支持该能力针对课标所指文本类型完成对应阅读操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-form-personal-response-s1"
+}

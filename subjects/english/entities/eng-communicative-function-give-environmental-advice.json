@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "569b11eda7b6d0fa933bbbc1d5937114aa436d9f5d9a9483373e00a7348646a4",
+  "domain": "COMMUNICATIVE_FUNCTION",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-communicative-function-give-environmental-advice",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "区分应该做和不应该做的行为，并用简短理由说明建议与环境保护目标的联系。",
+  "title": "提出环保建议"
+}

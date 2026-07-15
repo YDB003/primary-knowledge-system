@@ -1,0 +1,12 @@
+{
+  "contentHash": "f287166d02424923f292aa2a545bf6ce6cc50a76b5fa11b0351e06c505334632",
+  "fromId": "cn-chn-item-pinyin-initial-j",
+  "id": "rel-pinyin-initial-j-supports-recognize-initial-symbol-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该声母表符号是认读声母符号操作的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-initial-symbol-s1"
+}

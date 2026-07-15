@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "3681b72f38443355d05935bae641eee8271036b4e7f187be44927d6d38a4f818",
+  "domain": "PUNCTUATION",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-item-punctuation-symbol-quotation-marks",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-samr-punctuation-2011",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"punctuationCategory\":\"符号身份\",\"symbol\":\"“”\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "引号"
+}

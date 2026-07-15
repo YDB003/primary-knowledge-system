@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "63a1b4356060ce09a4f1523b43a64fb07b90f0883c86ec260af34fb4554baa01",
+  "domain": "量与计量",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-why-standard-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-why-standard-units-pep",
+    "review-cn-math-why-standard-units-bnup",
+    "review-cn-math-why-standard-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "统一单位使不同测量者的结果可比较、可复现。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“标准单位的必要性”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 认为同样报出数字就一定表示同样大小。",
+  "title": "标准单位的必要性"
+}

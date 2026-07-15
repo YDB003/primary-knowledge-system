@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d03183c648437998c705a8550106b37f22c182f46199cfaca9d1715512099379",
+  "domain": "统计与概率",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-pie-chart",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:statistics-and-probability",
+    "anchor-stage-3-statistics-and-probability",
+    "review-cn-math-pie-chart-pep",
+    "review-cn-math-pie-chart-bnup",
+    "review-cn-math-pie-chart-jsep"
+  ],
+  "subject": "math",
+  "summary": "圆内各扇形表示部分占总体比例，比例总和为100%。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“扇形统计图”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 只比较圆心角却忽略总体不同。",
+  "title": "扇形统计图"
+}

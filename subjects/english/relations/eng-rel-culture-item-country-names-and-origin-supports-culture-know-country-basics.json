@@ -1,0 +1,14 @@
+{
+  "contentHash": "c32b7805a2bbce819103cef5286e678e8d9e021e7cb3dd8ce3f411b3e4649af1",
+  "fromId": "eng-culture-item-country-names-and-origin",
+  "id": "eng-rel-culture-item-country-names-and-origin-supports-culture-know-country-basics",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-culture-know-country-basics”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-culture-know-country-basics"
+}

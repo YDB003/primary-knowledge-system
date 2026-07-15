@@ -1,0 +1,12 @@
+{
+  "contentHash": "b2bd036a5f6e7d846e77c9b049d6da9ccc8aac651058a1abbe54cae98e87c55d",
+  "fromId": "cn-math-four-operation-expression",
+  "id": "rel-math-135b3ab830882cc05c69479a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“四则混合算式的结构”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-order-of-operations"
+}

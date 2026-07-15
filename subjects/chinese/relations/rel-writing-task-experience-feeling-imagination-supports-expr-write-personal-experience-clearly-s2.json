@@ -1,0 +1,12 @@
+{
+  "contentHash": "ee52391bba8fc90c06154f19a5ac2838b3c8f812bfcb37667a2a0462388006ff",
+  "fromId": "cn-chn-item-writing-task-experience-feeling-imagination",
+  "id": "rel-writing-task-experience-feeling-imagination-supports-expr-write-personal-experience-clearly-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“见闻、感受和想象习作任务”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-write-personal-experience-clearly-s2"
+}

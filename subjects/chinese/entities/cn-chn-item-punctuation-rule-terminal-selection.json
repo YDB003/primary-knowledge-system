@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "81ac217d46a42fe89a62e6fbc43ac84f7d7ea7ab7364fd3f7c2f44b6dd4ec552",
+  "domain": "PUNCTUATION",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-punctuation-rule-terminal-selection",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-samr-punctuation-2011",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"punctuationCategory\":\"用法规则身份\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "句末点号选择规则"
+}

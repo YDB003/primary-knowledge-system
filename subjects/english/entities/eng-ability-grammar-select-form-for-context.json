@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "30b9f92c1014d1cff02a29d29f9a72f85f7b030590a8941ed5b42b97bcd0d593",
+  "domain": "grammar_sentence_building",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-grammar-select-form-for-context",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-grammar"
+  ],
+  "subject": "english",
+  "summary": "# 根据语境选择合适的语法形式\n\n## 能力说明\n\n根据语境选择合适的语法形式，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 完成情境任务时能在已学时态和句式中作出合理选择。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：grammar_sentence_building\n- 课标锚点：[[eng-anchor-l2-grammar]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "根据语境选择合适的语法形式"
+}

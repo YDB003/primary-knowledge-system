@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "76650469a6df5d7c067a10f7c030808dbfe4772224c8a33666bd841fcd90a1a6",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-whole-number-expanded-form",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-whole-number-expanded-form-pep",
+    "review-cn-math-whole-number-expanded-form-bnup",
+    "review-cn-math-whole-number-expanded-form-jsep"
+  ],
+  "subject": "math",
+  "summary": "把多位数表示为各数位计数单位数量的和。\n\n## 可观察证据\n\n- 能把一个整数写成百、十、个等部分相加的形式。\n- 能由展开形式还原原数。\n\n## 常见误区\n\n- 只拆数字符号，不说明每个数字所处数位的单位。",
+  "title": "整数的计数单位展开"
+}

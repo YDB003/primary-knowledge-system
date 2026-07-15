@@ -1,0 +1,12 @@
+{
+  "contentHash": "18df6794061c3ffc3d3009474ab35e615eb9c95d3c995b4370afd9395c5025c9",
+  "fromId": "cn-math-remainder-meaning",
+  "id": "rel-math-b7c9da81a75d1662441f8d98",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“除法中余数的意义”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-quotient-remainder-relation"
+}

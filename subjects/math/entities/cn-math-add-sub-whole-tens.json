@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "94a3268a345f900a5645d4fef51dcc48fe6b7185373c96980da1669465bd8738",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-add-sub-whole-tens",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-add-sub-whole-tens-pep",
+    "review-cn-math-add-sub-whole-tens-bnup",
+    "review-cn-math-add-sub-whole-tens-jsep"
+  ],
+  "subject": "math",
+  "summary": "把整十数看作若干个十，按计数单位个数完成加减。\n\n## 可观察证据\n\n- 能正确口算整十数加减。\n- 能用几个十加减几个十解释结果。\n\n## 常见误区\n\n- 直接对数字逐位操作却忽略单位是十。",
+  "title": "整十数加减口算"
+}

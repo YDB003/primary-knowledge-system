@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "22997e21a78134c4c181f4edac87d40feb582ad404f6d275f55ab36b26fc84fa",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-parallel-lines",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-parallel-lines-pep",
+    "review-cn-math-parallel-lines-bnup",
+    "review-cn-math-parallel-lines-jsep"
+  ],
+  "subject": "math",
+  "summary": "同一平面内永不相交且方向一致的两条直线互相平行。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“平行线”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只要当前画面中没有相交就判断平行。",
+  "title": "平行线"
+}

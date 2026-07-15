@@ -1,0 +1,12 @@
+{
+  "contentHash": "5510159cfdaebbe6170dd500a1a943f25c39762d6818930a29f47e94116d3b15",
+  "fromId": "cn-math-select-project-tools",
+  "id": "rel-math-b6f6c064191652d93c40cf91",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“选择项目测量工具”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-plan-repeated-measurement"
+}

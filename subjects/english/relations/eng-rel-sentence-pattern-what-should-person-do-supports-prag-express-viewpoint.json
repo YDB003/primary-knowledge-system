@@ -1,0 +1,14 @@
+{
+  "contentHash": "029c25dad8c4e48ab9b9171a24f74283e0e80574f26b69845626e594966027e2",
+  "fromId": "eng-sentence-pattern-what-should-person-do",
+  "id": "eng-rel-sentence-pattern-what-should-person-do-supports-prag-express-viewpoint",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-prag-express-viewpoint”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-prag-express-viewpoint"
+}

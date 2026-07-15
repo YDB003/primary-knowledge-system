@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ed4f381895c95215cf2440557d80e11e996cd62d9cde7174fece1694bc059047",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-estimate-add-subtract",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-estimate-add-subtract-pep",
+    "review-cn-math-estimate-add-subtract-bnup",
+    "review-cn-math-estimate-add-subtract-jsep"
+  ],
+  "subject": "math",
+  "summary": "将数取为便于口算且接近的整十、整百或整数量级，可快速判断加减结果的大致范围。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“加减法结果估算”。\n- 能用数的结构或数量关系解释“加减法结果估算”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 每个数都向同一方向取整却不考虑误差是否被放大。",
+  "title": "加减法结果估算"
+}

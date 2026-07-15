@@ -1,0 +1,12 @@
+{
+  "contentHash": "d90837ae1c322548f6bef82d137315d495421aef9e000291b050b234729ae7a4",
+  "fromId": "cn-math-align-decimal-points",
+  "id": "rel-math-3c1b6ed95c19ee4f5d10dd4c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数加减对齐小数点”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-written-decimal-addition"
+}

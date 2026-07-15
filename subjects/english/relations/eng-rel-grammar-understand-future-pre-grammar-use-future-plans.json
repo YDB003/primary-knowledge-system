@@ -1,0 +1,15 @@
+{
+  "contentHash": "3c3e2e84fb4495398b3ce124f57eef063f130cc42e77661ba6f80f03b5dd6d0c",
+  "fromId": "eng-ability-grammar-understand-future",
+  "id": "eng-rel-grammar-understand-future-pre-grammar-use-future-plans",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n用一般将来时表达计划，必须先理解该形式所表达的未来时间意义。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-use-future-plans"
+}

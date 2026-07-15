@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "06a3602a08147620321b569a702ce6324ca5d93df94b19957f9ce7890c308c52",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-fraction-add-subtract-same-denominator",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-fraction-add-subtract-same-denominator-pep",
+    "review-cn-math-fraction-add-subtract-same-denominator-bnup",
+    "review-cn-math-fraction-add-subtract-same-denominator-jsep"
+  ],
+  "subject": "math",
+  "summary": "同分母分数具有相同的分数单位，加减时分数单位不变，只合并或减少分数单位的个数。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“同分母分数加减”。\n- 能用数量关系或运算结构解释“同分母分数加减”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把分母也直接相加或相减。",
+  "title": "同分母分数加减"
+}

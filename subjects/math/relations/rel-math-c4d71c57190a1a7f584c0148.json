@@ -1,0 +1,12 @@
+{
+  "contentHash": "02ae7f4b987cf32c438758ca1c5b5f6733addb223b849806a8988aee3120c421",
+  "fromId": "cn-math-year-month-day",
+  "id": "rel-math-c4d71c57190a1a7f584c0148",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“年月日关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-days-in-month"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "cac67c136e7eac83a04893991d47bdb6732eae1bb537a73ba91e6ffaa3331aa0",
+  "fromId": "cn-math-addition-increase",
+  "id": "rel-math-8677602ea144cb93663e85f5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“加法表示增加”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-addition-expression"
+}

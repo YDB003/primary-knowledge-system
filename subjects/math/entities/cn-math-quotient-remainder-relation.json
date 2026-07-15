@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b7b74a3ebdf691eb3c8589f5377aff8f9ad42f15818b66b480940fe68f5794c6",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-quotient-remainder-relation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-quotient-remainder-relation-pep",
+    "review-cn-math-quotient-remainder-relation-bnup",
+    "review-cn-math-quotient-remainder-relation-jsep"
+  ],
+  "subject": "math",
+  "summary": "有余数除法满足被除数等于除数与商的乘积再加余数。\n\n## 可观察证据\n\n- 能用关系式表示有余数除法。\n- 能用乘加关系检验商和余数。\n\n## 常见误区\n\n- 检验时只算除数乘商而漏掉余数。",
+  "title": "被除数等于除数乘商加余数"
+}

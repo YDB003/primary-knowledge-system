@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "64a1d111d37c1276e8513babe9cf21061fa77671e0fe12764df374b2eb3c804e",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u6674",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":12,\"writtenForm\":\"晴\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "晴"
+}

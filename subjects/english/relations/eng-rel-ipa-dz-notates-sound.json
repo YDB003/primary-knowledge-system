@@ -1,0 +1,15 @@
+{
+  "contentHash": "b0a06e846edc0a982ff4f1c4c8b140465eb562ccd539cf867564a27f794c8f2a",
+  "fromId": "eng-ipa-dz",
+  "id": "eng-rel-ipa-dz-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/dz/ 这个书写符号用于标记辅音音位序列“辅音序列 /dz/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-sequence-dz"
+}

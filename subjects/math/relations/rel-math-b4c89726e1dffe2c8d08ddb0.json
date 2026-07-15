@@ -1,0 +1,12 @@
+{
+  "contentHash": "9340778a34f6b794203e868c7c1fe76686af83fc9f9fca81aa87852d2f40e429",
+  "fromId": "cn-math-define-classification-criterion",
+  "id": "rel-math-b4c89726e1dffe2c8d08ddb0",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“确定分类标准”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-classify-one-criterion"
+}

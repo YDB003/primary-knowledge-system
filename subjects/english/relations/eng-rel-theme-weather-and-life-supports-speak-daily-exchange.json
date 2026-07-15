@@ -1,0 +1,14 @@
+{
+  "contentHash": "65700f07d7a8ae5b48c93efa687ee487c8275be505d8729c29774e12f2dc0167",
+  "fromId": "eng-theme-weather-and-life",
+  "id": "eng-rel-theme-weather-and-life-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

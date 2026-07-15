@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2ea292364cf0b2e07ea122a366f6c741667f5baa6ffcdbc620cff520b1bf2e8a",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-use-cross-media-information-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-use-cross-media-information-s3-curriculum-standard",
+    "review-cn-chn-inq-use-cross-media-information-s3-unified-pre-2024",
+    "review-cn-chn-inq-use-cross-media-information-s3-unified-2024-revision",
+    "review-cn-chn-inq-use-cross-media-information-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“运用跨媒介信息”这一操作，以把不同媒介信息用于同一语文任务的记录作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能运用跨媒介信息，产出把不同媒介信息用于同一语文任务的记录。\n- 能换用另一组跨媒介信息运用跨媒介信息，仍产出把不同媒介信息用于同一语文任务的记录。\n\n## 常见错误\n\n- 直接拼接各媒介内容，没有按任务选择信息。",
+  "title": "运用跨媒介信息"
+}

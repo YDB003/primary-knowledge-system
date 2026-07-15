@@ -1,0 +1,12 @@
+{
+  "contentHash": "446e0474be27de04575b6b0898723efce98c4a17cc779e2f48fc805b78f97881",
+  "fromId": "cn-math-estimate-length",
+  "id": "rel-math-30ea0648dd1c99508eebbf35",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“长度估测”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-draw-given-length"
+}

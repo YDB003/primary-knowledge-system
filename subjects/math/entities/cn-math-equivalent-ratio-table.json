@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0c7e3423173156c8205f92cb38607f98cdddb4090dea2dbd09c6dbb100d10960",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-equivalent-ratio-table",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-equivalent-ratio-table-pep",
+    "review-cn-math-equivalent-ratio-table-bnup",
+    "review-cn-math-equivalent-ratio-table-jsep"
+  ],
+  "subject": "math",
+  "summary": "在双行或双列表格中，两列对应量按同一倍数同步变化，各列比值保持不变。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“等比关系表”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 只观察一行的变化而不检查对应列。",
+  "title": "等比关系表"
+}

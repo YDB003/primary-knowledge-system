@@ -1,0 +1,12 @@
+{
+  "contentHash": "3a708b3a7b010aa8cffe849df938c3b9998d534edbfd9dab343df0852fe8fbdf",
+  "fromId": "cn-math-fraction-numerator-denominator",
+  "id": "rel-math-37f33cfb4b99770d7e0ccdca",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分子与分母的含义”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-of-set"
+}

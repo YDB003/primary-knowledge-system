@@ -1,0 +1,15 @@
+{
+  "contentHash": "529cc58fd2db84373a600a45c166a7268b9e39e9e430b048a2e584d829beed3a",
+  "fromId": "eng-phoneme-b",
+  "id": "eng-rel-phoneme-b-supports-basic-pronunciation",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 基础支撑关系\n\n基础内容“浊辅音 /b/”为正式能力“模仿基础语音和句子升降调”提供辨认、模仿或练习工具。\n\n这条关系只表示支撑，不把基础工具误标为三至六年级独立必修能力。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-imitate-basic-pronunciation"
+}

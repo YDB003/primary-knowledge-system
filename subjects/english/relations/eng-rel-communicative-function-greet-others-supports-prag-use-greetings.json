@@ -1,0 +1,15 @@
+{
+  "contentHash": "d815a08d9debe3ac2cb5e6945d4b5f2b0a04d75ed9f2a5e7110cf67c1c270671",
+  "fromId": "eng-communicative-function-greet-others",
+  "id": "eng-rel-communicative-function-greet-others-supports-prag-use-greetings",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-prag-use-greetings”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-3a-m2",
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-prag-use-greetings"
+}

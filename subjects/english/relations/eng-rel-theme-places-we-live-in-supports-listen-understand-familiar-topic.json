@@ -1,0 +1,14 @@
+{
+  "contentHash": "f879bafc140c891531914ed7369aabfb3f614f45be291cdd6d0871c56eb44c2d",
+  "fromId": "eng-theme-places-we-live-in",
+  "id": "eng-rel-theme-places-we-live-in-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

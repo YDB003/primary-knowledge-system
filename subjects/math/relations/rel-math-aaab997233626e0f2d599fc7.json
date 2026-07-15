@@ -1,0 +1,12 @@
+{
+  "contentHash": "1daed8b8759cb2eb311550d731566c6c6a21149dd0d20a88b7c9e02eebad921c",
+  "fromId": "cn-math-position-needs-reference",
+  "id": "rel-math-aaab997233626e0f2d599fc7",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“位置描述需要参照”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-describe-route"
+}

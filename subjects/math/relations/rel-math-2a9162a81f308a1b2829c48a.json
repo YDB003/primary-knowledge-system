@@ -1,0 +1,12 @@
+{
+  "contentHash": "57c1fcd030e95dec8062b964d9bc7fe35332cf7b97d245d1b6a7a2371987e6f5",
+  "fromId": "cn-math-signed-distance-from-reference",
+  "id": "rel-math-2a9162a81f308a1b2829c48a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“带符号位置与到基准距离的区别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-interpret-signed-context-change"
+}

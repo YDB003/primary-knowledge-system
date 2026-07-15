@@ -1,0 +1,12 @@
+{
+  "contentHash": "8ff0f4047d6c1f42ff63367c6c510162f33ce6d169cd498b2b7b6132297828b5",
+  "fromId": "cn-chn-item-punctuation-symbol-comma",
+  "id": "rel-punctuation-comma-supports-use-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "逗号符号身份支持在书面表达的句内停顿位置写出逗号。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-use-comma-by-expression-s1"
+}

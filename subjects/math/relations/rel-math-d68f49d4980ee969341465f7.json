@@ -1,0 +1,12 @@
+{
+  "contentHash": "3648e6afa3bf745c3cfcfc12fb5db3f5a94b751ac747fd294f85d02622a1ca33",
+  "fromId": "cn-math-check-by-inverse-operation",
+  "id": "rel-math-d68f49d4980ee969341465f7",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用逆运算验算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-estimate-before-exact-calculation"
+}

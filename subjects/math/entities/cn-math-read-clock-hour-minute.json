@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3f61e04d36bc5d626a4044cc5cd389d2273336231491587c8c7c6bc794d957ff",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-read-clock-hour-minute",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-read-clock-hour-minute-pep",
+    "review-cn-math-read-clock-hour-minute-bnup",
+    "review-cn-math-read-clock-hour-minute-jsep"
+  ],
+  "subject": "math",
+  "summary": "钟面上时针表示小时位置，分针绕一周表示60分钟。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“认识钟面时和分”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 只看时针数字忽略分针。",
+  "title": "认识钟面时和分"
+}

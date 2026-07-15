@@ -1,0 +1,14 @@
+{
+  "contentHash": "a1ada6969c5c8fb45e9b72231c434ecdef60aceeb0d3f37df4315d4529cc0fd9",
+  "fromId": "eng-theme-plants-around-us",
+  "id": "eng-rel-theme-plants-around-us-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

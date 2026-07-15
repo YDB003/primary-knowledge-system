@@ -1,0 +1,14 @@
+{
+  "contentHash": "5e57d47df014a33b176f18b45859c613149c37d1941d21ff0e37061c302c868c",
+  "fromId": "eng-sentence-pattern-person-is-from-place",
+  "id": "eng-rel-sentence-pattern-person-is-from-place-supports-speak-exchange-personal-info",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-exchange-personal-info”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-exchange-personal-info"
+}

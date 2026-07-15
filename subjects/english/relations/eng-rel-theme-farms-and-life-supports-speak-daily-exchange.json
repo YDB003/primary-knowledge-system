@@ -1,0 +1,14 @@
+{
+  "contentHash": "983d57a9ef68cf42c67f3e7f520c4e25b9312f1776110ff070bae88b489780ad",
+  "fromId": "eng-theme-farms-and-life",
+  "id": "eng-rel-theme-farms-and-life-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "490aff7b45f69fdc602246b3bd523baa8d1b3aea951f2dd03801569805a0d78f",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-add-subtract-money",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-add-subtract-money-pep",
+    "review-cn-math-add-subtract-money-bnup",
+    "review-cn-math-add-subtract-money-jsep"
+  ],
+  "subject": "math",
+  "summary": "同单位金额按位相加减，可统一成分或用小数表示。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“金额加减”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 不同单位未换算就对齐数字末尾。",
+  "title": "金额加减"
+}

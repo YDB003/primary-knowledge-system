@@ -1,0 +1,12 @@
+{
+  "contentHash": "8bbef4c03281ae8e43e3e0b054a280be4e9ce8c4ade67a0822637887e23bae9c",
+  "fromId": "cn-math-read-grid-coordinates",
+  "id": "rel-math-c312e8cdb87a7e8e819a5df0",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“读取方格点的坐标”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-coordinate-change-under-translation"
+}

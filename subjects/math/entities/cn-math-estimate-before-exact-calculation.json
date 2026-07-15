@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "572bf91c25e6eb00efb8d54090292bd293ac9411734068bff1a7b7fc9b6ce631",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-estimate-before-exact-calculation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-estimate-before-exact-calculation-pep",
+    "review-cn-math-estimate-before-exact-calculation-bnup",
+    "review-cn-math-estimate-before-exact-calculation-jsep"
+  ],
+  "subject": "math",
+  "summary": "在精确计算前建立预期范围，计算后把结果与范围比较，可及时发现位值、符号和运算选择错误。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“先估后算再比较”。\n- 能用数的结构或数量关系解释“先估后算再比较”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 精确计算后才随意编一个相近估计，使估算失去检查作用。",
+  "title": "先估后算再比较"
+}

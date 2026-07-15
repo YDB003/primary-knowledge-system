@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "eaf75334c5d2823f99d96494b4ecedad1c12d3fcda783244474ddfa13d1c91bb",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-math-multidigit-by-two-digit",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-multidigit-by-two-digit-pep",
+    "review-cn-math-multidigit-by-two-digit-bnup",
+    "review-cn-math-multidigit-by-two-digit-jsep"
+  ],
+  "subject": "math",
+  "summary": "分别求两位数各数位产生的部分积，按数位对齐后相加。\n\n## 可观察证据\n\n- 能正确完成两位数乘两位数或三位数的竖式。\n- 能解释第二个部分积为什么需要按十位对齐。\n\n## 常见误区\n\n- 两个部分积都从个位写起，忽略十位因数的单位。",
+  "title": "多位数乘两位数笔算"
+}

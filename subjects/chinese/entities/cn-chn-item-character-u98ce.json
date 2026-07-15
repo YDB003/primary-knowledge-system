@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "151bee080645001684a30decc29c44da9b3b5c547de8a3aa75eba223034691d3",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u98ce",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":4,\"writtenForm\":\"风\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "风"
+}

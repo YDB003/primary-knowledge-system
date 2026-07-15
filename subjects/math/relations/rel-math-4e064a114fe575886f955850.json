@@ -1,0 +1,12 @@
+{
+  "contentHash": "43e138b9228bd4dede6404fb252d23fe632d7f0e1c39a050ca753965a4277bd9",
+  "fromId": "cn-math-classify-triangles",
+  "id": "rel-math-4e064a114fe575886f955850",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“三角形分类”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-parallelogram-trapezoid-properties"
+}

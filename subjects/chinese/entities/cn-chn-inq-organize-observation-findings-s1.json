@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e5bc52abd937a819ea200957c7c265ec39deb2abb9b1506e7faa083a0afae722",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-inq-organize-observation-findings-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-organizing-inquiry",
+    "review-cn-chn-inq-organize-observation-findings-s1-curriculum-standard",
+    "review-cn-chn-inq-organize-observation-findings-s1-unified-pre-2024",
+    "review-cn-chn-inq-organize-observation-findings-s1-unified-2024-revision",
+    "review-cn-chn-inq-organize-observation-findings-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“整理活动中的见闻和想法”这一操作，以区分见闻与想法的有序记录作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能整理活动中的见闻和想法，产出区分见闻与想法的有序记录。\n- 能换用另一份观察记录整理活动中的见闻和想法，仍产出区分见闻与想法的有序记录。\n\n## 常见错误\n\n- 见闻和想法混写，无法看出整理顺序。",
+  "title": "整理活动中的见闻和想法"
+}

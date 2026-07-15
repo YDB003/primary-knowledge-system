@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "dce80c71aa5849091dbe119815efb8749f3c8fd62a3e0c98d193765000ebbdfa",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-compare-fractions-same-denominator",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-compare-fractions-same-denominator-pep",
+    "review-cn-math-compare-fractions-same-denominator-bnup",
+    "review-cn-math-compare-fractions-same-denominator-jsep"
+  ],
+  "subject": "math",
+  "summary": "单位整体和分母相同时，每份大小相同，所取份数越多的分数越大。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“同分母分数比较”。\n- 能用数量关系或运算结构解释“同分母分数比较”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 看到分子较大却忽略两个分数的整体不同。",
+  "title": "同分母分数比较"
+}

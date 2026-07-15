@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c966289b92ff3f473c7ba134963d25d73700cf5a0eeaeab0346cf26143ebae90",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-improper-mixed-conversion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-improper-mixed-conversion-pep",
+    "review-cn-math-improper-mixed-conversion-bnup",
+    "review-cn-math-improper-mixed-conversion-jsep"
+  ],
+  "subject": "math",
+  "summary": "假分数可用分子除以分母得到整数部分和余数，带分数可用整数部分乘分母再加分子还原为假分数。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“假分数与带分数互化”。\n- 能用数量关系或运算结构解释“假分数与带分数互化”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 互化后改变了原数的大小，或把余数写成新的分母。",
+  "title": "假分数与带分数互化"
+}

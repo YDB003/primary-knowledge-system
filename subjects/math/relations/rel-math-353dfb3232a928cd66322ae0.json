@@ -1,0 +1,12 @@
+{
+  "contentHash": "d195e035c95a2351c1a46bb2ac32e9112536c457c3432f8ec604b603a909b246",
+  "fromId": "cn-math-triangle-basic-structure",
+  "id": "rel-math-353dfb3232a928cd66322ae0",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“三角形的边角顶点结构”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-classify-triangles"
+}

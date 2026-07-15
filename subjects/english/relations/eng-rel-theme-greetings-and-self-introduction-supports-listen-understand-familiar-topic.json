@@ -1,0 +1,14 @@
+{
+  "contentHash": "fc4aed563ba16cff03c51bc5e96c4670e7de8eaae34642a268565743f96fffd6",
+  "fromId": "eng-theme-greetings-and-self-introduction",
+  "id": "eng-rel-theme-greetings-and-self-introduction-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-3a-m2"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

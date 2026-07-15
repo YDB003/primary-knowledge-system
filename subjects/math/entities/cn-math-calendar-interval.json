@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1495b0c3c6dada9a2d2ceddbfc33d69482e812d005eb91e6eb44091c9af1d760",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-calendar-interval",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-calendar-interval-pep",
+    "review-cn-math-calendar-interval-bnup",
+    "review-cn-math-calendar-interval-jsep"
+  ],
+  "subject": "math",
+  "summary": "日期间隔需明确是否包含起止日，并按各月实际天数分段累计。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“日期间隔”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 不说明计数口径造成相差一天。",
+  "title": "日期间隔"
+}

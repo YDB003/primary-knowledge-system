@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c3367b536c69e7ca39615bb0cb09c188a46224247de02892ec66c3e2e19cc8af",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-check-by-inverse-operation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-check-by-inverse-operation-pep",
+    "review-cn-math-check-by-inverse-operation-bnup",
+    "review-cn-math-check-by-inverse-operation-jsep"
+  ],
+  "subject": "math",
+  "summary": "加减、乘除之间的互逆关系可把结果代回原关系，检查计算是否满足原数量结构。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“用逆运算验算”。\n- 能用数的结构或数量关系解释“用逆运算验算”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 验算时重复完全相同的错误步骤而没有改变检查路径。",
+  "title": "用逆运算验算"
+}

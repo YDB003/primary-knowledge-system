@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "cdd0c0495e6f39ef3ce95fd6d6bb7dd3ce11391170e0d3aecb04ec758aabf9a2",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-item-writing-task-common-practical-text",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"习作任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "常见应用文"
+}

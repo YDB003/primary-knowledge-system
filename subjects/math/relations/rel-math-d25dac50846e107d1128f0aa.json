@@ -1,0 +1,12 @@
+{
+  "contentHash": "1f938dfcf1bea615dd037c29bec829dfb8b490b2d12b9dd7eacade88bcf564c8",
+  "fromId": "cn-math-decimal-times-decimal",
+  "id": "rel-math-d25dac50846e107d1128f0aa",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数乘小数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-decimal-multiplication-scaling"
+}

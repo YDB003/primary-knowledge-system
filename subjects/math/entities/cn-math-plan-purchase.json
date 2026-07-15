@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "420867e2f418b37e34f21fb364891b43a2d0e645c5b3a6152982cf37e5d9a89e",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-plan-purchase",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-plan-purchase-pep",
+    "review-cn-math-plan-purchase-bnup",
+    "review-cn-math-plan-purchase-jsep"
+  ],
+  "subject": "math",
+  "summary": "比较总价与预算，在约束下选择商品组合并说明剩余金额。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“预算内购物组合”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 只比较单价而不计算所选数量的总价。",
+  "title": "预算内购物组合"
+}

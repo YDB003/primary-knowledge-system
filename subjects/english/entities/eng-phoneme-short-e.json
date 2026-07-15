@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "a4a99904103541f7fc8b2267884d4b0b73dbf73228aacfa0dd85faf14303ee90",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-short-e",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n短元音 /e/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌前部处于中等高度，嘴自然张开，发音短而清楚。\n\n## 示例\n\n可在这些词中观察该声音：bed、pen。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "短元音 /e/"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "13d30249ae6f77a57f489b860393d854d1b2fd55cd5c0e23f2f4712a3226f97c",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-locate-whole-number-line",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-locate-whole-number-line-pep",
+    "review-cn-math-locate-whole-number-line-bnup",
+    "review-cn-math-locate-whole-number-line-jsep"
+  ],
+  "subject": "math",
+  "summary": "在等距刻度线上用点的位置表示整数。\n\n## 可观察证据\n\n- 能根据刻度在数线上标出整数。\n- 能由数线上的点读出对应整数。\n\n## 常见误区\n\n- 忽略刻度间隔，把每一格都默认当作1。",
+  "title": "整数在数线上的定位"
+}

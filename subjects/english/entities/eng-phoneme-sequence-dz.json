@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "391f8d3c603ef2ea87ba3aeb05f6f4c021d435dd41abc85ae8f2df7d03fc7ee6",
+  "domain": "PHONEME_SEQUENCE",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-sequence-dz",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n辅音序列 /dz/。本条是音位序列，不把它误标为单一音位。\n\n## 发音提示\n\n先发 /d/ 再紧接 /z/，常出现在以浊音结尾的名词复数或动词形式中。\n\n## 示例\n\n可在这些词中观察该声音：beds、cards。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "辅音序列 /dz/"
+}

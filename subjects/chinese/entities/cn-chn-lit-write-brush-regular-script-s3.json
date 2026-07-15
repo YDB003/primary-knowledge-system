@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "672caeb73af51f403deeaee5eaafdebb44088e49f64d8f7b367b8f93e8a0cc4b",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-write-brush-regular-script-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-write-brush-regular-script-s3-curriculum-standard",
+    "review-cn-chn-lit-write-brush-regular-script-s3-unified-pre-2024",
+    "review-cn-chn-lit-write-brush-regular-script-s3-unified-2024-revision",
+    "review-cn-chn-lit-write-brush-regular-script-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "根据书写内容用毛笔独立完成正楷书写，输出笔画清楚、结构稳定的字形。\n\n## 掌握证据\n\n- 能不依赖描摹线独立用毛笔书写正楷字形。\n- 能检查起收笔和部件比例，并重写明显失衡的字形。\n\n## 常见错误\n\n- 离开范字便改变笔顺，或部件比例失衡而不作调整。",
+  "title": "用毛笔独立书写正楷"
+}

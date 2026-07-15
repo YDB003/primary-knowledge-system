@@ -1,0 +1,12 @@
+{
+  "contentHash": "08a997db4edd69aab1e04222e2decdfa4b7ac6d33781958b870fb4f6b0f0c2c9",
+  "fromId": "cn-math-decimal-quotient-approximation",
+  "id": "rel-math-242a5cbca5b1e7cb2ac8c48f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数商的近似值”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-estimate-decimal-operations"
+}

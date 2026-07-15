@@ -1,0 +1,12 @@
+{
+  "contentHash": "0b73d20ebac9aa4e164c181eeb88df2b086c77aa0b0fa73ee4de57845053f12a",
+  "fromId": "cn-math-draw-given-angle",
+  "id": "rel-math-41cf8db1f47c1e7fac031949",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“画指定度数的角”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-triangle-angle-sum"
+}

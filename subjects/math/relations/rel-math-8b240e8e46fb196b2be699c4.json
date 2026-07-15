@@ -1,0 +1,12 @@
+{
+  "contentHash": "59458dcc038b1058e8a9a1fe6fd993e77252bcc7cacdbac9f63927d6e44e7b36",
+  "fromId": "cn-math-addition-expression",
+  "id": "rel-math-8b240e8e46fb196b2be699c4",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“加法算式的符号表达”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-equality-balance"
+}

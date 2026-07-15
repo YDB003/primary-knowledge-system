@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a88e32918da74e770d4ada7c909ab1c4a945a6f8f84fc2bd6b6cbf8e5fc3fa66",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-make-change",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-make-change-pep",
+    "review-cn-math-make-change-bnup",
+    "review-cn-math-make-change-jsep"
+  ],
+  "subject": "math",
+  "summary": "找零等于实付金额减商品总价，并应检查结果非负且单位正确。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“购物找零”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 用总价减实付金额。",
+  "title": "购物找零"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5d62c7024504a89be437c349a1d031ec438b7f4ec6a9aeff4dfe6b8bda668ddf",
+  "domain": "数量关系",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-identify-direct-proportion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-identify-direct-proportion-pep",
+    "review-cn-math-identify-direct-proportion-bnup",
+    "review-cn-math-identify-direct-proportion-jsep"
+  ],
+  "subject": "math",
+  "summary": "通过检查对应量比值是否恒定，并确认情境中存在稳定乘法关系，判断是否成正比例。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“判断正比例”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 只检查一组数据的比值。",
+  "title": "判断正比例"
+}

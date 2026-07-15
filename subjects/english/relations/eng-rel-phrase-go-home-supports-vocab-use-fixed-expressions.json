@@ -1,0 +1,14 @@
+{
+  "contentHash": "d995a631e1bd1d2ec4147885b7b53539424982d5a042e889f520f09e62e55efe",
+  "fromId": "eng-phrase-go-home",
+  "id": "eng-rel-phrase-go-home-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

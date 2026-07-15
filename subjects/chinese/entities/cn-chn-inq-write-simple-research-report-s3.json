@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7a6b93e0f6cf4fd2019eebd488a3b39dedba08d421fc9ce99f5cb38c403ef59f",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-write-simple-research-report-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-write-simple-research-report-s3-curriculum-standard",
+    "review-cn-chn-inq-write-simple-research-report-s3-unified-pre-2024",
+    "review-cn-chn-inq-write-simple-research-report-s3-unified-2024-revision",
+    "review-cn-chn-inq-write-simple-research-report-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“写出简单研究报告”这一操作，以包含问题、方法、资料依据和结论的简短报告作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能写出简单研究报告，产出包含问题、方法、资料依据和结论的简短报告。\n- 能在另一项语文探究任务中写出简单研究报告，仍产出包含问题、方法、资料依据和结论的简短报告。\n\n## 常见错误\n\n- 只写活动经过，没有报告问题、依据与结论。",
+  "title": "写出简单研究报告"
+}

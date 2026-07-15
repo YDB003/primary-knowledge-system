@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "dcf16790895147bcf63d8196bb9e319fa34695d4074685fc0e8ff197596e8b14",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-word-homework-noun",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "homework 在本知识点中作noun，基本义为“家庭作业”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "homework"
+}

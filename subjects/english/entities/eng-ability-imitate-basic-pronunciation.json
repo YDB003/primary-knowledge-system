@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "c99edfdca5eaf81046446389442a99e86c73f2c4575ed94a692de0f9e3e395db",
+  "domain": "pronunciation_phonics",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-imitate-basic-pronunciation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-pronunciation"
+  ],
+  "subject": "english",
+  "summary": "# 模仿基础语音和句子升降调\n\n## 能力说明\n\n模仿基础语音和句子升降调，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 跟读简短音频时能模仿主要发音和升降调。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：pronunciation_phonics\n- 课标锚点：[[eng-anchor-l1-pronunciation]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "模仿基础语音和句子升降调"
+}

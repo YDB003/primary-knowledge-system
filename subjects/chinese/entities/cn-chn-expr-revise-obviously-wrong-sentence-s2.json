@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "746f3d1e8bd0e0649063fd142c204cf5210416c0dd1cf18ada256684a321690c",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-revise-obviously-wrong-sentence-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-revise-obviously-wrong-sentence-s2-curriculum-standard",
+    "review-cn-chn-expr-revise-obviously-wrong-sentence-s2-unified-pre-2024",
+    "review-cn-chn-expr-revise-obviously-wrong-sentence-s2-unified-2024-revision",
+    "review-cn-chn-expr-revise-obviously-wrong-sentence-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面修改中，只处理习作里一处明显的用词或句意错误。\n\n## 掌握证据\n\n- 能修改一处有明显错误的词句。\n- 能重写修改后的词句，并使原有明显错误不再出现。\n\n## 常见错误\n\n- 只重抄原句，没有处理明显错误。",
+  "title": "修改习作中有明显错误的词句"
+}

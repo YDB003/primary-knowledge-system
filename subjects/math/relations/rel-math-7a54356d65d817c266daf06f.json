@@ -1,0 +1,12 @@
+{
+  "contentHash": "a48a0451cd7c6b16b33bb716bc4971c6256e53a9152c09d9f8e0853abc953161",
+  "fromId": "cn-math-compare-decimals",
+  "id": "rel-math-7a54356d65d817c266daf06f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数大小比较”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-decimal-trailing-zero"
+}

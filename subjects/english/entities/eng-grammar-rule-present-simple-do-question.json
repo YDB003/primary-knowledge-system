@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b15ab6b43401986e883edb73fbf0aad86d8fc27b17c84d29c3563419f1cd38bd",
+  "domain": "GRAMMAR_RULE",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-grammar-rule-present-simple-do-question",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "Do 引导的一般疑问句后使用动词原形，回答通常从 Yes 或 No 开始。",
+  "title": "一般现在时 do 问句"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "94a9d3f8375109395c433e4055e4cd809fd2627f07dc77c7c116c7c05492a3e2",
+  "fromId": "eng-ipa-long-a",
+  "id": "eng-rel-ipa-long-a-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ɑː/ 这个书写符号用于标记英语声音“长元音 /ɑː/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-long-a"
+}

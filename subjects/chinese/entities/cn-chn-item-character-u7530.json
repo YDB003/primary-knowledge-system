@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "16cb692c8aed911a8406b7d9081e3b1fc06c584af719afcca2d82ded3bac70ed",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7530",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"writtenForm\":\"田\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "田"
+}

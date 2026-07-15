@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "678dc0751ec24ca8af3fc191e42a737e5018e761c4e478cecd422b0d4ef7c365",
+  "domain": "SENTENCE_PATTERN",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-sentence-pattern-person-activity-at-time",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "主语加活动表达再加 at 与钟点，可以说明日常活动发生的具体时间。",
+  "title": "I go to school at eight."
+}

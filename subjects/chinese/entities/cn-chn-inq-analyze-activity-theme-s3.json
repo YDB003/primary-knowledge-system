@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9fcb286f4da3f90e2fe6e7722941e13c5a58bf199131e9e62fbd71700ec7dfa8",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-analyze-activity-theme-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-analyze-activity-theme-s3-curriculum-standard",
+    "review-cn-chn-inq-analyze-activity-theme-s3-unified-pre-2024",
+    "review-cn-chn-inq-analyze-activity-theme-s3-unified-2024-revision",
+    "review-cn-chn-inq-analyze-activity-theme-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“分析语文实践活动主题”这一操作，以从目标、对象或材料范围分析主题的记录作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能分析语文实践活动主题，产出从目标、对象或材料范围分析主题的记录。\n- 能在另一项合作探究任务中分析语文实践活动主题，仍产出从目标、对象或材料范围分析主题的记录。\n\n## 常见错误\n\n- 只评价主题好不好，没有给出分析维度。",
+  "title": "分析语文实践活动主题"
+}

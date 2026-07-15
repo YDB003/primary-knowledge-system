@@ -1,0 +1,15 @@
+{
+  "contentHash": "c7ebb7e731c0a6c21c392c2fd1731e328f0625865a6f0dee4922950dfc5f743d",
+  "fromId": "eng-ipa-b",
+  "id": "eng-rel-ipa-b-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/b/ 这个书写符号用于标记英语声音“浊辅音 /b/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-b"
+}

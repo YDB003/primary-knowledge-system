@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "08ed73d73c6904beea31a65497bc20f0e5cb241d08168ee8ffe7adce9b684cf3",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-direct-length-comparison",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-direct-length-comparison-pep",
+    "review-cn-math-direct-length-comparison-bnup",
+    "review-cn-math-direct-length-comparison-jsep"
+  ],
+  "subject": "math",
+  "summary": "把物体一端对齐后比较另一端位置，可直接判断谁更长。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“直接比较长度”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 两端都未对齐就凭视觉判断。",
+  "title": "直接比较长度"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "53bbe5379a4122b614778128f23086d3a80fc336e82f3dad8dd0dd71c074f8a4",
+  "fromId": "eng-phrase-go-home",
+  "id": "eng-rel-phrase-go-home-supports-speak-describe-routine",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-routine”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-routine"
+}

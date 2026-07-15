@@ -1,0 +1,14 @@
+{
+  "contentHash": "8032a84aacc86f313847b756d0b2d215a31607e09e2f663f19c2bd7dfc3e0de3",
+  "fromId": "eng-sentence-pattern-person-activity-at-time",
+  "id": "eng-rel-sentence-pattern-person-activity-at-time-supports-grammar-describe-time",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-describe-time”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-describe-time"
+}

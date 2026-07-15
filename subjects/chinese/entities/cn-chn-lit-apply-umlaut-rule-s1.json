@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1d1a5356542701bded185cc18405bf5ee477f0d0e9b5f74d1f7157828c959446",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-apply-umlaut-rule-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-apply-umlaut-rule-s1-curriculum-standard",
+    "review-cn-chn-lit-apply-umlaut-rule-s1-unified-pre-2024",
+    "review-cn-chn-lit-apply-umlaut-rule-s1-unified-2024-revision",
+    "review-cn-chn-lit-apply-umlaut-rule-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在拼音认读或拼写任务中应用ü的拼写规则，以规范符号或读音呈现结果。\n\n## 掌握证据\n\n- 能在新的拼音材料中独立应用ü的拼写规则。\n- 能朗读或书写结果，并按拼音规则自行核对。\n\n## 常见错误\n\n- 混淆相近拼音符号，或在拼读与拼写时漏掉规则步骤。",
+  "title": "应用ü的拼写规则"
+}

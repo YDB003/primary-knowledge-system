@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5a84eeb9f6a9c6a86a66fc2237e17b2b301632e6897b2d98a15a96531b471fb9",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-word-protect-verb",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "protect 在本知识点中作verb，基本义为“保护”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "protect"
+}

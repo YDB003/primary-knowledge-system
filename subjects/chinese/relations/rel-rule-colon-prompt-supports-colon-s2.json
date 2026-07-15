@@ -1,0 +1,12 @@
+{
+  "contentHash": "fab2d23ced79445af85a7056ba40a169e1f59baaf73e8468c972603731be08d7",
+  "fromId": "cn-chn-item-punctuation-rule-colon-prompt",
+  "id": "rel-rule-colon-prompt-supports-colon-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "冒号提示下文规则身份直接支撑在提示下文的常见位置使用冒号。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-use-colon-by-expression-s2"
+}

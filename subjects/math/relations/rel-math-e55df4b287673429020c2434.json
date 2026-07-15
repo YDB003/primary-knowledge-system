@@ -1,0 +1,12 @@
+{
+  "contentHash": "57985453aa096c494d0e7b89708b1cedf0f875029a8addf83a79ed4e39bef665",
+  "fromId": "cn-math-mean-sensitive-to-extremes",
+  "id": "rel-math-e55df4b287673429020c2434",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平均数受极端值影响”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-two-data-groups"
+}

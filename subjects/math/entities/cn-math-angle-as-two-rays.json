@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "90ac0af083cbb6e5318bd376ae22222398028146412b5b0b61bd37913f9a6027",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-angle-as-two-rays",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-angle-as-two-rays-pep",
+    "review-cn-math-angle-as-two-rays-bnup",
+    "review-cn-math-angle-as-two-rays-jsep"
+  ],
+  "subject": "math",
+  "summary": "具有共同端点的两条射线组成角，共同端点是顶点，张开程度决定角的大小。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“角由两条射线组成”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 认为边画得越长角就越大。",
+  "title": "角由两条射线组成"
+}

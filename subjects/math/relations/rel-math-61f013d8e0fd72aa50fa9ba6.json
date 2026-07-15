@@ -1,0 +1,12 @@
+{
+  "contentHash": "d0b5677628155507735abfe1fa7f79c19b70fcf550bdc7f7d66f208f048b271f",
+  "fromId": "cn-math-transformation-invariants",
+  "id": "rel-math-61f013d8e0fd72aa50fa9ba6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“图形变换中的不变量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-geometric-enlargement-reduction"
+}

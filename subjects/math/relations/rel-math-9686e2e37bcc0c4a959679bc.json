@@ -1,0 +1,12 @@
+{
+  "contentHash": "dbac12eef232233d06bcc402766f71c8c7e6ff06742a5894fffed619bd696bd9",
+  "fromId": "cn-math-ordered-pair-location",
+  "id": "rel-math-9686e2e37bcc0c4a959679bc",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用有序数对表示位置”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-locate-point-on-grid"
+}

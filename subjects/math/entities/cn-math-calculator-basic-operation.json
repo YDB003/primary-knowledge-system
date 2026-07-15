@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "46b25e5005d1d2fc24102eb8faa7304331e9e5ec6caa8c203e3fcc96c57ce66a",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-calculator-basic-operation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-calculator-basic-operation-pep",
+    "review-cn-math-calculator-basic-operation-bnup",
+    "review-cn-math-calculator-basic-operation-jsep"
+  ],
+  "subject": "math",
+  "summary": "使用数字键、运算键、等号键和清除键完成较大数的基本计算。\n\n## 可观察证据\n\n- 能正确输入并核对计算器算式。\n- 能用估算判断计算器结果是否可能正确。\n\n## 常见误区\n\n- 完全依赖显示结果而不检查输错数字或运算符。",
+  "title": "计算器的基本数值运算"
+}

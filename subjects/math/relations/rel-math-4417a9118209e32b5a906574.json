@@ -1,0 +1,12 @@
+{
+  "contentHash": "68d780cc1691d0b23716a9e84d03a1178aefe27bb0d821c410ea6dc7a126f3eb",
+  "fromId": "cn-math-recognize-cylinder",
+  "id": "rel-math-4417a9118209e32b5a906574",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“圆柱的识别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-recognize-sphere"
+}

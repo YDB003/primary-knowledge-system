@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "3bed81fa3db9de93e55136b52fe1ed17adf3a9ea4063c4df9abb09b2d20992cf",
+  "domain": "culture",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-culture-compare-address-terms",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-culture"
+  ],
+  "subject": "english",
+  "summary": "# 感知中英文称谓方式的异同\n\n## 能力说明\n\n感知中英文称谓方式的异同，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能在简单例子中选择合适称谓并说明基本差异。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：culture\n- 课标锚点：[[eng-anchor-l1-culture]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "感知中英文称谓方式的异同"
+}

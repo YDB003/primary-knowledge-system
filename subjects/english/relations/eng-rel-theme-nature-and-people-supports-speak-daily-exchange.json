@@ -1,0 +1,14 @@
+{
+  "contentHash": "1958698211c5414922f720525c132e2331ae11c7d1d798c42d7049b556213db3",
+  "fromId": "eng-theme-nature-and-people",
+  "id": "eng-rel-theme-nature-and-people-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

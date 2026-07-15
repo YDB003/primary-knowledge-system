@@ -1,0 +1,14 @@
+{
+  "contentHash": "cdf27cd71e49116edb0776d3f0c2a157a67f5ce233447398341df7ab6b92f98c",
+  "fromId": "eng-communicative-function-ask-person-name",
+  "id": "eng-rel-communicative-function-ask-person-name-supports-speak-exchange-personal-info",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-exchange-personal-info”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-3a-m2"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-exchange-personal-info"
+}

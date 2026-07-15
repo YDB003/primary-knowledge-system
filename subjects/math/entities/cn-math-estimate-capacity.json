@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c0982db1fcebeec8e3be9a100dc539269e13ac646f62cdac17085f94011d314b",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-estimate-capacity",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-estimate-capacity-pep",
+    "review-cn-math-estimate-capacity-bnup",
+    "review-cn-math-estimate-capacity-jsep"
+  ],
+  "subject": "math",
+  "summary": "用杯、瓶等熟悉容器作参照估计容量，并用量具验证。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“容量估测”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 按容器高度单独判断容量。",
+  "title": "容量估测"
+}

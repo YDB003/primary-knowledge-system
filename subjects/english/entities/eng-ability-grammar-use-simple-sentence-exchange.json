@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "36795f9650ac40e2d8c11d9872a887524aa307115e370051b40bf7c29f422f69",
+  "domain": "grammar_sentence_building",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-grammar-use-simple-sentence-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-grammar"
+  ],
+  "subject": "english",
+  "summary": "# 使用常用简单句进行交流\n\n## 能力说明\n\n使用常用简单句进行交流，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能选用已学简单句完成一轮问答或信息交换。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：grammar_sentence_building\n- 课标锚点：[[eng-anchor-l1-grammar]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "使用常用简单句进行交流"
+}

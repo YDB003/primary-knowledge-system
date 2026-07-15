@@ -1,0 +1,12 @@
+{
+  "contentHash": "f11b3ac3496599c251698ee85a7aa91e45aa9c63ad8eff88db70c093d2b30aa0",
+  "fromId": "cn-math-ratio-compares-two-quantities",
+  "id": "rel-math-5769fe6da8b1e4f653bb6c3d",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比表示两个量的对应关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-ratio-notation-terms"
+}

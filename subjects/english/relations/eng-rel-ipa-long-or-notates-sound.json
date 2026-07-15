@@ -1,0 +1,15 @@
+{
+  "contentHash": "3bc114e6055844b64219e501ed0f44f832045bf7e7636c9d1adcd8a66ad4ff5c",
+  "fromId": "eng-ipa-long-or",
+  "id": "eng-rel-ipa-long-or-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ɔː/ 这个书写符号用于标记英语声音“长元音 /ɔː/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-long-or"
+}

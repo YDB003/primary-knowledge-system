@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "15d20fd33277051f614ffb98c79df51861b7bcab9bffade8c4d504dfda8c0251",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-adapt-oral-expression-to-occasion-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-adapt-oral-expression-to-occasion-s2-curriculum-standard",
+    "review-cn-chn-expr-adapt-oral-expression-to-occasion-s2-unified-pre-2024",
+    "review-cn-chn-expr-adapt-oral-expression-to-occasion-s2-unified-2024-revision",
+    "review-cn-chn-expr-adapt-oral-expression-to-occasion-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中只完成按交往场合调整音量和语气这一操作，以适合具体交往场合的音量和语气作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能按具体交往场合调整音量和语气。\n- 能在场合变化后调整音量和语气说出同一内容。\n\n## 常见错误\n\n- 不同场合始终使用同一音量和语气。",
+  "title": "按交往场合调整音量和语气"
+}

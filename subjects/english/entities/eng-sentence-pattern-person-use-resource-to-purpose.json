@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "df449b139647c076c3f3d9c3a66d1923f89739d0bddccc198e4744fec9650d18",
+  "domain": "SENTENCE_PATTERN",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-sentence-pattern-person-use-resource-to-purpose",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "use 后接被使用的事物，to 后接动词原形说明用途。主语变化时要注意 use 的形式。",
+  "title": "We use water to clean things."
+}

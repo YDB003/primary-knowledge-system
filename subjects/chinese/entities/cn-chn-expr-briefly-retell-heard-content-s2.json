@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6520df5137a4d7b541716a6510c115d382838eeb06048467da012042351a61d0",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-briefly-retell-heard-content-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-briefly-retell-heard-content-s2-curriculum-standard",
+    "review-cn-chn-expr-briefly-retell-heard-content-s2-unified-pre-2024",
+    "review-cn-chn-expr-briefly-retell-heard-content-s2-unified-2024-revision",
+    "review-cn-chn-expr-briefly-retell-heard-content-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中，用较少语句转述所听内容，保留原话主要意思且不加入新信息。\n\n## 掌握证据\n\n- 能简要转述所听内容的主要意思。\n- 能再次简要转述同一所听内容且保留主要意思。\n\n## 常见错误\n\n- 转述时加入原话没有的内容。",
+  "title": "简要转述所听内容"
+}

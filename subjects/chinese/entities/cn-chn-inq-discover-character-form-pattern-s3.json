@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "326945a0324ff2eccda084f8293ed3faacf8441a24a016c9d96b79780361a26a",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-discover-character-form-pattern-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-discover-character-form-pattern-s3-curriculum-standard",
+    "review-cn-chn-inq-discover-character-form-pattern-s3-unified-pre-2024",
+    "review-cn-chn-inq-discover-character-form-pattern-s3-unified-2024-revision",
+    "review-cn-chn-inq-discover-character-form-pattern-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“发现汉字字形特点”这一操作，以由多组字形材料归纳并经反例核对的特点作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能发现汉字字形特点，产出由多组字形材料归纳并经反例核对的特点。\n- 能换用另一组汉字材料发现汉字字形特点，仍产出由多组字形材料归纳并经反例核对的特点。\n\n## 常见错误\n\n- 只找支持例子，没有用不符合的字形核对结论。",
+  "title": "发现汉字字形特点"
+}

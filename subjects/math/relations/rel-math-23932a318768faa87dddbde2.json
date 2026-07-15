@@ -1,0 +1,12 @@
+{
+  "contentHash": "667616b10bf992a220560b56f7407a56ee2038bb93963b3c6b56d6797eaedcb2",
+  "fromId": "cn-math-24-hour-clock",
+  "id": "rel-math-23932a318768faa87dddbde2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“24时记时法”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-elapsed-time-across-days"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "d69717548dbcf102a3ee085f74b7018bd2f87fcc196213c1924c55e66c71408d",
+  "fromId": "eng-ipa-diphthong-ear",
+  "id": "eng-rel-ipa-diphthong-ear-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ɪə/ 这个书写符号用于标记英语声音“双元音 /ɪə/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-diphthong-ear"
+}

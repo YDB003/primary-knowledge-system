@@ -1,0 +1,12 @@
+{
+  "contentHash": "ee8fedf2c0a00429acb4eb70fc14f12546848cfae45c6e442b2a3e8ed8ca6085",
+  "fromId": "cn-math-create-equivalent-ratios",
+  "id": "rel-math-d2a7822200b31a7c6cbfffc5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“构造等值比”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-equivalent-ratio-table"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "6cf6d79176ed264b744d5696f1ba76d9dcfaba9f8084734712e121ffc4081c71",
+  "fromId": "cn-math-square-area-units",
+  "id": "rel-math-6121b6e25b62867f68c6abe7",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平方单位”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-rectangle-area"
+}

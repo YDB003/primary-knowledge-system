@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "a9b05edd01608223677c3836367ac0df7a4a362f4108675670f99f65c6fdbd6f",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-phrase-cut-down",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "cut down 表示“砍倒；削减”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "cut down"
+}

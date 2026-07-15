@@ -1,0 +1,12 @@
+{
+  "contentHash": "83b0f5c62995161f3cd3d3f1404a76c7080942e6f08109afa42f05d7d85d50b1",
+  "fromId": "cn-math-make-change",
+  "id": "rel-math-9bf4aba5a0dc01f676945003",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“购物找零”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-plan-purchase"
+}

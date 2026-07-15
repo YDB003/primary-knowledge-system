@@ -1,0 +1,14 @@
+{
+  "contentHash": "fcfab7255acb109b11b37961a24d2ea83af24a48a78794aacab60c72dc6f830d",
+  "fromId": "eng-phrase-play-football",
+  "id": "eng-rel-phrase-play-football-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

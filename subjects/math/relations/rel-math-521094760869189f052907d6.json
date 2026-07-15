@@ -1,0 +1,12 @@
+{
+  "contentHash": "f68853062e645945ad20a57e45700e43031af9f704db869c6df2eda27de58451",
+  "fromId": "cn-math-round-whole-numbers",
+  "id": "rel-math-521094760869189f052907d6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“整数的四舍五入”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-estimate-whole-number-magnitude"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "8e570c2b462cebf85d4a8f8f47ef671b873dcf5d04eda7ff9466eeefd8409ee7",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u623f",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":8,\"writtenForm\":\"房\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "房"
+}

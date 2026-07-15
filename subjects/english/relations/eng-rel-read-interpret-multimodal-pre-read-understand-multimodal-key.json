@@ -1,0 +1,15 @@
+{
+  "contentHash": "b64acc7e77aec50ca3862f1cb6146dc44075523a0b952e60067b4f4d8e8f4b1a",
+  "fromId": "eng-ability-read-interpret-multimodal",
+  "id": "eng-rel-read-interpret-multimodal-pre-read-understand-multimodal-key",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n综合海报、动画或封面中的文字与图像完成任务，必须先能解释简单多模态语篇的主要信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-multimodal-key"
+}

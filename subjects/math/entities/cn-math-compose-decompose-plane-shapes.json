@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1dbcef36048bf2a9566c1d4e02a2399317fde4350b727e24e27a117fba5d788f",
+  "domain": "图形与几何",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-compose-decompose-plane-shapes",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-compose-decompose-plane-shapes-pep",
+    "review-cn-math-compose-decompose-plane-shapes-bnup",
+    "review-cn-math-compose-decompose-plane-shapes-jsep"
+  ],
+  "subject": "math",
+  "summary": "可沿边拼合或按辅助线拆分图形，组成与分解过程保持覆盖区域或揭示组成关系。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“平面图形的拼合与拆分”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 拼合时出现重叠或空隙却仍认为面积完全相加。",
+  "title": "平面图形的拼合与拆分"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "a0dba7e9ae7354d0361a971c9215b5f8a7bcfbdf6506ccd535f8d743c277fb78",
+  "fromId": "cn-chn-read-read-silently-s1",
+  "id": "rel-read-read-silently-s1-to-read-silently-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "独立连续默读必须先建立不出声、不指读的基本阅读路径，否则视线无法稳定沿文字信息推进。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-read-silently-s2"
+}

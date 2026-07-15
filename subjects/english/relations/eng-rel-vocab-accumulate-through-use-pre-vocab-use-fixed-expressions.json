@@ -1,0 +1,15 @@
+{
+  "contentHash": "9ee6cae3255a9e42c9bb8933828018aed089a0804877bb1a1d4a3f92fe1821bf",
+  "fromId": "eng-ability-vocab-accumulate-through-use",
+  "id": "eng-rel-vocab-accumulate-through-use-pre-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n在语境中正确调用常见固定表达，必须先通过反复使用积累组成表达的熟悉词语。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

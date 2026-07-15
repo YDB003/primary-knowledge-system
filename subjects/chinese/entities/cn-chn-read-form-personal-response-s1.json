@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "50d0860045b95fd4ac54b16d1996480327d78a31098e866341663f6b9a8db849",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-form-personal-response-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-form-personal-response-s1-curriculum-standard",
+    "review-cn-chn-read-form-personal-response-s1-unified-pre-2024",
+    "review-cn-chn-read-form-personal-response-s1-unified-2024-revision",
+    "review-cn-chn-read-form-personal-response-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "阅读浅近叙事内容后，针对其中令自己感兴趣的人物或事件，形成明确而可陈述的个人感受或想法。\n\n## 掌握证据\n\n- 能指出引发自己关注的人物或事件，并描述自己的直接感受。\n- 能辨别自己的感受针对人物特点还是事件结果。\n\n## 常见错误\n\n- 只复述人物或事件，没有形成自己的感受或想法。",
+  "title": "形成对人物或事件的个人感受"
+}

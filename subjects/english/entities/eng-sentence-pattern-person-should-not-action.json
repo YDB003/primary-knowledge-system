@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5bcfd728ae05ab5f3aeaccf43721beea9569233341816b9115f8c9dbb812ddc1",
+  "domain": "SENTENCE_PATTERN",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-sentence-pattern-person-should-not-action",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "should not 或缩写 shouldn't 后接动词原形，用于说明不建议或不应采取的行为。",
+  "title": "We should not waste water."
+}

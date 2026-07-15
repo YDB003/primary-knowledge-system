@@ -1,0 +1,12 @@
+{
+  "contentHash": "4a1acff7a00a873f5fefe219753eacdf4e0c5cffa06f1e361f32366a904e99ee",
+  "fromId": "cn-chn-item-punctuation-symbol-enumeration-comma",
+  "id": "rel-punctuation-enumeration-comma-supports-common-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "顿号符号身份支持第三学段按句意和句内关系正确使用常用标点。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-use-common-punctuation-correctly-s3"
+}

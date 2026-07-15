@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "257b9bf225647fa29fc9325d00f4f8ae43c8833d391e2bfc3b6dff23b51b44ad",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-identify-rigid-motion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-identify-rigid-motion-pep",
+    "review-cn-math-identify-rigid-motion-bnup",
+    "review-cn-math-identify-rigid-motion-jsep"
+  ],
+  "subject": "math",
+  "summary": "通过对应点轨迹、方向变化和对称关系判断图形经历的刚性运动。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“辨认平移旋转与轴对称”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只凭图形最终位置大致相似判断运动类型。",
+  "title": "辨认平移旋转与轴对称"
+}

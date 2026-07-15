@@ -1,0 +1,12 @@
+{
+  "contentHash": "7c43afeca843f21a867c1f6f7b2fcd4ed87a38408cd8bf823813b9d19aa43dd3",
+  "fromId": "cn-math-fraction-add-subtract-different-denominator",
+  "id": "rel-math-ac033ca30dd6cdfee9f1886a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“异分母分数加减”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-mixed-number-add-subtract"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0dd76f271a24d625694acdbdc98e2c003c2f4bac2f16439b0d0e2470adc1bb23",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-rectangle-area",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-rectangle-area-pep",
+    "review-cn-math-rectangle-area-bnup",
+    "review-cn-math-rectangle-area-jsep"
+  ],
+  "subject": "math",
+  "summary": "长方形面积等于长乘宽，因为单位正方形按行列排成乘法阵列。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“长方形面积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 套公式时长度单位不统一。",
+  "title": "长方形面积"
+}

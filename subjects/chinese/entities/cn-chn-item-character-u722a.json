@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "18966cd9797ca696c6529199886b049025e4a87d3e0a8c18283508403a02394b",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u722a",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":4,\"variantForms\":[\"爫\"],\"writtenForm\":\"爪\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "爪"
+}

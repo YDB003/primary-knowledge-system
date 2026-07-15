@@ -1,0 +1,12 @@
+{
+  "contentHash": "f528d5c8ad61b7e815463a90513f1866c7ec1301ffd2e4b280495b7fd0c0a0de",
+  "fromId": "cn-math-reason-by-cases",
+  "id": "rel-math-bf4071b46cc56b2e6331c173",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分类讨论”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-deductive-chain"
+}

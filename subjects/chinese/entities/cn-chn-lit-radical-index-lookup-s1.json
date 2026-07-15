@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "26165907d0a37306113cf7abdf2c4ddea5f338b4598e83a75ed44e72147fa354",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-radical-index-lookup-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-radical-index-lookup-s1-curriculum-standard",
+    "review-cn-chn-lit-radical-index-lookup-s1-unified-pre-2024",
+    "review-cn-chn-lit-radical-index-lookup-s1-unified-2024-revision",
+    "review-cn-chn-lit-radical-index-lookup-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在字典或同类规范工具中使用部首查字法检索汉字，得到可回查的检索结果。\n\n## 掌握证据\n\n- 能根据给定汉字信息独立使用部首查字法检索汉字。\n- 能回到词条核对字形、读音或语境义。\n\n## 常见错误\n\n- 检索入口与已知信息不匹配，或找到词条后未核对所需义项。",
+  "title": "使用部首查字法检索汉字"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e33540e36c0b4217a3d24a335aa0b06a8f8b0e2d3cb93a3d46923e1a553cf188",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-square-area",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-square-area-pep",
+    "review-cn-math-square-area-bnup",
+    "review-cn-math-square-area-jsep"
+  ],
+  "subject": "math",
+  "summary": "正方形面积等于边长乘边长，是长方形面积关系的特殊情况。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“正方形面积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把边长乘4当作面积。",
+  "title": "正方形面积"
+}

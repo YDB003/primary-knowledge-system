@@ -1,0 +1,12 @@
+{
+  "contentHash": "52ab5ab6200d228c5819f9f2dd040764e1ef5b8e0a04952624b1434910207c89",
+  "fromId": "cn-chn-item-punctuation-symbol-period",
+  "id": "rel-punctuation-period-supports-terminal-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "句号符号身份支持按陈述语气选用对应句末点号的书面表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-choose-terminal-punctuation-by-expression-s1"
+}

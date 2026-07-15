@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "7f30f4c302fabee697beae09e4c3081e202093c829c24cf3b9c5c2f8d9ddb5bb",
+  "domain": "discourse_pragmatics",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-prag-respond-invitation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-pragmatics"
+  ],
+  "subject": "english",
+  "summary": "# 恰当回应邀请\n\n## 能力说明\n\n恰当回应邀请，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能接受或礼貌拒绝简单邀请并作基本说明。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：discourse_pragmatics\n- 课标锚点：[[eng-anchor-l2-pragmatics]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "恰当回应邀请"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "ff6aff9de5a7539fe5b5978cc5bc0ea4e9c39ea41b574e2f9668b0f592962548",
+  "fromId": "cn-math-volume-capacity-conversion",
+  "id": "rel-math-08f564856db9ea526956763e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“体积单位与容积单位联系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-cylinder-volume"
+}

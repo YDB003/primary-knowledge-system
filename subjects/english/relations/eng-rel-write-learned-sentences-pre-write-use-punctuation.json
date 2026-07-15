@@ -1,0 +1,15 @@
+{
+  "contentHash": "798813e27c3b680bb169ca389f7a4332d7a6c1422ed34605713bcf8f6e3be6df",
+  "fromId": "eng-ability-write-learned-sentences",
+  "id": "eng-rel-write-learned-sentences-pre-write-use-punctuation",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n依据句子功能使用句号、问号或感叹号，必须先能识别并写出完整的简单句。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-write-use-punctuation"
+}

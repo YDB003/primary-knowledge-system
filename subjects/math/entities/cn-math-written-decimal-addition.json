@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0a2147ff1510971100e575496b4a0a14f0c96dc48b221cb0104998fa8438dce2",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-written-decimal-addition",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-written-decimal-addition-pep",
+    "review-cn-math-written-decimal-addition-bnup",
+    "review-cn-math-written-decimal-addition-jsep"
+  ],
+  "subject": "math",
+  "summary": "将相同数位对齐后按整数加法逐位相加，并在结果中与原小数点对齐。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数加法笔算”。\n- 能用数量关系或运算结构解释“小数加法笔算”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 进位后忘记记录，或结果小数点位置随意。",
+  "title": "小数加法笔算"
+}

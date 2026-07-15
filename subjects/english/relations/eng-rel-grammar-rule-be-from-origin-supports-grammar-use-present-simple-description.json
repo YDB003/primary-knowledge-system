@@ -1,0 +1,14 @@
+{
+  "contentHash": "b1f8d3c43382762b75cdd3c06786b9e6e7ac7ec3533c35d9e913d4d3f45ebcf1",
+  "fromId": "eng-grammar-rule-be-from-origin",
+  "id": "eng-rel-grammar-rule-be-from-origin-supports-grammar-use-present-simple-description",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-use-present-simple-description”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-use-present-simple-description"
+}

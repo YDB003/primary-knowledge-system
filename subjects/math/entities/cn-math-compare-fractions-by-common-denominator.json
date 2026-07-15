@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "bcc216c6ff191ee12bede8e2960c3d0c50f53a340e23b5dc78025004d9645654",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-compare-fractions-by-common-denominator",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-compare-fractions-by-common-denominator-pep",
+    "review-cn-math-compare-fractions-by-common-denominator-bnup",
+    "review-cn-math-compare-fractions-by-common-denominator-jsep"
+  ],
+  "subject": "math",
+  "summary": "把异分母分数通分成同分母等值分数后，通过比较分子确定大小。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“通分比较异分母分数”。\n- 能用数量关系或运算结构解释“通分比较异分母分数”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 通分时改变分数值或通分后仍比较分母。",
+  "title": "通分比较异分母分数"
+}

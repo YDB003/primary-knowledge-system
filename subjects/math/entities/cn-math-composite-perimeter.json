@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2ce3bbdb2c0d6745f50b8354a00b5b1607f7ce26f522953048320e16e89fb822",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-composite-perimeter",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-composite-perimeter-pep",
+    "review-cn-math-composite-perimeter-bnup",
+    "review-cn-math-composite-perimeter-jsep"
+  ],
+  "subject": "math",
+  "summary": "只累加组合图形最外侧边界，内部拼接边不计入周长。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“组合图形周长”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把内部公共边重复加入。",
+  "title": "组合图形周长"
+}

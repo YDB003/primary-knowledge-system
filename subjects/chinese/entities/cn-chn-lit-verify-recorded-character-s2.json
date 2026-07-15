@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ea99fdfdf3be8346dd6e0b00ebf642a34834866c2c4ab193ab71c16ac6dd8285",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-verify-recorded-character-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-verify-recorded-character-s2-curriculum-standard",
+    "review-cn-chn-lit-verify-recorded-character-s2-unified-pre-2024",
+    "review-cn-chn-lit-verify-recorded-character-s2-unified-2024-revision",
+    "review-cn-chn-lit-verify-recorded-character-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "针对识字清单中的未识汉字查阅可靠工具，输出核验后的字形、读音或意义结果及来源。\n\n## 掌握证据\n\n- 能按清单信息查验目标汉字并写下核验结果。\n- 能记录所用词条或工具来源，使查验结果可以复核。\n\n## 常见错误\n\n- 只补写猜测答案，没有查验来源或可复核结果。",
+  "title": "查验已记录的未识汉字"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4ca9b8df7f06344d2ace731bf8bafbba1cde5edffac0b4156ea3a171b25823e2",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-proportional-allocation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-proportional-allocation-pep",
+    "review-cn-math-proportional-allocation-bnup",
+    "review-cn-math-proportional-allocation-jsep"
+  ],
+  "subject": "math",
+  "summary": "把总量按给定比拆成若干份，先求总份数和每份量，再得到各部分数量。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“按比分配”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 直接用比的每一项乘总量而不除以总份数。",
+  "title": "按比分配"
+}

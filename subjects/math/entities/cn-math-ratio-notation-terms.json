@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b488052387f23e977443c625a3b7ecb1f1508ead4e92aca72b5a1b89c2256756",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-ratio-notation-terms",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-ratio-notation-terms-pep",
+    "review-cn-math-ratio-notation-terms-bnup",
+    "review-cn-math-ratio-notation-terms-jsep"
+  ],
+  "subject": "math",
+  "summary": "a:b中a是前项，b是后项，冒号是比号；比与比值要区分。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“比的写法与各部分名称”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把比号误读为除号后就丢失前后项顺序。",
+  "title": "比的写法与各部分名称"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "543b81534ea5b479760658d7681973e1bacd3d6127485eec417b62fbf7d3bcbe",
+  "fromId": "eng-ability-pron-imitate-intonation-rhythm",
+  "id": "eng-rel-pron-imitate-intonation-rhythm-pre-pron-speak-with-natural-intonation",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n连续表达时保持较自然的语调，必须先能在跟读中模仿意群、语调和节奏。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-speak-with-natural-intonation"
+}

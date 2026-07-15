@@ -1,0 +1,12 @@
+{
+  "contentHash": "700979ce698e51c3dcbe23de71bfc610e09525a758ee3deab67ff8356f702a04",
+  "fromId": "cn-math-recognize-basic-plane-shapes",
+  "id": "rel-math-86aa9b6daece9d53f775b5f7",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“基本平面图形的识别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-rectangle-properties"
+}

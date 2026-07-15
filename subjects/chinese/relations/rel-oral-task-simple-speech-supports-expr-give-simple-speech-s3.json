@@ -1,0 +1,12 @@
+{
+  "contentHash": "cc28e8232bb3451f98ecfbab7b6dcf8aa307eb2146e61599b7b284176e46397a",
+  "fromId": "cn-chn-item-oral-task-simple-speech",
+  "id": "rel-oral-task-simple-speech-supports-expr-give-simple-speech-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“简单发言任务”身份支持该能力在课标“作简单的发言”任务情境中完成对应口头表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-give-simple-speech-s3"
+}

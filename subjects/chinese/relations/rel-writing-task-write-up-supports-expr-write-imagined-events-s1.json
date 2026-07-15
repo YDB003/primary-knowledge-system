@@ -1,0 +1,12 @@
+{
+  "contentHash": "10741ef8e0e3b213e0440243ce71f74ce4bd86e57cd0be6626b280f5cb191c60",
+  "fromId": "cn-chn-item-writing-task-write-up",
+  "id": "rel-writing-task-write-up-supports-expr-write-imagined-events-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“写话任务”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-write-imagined-events-s1"
+}

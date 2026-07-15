@@ -1,0 +1,15 @@
+{
+  "contentHash": "20ea0666803d2a89bb8424a6e4d443b2add40296415a244bef7f2ab6cf13c43c",
+  "fromId": "eng-ability-vocab-infer-from-picture-realia",
+  "id": "eng-rel-vocab-infer-from-picture-realia-pre-vocab-recall-word-visual-cue",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n看到图片或实物后主动说出单词，必须先能把该视觉对象与目标词义建立对应。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-recall-word-visual-cue"
+}

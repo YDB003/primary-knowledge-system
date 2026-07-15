@@ -1,0 +1,12 @@
+{
+  "contentHash": "e8e0390889fea0556bbbf019de19e9457ca3324620d18275c99489ef2df646b8",
+  "fromId": "cn-math-additive-vs-multiplicative-comparison",
+  "id": "rel-math-f5baf072e179732514fd7311",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“相差比较与倍数比较的区别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplicative-bar-model"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e159f541a5636f931b412f20c081ac6574e926112e07edeeaa937cc8a50d3b26",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-describe-interesting-experience-briefly-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-describe-interesting-experience-briefly-s1-curriculum-standard",
+    "review-cn-chn-expr-describe-interesting-experience-briefly-s1-unified-pre-2024",
+    "review-cn-chn-expr-describe-interesting-experience-briefly-s1-unified-2024-revision",
+    "review-cn-chn-expr-describe-interesting-experience-briefly-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中，围绕一项自己感兴趣的见闻作简短描述，不扩展为多件事情的叙述。\n\n## 掌握证据\n\n- 能口头描述一项自己感兴趣的见闻。\n- 能再口头描述一项感兴趣的具体见闻。\n\n## 常见错误\n\n- 罗列多件见闻，听者无法辨认重点。",
+  "title": "简要讲述感兴趣的见闻"
+}

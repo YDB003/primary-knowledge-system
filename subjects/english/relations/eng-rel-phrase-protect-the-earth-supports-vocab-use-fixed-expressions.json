@@ -1,0 +1,14 @@
+{
+  "contentHash": "c2e71a773d8e86bd3749373621b0909d1bf976e1b61f0ea1a2768efa69d49596",
+  "fromId": "eng-phrase-protect-the-earth",
+  "id": "eng-rel-phrase-protect-the-earth-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

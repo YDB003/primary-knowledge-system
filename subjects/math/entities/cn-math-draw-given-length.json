@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a311c9d5eed72dd2d14501451ee94f18b24e64e5daee3aed17d117a58a69fea6",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-draw-given-length",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-draw-given-length-pep",
+    "review-cn-math-draw-given-length-bnup",
+    "review-cn-math-draw-given-length-jsep"
+  ],
+  "subject": "math",
+  "summary": "从零刻度确定起点，按指定单位标出终点并连接成线段。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“画指定长度线段”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把终点刻度数与线段长度混淆。",
+  "title": "画指定长度线段"
+}

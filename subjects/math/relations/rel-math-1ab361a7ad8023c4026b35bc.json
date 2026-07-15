@@ -1,0 +1,12 @@
+{
+  "contentHash": "4bc58e917f5b34b6e266f5fd2d2273a5668f1b39261e72dacc8427bc8a39e0f1",
+  "fromId": "cn-math-factor-and-multiple",
+  "id": "rel-math-1ab361a7ad8023c4026b35bc",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“因数与倍数的关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-find-factor-pairs"
+}

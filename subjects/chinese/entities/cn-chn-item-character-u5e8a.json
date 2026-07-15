@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "c4588ac994e775749a3540c4fe5e18689f6be49fdda64f9c24f954cfb2917bc0",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5e8a",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":7,\"writtenForm\":\"床\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "床"
+}

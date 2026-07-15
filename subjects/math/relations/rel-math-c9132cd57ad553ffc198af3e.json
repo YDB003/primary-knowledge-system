@@ -1,0 +1,12 @@
+{
+  "contentHash": "4b4886b584bfab6abfd428cbaa8a270f3e05eee932f0f6d5383748cb88aff779",
+  "fromId": "cn-math-rectangle-properties",
+  "id": "rel-math-c9132cd57ad553ffc198af3e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“长方形的基本性质”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-square-properties"
+}

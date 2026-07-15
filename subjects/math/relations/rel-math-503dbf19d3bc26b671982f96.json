@@ -1,0 +1,12 @@
+{
+  "contentHash": "789354cb58e282ff7c91b785b6983992167e3673dad7024af03dfc5e3235da36",
+  "fromId": "cn-math-ten-as-composite-unit",
+  "id": "rel-math-503dbf19d3bc26b671982f96",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“十作为复合计数单位”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-regroup-tens-and-ones"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "051494c9fd694b1ad1146b0070c289009dea1a845dbaffcbc5cb296efbfd02ea",
+  "domain": "数量关系",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-create-equivalent-ratios",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-create-equivalent-ratios-pep",
+    "review-cn-math-create-equivalent-ratios-bnup",
+    "review-cn-math-create-equivalent-ratios-jsep"
+  ],
+  "subject": "math",
+  "summary": "对前项和后项进行相同倍数缩放，可构造一组表示同一对应关系的等值比。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“构造等值比”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 前后项使用不同缩放倍数。",
+  "title": "构造等值比"
+}

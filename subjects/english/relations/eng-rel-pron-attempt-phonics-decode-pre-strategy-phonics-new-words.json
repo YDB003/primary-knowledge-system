@@ -1,0 +1,15 @@
+{
+  "contentHash": "2deef465bbef92e90615322f153abb51eab7b2199dc5745240b2bb4eeed25230",
+  "fromId": "eng-ability-pron-attempt-phonics-decode",
+  "id": "eng-rel-pron-attempt-phonics-decode-pre-strategy-phonics-new-words",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n遇到规则生词时先拼读再核验，必须先能在提示下尝试运用简单拼读规律。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-strategy-phonics-new-words"
+}

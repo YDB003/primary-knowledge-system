@@ -1,0 +1,12 @@
+{
+  "contentHash": "7a1f974dfbfe4ba5cffa526711c31b663576b08f26d52d066afd533cfc26a3b9",
+  "fromId": "cn-math-choose-statistical-display",
+  "id": "rel-math-5778174d3b65f31fefb7392c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“选择统计表示”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-pie-chart"
+}

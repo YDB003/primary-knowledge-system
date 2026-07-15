@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c38a346ec48c57aeeb9c40921d66e6c2354a61be6b3f614c7dacbd09e6f7a352",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-counting-cardinality",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-counting-cardinality-pep",
+    "review-cn-math-counting-cardinality-bnup",
+    "review-cn-math-counting-cardinality-jsep"
+  ],
+  "subject": "math",
+  "summary": "点数结束时最后说出的数表示这一组对象的总数量。\n\n## 可观察证据\n\n- 能点数后直接回答一共有多少个对象。\n- 能解释最后一个数词为什么代表总数。\n\n## 常见误区\n\n- 把最后一个数只理解为某个对象的编号。",
+  "title": "计数结果的基数意义"
+}

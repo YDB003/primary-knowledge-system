@@ -1,0 +1,15 @@
+{
+  "contentHash": "c62aeb2ac25940b928fa35c681a9fb611b7c7e0f08e5e439e30e199184b4c149",
+  "fromId": "eng-ipa-tr",
+  "id": "eng-rel-ipa-tr-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/tr/ 这个书写符号用于标记辅音音位序列“辅音序列 /tr/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-sequence-tr"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b934ce5e633fee17f04ba17b2da80b747162873a228e607d326473850e206a39",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-write-reading-notes-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-write-reading-notes-s3-curriculum-standard",
+    "review-cn-chn-expr-write-reading-notes-s3-unified-pre-2024",
+    "review-cn-chn-expr-write-reading-notes-s3-unified-2024-revision",
+    "review-cn-chn-expr-write-reading-notes-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面表达中只完成写读书笔记这一操作，以标明阅读对象和个人记录的读书笔记作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能写出标明阅读对象和个人记录的读书笔记。\n- 能针对另一阅读对象写出一条个人读书笔记。\n\n## 常见错误\n\n- 笔记无法辨认所记内容来自何处。",
+  "title": "写读书笔记"
+}

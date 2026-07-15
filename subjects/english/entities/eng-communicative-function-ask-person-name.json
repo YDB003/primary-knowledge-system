@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b513abbe18dab3a68151f5ba44b475b5fb5d31f67aa023c3bbe12c329e618263",
+  "domain": "COMMUNICATIVE_FUNCTION",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-communicative-function-ask-person-name",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-3a-m2"
+  ],
+  "subject": "english",
+  "summary": "礼貌询问对方姓名，并在获得回答后继续完成简短交流。",
+  "title": "询问姓名"
+}

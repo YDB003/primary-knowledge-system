@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7e983411ac809b2ba7154a0dec2e82eed12f5a8c9ea7f65b20b2c5051b7517f3",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-elapsed-time-same-day",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-elapsed-time-same-day-pep",
+    "review-cn-math-elapsed-time-same-day-bnup",
+    "review-cn-math-elapsed-time-same-day-jsep"
+  ],
+  "subject": "math",
+  "summary": "经过时间等于结束时刻减开始时刻，可借助时间轴分段计算。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“同一天经过时间”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把时刻与时长使用相同单位格式却混为一谈。",
+  "title": "同一天经过时间"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7e5cd4ceac7ddb187265ae0617572bbf78189123793cf75ac7ebd2731bff3852",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-inq-discuss-question-with-others-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-organizing-inquiry",
+    "review-cn-chn-inq-discuss-question-with-others-s1-curriculum-standard",
+    "review-cn-chn-inq-discuss-question-with-others-s1-unified-pre-2024",
+    "review-cn-chn-inq-discuss-question-with-others-s1-unified-2024-revision",
+    "review-cn-chn-inq-discuss-question-with-others-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "围绕自己提出的问题，只完成“依据其他学科学习或生活经验讨论问题”这一操作，以引用相关经验并回应问题的讨论发言作为可直接听取的结果。\n\n## 掌握证据\n\n- 能依据其他学科的学习经验讨论自己提出的问题，并说明该经验与问题的联系。\n- 能依据生活经验回应自己提出的问题，并说出具体经历怎样支持回应。\n\n## 常见错误\n\n- 只重复看法，没有引用其他学科学习或生活经验作为讨论依据。",
+  "title": "依据其他学科学习或生活经验讨论问题"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "8d86f35334f794f9a764faa0624ab4dc79495e7b13cdeb9cbe24f5c654801fbc",
+  "fromId": "eng-culture-item-world-environment-day-june-5",
+  "id": "eng-rel-culture-item-world-environment-day-june-5-supports-culture-learn-through-simple-media",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-culture-learn-through-simple-media”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-culture-learn-through-simple-media"
+}

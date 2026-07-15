@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2b40303179c6a8b94aa57d5dd7464d78a1c4d02466b87f5f0dc87285ffbc7fd6",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-interpret-contextual-sentence-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-interpret-contextual-sentence-s2-curriculum-standard",
+    "review-cn-chn-read-interpret-contextual-sentence-s2-unified-pre-2024",
+    "review-cn-chn-read-interpret-contextual-sentence-s2-unified-2024-revision",
+    "review-cn-chn-read-interpret-contextual-sentence-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "结合句子所在情境、说话对象和前后事件，解释句子在该处实际传达的意思。\n\n## 掌握证据\n\n- 能指出影响句意的情境或前后事件线索。\n- 能解释同一句式在当前说话对象下实际传达的内容。\n\n## 常见错误\n\n- 只复述字面词语，没有说明语境改变或补充的含义。",
+  "title": "解释句子的语境含义"
+}

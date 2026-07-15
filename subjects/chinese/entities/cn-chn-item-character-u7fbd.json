@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "a3f3eb498a372e7c9724c1b8d10ff387974d65a8504a90f650ee501f0cf0b64d",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7fbd",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"writtenForm\":\"羽\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "羽"
+}

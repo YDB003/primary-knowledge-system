@@ -1,0 +1,12 @@
+{
+  "contentHash": "76bcd951df730b743096a0e16278d941bfa9f48bf25995ac1a0e01278267bd81",
+  "fromId": "cn-math-decimal-digit-value",
+  "id": "rel-math-6c98e1c2c076740f25440d30",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数中数字的位值”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-decimals"
+}

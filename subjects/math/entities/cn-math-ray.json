@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "cdea5538532200a914c8aff77b1c60365a968bacd23b2e02860b71b573ad6502",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-ray",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-ray-pep",
+    "review-cn-math-ray-bnup",
+    "review-cn-math-ray-jsep"
+  ],
+  "subject": "math",
+  "summary": "射线有一个端点，从端点沿一个方向无限延伸。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“射线”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 交换射线名称中的端点和方向点仍认为同一条射线。",
+  "title": "射线"
+}

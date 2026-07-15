@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1ae787eacddd2db96689e84f490223f02f4a37088bc20e8769b9a73bfe320257",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-peer-revise-writing-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-peer-revise-writing-s3-curriculum-standard",
+    "review-cn-chn-expr-peer-revise-writing-s3-unified-pre-2024",
+    "review-cn-chn-expr-peer-revise-writing-s3-unified-2024-revision",
+    "review-cn-chn-expr-peer-revise-writing-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面互改中，针对他人习作的一个具体位置提出一条可执行建议。\n\n## 掌握证据\n\n- 能针对他人习作的一处具体位置写出互改建议。\n- 能写出针对该位置的修改建议。\n\n## 常见错误\n\n- 只作好坏评价，没有指出位置或修改办法。",
+  "title": "与他人互相修改习作"
+}

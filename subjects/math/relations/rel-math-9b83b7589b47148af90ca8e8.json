@@ -1,0 +1,12 @@
+{
+  "contentHash": "c5fd6fdb98dd89f8108e18c004552d85a79a128a78bafe663cb1e53815ff4ed9",
+  "fromId": "cn-math-convert-mass-units",
+  "id": "rel-math-9b83b7589b47148af90ca8e8",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“质量单位换算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-convert-time-units"
+}

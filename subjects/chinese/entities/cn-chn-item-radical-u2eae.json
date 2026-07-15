@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "ea440f89e1b73877939320899788deba04f1f90763222cfca3c99b88a8b2d7e4",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u2eae",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"⺮\",\"variantForms\":[\"竹\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "竹的部首变体⺮"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "6318ded4e6db2f6ea5fe51b976e5034bb6243fec57e7169dfdb8e7c312bbb7ed",
+  "domain": "writing",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-write-uppercase-lowercase",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 正确书写英文字母大小写\n\n## 能力说明\n\n正确书写英文字母大小写，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能按规范字形和书写顺序写出26个字母。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：writing\n- 课标锚点：[[eng-anchor-l1-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "正确书写英文字母大小写"
+}

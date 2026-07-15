@@ -1,8 +1,22 @@
 Primary Knowledge System
-Copyright 2026 YDB003
+Copyright 2026 YDB003 and contributors
 
-This product includes software developed by project contributors and is
-licensed under the Apache License, Version 2.0.
+Engine source under `src/`, `scripts/`, and related tests is licensed under the
+Apache License, Version 2.0, in `LICENSE`.
 
-Knowledge data is distributed separately and is not covered by the software
-license unless a data file explicitly says so.
+Original project knowledge data under `manifest.json` and `subjects/` is
+licensed under Creative Commons Attribution 4.0 International as described in
+`LICENSE-DATA`, unless an individual record states otherwise.
+
+Records marked `CC-BY-SA-4.0` contain or integrate share-alike transcription
+material and retain the license in `LICENSES/CC-BY-SA-4.0.txt`. An ancient work
+may be public domain while a particular transcription or edition has separate
+rights.
+
+Curriculum standards, publisher pages, textbook metadata, dictionaries, and
+other referenced sources retain their own legal status. Source references are
+provenance identifiers; this repository does not relicense or redistribute
+their prose, images, exercises, answers, audio, or page layout.
+
+The repository intentionally excludes student data, homework photos, private
+learning records, family observations, textbook scans, and answer materials.

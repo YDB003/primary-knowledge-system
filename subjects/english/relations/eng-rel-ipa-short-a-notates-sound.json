@@ -1,0 +1,15 @@
+{
+  "contentHash": "17edc1a262951baae97b70055af07f83863b4de84541c21452a14853c4f19445",
+  "fromId": "eng-ipa-short-a",
+  "id": "eng-rel-ipa-short-a-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/æ/ 这个书写符号用于标记英语声音“短元音 /æ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-short-a"
+}

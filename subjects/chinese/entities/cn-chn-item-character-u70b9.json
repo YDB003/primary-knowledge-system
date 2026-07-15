@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "0c8b9d1abd3e29d436015af8070f243d3e8c2468358bb301dfb3e80e8a726656",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u70b9",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":9,\"writtenForm\":\"点\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "点"
+}

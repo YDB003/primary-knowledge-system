@@ -1,0 +1,12 @@
+{
+  "contentHash": "77c59aa9ccf77ac15a25fe09c364c5a7c9dec8738a629882ac37feb483ee3c69",
+  "fromId": "cn-chn-item-genre-simple-ancient-poetry",
+  "id": "rel-genre-simple-ancient-poetry-supports-read-recite-ancient-poetry-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“浅近古诗”文体身份支持该能力针对课标所指文本类型完成对应阅读操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-recite-ancient-poetry-s1"
+}

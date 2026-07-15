@@ -1,0 +1,15 @@
+{
+  "contentHash": "a89882cd98a5694c7bd8ca9a2ec68dd60eff89459623e13f8f5fbcf018bab2a2",
+  "fromId": "eng-ipa-l",
+  "id": "eng-rel-ipa-l-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/l/ 这个书写符号用于标记英语声音“边音 /l/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-l"
+}

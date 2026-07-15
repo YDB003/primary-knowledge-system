@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4a70ebd79fa6a68dbedd035e0c72f7e3d4311157102fd639b1ac7a69eada2b25",
+  "domain": "数量关系",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-simplify-ratio",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-simplify-ratio-pep",
+    "review-cn-math-simplify-ratio-bnup",
+    "review-cn-math-simplify-ratio-jsep"
+  ],
+  "subject": "math",
+  "summary": "利用比的基本性质，把整数比化为前后项互质的最简整数比，并保持顺序。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“化简比”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把化简比写成一个比值数字而没有保留两项。",
+  "title": "化简比"
+}

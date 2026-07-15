@@ -1,0 +1,12 @@
+{
+  "contentHash": "68591d5b87a7abf9bf667d2d15ca914567f897f86c033397a3f9dfea0c17a57d",
+  "fromId": "cn-math-decimal-on-number-line",
+  "id": "rel-math-93bc7ee3a097d5f339a5a3d9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数在数线上的定位”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-round-decimals"
+}

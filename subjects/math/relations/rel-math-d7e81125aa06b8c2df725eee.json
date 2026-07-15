@@ -1,0 +1,12 @@
+{
+  "contentHash": "177f7746b62683ed2512fdccb92fdf78c0c19bca77ae46fcef02ce15ba90a6a0",
+  "fromId": "cn-math-whole-number-order",
+  "id": "rel-math-d7e81125aa06b8c2df725eee",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“整数的前后顺序与相邻数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-locate-whole-number-line"
+}

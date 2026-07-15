@@ -1,0 +1,20 @@
+{
+  "aliases": [],
+  "contentHash": "90b3a1d0a9082099d1f48a5101aca83ebb3b3c6e2ffa1b885b9e508d30ec4da4",
+  "domain": "古诗词",
+  "entityType": "poem",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "classical-work-yuefu-jiang-nan",
+  "licenseClass": "CC-BY-SA-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-classical-yuefu-cadal06054428-r1104182000",
+    "source-classical-yuefu-wikisource-vol026-r2344741",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 作品信息\n\n汉 | classical-author-yuefu-anonymous | 乐府民歌\n\n## 原文\n\n江南可采莲\n莲叶何田田\n鱼戏莲叶间\n鱼戏莲叶东\n鱼戏莲叶西\n鱼戏莲叶南\n鱼戏莲叶北\n\n## 读音\n\n按每句五字朗读，反复出现的“鱼戏莲叶”可读出轻快、连续的节奏。\n\n## 词义\n\n- “田田”写莲叶茂盛相连的样子，不是田地的名称。\n- “戏”写鱼在莲叶间游动嬉戏，使画面有动作感。\n\n## 逐句理解\n\n- 江南水乡可以采莲，诗从采莲场景写起。\n- 莲叶又多又密，铺开了水面的背景。\n- 鱼在莲叶之间、东、西、南、北各处游动。\n\n## 整体理解\n\n诗先写江南采莲与茂密莲叶，再把镜头放到四方游动的鱼，连成开阔而有生气的水乡画面。\n\n## 意象\n\n莲叶和游鱼共同构成水面上明快、丰盛的景象。\n\n## 结构\n\n前两句定下采莲和莲叶的场景，后五句以同一短句向四方展开。\n\n## 主题\n\n可从诗中感受江南水乡景物的繁盛与生命活动，不把它扩写成未见于诗句的故事主题。\n\n## 情感\n\n重复而舒展的游鱼画面传出轻松、欢快的感受。\n\n## 手法\n\n“鱼戏莲叶”重复五次，只替换方位词，使读者感到鱼在水面四处穿行。\n\n## 名句\n\n“鱼戏莲叶间”至“鱼戏莲叶北”适合连读，留意重复句式如何扩大画面。\n\n## 背诵\n\n可按“采莲—莲叶—间、东、西、南、北”的顺序记忆，不只机械背字。\n\n## 考点\n\n自检时可说明“田田”和“戏”的意思，并指出方位重复如何写出鱼的游动；这不是教材原题或统一评分标准。\n\n## 易错点\n\n不把“田田”解释成田地，也不把东、西、南、北理解为四种不同的鱼。\n\n## 练习检查\n\n遮住原文后，按“采莲、莲叶、游鱼、四方”复述画面，再核对七行顺序。",
+  "title": "江南"
+}

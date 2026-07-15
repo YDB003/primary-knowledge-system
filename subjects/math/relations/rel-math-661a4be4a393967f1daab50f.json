@@ -1,0 +1,12 @@
+{
+  "contentHash": "964ea59953bdeb8cf6384f6cff8f74b992ebd3f771f95d4800c01e3d2eb60d42",
+  "fromId": "cn-math-multidigit-divide-two-digit",
+  "id": "rel-math-661a4be4a393967f1daab50f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“多位数除以两位数笔算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-calculator-basic-operation"
+}

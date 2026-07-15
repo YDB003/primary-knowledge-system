@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e782e4ab6531983833af3c0bb23cc3cebde38f5b2eb965518bf754abba2fb62d",
+  "domain": "GENRE",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-genre-fable",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"genreCategory\":\"课程标准直接命名文体身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "寓言"
+}

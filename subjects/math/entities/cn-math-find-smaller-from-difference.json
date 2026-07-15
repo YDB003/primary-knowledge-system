@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "201a450b612244f617c950d03c9cef89c5793968a713330a2cd77f5c992f5c6e",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-find-smaller-from-difference",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-find-smaller-from-difference-pep",
+    "review-cn-math-find-smaller-from-difference-bnup",
+    "review-cn-math-find-smaller-from-difference-jsep"
+  ],
+  "subject": "math",
+  "summary": "较小量等于较大量减相差量。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“已知较大量和相差量求较小量”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把相差量加到较大量上。",
+  "title": "已知较大量和相差量求较小量"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "43bd48930d2948b2eda68e0ac0e9444172a64741e9a76b77395b9eb0c935dee6",
+  "fromId": "cn-math-compare-fractions-with-benchmark",
+  "id": "rel-math-8012e257b49d5d06a8432a96",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用基准数比较分数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-fractions-by-common-denominator"
+}

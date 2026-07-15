@@ -1,0 +1,12 @@
+{
+  "contentHash": "00466c517e2f1302052ff76e704d33782eef8af75f0ad110e5f400a4de18af86",
+  "fromId": "cn-math-area-meaning",
+  "id": "rel-math-b145383dd2d183351b18d5ea",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“面积表示平面区域大小”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-area-directly"
+}

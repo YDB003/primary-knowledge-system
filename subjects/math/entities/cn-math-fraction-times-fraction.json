@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "af5346113e6ce18b9b7df877b6abe5e7c6809ff6f8a5dfd74a207c2b1a97cc5b",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-fraction-times-fraction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-fraction-times-fraction-pep",
+    "review-cn-math-fraction-times-fraction-bnup",
+    "review-cn-math-fraction-times-fraction-jsep"
+  ],
+  "subject": "math",
+  "summary": "分数乘分数可表示求一个量的若干分之几，计算时分子相乘、分母相乘并化简。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“分数乘分数”。\n- 能用数量关系或运算结构解释“分数乘分数”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把分数乘法误套用为通分后分子相乘。",
+  "title": "分数乘分数"
+}

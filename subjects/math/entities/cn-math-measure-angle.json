@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "03d40d2ac6b3c1b4e934e90fd4d0ed7555315eca08b7a90ea11372d928ea4b7b",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-measure-angle",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-measure-angle-pep",
+    "review-cn-math-measure-angle-bnup",
+    "review-cn-math-measure-angle-jsep"
+  ],
+  "subject": "math",
+  "summary": "量角时量角器中心对准顶点，零刻度线与一边重合，从正确刻度读另一边。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“用量角器测量角”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 混读内外圈刻度或中心未对准顶点。",
+  "title": "用量角器测量角"
+}

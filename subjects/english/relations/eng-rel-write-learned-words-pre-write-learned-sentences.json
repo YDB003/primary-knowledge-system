@@ -1,0 +1,15 @@
+{
+  "contentHash": "59c80183a85315ae5ddb79ff9231cb4133b60b08d61df367fe255d7347c9379a",
+  "fromId": "eng-ability-write-learned-words",
+  "id": "eng-rel-write-learned-words-pre-write-learned-sentences",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n正确书写所学简单句，必须先能按正确顺序和拼写写出句中的已学单词。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-write-learned-sentences"
+}

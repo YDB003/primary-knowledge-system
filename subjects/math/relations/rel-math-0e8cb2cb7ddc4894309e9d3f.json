@@ -1,0 +1,12 @@
+{
+  "contentHash": "a313d3ac81ffe98aff21eb8ae7198045e5ddf9843db46559de4abac7e08950b6",
+  "fromId": "cn-math-parallelogram-area",
+  "id": "rel-math-0e8cb2cb7ddc4894309e9d3f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平行四边形面积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-triangle-area"
+}

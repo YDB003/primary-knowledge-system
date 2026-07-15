@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1d426f4420249110ce60d2b6f8fc3aaaee96fa0413fceb9cde65c95a33999c0c",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-estimate-length",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-estimate-length-pep",
+    "review-cn-math-estimate-length-bnup",
+    "review-cn-math-estimate-length-jsep"
+  ],
+  "subject": "math",
+  "summary": "用熟悉的身体或物品长度作参照，估计目标长度并用工具复核。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“长度估测”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 没有参照量就随意猜测。",
+  "title": "长度估测"
+}

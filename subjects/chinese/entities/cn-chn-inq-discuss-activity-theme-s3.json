@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b329db01f9fda50f4b1d5b2ab88ce25e882de9a74bb610c469ee2f142660472b",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-discuss-activity-theme-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-discuss-activity-theme-s3-curriculum-standard",
+    "review-cn-chn-inq-discuss-activity-theme-s3-unified-pre-2024",
+    "review-cn-chn-inq-discuss-activity-theme-s3-unified-2024-revision",
+    "review-cn-chn-inq-discuss-activity-theme-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“讨论语文实践活动主题”这一操作，以围绕候选主题形成的意见与回应记录作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能讨论语文实践活动主题，产出围绕候选主题形成的意见与回应记录。\n- 能在另一项合作探究任务中讨论语文实践活动主题，仍产出围绕候选主题形成的意见与回应记录。\n\n## 常见错误\n\n- 讨论转向活动形式，没有回应主题是否合适。",
+  "title": "讨论语文实践活动主题"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "397e53815025e89637b5e2047273971bc1927d77a90620998294f0e8e770d160",
+  "fromId": "cn-math-multiplicative-bar-model",
+  "id": "rel-math-cb804819674b1a41b71f76e0",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“倍数关系线段图”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-scale-down-by-factor"
+}

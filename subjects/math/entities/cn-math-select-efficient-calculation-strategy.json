@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "af5ade90a92c42b40acf03e8970c7152075b74006a9b3ab9743e8ab7a4b71771",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-select-efficient-calculation-strategy",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-select-efficient-calculation-strategy-pep",
+    "review-cn-math-select-efficient-calculation-strategy-bnup",
+    "review-cn-math-select-efficient-calculation-strategy-jsep"
+  ],
+  "subject": "math",
+  "summary": "可根据凑整、因数关系、运算律和精度要求，在口算、笔算、估算或工具计算之间选择高效且可解释的方法。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“按数的结构选择计算策略”。\n- 能用数的结构或数量关系解释“按数的结构选择计算策略”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 无论数字特征和任务要求都套用同一种算法。",
+  "title": "按数的结构选择计算策略"
+}

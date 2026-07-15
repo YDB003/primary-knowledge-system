@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2c60ed4c56a91069ea083bce2940b4943dbaff913e34bba1844cc55b0e8ab5d1",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-inq-state-view-on-question-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-organizing-inquiry",
+    "review-cn-chn-inq-state-view-on-question-s1-curriculum-standard",
+    "review-cn-chn-inq-state-view-on-question-s1-unified-pre-2024",
+    "review-cn-chn-inq-state-view-on-question-s1-unified-2024-revision",
+    "review-cn-chn-inq-state-view-on-question-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“说出对问题的看法”这一操作，以直接回应问题的明确看法作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能说出对问题的看法，产出直接回应问题的明确看法。\n- 能在另一项语文探究任务中说出对问题的看法，仍产出直接回应问题的明确看法。\n\n## 常见错误\n\n- 只重复问题，没有说出自己的看法。",
+  "title": "说出对问题的看法"
+}

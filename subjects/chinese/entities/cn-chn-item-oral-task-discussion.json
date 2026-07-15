@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e98e355e4412a1dd38bf98562f2c9d7f057a8cd31ea4fc18bf31760be4b9eec7",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 1,
+  "id": "cn-chn-item-oral-task-discussion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"口语任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "讨论任务"
+}

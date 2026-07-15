@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6df67b3b5d4076943e4270df1fb1047c55bace1abc06ab389622466287136b6d",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-compare-on-number-line",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-compare-on-number-line-pep",
+    "review-cn-math-compare-on-number-line-bnup",
+    "review-cn-math-compare-on-number-line-jsep"
+  ],
+  "subject": "math",
+  "summary": "在通常从左到右递增的数线上，右边的整数大于左边的整数。\n\n## 可观察证据\n\n- 能利用数线比较两个整数。\n- 能把符号比较与数线位置对应起来。\n\n## 常见误区\n\n- 只记左右口诀而不检查数线的方向和刻度。",
+  "title": "用数线比较整数大小"
+}

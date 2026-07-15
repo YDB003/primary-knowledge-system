@@ -1,0 +1,15 @@
+{
+  "contentHash": "c01dee2641a0bc4e7662f81d2cff4272cc981f473989a1ff3322e1f27300aa58",
+  "fromId": "eng-ability-pron-read-dialogue-clearly",
+  "id": "eng-rel-pron-read-dialogue-clearly-pre-pron-read-short-text-clearly",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n连续朗读熟悉短文，必须先能稳定朗读较短的对话并保持基本连贯。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-read-short-text-clearly"
+}

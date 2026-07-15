@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "5f02002bc06d3c61565a45ec0e1ba358ab8ca62e4f3165b0a28486826586933b",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-diphthong-air",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n双元音 /eə/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n从 /e/ 附近向中央元音滑动，常见于非卷舌英式发音。\n\n## 示例\n\n可在这些词中观察该声音：air、hair。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "双元音 /eə/"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "d36a22e0c617fcfc9a354bf3ee8d06a0f2effaab3142c483216853826e453bb4",
+  "fromId": "cn-chn-item-writing-task-note",
+  "id": "rel-writing-task-note-supports-expr-write-note-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“便条”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-write-note-s2"
+}

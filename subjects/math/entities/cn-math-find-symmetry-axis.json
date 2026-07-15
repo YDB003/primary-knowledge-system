@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d880ce7f92e12af2cf0c9ae53cc8d42478fa3c505cd379d52b0784702a8a0824",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-find-symmetry-axis",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-find-symmetry-axis-pep",
+    "review-cn-math-find-symmetry-axis-bnup",
+    "review-cn-math-find-symmetry-axis-jsep"
+  ],
+  "subject": "math",
+  "summary": "通过对应点连线被垂直平分或折叠重合，可确定一条或多条对称轴。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“寻找对称轴”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 认为每个轴对称图形都只有一条对称轴。",
+  "title": "寻找对称轴"
+}

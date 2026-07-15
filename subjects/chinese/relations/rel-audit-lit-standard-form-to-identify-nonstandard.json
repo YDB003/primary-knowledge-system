@@ -1,0 +1,12 @@
+{
+  "contentHash": "3c0d691ecb7ceb8ad531ce32e8ee2a2042b76c874e4b63320f8660f3d9340868",
+  "fromId": "cn-chn-lit-identify-standard-character-form-s3",
+  "id": "rel-audit-lit-standard-form-to-identify-nonstandard",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "识别不规范用字必须以能够辨认规范汉字字形为判断基准；缺少规范字形参照时，无法说明被标形式为何不规范。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-identify-nonstandard-character-s3"
+}

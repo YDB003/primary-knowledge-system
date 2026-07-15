@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a7c05b0904cd84a9b551d7abd3944eca49c2ad11a2e356fe8fbd39f553fa5fde",
+  "domain": "数量关系",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-rate-as-change-per-unit",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-rate-as-change-per-unit-pep",
+    "review-cn-math-rate-as-change-per-unit-bnup",
+    "review-cn-math-rate-as-change-per-unit-jsep"
+  ],
+  "subject": "math",
+  "summary": "率描述一种量相对于另一种量每增加一个单位时的对应变化量，通常写成每单位多少。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“单位量变化率”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把总量直接当作率，忽略它对应的单位数量。",
+  "title": "单位量变化率"
+}

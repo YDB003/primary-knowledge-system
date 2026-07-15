@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "09df926938879c884456a9b2e9767f79d29048c6fcb74a579593c86c4b016633",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-subtraction-missing-part",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-subtraction-missing-part-pep",
+    "review-cn-math-subtraction-missing-part-bnup",
+    "review-cn-math-subtraction-missing-part-jsep"
+  ],
+  "subject": "math",
+  "summary": "已知总量和其中一部分时，用减法求另一部分。\n\n## 可观察证据\n\n- 能根据总量与已知部分列减法式。\n- 能用部分与整体关系检查结果。\n\n## 常见误区\n\n- 把两个部分相减而不是从总量中减去已知部分。",
+  "title": "减法求未知部分"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d6cf7cf783db3bb91208a345c4b88e174cb54ab4bde35fc2a1e2737e48d49719",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-recognize-cuboid",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-recognize-cuboid-pep",
+    "review-cn-math-recognize-cuboid-bnup",
+    "review-cn-math-recognize-cuboid-jsep"
+  ],
+  "subject": "math",
+  "summary": "长方体由六个长方形面围成，相对面形状大小相同，具有棱和顶点。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“长方体的识别”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只要外观看起来像盒子就判断为长方体，不检查面与棱。",
+  "title": "长方体的识别"
+}

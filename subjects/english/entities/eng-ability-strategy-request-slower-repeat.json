@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "79aa5d0962bab7bd2ac76a2711bff913236b9ddf4a12e4f04ec7f8473d965b4f",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-strategy-request-slower-repeat",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 没听懂时请求放慢或重复\n\n## 能力说明\n\n没听懂时请求放慢或重复，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 交流中能使用简单表达请对方再说一次或说慢一些。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l1-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "没听懂时请求放慢或重复"
+}

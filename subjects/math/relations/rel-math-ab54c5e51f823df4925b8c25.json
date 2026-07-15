@@ -1,0 +1,12 @@
+{
+  "contentHash": "c34741303fffdf81889ab392ed32116062b63b8766ee7104c119686d27e0bf4b",
+  "fromId": "cn-math-deductive-chain",
+  "id": "rel-math-ab54c5e51f823df4925b8c25",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“建立演绎推理链”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-use-counterexample"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "16c831fce87aad35b5fa8f28021cdbc93324ac2f5f587a99fab576b983d06718",
+  "fromId": "eng-ability-listen-extract-event-elements",
+  "id": "eng-rel-listen-extract-event-elements-pre-listen-summarize-main-content",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n概括听看材料讲了什么，必须先提取构成主要内容的人物、时间、地点或事件信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-summarize-main-content"
+}

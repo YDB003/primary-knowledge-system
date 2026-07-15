@@ -1,0 +1,14 @@
+{
+  "contentHash": "64f219ed73909de72fae6f7b61a131ec6d31f69a7c45c053673757ff76242ffd",
+  "fromId": "eng-sentence-pattern-do-person-have-thing",
+  "id": "eng-rel-sentence-pattern-do-person-have-thing-supports-grammar-understand-present-simple",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-understand-present-simple”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-understand-present-simple"
+}

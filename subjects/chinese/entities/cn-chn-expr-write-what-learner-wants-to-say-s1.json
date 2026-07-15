@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9f82812e3bc0543aa4e430d9ce15d5208d98a9e18c7dfcaf660ca8adc91e0fb7",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-write-what-learner-wants-to-say-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-write-what-learner-wants-to-say-s1-curriculum-standard",
+    "review-cn-chn-expr-write-what-learner-wants-to-say-s1-unified-pre-2024",
+    "review-cn-chn-expr-write-what-learner-wants-to-say-s1-unified-2024-revision",
+    "review-cn-chn-expr-write-what-learner-wants-to-say-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在写话中把当前想表达的一句话或一个意思写成可读文字，不附加叙事或说明任务。\n\n## 掌握证据\n\n- 能写出表达自己一个意思的完整句子。\n- 能换一个自己想说的意思写出完整句子。\n\n## 常见错误\n\n- 只写零散词语，读者无法辨认完整意思。",
+  "title": "写出自己想说的话"
+}

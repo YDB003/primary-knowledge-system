@@ -1,0 +1,12 @@
+{
+  "contentHash": "0077dbfb62120f7ad26c809fd80d77dea60a22d3a39b6851b20d8e721c3c517e",
+  "fromId": "cn-math-complete-symmetric-shape",
+  "id": "rel-math-1b8222ad5d679f898d91c7c4",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“补全轴对称图形”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-rotation"
+}

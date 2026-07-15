@@ -1,0 +1,14 @@
+{
+  "contentHash": "7927464915ff8f534fb3cabc5202361256a9c4280ee779bdb768decec66fb7d2",
+  "fromId": "eng-theme-plants-around-us",
+  "id": "eng-rel-theme-plants-around-us-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

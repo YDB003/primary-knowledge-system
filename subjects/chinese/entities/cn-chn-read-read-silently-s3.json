@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "589b04147abb2f078c308a29646a0e3acefe20301716f9031d4fae53a49324ec",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-read-silently-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-read-silently-s3-curriculum-standard",
+    "review-cn-chn-read-read-silently-s3-unified-pre-2024",
+    "review-cn-chn-read-read-silently-s3-unified-2024-revision",
+    "review-cn-chn-read-read-silently-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "面对较长文本时，不出声、不指读地持续阅读，使视线沿文字顺序稳定推进至预定终点。\n\n## 掌握证据\n\n- 能默读较长的连续页段并保持不出声、不指读。\n- 能标出暂时中断的位置，并从该处继续默读到预定终点。\n\n## 常见错误\n\n- 阅读较长页段时频繁回到开头，无法持续推进。",
+  "title": "持续默读较长文本"
+}

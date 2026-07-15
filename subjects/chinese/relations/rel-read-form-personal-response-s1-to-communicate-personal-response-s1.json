@@ -1,0 +1,12 @@
+{
+  "contentHash": "a7c5500edca27d086ecff4c966691694bce76576a99214266a7faad53ee4a631",
+  "fromId": "cn-chn-read-form-personal-response-s1",
+  "id": "rel-read-form-personal-response-s1-to-communicate-personal-response-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "向他人交流个人情感或想法前必须先形成针对人物或事件的明确感受，否则交流没有可表达的内容。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-communicate-personal-response-s1"
+}

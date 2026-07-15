@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "4e1d136057f5fd72c7d0ec704b1102506b9bfcda789ecdd57a174edb8447225b",
+  "domain": "PINYIN_SYMBOL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-pinyin-alphabet-b",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-hanyu-pinyin-scheme",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"symbol\":\"B/b\",\"symbolCategory\":\"字母表大小写字母对\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "字母B/b"
+}

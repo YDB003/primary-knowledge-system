@@ -1,0 +1,12 @@
+{
+  "contentHash": "38478d96bd565bc2d1f0df4192a131e74a82bf6fe56d04622ce0bd9f679237bb",
+  "fromId": "cn-math-divisibility-by-5",
+  "id": "rel-math-af2132f7d883ecec6decf821",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“5的倍数特征”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-divisibility-by-3"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "4f7af70a75a6568f11b7f460cb7334cd626963d13338d6a1d371ecada6994b91",
+  "fromId": "cn-math-zero-placeholder",
+  "id": "rel-math-d48231fd554161082ac7dc6c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“0的占位作用”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-place-value-units"
+}

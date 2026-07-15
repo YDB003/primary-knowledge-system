@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9a94374c587305934b8f6c4c2d5d0c29d7e115d4564aee58a290816d34adafa5",
+  "domain": "图形与几何",
+  "entityType": "model",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-ordered-pair-location",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-ordered-pair-location-pep",
+    "review-cn-math-ordered-pair-location-bnup",
+    "review-cn-math-ordered-pair-location-jsep"
+  ],
+  "subject": "math",
+  "summary": "有序数对按约定先列后行或先横后纵记录位置，交换顺序通常表示不同点。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“用有序数对表示位置”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把数对中的两个数任意交换。",
+  "title": "用有序数对表示位置"
+}

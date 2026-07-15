@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "95b42ddc09bab642aedf4db3319422999f063e1e871ec91a8fdac81595e6b36f",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-strategy-use-gesture-support",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 表达困难时用手势辅助\n\n## 能力说明\n\n表达困难时用手势辅助，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 缺少词语时能用指示、动作或表情帮助对方理解。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l1-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "表达困难时用手势辅助"
+}

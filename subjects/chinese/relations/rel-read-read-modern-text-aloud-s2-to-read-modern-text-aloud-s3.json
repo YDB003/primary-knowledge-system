@@ -1,0 +1,12 @@
+{
+  "contentHash": "b279c92d165b92113dcd349c6e1ec21d865239f0b476e459efcc4260868318a9",
+  "fromId": "cn-chn-read-read-modern-text-aloud-s2",
+  "id": "rel-read-read-modern-text-aloud-s2-to-read-modern-text-aloud-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "第三学段朗读较复杂语句并传达情感，依赖已经能依据句意调节停顿和语调，否则长句节奏容易断裂。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-read-modern-text-aloud-s3"
+}

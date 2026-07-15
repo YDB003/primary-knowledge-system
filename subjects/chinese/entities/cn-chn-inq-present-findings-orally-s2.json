@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8f11c87c7118a42c18bcaf9063e6c473d7907cb7caac84a35c01e193f090e780",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-inq-present-findings-orally-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-organizing-inquiry",
+    "review-cn-chn-inq-present-findings-orally-s2-curriculum-standard",
+    "review-cn-chn-inq-present-findings-orally-s2-unified-pre-2024",
+    "review-cn-chn-inq-present-findings-orally-s2-unified-2024-revision",
+    "review-cn-chn-inq-present-findings-orally-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“口头呈现观察与探究所得”这一操作，以围绕所得信息作出的清楚口头陈述作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能口头呈现观察与探究所得，产出围绕所得信息作出的清楚口头陈述。\n- 能在另一项语文探究任务中口头呈现观察与探究所得，仍产出围绕所得信息作出的清楚口头陈述。\n\n## 常见错误\n\n- 口头陈述加入大量未在观察或探究中获得的内容。",
+  "title": "口头呈现观察与探究所得"
+}

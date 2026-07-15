@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "0ac48a26eafca6d28e5a494011020eb9c119bae4e4cf539a3a369be1b91b9511",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-long-a",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n长元音 /ɑː/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n嘴张开，舌位低并稍靠后，声音保持较长。\n\n## 示例\n\n可在这些词中观察该声音：car、father。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "长元音 /ɑː/"
+}

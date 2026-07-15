@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "dc32d2d161562a4d18ec8ed0b7c4a235fd66c9d95c52923c3f902f33e12c03a1",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u6c34",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":4,\"variantForms\":[\"氵\"],\"writtenForm\":\"水\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "水"
+}

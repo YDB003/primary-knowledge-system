@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e67d8362b4f4c53723b0b9abbc5947d564e79c0ed236e39f859ece7fa747205c",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-draft-observation-content-clearly-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-draft-observation-content-clearly-s2-curriculum-standard",
+    "review-cn-chn-expr-draft-observation-content-clearly-s2-unified-pre-2024",
+    "review-cn-chn-expr-draft-observation-content-clearly-s2-unified-2024-revision",
+    "review-cn-chn-expr-draft-observation-content-clearly-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面表达中只完成把观察和感受起草清楚这一操作，以对象和感受对应清楚的初稿句段作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能写出对象和感受对应清楚的初稿句段。\n- 能写出由同一观察对象和对应感受组成的连续句段。\n\n## 常见错误\n\n- 对象与感受无法对应。",
+  "title": "把观察和感受起草清楚"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "307f7545dcb6b18f9753cadbc71cfe69c7624de82dde597e8a8328585cb17535",
+  "fromId": "cn-math-convert-volume-units",
+  "id": "rel-math-0b63f545bc8e82a0957b6086",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“体积容量单位换算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compound-unit-conversion"
+}

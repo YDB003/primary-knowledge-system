@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "670a1371d8a17eb58ce6291188c7770b5b214263c24f7bd57de66dc2bec798d6",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-counting-stable-order",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-counting-stable-order-pep",
+    "review-cn-math-counting-stable-order-bnup",
+    "review-cn-math-counting-stable-order-jsep"
+  ],
+  "subject": "math",
+  "summary": "计数所用的数词具有固定先后顺序，不能任意交换。\n\n## 可观察证据\n\n- 能按正确数词顺序从1开始计数。\n- 能发现并纠正数词顺序中的跳号或倒置。\n\n## 常见误区\n\n- 把会说出若干数字误当成掌握了正确计数顺序。",
+  "title": "计数的稳定顺序"
+}

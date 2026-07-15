@@ -1,0 +1,12 @@
+{
+  "contentHash": "3225d4fe27f28fda98e45a93b951ed1e09d6cbaaa989459543b1590c58fb649b",
+  "fromId": "cn-chn-item-pinyin-alphabet-o",
+  "id": "rel-pinyin-alphabet-o-supports-recognize-uppercase-letters-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该大小写字母对是辨认拼音大写形式及其对应小写形式的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-uppercase-letters-s1"
+}

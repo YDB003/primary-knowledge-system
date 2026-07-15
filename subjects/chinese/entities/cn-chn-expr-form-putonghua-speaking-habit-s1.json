@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a702f8c8f9843f39d6a47e7908996fdba6c8a0318c7a3f9bded112533ed0db99",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-form-putonghua-speaking-habit-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-form-putonghua-speaking-habit-s1-curriculum-standard",
+    "review-cn-chn-expr-form-putonghua-speaking-habit-s1-unified-pre-2024",
+    "review-cn-chn-expr-form-putonghua-speaking-habit-s1-unified-2024-revision",
+    "review-cn-chn-expr-form-putonghua-speaking-habit-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在日常口头交流中持续使用普通话表达一个完整意思。\n\n## 掌握证据\n\n- 能在日常交流中使用普通话说出完整意思。\n- 能在连续两轮日常交流中使用普通话表达。\n\n## 常见错误\n\n- 交流中频繁改用方言读音。",
+  "title": "在日常交流中使用普通话"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "533ed0826213b15f54f10e6d8542e0898f1b78f5969b6a293903c2bfaf5b6931",
+  "fromId": "cn-math-improper-fraction-and-mixed-number",
+  "id": "rel-math-87d2fca15aad47cc0a0fd1f0",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“假分数与带分数的意义”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-as-quotient"
+}

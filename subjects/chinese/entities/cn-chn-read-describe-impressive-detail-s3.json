@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "134d849cddfebe7e93d73bcb0f83f2b408f5e51c8ef73a641521982a87401948",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-describe-impressive-detail-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-describe-impressive-detail-s3-curriculum-standard",
+    "review-cn-chn-read-describe-impressive-detail-s3-unified-pre-2024",
+    "review-cn-chn-read-describe-impressive-detail-s3-unified-2024-revision",
+    "review-cn-chn-read-describe-impressive-detail-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "从叙事性作品中选择自己印象深刻的一个局部细节，准确描述其中的动作、语言、神态或环境特征。\n\n## 掌握证据\n\n- 能指出细节在作品中出现的对象和位置。\n- 能描述该细节包含的具体动作、语言、神态或环境特征。\n\n## 常见错误\n\n- 把完整事件当作细节复述，没有聚焦一个局部表现。",
+  "title": "描述印象深刻的细节"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "444d1e6a7e072a1b36fff068aab1253cf58bb98006df34c278172871b4da6470",
+  "fromId": "eng-ipa-p",
+  "id": "eng-rel-ipa-p-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/p/ 这个书写符号用于标记英语声音“清辅音 /p/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-p"
+}

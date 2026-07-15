@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ca1dc208e17e91ab0e2efe24dc184eaf0ff00a26b5e7c676524964a75456daf9",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-write-three-part-syllables-legibly-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-write-three-part-syllables-legibly-s1-curriculum-standard",
+    "review-cn-chn-lit-write-three-part-syllables-legibly-s1-unified-pre-2024",
+    "review-cn-chn-lit-write-three-part-syllables-legibly-s1-unified-2024-revision",
+    "review-cn-chn-lit-write-three-part-syllables-legibly-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "根据读音依次写出声母、介音和韵母，输出三部分齐全、声调位置清楚的书面音节。\n\n## 掌握证据\n\n- 能听到或读到一个三拼音节后写出声母、介音和韵母。\n- 能检查所写音节是否漏掉介音，并标出声调位置错误。\n\n## 常见错误\n\n- 把介音漏写成两拼形式，或颠倒介音与韵母的顺序。",
+  "title": "清楚书写三拼音节"
+}

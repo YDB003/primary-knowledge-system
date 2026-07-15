@@ -1,0 +1,12 @@
+{
+  "contentHash": "7f1cd05ec6de9955f34ecee7f9ca119037452797a42727d43cfab9605032ae52",
+  "fromId": "cn-math-find-factor-pairs",
+  "id": "rel-math-79a68520a7f5e4fc917e1a2c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“成对寻找一个数的因数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-divisibility-by-2"
+}

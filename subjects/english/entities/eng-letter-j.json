@@ -1,0 +1,20 @@
+{
+  "aliases": [],
+  "contentHash": "32a47853761f99c4f7c9e47abcaeacf7aa656860fea968a25d0debb793ec9326",
+  "domain": "LETTER",
+  "entityType": "letter",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-letter-j",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-cambridge-dictionary",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 认识字母\n\nJ 是大写形式，j 是小写形式。它是英文字母表中的第 10 个字母。\n\n## 字母名称\n\n字母名称读作 /dʒeɪ/。\n\n## 常见发音\n\n在单词中常见读音包括 /dʒ/。字母名称和字母在单词中的读音不是同一件事，实际读音要结合单词判断。\n\n## 示例\n\n可从这些简单词中观察：jam、juice。",
+  "title": "J j"
+}

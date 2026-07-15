@@ -1,0 +1,15 @@
+{
+  "contentHash": "9017ab262be7e7422d607293e1cde41c0a2b0d44917c055642a801a2e37a7d5c",
+  "fromId": "eng-ipa-z",
+  "id": "eng-rel-ipa-z-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/z/ 这个书写符号用于标记英语声音“浊辅音 /z/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-z"
+}

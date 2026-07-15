@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "58e6ebc54ddbc212c669fdeb331d3fbad5a6e7050495659b69570b930cd2e67b",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-decimal-on-number-line",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-decimal-on-number-line-pep",
+    "review-cn-math-decimal-on-number-line-bnup",
+    "review-cn-math-decimal-on-number-line-jsep"
+  ],
+  "subject": "math",
+  "summary": "把相邻整数间的单位长度按十进方式继续细分，可以在数线上定位和比较小数。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数在数线上的定位”。\n- 能用数量关系或运算结构解释“小数在数线上的定位”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 每一级细分的长度不一致却仍按小数位解释。",
+  "title": "小数在数线上的定位"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5e92b0fc21a96d969d517fb0fa534306d7effe92f598334a2541be5ff86694c5",
+  "domain": "SENTENCE_PATTERN",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-sentence-pattern-do-person-have-thing",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "Do ... have ...? 是一般现在时的一般疑问句，可询问对方是否拥有某物。",
+  "title": "Do you have a pet?"
+}

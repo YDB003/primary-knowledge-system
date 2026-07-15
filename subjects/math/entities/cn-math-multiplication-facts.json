@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7c638295895856853301b3b5fb4599016d49671e7e3663148c77bd1bfa89d2d0",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-multiplication-facts",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-multiplication-facts-pep",
+    "review-cn-math-multiplication-facts-bnup",
+    "review-cn-math-multiplication-facts-jsep"
+  ],
+  "subject": "math",
+  "summary": "理解并熟练调用基本乘法事实，同时能用分组、阵列或相邻事实解释。\n\n## 可观察证据\n\n- 能准确计算表内乘法。\n- 能由已知乘法事实推导相邻事实。\n\n## 常见误区\n\n- 只按口诀声音作答，不能识别算式中的因数。",
+  "title": "表内乘法事实"
+}

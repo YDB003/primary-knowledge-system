@@ -1,0 +1,14 @@
+{
+  "contentHash": "5d693dab0cbb0530775e6d3f4c5aa1e3065544716dcf3d58307e1afa9d171b91",
+  "fromId": "eng-phrase-play-football",
+  "id": "eng-rel-phrase-play-football-supports-speak-describe-routine",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-routine”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-routine"
+}

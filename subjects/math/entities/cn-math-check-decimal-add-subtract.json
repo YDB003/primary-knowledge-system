@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "61260628c919793755e8d2d8fb4c7b01e65a4865160c60a8d64ae4db7f4cf383",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-check-decimal-add-subtract",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-check-decimal-add-subtract-pep",
+    "review-cn-math-check-decimal-add-subtract-bnup",
+    "review-cn-math-check-decimal-add-subtract-jsep"
+  ],
+  "subject": "math",
+  "summary": "可用取整估算判断数量级，并用加减互逆关系或重算检验精确结果。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数加减的估算与验算”。\n- 能用数量关系或运算结构解释“小数加减的估算与验算”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 只看末位是否相近，不检查结果的整数部分和数量级。",
+  "title": "小数加减的估算与验算"
+}

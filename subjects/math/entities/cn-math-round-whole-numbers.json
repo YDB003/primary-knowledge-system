@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3944d7f03efbf29a320031b19199c976035d1c47f8085e9e522bf68a1e183f68",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-round-whole-numbers",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-round-whole-numbers-pep",
+    "review-cn-math-round-whole-numbers-bnup",
+    "review-cn-math-round-whole-numbers-jsep"
+  ],
+  "subject": "math",
+  "summary": "按照指定数位观察下一位，把整数取成最接近的整十、整百或更大整单位。\n\n## 可观察证据\n\n- 能把整数按指定数位正确四舍五入。\n- 能用数轴或距离解释舍入方向。\n\n## 常见误区\n\n- 不看指定数位，看到5以上数字就任意进位。",
+  "title": "整数的四舍五入"
+}

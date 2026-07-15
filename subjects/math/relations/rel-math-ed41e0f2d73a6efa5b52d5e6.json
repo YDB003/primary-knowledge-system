@@ -1,0 +1,12 @@
+{
+  "contentHash": "69396286d8c6a6b5607a7484d2e5241fef9203441433d9b858d2d09306fe9dd8",
+  "fromId": "cn-math-counting-one-to-one",
+  "id": "rel-math-ed41e0f2d73a6efa5b52d5e6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“计数中的一一对应”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-counting-stable-order"
+}

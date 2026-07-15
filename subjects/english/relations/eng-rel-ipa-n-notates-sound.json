@@ -1,0 +1,15 @@
+{
+  "contentHash": "618ba191d876a2a1743e66972f9ec55ac1235018d059863eeb5ab6b7e6fdcac0",
+  "fromId": "eng-ipa-n",
+  "id": "eng-rel-ipa-n-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/n/ 这个书写符号用于标记英语声音“鼻辅音 /n/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-n"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "4f879a5590cd818373fe251dd1f5e354cd14b8d0a635f3433400b43c86355fce",
+  "fromId": "eng-ipa-ng",
+  "id": "eng-rel-ipa-ng-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ŋ/ 这个书写符号用于标记英语声音“鼻辅音 /ŋ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-ng"
+}

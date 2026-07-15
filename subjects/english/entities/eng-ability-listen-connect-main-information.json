@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "ffe7b717fcac8d3dc620ffdd3a03d08f6d3f077367475bfdbc13a2f7470e0dee",
+  "domain": "listening_viewing",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-listen-connect-main-information",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 体会主要信息之间的关联\n\n## 能力说明\n\n体会主要信息之间的关联，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能说明两个主要信息之间的先后、原因或并列关系。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：listening_viewing\n- 课标锚点：[[eng-anchor-l2-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "体会主要信息之间的关联"
+}

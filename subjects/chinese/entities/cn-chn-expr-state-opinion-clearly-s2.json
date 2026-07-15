@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b600bed10d55ba8df927a897fc4769df6eb645ec7c4092b4e81ba659464bbc68",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-state-opinion-clearly-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-state-opinion-clearly-s2-curriculum-standard",
+    "review-cn-chn-expr-state-opinion-clearly-s2-unified-pre-2024",
+    "review-cn-chn-expr-state-opinion-clearly-s2-unified-2024-revision",
+    "review-cn-chn-expr-state-opinion-clearly-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中，把一项见闻、感受或想法说到听者能够辨认所指内容。\n\n## 掌握证据\n\n- 能清楚说出自己的一项见闻、感受或想法。\n- 能换一项见闻、感受或想法再次清楚说出。\n\n## 常见错误\n\n- 省略关键对象，听者无法辨认所指内容。",
+  "title": "清楚讲述自己的见闻和想法"
+}

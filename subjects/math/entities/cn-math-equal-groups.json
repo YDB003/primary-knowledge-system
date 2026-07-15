@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6a8bee123c68d3fac775e0e715b6729cf27bed0251951e0b171c371431be6825",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-equal-groups",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-equal-groups-pep",
+    "review-cn-math-equal-groups-bnup",
+    "review-cn-math-equal-groups-jsep"
+  ],
+  "subject": "math",
+  "summary": "把对象组织成每组数量相同的若干组，用组数和每组个数描述总量。\n\n## 可观察证据\n\n- 能判断分组是否等量并说出组数与每组数。\n- 能用图或实物表示相等分组。\n\n## 常见误区\n\n- 只关注总数，忽略每组是否相等。",
+  "title": "相等分组"
+}

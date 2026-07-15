@@ -1,0 +1,12 @@
+{
+  "contentHash": "8d694d50f999fc38747e50b1169b6be4f8d5434852e5a683a2fae2209d49d2b2",
+  "fromId": "cn-math-multidigit-divide-one-digit",
+  "id": "rel-math-94280e2fdb256d46e43136c2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“多位数除以一位数笔算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-four-operation-expression"
+}

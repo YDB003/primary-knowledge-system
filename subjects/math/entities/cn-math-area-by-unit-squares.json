@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2deb8c6d0a67be8e0e5df64132a7e941ae8e78be2b970ef4d8e077e286f14a26",
+  "domain": "图形与几何",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-area-by-unit-squares",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-area-by-unit-squares-pep",
+    "review-cn-math-area-by-unit-squares-bnup",
+    "review-cn-math-area-by-unit-squares-jsep"
+  ],
+  "subject": "math",
+  "summary": "用大小相同的单位正方形无重叠无空隙地覆盖区域，单位个数表示面积。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“用单位正方形测量面积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 覆盖中有重叠或空隙仍直接数格。",
+  "title": "用单位正方形测量面积"
+}

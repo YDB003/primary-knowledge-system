@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a4f335693ad89956ed9a8eae6d129b5587975870328f8ae0c4143bb04ce8475a",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-infer-by-context-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-infer-by-context-s1-curriculum-standard",
+    "review-cn-chn-lit-infer-by-context-s1-unified-pre-2024",
+    "review-cn-chn-lit-infer-by-context-s1-unified-2024-revision",
+    "review-cn-chn-lit-infer-by-context-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "遇到未识汉字时借助语境推测生字信息，形成推测、查验或修正的独立处理过程。\n\n## 掌握证据\n\n- 能在没有直接告知答案时主动借助语境推测生字信息。\n- 能说明所用线索，并用语境或工具查验结果。\n\n## 常见错误\n\n- 得到初步猜测后直接当作结论，没有继续查验。",
+  "title": "借助语境推测生字信息"
+}

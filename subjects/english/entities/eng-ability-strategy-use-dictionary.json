@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "d302b0a5cbd0e8b2918b7a963dd9b61f8f4dce7943000b97d0f01efb4f2ad093",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-strategy-use-dictionary",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 初步借助词典等工具学习\n\n## 能力说明\n\n初步借助词典等工具学习，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能查找简单词条并获取拼写、读音或基本义项。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l2-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "初步借助词典等工具学习"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "19db1f5310497947a6308d35807a7c0915b98c2a4c887d7c3da9fab4a116e8c8",
+  "fromId": "eng-theme-friends",
+  "id": "eng-rel-theme-friends-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

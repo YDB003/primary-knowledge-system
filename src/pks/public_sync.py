@@ -28,6 +28,13 @@ from .service import KnowledgeService
 
 REPOSITORY_ID_PATTERN = re.compile(r"[A-Za-z0-9][A-Za-z0-9._-]{0,95}")
 COMMIT_PATTERN = re.compile(r"[0-9a-f]{40}")
+LEGACY_PUBLIC_REPOSITORY_ID = "cn-primary-knowledge-base"
+LEGACY_PUBLIC_REPOSITORY_URL = (
+    "https://github.com/YDB003/cn-primary-knowledge-base.git"
+)
+UNIFIED_PUBLIC_REPOSITORY_URL = (
+    "https://github.com/YDB003/primary-knowledge-system.git"
+)
 
 
 def _utc_now() -> str:
@@ -36,6 +43,27 @@ def _utc_now() -> str:
 
 def _short_path_id(value: str, length: int = 16) -> str:
     return hashlib.sha256(value.encode("utf-8")).hexdigest()[:length]
+
+
+def _normalize_repository_url(value: str) -> str:
+    normalized = value.strip().rstrip("/")
+    if normalized.casefold().endswith(".git"):
+        normalized = normalized[:-4]
+    return normalized.casefold()
+
+
+def _is_approved_repository_move(
+    repository_id: str,
+    previous_url: str,
+    requested_url: str,
+) -> bool:
+    return (
+        repository_id == LEGACY_PUBLIC_REPOSITORY_ID
+        and _normalize_repository_url(previous_url)
+        == _normalize_repository_url(LEGACY_PUBLIC_REPOSITORY_URL)
+        and _normalize_repository_url(requested_url)
+        == _normalize_repository_url(UNIFIED_PUBLIC_REPOSITORY_URL)
+    )
 
 
 def _atomic_write_json(path: Path, value: object) -> None:
@@ -287,11 +315,24 @@ class PublicSyncService:
                 "reviewAttempts": {},
             }
         state = _read_object(path)
-        if state.get("repositoryUrl") != repository_url or state.get("branch") != branch:
+        if state.get("branch") != branch:
             raise ProtocolError(
                 "PUBLIC_REPOSITORY_ID_CONFLICT",
                 "repositoryId is already bound to another public source",
             )
+        previous_url = str(state.get("repositoryUrl", ""))
+        if previous_url != repository_url:
+            if not _is_approved_repository_move(
+                repository_id, previous_url, repository_url
+            ):
+                raise ProtocolError(
+                    "PUBLIC_REPOSITORY_ID_CONFLICT",
+                    "repositoryId is already bound to another public source",
+                )
+            history = state.setdefault("repositoryUrlHistory", [])
+            if previous_url not in history:
+                history.append(previous_url)
+            state["repositoryUrl"] = repository_url
         return state
 
     def _save_state(self, repository_id: str, state: dict[str, Any]) -> None:

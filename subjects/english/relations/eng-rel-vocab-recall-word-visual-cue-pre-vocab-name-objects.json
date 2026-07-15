@@ -1,0 +1,15 @@
+{
+  "contentHash": "03e3bed9badcd80776c7d1b1f34b28cf5b9fb2bd57078fa19bfd85468492dc78",
+  "fromId": "eng-ability-vocab-recall-word-visual-cue",
+  "id": "eng-rel-vocab-recall-word-visual-cue-pre-vocab-name-objects",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n面对常见人物或事物选用准确词语命名，必须先能由相应视觉对象提取已学单词。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-name-objects"
+}

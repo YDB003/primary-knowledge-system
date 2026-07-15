@@ -1,0 +1,14 @@
+{
+  "contentHash": "dc244140eb81e6e85d38ead21b7b170436a2e8cea1b63195371563c305f000bb",
+  "fromId": "eng-phrase-use-too-much",
+  "id": "eng-rel-phrase-use-too-much-supports-speak-express-feeling-attitude-view",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-express-feeling-attitude-view”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-express-feeling-attitude-view"
+}

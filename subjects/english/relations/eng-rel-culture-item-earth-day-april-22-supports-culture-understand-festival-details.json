@@ -1,0 +1,14 @@
+{
+  "contentHash": "70e400971c579aec00b2aba9a5d116507b2e6025dbca244dc0ca9be85b47a689",
+  "fromId": "eng-culture-item-earth-day-april-22",
+  "id": "eng-rel-culture-item-earth-day-april-22-supports-culture-understand-festival-details",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-culture-understand-festival-details”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-culture-understand-festival-details"
+}

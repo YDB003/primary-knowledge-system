@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "07acaf78ff1deae1c01b56dd3a5c50e3c1ac05872e3e1bd42c7946b654d6214f",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-use-dictionary-to-determine-unfamiliar-word-meaning-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-use-dictionary-to-determine-unfamiliar-word-meaning-s2-curriculum-standard",
+    "review-cn-chn-read-use-dictionary-to-determine-unfamiliar-word-meaning-s2-unified-pre-2024",
+    "review-cn-chn-read-use-dictionary-to-determine-unfamiliar-word-meaning-s2-unified-2024-revision",
+    "review-cn-chn-read-use-dictionary-to-determine-unfamiliar-word-meaning-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "阅读中遇到生词时，按字音或字形查字典，从条目义项中确定适合原句的意思。\n\n## 掌握证据\n\n- 能根据生词的字音或字形查阅对应字典条目。\n- 能比较条目中的不同义项，并结合原句确定适用的意思。\n\n## 常见错误\n\n- 直接抄写字典中的第一个义项，没有核对它是否适合原句。",
+  "title": "查字典确定阅读中生词的意思"
+}

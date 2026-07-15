@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "81dec585000275d53cab1ab8d79826c96a71f767ba90bb12d9a19d926ba4fdb8",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-theme-colourful-world",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕“The colourful world”组织基础听、说、读、看、写活动。学习时应把相关词句放回真实生活场景理解和使用。",
+  "title": "The colourful world"
+}

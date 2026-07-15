@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "251533c0be6a7757ef79e78bb7372c32418f474c822732c7f87ecea76135d601",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-leap-year",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-leap-year-pep",
+    "review-cn-math-leap-year-bnup",
+    "review-cn-math-leap-year-jsep"
+  ],
+  "subject": "math",
+  "summary": "公历年份通常能被4整除为闰年，整百年份需能被400整除。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“平年与闰年”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 所有4的倍数年份都不检查整百例外。",
+  "title": "平年与闰年"
+}

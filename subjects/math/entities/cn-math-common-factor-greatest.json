@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "fd32390ccab36e054899eb7a3a059a5f4423c54ed0a03450011d1bfdbb59032d",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-common-factor-greatest",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-common-factor-greatest-pep",
+    "review-cn-math-common-factor-greatest-bnup",
+    "review-cn-math-common-factor-greatest-jsep"
+  ],
+  "subject": "math",
+  "summary": "几个整数共有的因数是公因数，其中最大的正公因数可用于整体分组和分数约简。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“公因数与最大公因数”。\n- 能用数的结构或数量关系解释“公因数与最大公因数”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 把两个数的乘积误当作最大公因数。",
+  "title": "公因数与最大公因数"
+}

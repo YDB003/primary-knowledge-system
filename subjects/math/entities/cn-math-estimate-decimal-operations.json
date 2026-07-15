@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "cecd0a94282cab90a0f28d04b5a6c06110452c92bfa7215e510a7f2ad18c2dab",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-estimate-decimal-operations",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-estimate-decimal-operations-pep",
+    "review-cn-math-estimate-decimal-operations-bnup",
+    "review-cn-math-estimate-decimal-operations-jsep"
+  ],
+  "subject": "math",
+  "summary": "通过取整、取相近数和判断缩放方向，预估小数乘除结果的范围并检查小数点位置。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数乘除的数量级估计”。\n- 能用数量关系或运算结构解释“小数乘除的数量级估计”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 只核对数字串，不判断结果应比原量大还是小。",
+  "title": "小数乘除的数量级估计"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7f6ca34a32d2fc7d0b416a8170526642bafee4884c8afac16e03d7405a7c9f23",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-circle-area",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-circle-area-pep",
+    "review-cn-math-circle-area-bnup",
+    "review-cn-math-circle-area-jsep"
+  ],
+  "subject": "math",
+  "summary": "把圆等分并近似拼成长方形，可得到面积等于圆周率乘半径平方。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“圆的面积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 用直径平方直接乘圆周率。",
+  "title": "圆的面积"
+}

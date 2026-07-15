@@ -1,0 +1,12 @@
+{
+  "contentHash": "824f8a0fa918ebaa2aefd546caedce16e20ecb84820758b7f0dcb1d5e66e24ae",
+  "fromId": "cn-math-check-model-units",
+  "id": "rel-math-4f82b63f2ab242d8746ff577",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“检查模型单位一致性”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-model-with-data"
+}

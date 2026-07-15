@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "718bae0fda8b5bb941d5001d7286576b598680a1b1ced81086890cba3428041b",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5343",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":3,\"writtenForm\":\"千\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "千"
+}

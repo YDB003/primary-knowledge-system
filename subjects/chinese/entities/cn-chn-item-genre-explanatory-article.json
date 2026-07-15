@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "72923fafea2ada4487046fc26bf1e2fc80cb00108d80abc2710709fc9480fe4b",
+  "domain": "GENRE",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-item-genre-explanatory-article",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"genreCategory\":\"课程标准直接命名文体身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "说明性文章"
+}

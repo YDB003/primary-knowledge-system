@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "72f7c9bba58b8bfc8287b902b28a7e635b4516ca3894a58c840c6a2dc15338c8",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-triangle-basic-structure",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-triangle-basic-structure-pep",
+    "review-cn-math-triangle-basic-structure-bnup",
+    "review-cn-math-triangle-basic-structure-jsep"
+  ],
+  "subject": "math",
+  "summary": "三角形由三条线段首尾相接围成，具有三条边、三个角和三个顶点。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“三角形的边角顶点结构”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 三条线段没有封闭也判断为三角形。",
+  "title": "三角形的边角顶点结构"
+}

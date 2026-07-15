@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f791d8d076b9962227c3d0093c543b612a4a3b0a4058aa7bc87dacd9f9f1e53b",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-point-line-distance",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-point-line-distance-pep",
+    "review-cn-math-point-line-distance-bnup",
+    "review-cn-math-point-line-distance-jsep"
+  ],
+  "subject": "math",
+  "summary": "点到直线的垂线段长度是该点到直线的距离，也是所有连接线段中最短的。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“点到直线的距离”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 用斜线段长度作为点到直线距离。",
+  "title": "点到直线的距离"
+}

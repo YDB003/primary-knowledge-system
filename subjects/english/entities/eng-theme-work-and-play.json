@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5b27d3b12b5bac27743a19f4b6ed685600f2548bc5689ce1413399855ad9b8d1",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-theme-work-and-play",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕“Work and play”组织基础听、说、读、看、写活动。学习时应把相关词句放回真实生活场景理解和使用。",
+  "title": "Work and play"
+}

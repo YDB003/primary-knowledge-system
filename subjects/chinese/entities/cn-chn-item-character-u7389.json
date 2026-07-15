@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e90a92251cf3dc39c35571fd427900b352319f2735faa3296c1bf38e6047bbf9",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7389",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"variantForms\":[\"⺩\"],\"writtenForm\":\"玉\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "玉"
+}

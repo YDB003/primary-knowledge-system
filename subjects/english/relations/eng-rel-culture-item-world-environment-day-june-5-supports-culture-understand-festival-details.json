@@ -1,0 +1,14 @@
+{
+  "contentHash": "498cfb7a5a00fbc6b4e8b240a23ab44b2996065a27131f41b5c27334d6d738c1",
+  "fromId": "eng-culture-item-world-environment-day-june-5",
+  "id": "eng-rel-culture-item-world-environment-day-june-5-supports-culture-understand-festival-details",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-culture-understand-festival-details”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-culture-understand-festival-details"
+}

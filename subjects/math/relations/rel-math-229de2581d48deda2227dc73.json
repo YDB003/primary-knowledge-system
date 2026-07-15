@@ -1,0 +1,12 @@
+{
+  "contentHash": "f7778e75422b046085a4c524a62afd4b2d0b7e832929b38bb34f17dbb5af7f88",
+  "fromId": "cn-math-common-multiple-least",
+  "id": "rel-math-229de2581d48deda2227dc73",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“公倍数与最小公倍数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-parity-sum-product"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "61d82c4ff64424e71e9aaabfb2a95b7d3e98053c2a8c677fcd12605657ae3faf",
+  "fromId": "eng-sentence-pattern-person-use-resource-to-purpose",
+  "id": "eng-rel-sentence-pattern-person-use-resource-to-purpose-supports-grammar-identify-simple-sentence-structure",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-identify-simple-sentence-structure”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-identify-simple-sentence-structure"
+}

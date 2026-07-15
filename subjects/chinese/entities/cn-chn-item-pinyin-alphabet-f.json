@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "0a64f37035240e1532d31c623cb1bb0df2e82c939c996c5ab3e304664fd72dd3",
+  "domain": "PINYIN_SYMBOL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-pinyin-alphabet-f",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-hanyu-pinyin-scheme",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"symbol\":\"F/f\",\"symbolCategory\":\"字母表大小写字母对\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "字母F/f"
+}

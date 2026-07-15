@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "316e77903fa75f34edf689d7418b0e19f432659d48e8bd564c641dead85be83d",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-write-personal-experience-clearly-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-write-personal-experience-clearly-s2-curriculum-standard",
+    "review-cn-chn-expr-write-personal-experience-clearly-s2-unified-pre-2024",
+    "review-cn-chn-expr-write-personal-experience-clearly-s2-unified-2024-revision",
+    "review-cn-chn-expr-write-personal-experience-clearly-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面表达中只完成把自己的见闻写清楚这一操作，以人物、时间和事情可辨的见闻记录作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能写出人物、时间和事情可辨的见闻记录。\n- 能补写使见闻可辨的必要信息。\n\n## 常见错误\n\n- 关键人物或事情交代不清。",
+  "title": "把自己的见闻写清楚"
+}

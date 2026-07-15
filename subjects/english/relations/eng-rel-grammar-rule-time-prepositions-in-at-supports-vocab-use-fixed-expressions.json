@@ -1,0 +1,14 @@
+{
+  "contentHash": "b0b76b432ad881350ce0008077eaba9e7a11ed4b8b33486e225905a1e02a7188",
+  "fromId": "eng-grammar-rule-time-prepositions-in-at",
+  "id": "eng-rel-grammar-rule-time-prepositions-in-at-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

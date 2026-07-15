@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "a0feb7ef6ea16dc7547ee61f9467da473cd316a44d1ccd36c952d8b89c911e09",
+  "domain": "COMMUNICATIVE_FUNCTION",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-communicative-function-ask-and-tell-origin",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "使用 where 问句询问来源地，再用 be from 结构提供地点信息。",
+  "title": "询问和回答来源地"
+}

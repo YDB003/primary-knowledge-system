@@ -1,0 +1,12 @@
+{
+  "contentHash": "03918c83be0951b66c22a03286d450eed2f9a43e613082cf7c40a9d0794b47a1",
+  "fromId": "cn-math-elapsed-time-same-day",
+  "id": "rel-math-73371e1ab35b1df82b437e29",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“同一天经过时间”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-time-schedule"
+}

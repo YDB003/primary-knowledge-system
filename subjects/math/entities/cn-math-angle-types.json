@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a3c9810b7d01940ae5c3804d4639415cacc4d4048dab0732e1a3d51ebdb2ff01",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-angle-types",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-angle-types-pep",
+    "review-cn-math-angle-types-bnup",
+    "review-cn-math-angle-types-jsep"
+  ],
+  "subject": "math",
+  "summary": "可按与90度、180度和360度的关系对角分类。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“锐角直角钝角平角周角”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把图形边长或朝向作为角分类依据。",
+  "title": "锐角直角钝角平角周角"
+}

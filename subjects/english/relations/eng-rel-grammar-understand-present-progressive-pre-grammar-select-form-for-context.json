@@ -1,0 +1,15 @@
+{
+  "contentHash": "0ec98b651c3cda1bb9838c317665f83585fd4849c008606893243f9b1ccce48a",
+  "fromId": "eng-ability-grammar-understand-present-progressive",
+  "id": "eng-rel-grammar-understand-present-progressive-pre-grammar-select-form-for-context",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n在正在发生的动作语境中选择合适语法形式，必须先理解现在进行时的基本意义。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-select-form-for-context"
+}

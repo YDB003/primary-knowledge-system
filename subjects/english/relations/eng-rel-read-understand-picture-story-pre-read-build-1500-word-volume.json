@@ -1,0 +1,15 @@
+{
+  "contentHash": "ee37e83f644192a940a0c0bae205919e2c27f3ff7a00c831753376634cc07432",
+  "fromId": "eng-ability-read-understand-picture-story",
+  "id": "eng-rel-read-understand-picture-story-pre-read-build-1500-word-volume",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n把一级课外阅读计入有效积累，必须先能理解适龄配图故事的主要人物和事件。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-build-1500-word-volume"
+}

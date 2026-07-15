@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5c8f499261a5ee65caa790a70de0c6d1c17eaebae56d6b1241d56df861192b51",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-select-dictionary-entry-sense-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-select-dictionary-entry-sense-s2-curriculum-standard",
+    "review-cn-chn-lit-select-dictionary-entry-sense-s2-unified-pre-2024",
+    "review-cn-chn-lit-select-dictionary-entry-sense-s2-unified-2024-revision",
+    "review-cn-chn-lit-select-dictionary-entry-sense-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在字典或同类规范工具中从字典义项中选择语境义，得到可回查的检索结果。\n\n## 掌握证据\n\n- 能根据给定汉字信息独立从字典义项中选择语境义。\n- 能回到词条核对字形、读音或语境义。\n\n## 常见错误\n\n- 检索入口与已知信息不匹配，或找到词条后未核对所需义项。",
+  "title": "从字典义项中选择语境义"
+}

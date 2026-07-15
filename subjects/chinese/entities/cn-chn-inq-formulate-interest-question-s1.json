@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9fc614f6083a8a58ccb45938953d3688eaa00fb5cdd8ae6be52b92d0990bf40a",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-inq-formulate-interest-question-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-organizing-inquiry",
+    "review-cn-chn-inq-formulate-interest-question-s1-curriculum-standard",
+    "review-cn-chn-inq-formulate-interest-question-s1-unified-pre-2024",
+    "review-cn-chn-inq-formulate-interest-question-s1-unified-2024-revision",
+    "review-cn-chn-inq-formulate-interest-question-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“提出感兴趣内容的问题”这一操作，以针对具体内容且表意清楚的问题句作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能提出感兴趣内容的问题，产出针对具体内容且表意清楚的问题句。\n- 能换一个具体情境提出感兴趣内容的问题，仍产出针对具体内容且表意清楚的问题句。\n\n## 常见错误\n\n- 只说感兴趣，没有形成可以回答的问题。",
+  "title": "提出感兴趣内容的问题"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "f643d1638feaba9a5e75c53a64efa512cd75fa669a9f1734da59226efb54258f",
+  "fromId": "cn-math-indirect-length-comparison",
+  "id": "rel-math-905a192054643dd92e2387d7",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“借助中介比较长度”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-nonstandard-length-units"
+}

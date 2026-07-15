@@ -1,0 +1,12 @@
+{
+  "contentHash": "2b20f34a4c67bdbba5cc94d43654a594ba5fad922482c9ab65df240662e008e3",
+  "fromId": "cn-math-hour-minute-second-conversion",
+  "id": "rel-math-572dae09a57c3dfcab0097f8",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“时分秒换算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-elapsed-time-same-day"
+}

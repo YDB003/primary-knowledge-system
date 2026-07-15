@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "26e1830c858869c1fde8d975170ee54096b08bc96a8e47ed62795544f5f4f280",
+  "domain": "SENTENCE_PATTERN",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-sentence-pattern-what-should-person-do",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "What should ... do? 用来询问适合采取的行动，回答通常用 should 加动词原形。",
+  "title": "What should we do?"
+}

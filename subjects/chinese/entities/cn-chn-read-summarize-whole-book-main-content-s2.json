@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "80016038ffe9238ed0e1b134d9eafeee50a1bd5aecd5de9ec886cbc2dbef0860",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-summarize-whole-book-main-content-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-summarize-whole-book-main-content-s2-curriculum-standard",
+    "review-cn-chn-read-summarize-whole-book-main-content-s2-unified-pre-2024",
+    "review-cn-chn-read-summarize-whole-book-main-content-s2-unified-2024-revision",
+    "review-cn-chn-read-summarize-whole-book-main-content-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "读完整书后，用简短语句说清书中主要写了哪些人物、事件或知识内容。\n\n## 掌握证据\n\n- 能概括整书中的主要人物、主要事件或核心知识。\n- 能压缩次要细节后概括整书主要内容。\n\n## 常见错误\n\n- 只复述一个片段，不能说明整书主要写了什么。",
+  "title": "概括整书主要内容"
+}

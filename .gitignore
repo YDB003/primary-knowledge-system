@@ -7,4 +7,6 @@ __pycache__/
 vault/
 build/
 dist/
+!subjects/*/dist/
+!subjects/*/dist/knowledge.json
 *.egg-info/

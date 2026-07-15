@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "fe08247eb1bec34efbe5aca172df810fff10c4b936efaade4846796ab8ed15ee",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-balance-writing-quality-speed-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-balance-writing-quality-speed-s3-curriculum-standard",
+    "review-cn-chn-lit-balance-writing-quality-speed-s3-unified-pre-2024",
+    "review-cn-chn-lit-balance-writing-quality-speed-s3-unified-2024-revision",
+    "review-cn-chn-lit-balance-writing-quality-speed-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在持续的识字与书写活动中兼顾书写质量与速度，使该行为能够重复出现。\n\n## 掌握证据\n\n- 能在连续多次任务中主动兼顾书写质量与速度。\n- 发现偏差后能自行调整，并在后续任务中保持。\n\n## 常见错误\n\n- 只在提醒后短暂执行，不能在后续任务中持续保持。",
+  "title": "兼顾书写质量与速度"
+}

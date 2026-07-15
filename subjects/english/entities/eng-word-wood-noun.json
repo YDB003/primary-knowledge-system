@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "c54fe6a594ef70e40edeea4bbc13025c459dd237e0439424010c847da961d9cf",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-word-wood-noun",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "wood 在本知识点中作noun，基本义为“木材”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "wood"
+}

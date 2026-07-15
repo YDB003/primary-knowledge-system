@@ -1,0 +1,14 @@
+{
+  "contentHash": "faeb9bbe0a2d197076daee02ccd9161c7f24c9812d34ac1bb7208c43bc036771",
+  "fromId": "eng-phrase-have-lunch",
+  "id": "eng-rel-phrase-have-lunch-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

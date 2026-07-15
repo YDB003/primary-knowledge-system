@@ -1,0 +1,12 @@
+{
+  "contentHash": "9066a6f1aaa9c672ad6219d7306e75041f6eb0ac9ab52e46f28571207c66e5fc",
+  "fromId": "cn-math-perpendicular-lines",
+  "id": "rel-math-0cc9b008c9ed22adeade7e4f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“垂直与垂线”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-point-line-distance"
+}

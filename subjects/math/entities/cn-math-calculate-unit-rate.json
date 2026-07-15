@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "18e599ea6029b88de98e0f6ad3ea612bcca3caf935870d76ce26f5d201124942",
+  "domain": "数量关系",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-calculate-unit-rate",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-calculate-unit-rate-pep",
+    "review-cn-math-calculate-unit-rate-bnup",
+    "review-cn-math-calculate-unit-rate-jsep"
+  ],
+  "subject": "math",
+  "summary": "用总变化量除以对应的单位数量，可把多单位情形归一为每1单位的变化率。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“求单位率”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 颠倒除法顺序，得到每份量的倒数关系。",
+  "title": "求单位率"
+}

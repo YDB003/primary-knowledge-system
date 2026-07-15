@@ -1,0 +1,14 @@
+{
+  "contentHash": "70acc915085216eed449070887a119d693f12e9f462e627e5904e1c739896bcf",
+  "fromId": "eng-phrase-save-water",
+  "id": "eng-rel-phrase-save-water-supports-speak-express-feeling-attitude-view",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-express-feeling-attitude-view”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-express-feeling-attitude-view"
+}

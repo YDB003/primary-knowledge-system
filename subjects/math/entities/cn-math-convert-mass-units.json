@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "80f1bb4b08e3d06e03ca5b9f2564e2463edd5c3f2bd3649965124ccb781b62c4",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-convert-mass-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-convert-mass-units-pep",
+    "review-cn-math-convert-mass-units-bnup",
+    "review-cn-math-convert-mass-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "克、千克、吨之间按1000进率换算。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“质量单位换算”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把质量单位按10进制换算。",
+  "title": "质量单位换算"
+}

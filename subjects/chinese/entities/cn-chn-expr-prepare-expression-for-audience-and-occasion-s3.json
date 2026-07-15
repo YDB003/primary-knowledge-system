@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3c80bff1f44cfa9d45dc39fcd61ed13afa8a2ce5e409775d61da8d1cee3c0348",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-prepare-expression-for-audience-and-occasion-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-prepare-expression-for-audience-and-occasion-s3-curriculum-standard",
+    "review-cn-chn-expr-prepare-expression-for-audience-and-occasion-s3-unified-pre-2024",
+    "review-cn-chn-expr-prepare-expression-for-audience-and-occasion-s3-unified-2024-revision",
+    "review-cn-chn-expr-prepare-expression-for-audience-and-occasion-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中，根据交谈对象和具体场合调整发言内容并说出简短发言。\n\n## 掌握证据\n\n- 能面向特定对象说出符合场合的简短发言。\n- 能在对象或场合变化后调整口头内容并再次说出。\n\n## 常见错误\n\n- 对象或场合变化后仍说出完全相同的发言。",
+  "title": "根据对象和场合作简短发言"
+}

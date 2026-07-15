@@ -1,0 +1,12 @@
+{
+  "contentHash": "7740c9a3b092bfb786952379be949829cca4387cd08d3bf2da298fcc4dccb56e",
+  "fromId": "cn-math-parallelogram-trapezoid-properties",
+  "id": "rel-math-4136c5c9be0bf371570b4057",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平行四边形与梯形的性质”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-faces-edges-vertices"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "ef72746885fef594f635970b2e2e305f80d0f36f5de719b91463c6de210a3e1d",
+  "fromId": "eng-culture-item-earth-day-april-22",
+  "id": "eng-rel-culture-item-earth-day-april-22-supports-culture-learn-through-simple-media",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-culture-learn-through-simple-media”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-culture-learn-through-simple-media"
+}

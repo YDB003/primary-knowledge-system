@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5d2d2c0359d2be39959bbd0e9c094f85d64ddb828d1d14e857a95120be5fb6b7",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-explain-key-sentence-function-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-explain-key-sentence-function-s2-curriculum-standard",
+    "review-cn-chn-read-explain-key-sentence-function-s2-unified-pre-2024",
+    "review-cn-chn-read-explain-key-sentence-function-s2-unified-2024-revision",
+    "review-cn-chn-read-explain-key-sentence-function-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "结合关键词句的具体表达，说明它怎样突出文本意思或传达相应情感。\n\n## 掌握证据\n\n- 能指出关键词句所突出或具体说明的文本意思。\n- 能解释关键词句中的措辞怎样传达相应情感。\n\n## 常见错误\n\n- 只说句子重要或表达感情，没有说明它表达的意思或情感。",
+  "title": "解释关键词句的表情达意作用"
+}

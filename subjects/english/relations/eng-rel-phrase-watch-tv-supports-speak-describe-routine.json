@@ -1,0 +1,14 @@
+{
+  "contentHash": "64f043cad105a49f6b258af9cb95d6a1e164b4f303848d7c8188ef7f62ea1e32",
+  "fromId": "eng-phrase-watch-tv",
+  "id": "eng-rel-phrase-watch-tv-supports-speak-describe-routine",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-routine”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-routine"
+}

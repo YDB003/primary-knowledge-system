@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "813fed89a4be51b80b17c0aad49e2096ab568efbad1ba3301dd505efde625ad0",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-successive-multiplicative-change",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-successive-multiplicative-change-pep",
+    "review-cn-math-successive-multiplicative-change-bnup",
+    "review-cn-math-successive-multiplicative-change-jsep"
+  ],
+  "subject": "math",
+  "summary": "连续按不同倍数缩放时，总缩放倍数等于各阶段倍数的乘积。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“连续倍增变化”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把连续倍数相加作为总倍数。",
+  "title": "连续倍增变化"
+}

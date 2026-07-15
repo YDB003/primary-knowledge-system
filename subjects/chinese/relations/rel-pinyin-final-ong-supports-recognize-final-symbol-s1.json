@@ -1,0 +1,12 @@
+{
+  "contentHash": "5108f114a86f5bcfe77fd99ba7bca8cc2f1782a4f3dbbd26213b1980cf044a1a",
+  "fromId": "cn-chn-item-pinyin-final-ong",
+  "id": "rel-pinyin-final-ong-supports-recognize-final-symbol-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该韵母表形式是认读韵母符号操作的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-final-symbol-s1"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "12ea7b560bbeb30dfbead4d270ab348a20147769eee6f61a44f027e72117b872",
+  "fromId": "cn-math-square-properties",
+  "id": "rel-math-24defa73be1c27ef6b192f5a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正方形的基本性质”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compose-decompose-plane-shapes"
+}

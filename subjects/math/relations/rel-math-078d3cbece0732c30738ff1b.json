@@ -1,0 +1,12 @@
+{
+  "contentHash": "ae016bff132894689f95941ad62bfcaf362c49b26ddf1007c24f2ae5734185b8",
+  "fromId": "cn-math-clean-organize-project-data",
+  "id": "rel-math-078d3cbece0732c30738ff1b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“整理核查项目数据”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-report-data-conclusion"
+}

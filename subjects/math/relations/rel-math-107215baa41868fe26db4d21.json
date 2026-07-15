@@ -1,0 +1,12 @@
+{
+  "contentHash": "069768ec00da449f88953387a7bcbddbc20090ac26d1d4b3c9666314967e7b4a",
+  "fromId": "cn-math-estimate-division-quotient-range",
+  "id": "rel-math-107215baa41868fe26db4d21",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“除法商的范围估计”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-check-by-inverse-operation"
+}

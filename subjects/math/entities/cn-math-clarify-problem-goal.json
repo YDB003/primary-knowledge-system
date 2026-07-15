@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9fb1a2e3105d5d973261eec7b1cb3dd33cdd64f2503762cdf29d7106e12ff86b",
+  "domain": "数学思维与方法",
+  "entityType": "skill",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-clarify-problem-goal",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:mathematical-thinking-and-methods",
+    "anchor-stage-2-mathematical-thinking-and-methods",
+    "review-cn-math-clarify-problem-goal-pep",
+    "review-cn-math-clarify-problem-goal-bnup",
+    "review-cn-math-clarify-problem-goal-jsep"
+  ],
+  "subject": "math",
+  "summary": "用自己的话说明求什么和条件是什么。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“澄清问题目标”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "澄清问题目标"
+}

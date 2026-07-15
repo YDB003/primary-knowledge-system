@@ -1,0 +1,12 @@
+{
+  "contentHash": "cbfb1928935916c7576e6e7a0e97676c329f436696e8887d439e48b42b6d38be",
+  "fromId": "cn-chn-item-character-u5e72",
+  "id": "rel-character-u5e72-supports-copy-character-form-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该规范字形是第一学段摹写汉字字形操作的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-copy-character-form-s1"
+}

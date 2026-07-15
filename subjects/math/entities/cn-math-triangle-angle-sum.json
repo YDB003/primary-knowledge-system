@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0fce4031df183746ecf8d5f5dbcb14fb0ef3f79b3ef422fa3c187b8e447507c4",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-triangle-angle-sum",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-triangle-angle-sum-pep",
+    "review-cn-math-triangle-angle-sum-bnup",
+    "review-cn-math-triangle-angle-sum-jsep"
+  ],
+  "subject": "math",
+  "summary": "任意三角形三个内角之和为180度，可通过剪拼或平行线关系验证。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“三角形内角和”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 因三角形形状改变就认为内角和也改变。",
+  "title": "三角形内角和"
+}

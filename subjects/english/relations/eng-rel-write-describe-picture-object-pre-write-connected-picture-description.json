@@ -1,0 +1,15 @@
+{
+  "contentHash": "42043b8276da783cd72c016bf8eafd4669190a28b859f54b6776a3674346c409",
+  "fromId": "eng-ability-write-describe-picture-object",
+  "id": "eng-rel-write-describe-picture-object-pre-write-connected-picture-description",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n围绕图片写出几句连贯描述，必须先能用简单句准确描述其中的人物、动作或特征。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-write-connected-picture-description"
+}

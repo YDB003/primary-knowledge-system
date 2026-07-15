@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "fd5c6dd785a72284b4b941e1b1a595ff35c646163792b4e87dc7ee777c1283ba",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u65e9",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"writtenForm\":\"早\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "早"
+}

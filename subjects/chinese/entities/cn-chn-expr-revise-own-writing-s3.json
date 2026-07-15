@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "47bd0f0f2e357d16764560dc9d5a4b761e6e971192dbdac0c740d07e7198d156",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-revise-own-writing-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-revise-own-writing-s3-curriculum-standard",
+    "review-cn-chn-expr-revise-own-writing-s3-unified-pre-2024",
+    "review-cn-chn-expr-revise-own-writing-s3-unified-2024-revision",
+    "review-cn-chn-expr-revise-own-writing-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面自改中，用删除、替换或补写处理自己习作的一处具体问题。\n\n## 掌握证据\n\n- 能修改自己习作中的一处具体问题。\n- 能在自改后写出处理该问题的句子。\n\n## 常见错误\n\n- 没有核对具体问题就随意改词。",
+  "title": "修改自己的习作"
+}

@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "29e9af6b282a8bcae5f08e55e6c28098d1986e003181340758106249ade47fde",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-ch",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n清辅音 /tʃ/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n先形成类似 /t/ 的阻塞，再立即释放成 /ʃ/，作为一个连续辅音发出。\n\n## 示例\n\n可在这些词中观察该声音：chair、watch。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "清辅音 /tʃ/"
+}

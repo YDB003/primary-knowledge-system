@@ -1,0 +1,12 @@
+{
+  "contentHash": "7481a72e0b4c7cd716147aa0198d0a96d397dd9017b179f814e193767b59722f",
+  "fromId": "cn-math-use-factor-structure-in-fractions",
+  "id": "rel-math-2d296ec0269522e5c6a529c0",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用因数倍数结构处理分数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-divisibility-reasoning"
+}

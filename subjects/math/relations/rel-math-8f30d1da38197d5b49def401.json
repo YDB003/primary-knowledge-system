@@ -1,0 +1,12 @@
+{
+  "contentHash": "67d2ec46fe940725a8da45efc7da880bad002c5b2f5851495d59c024d1ed8069",
+  "fromId": "cn-math-fraction-part-of-whole",
+  "id": "rel-math-8f30d1da38197d5b49def401",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数表示整体的一部分”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-unit-fraction"
+}

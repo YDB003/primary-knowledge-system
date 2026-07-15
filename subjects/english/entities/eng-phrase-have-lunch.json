@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "571a5e76ee8b949efc8c7a1f0f37c7ce4ee9ff38fda7e87a1cec803f7ca0b8bb",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-have-lunch",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "have lunch 表示“吃午饭”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "have lunch"
+}

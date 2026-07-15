@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "99d8734091a7771e1a96d49a0bc9aa08a466e7216c643d2aa0f1e9d856ba1bb8",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-read-through-multiple-media-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-read-through-multiple-media-s3-curriculum-standard",
+    "review-cn-chn-read-read-through-multiple-media-s3-unified-pre-2024",
+    "review-cn-chn-read-read-through-multiple-media-s3-unified-2024-revision",
+    "review-cn-chn-read-read-through-multiple-media-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "围绕同一阅读目的，选择并读取由文字、图像、音视频或数字界面等不同媒介承载的信息。\n\n## 掌握证据\n\n- 能选择两种以上媒介检索与阅读同一主题的信息。\n- 能比较不同媒介提供的信息形式，并指出各自补充的内容。\n\n## 常见错误\n\n- 只切换设备或页面，没有实际读取不同媒介承载的信息。",
+  "title": "运用多种媒介阅读"
+}

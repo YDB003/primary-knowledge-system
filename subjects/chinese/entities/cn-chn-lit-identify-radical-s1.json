@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "81ced4932606259080103ae365de7b8ceeb26908193a25f718f54e6e7d45b9b3",
+  "domain": "识字与写字",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-identify-radical-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-identify-radical-s1-curriculum-standard",
+    "review-cn-chn-lit-identify-radical-s1-unified-pre-2024",
+    "review-cn-chn-lit-identify-radical-s1-unified-2024-revision",
+    "review-cn-chn-lit-identify-radical-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "观察汉字构形时辨认汉字偏旁，以笔画、偏旁、部件或结构关系呈现结果。\n\n## 掌握证据\n\n- 能在陌生字形中准确辨认汉字偏旁。\n- 能指出所依据的构形位置或部件线索。\n\n## 常见错误\n\n- 把笔画、偏旁、部件和整字结构混为同一层级。",
+  "title": "辨认汉字偏旁"
+}

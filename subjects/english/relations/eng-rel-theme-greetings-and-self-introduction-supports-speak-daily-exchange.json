@@ -1,0 +1,14 @@
+{
+  "contentHash": "099a5c5f57f0b4fb58a5c25f05889cb149cedc5f5fcc4c952155adbb7c0504db",
+  "fromId": "eng-theme-greetings-and-self-introduction",
+  "id": "eng-rel-theme-greetings-and-self-introduction-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-3a-m2"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

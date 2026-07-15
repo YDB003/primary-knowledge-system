@@ -1,0 +1,12 @@
+{
+  "contentHash": "2352ad7d405c27723a076966d4ee0ac073353c578ab8e89e8d513c99baf7fe5f",
+  "fromId": "cn-math-regroup-tens-and-ones",
+  "id": "rel-math-7aa99433184e731687f9d023",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“十和一之间的重新组合”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-whole-number-expanded-form"
+}

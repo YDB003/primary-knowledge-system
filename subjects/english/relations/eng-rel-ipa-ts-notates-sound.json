@@ -1,0 +1,15 @@
+{
+  "contentHash": "e4bf6b6c64ec7b14ccb55ec34810339e924fe2bbe08bbe0f8ae079cf24b4888d",
+  "fromId": "eng-ipa-ts",
+  "id": "eng-rel-ipa-ts-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ts/ 这个书写符号用于标记辅音音位序列“辅音序列 /ts/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-sequence-ts"
+}

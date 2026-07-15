@@ -1,0 +1,12 @@
+{
+  "contentHash": "3b6ac373f52f91847a0b23ee640ad662dd34b00fd52906b1d96ba55fa83411f2",
+  "fromId": "cn-math-cube-volume",
+  "id": "rel-math-b40a8d71e861ebfe26e83ad9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正方体体积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-cuboid-surface-area"
+}

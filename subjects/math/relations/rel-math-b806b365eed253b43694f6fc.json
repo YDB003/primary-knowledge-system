@@ -1,0 +1,12 @@
+{
+  "contentHash": "a3a59e4c99fff626025a7db517e9993abc0d6b9bab83db2be90832e8550c74ce",
+  "fromId": "cn-math-ratio-fraction-division-link",
+  "id": "rel-math-b806b365eed253b43694f6fc",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比与分数除法的联系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-ratio-units-interpretation"
+}

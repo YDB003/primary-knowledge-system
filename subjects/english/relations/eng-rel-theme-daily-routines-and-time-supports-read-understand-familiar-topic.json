@@ -1,0 +1,14 @@
+{
+  "contentHash": "4b964e219dd7c95264599c2b18f5a29e2854097b46afa4f98e75f3bcdf414b78",
+  "fromId": "eng-theme-daily-routines-and-time",
+  "id": "eng-rel-theme-daily-routines-and-time-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "d2b1cdb3116c2d14fd0ecb7fb33900497e7ad75feaa3240d6a4a9264eb0a6535",
+  "fromId": "eng-ability-pron-perceive-sentence-rhythm",
+  "id": "eng-rel-pron-perceive-sentence-rhythm-pre-pron-imitate-intonation-rhythm",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n按意群模仿整体语调和节奏，必须先能感知重读、弱读与停顿构成的句子节奏。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-imitate-intonation-rhythm"
+}

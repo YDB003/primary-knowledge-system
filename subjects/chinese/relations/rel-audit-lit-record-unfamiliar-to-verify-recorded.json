@@ -1,0 +1,12 @@
+{
+  "contentHash": "d1c8490a6d77a84bc26adbc834db635b606c4c55d970f3f97948daaff6c0ff45",
+  "fromId": "cn-chn-lit-record-unfamiliar-character-s2",
+  "id": "rel-audit-lit-record-unfamiliar-to-verify-recorded",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "查验识字清单中的未识汉字必须先有保留完整字形与出现语境的记录；缺少可回查记录时，无法确定要查验的对象。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-verify-recorded-character-s2"
+}

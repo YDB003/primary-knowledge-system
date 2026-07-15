@@ -1,0 +1,15 @@
+{
+  "contentHash": "230e20d41f106752fdfb2ce675eb10e6ed68d8ad83ee384f15fe35eb1a0ffca1",
+  "fromId": "eng-ability-write-connected-picture-description",
+  "id": "eng-rel-write-connected-picture-description-pre-write-add-descriptive-detail",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n在初稿中补充颜色、大小、时间或感受等细节，必须先有围绕同一对象的连贯描述。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-write-add-descriptive-detail"
+}

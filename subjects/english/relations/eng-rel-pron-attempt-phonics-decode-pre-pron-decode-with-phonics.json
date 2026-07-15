@@ -1,0 +1,15 @@
+{
+  "contentHash": "f6130ef18a84225ec1767a4883a9b6cceca9ce75766f24f9247ac210634e632d",
+  "fromId": "eng-ability-pron-attempt-phonics-decode",
+  "id": "eng-rel-pron-attempt-phonics-decode-pre-pron-decode-with-phonics",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n独立运用拼读规律处理未学单词，必须先能在提示下尝试把同类规律用于拼读。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-decode-with-phonics"
+}

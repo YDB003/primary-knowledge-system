@@ -1,0 +1,12 @@
+{
+  "contentHash": "ecdc0ad5b5cd6dd72af7d99001a6c9b9508d2666efc841a95242527fd54abfe5",
+  "fromId": "cn-math-read-max-min-frequency",
+  "id": "rel-math-c274c380f886fe25dec02d66",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“读取最大最小频数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-total-from-data"
+}

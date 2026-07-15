@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "46fb41551bbdb435a9373df149c3473457a995c0b2d8472ae75f66dbd2e9e28d",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-additive-find-start",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-additive-find-start-pep",
+    "review-cn-math-additive-find-start-bnup",
+    "review-cn-math-additive-find-start-jsep"
+  ],
+  "subject": "math",
+  "summary": "初始量是变化发生前的未知量，可根据变化方向用加减逆运算从结果量还原。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“已知变化和结果求初始量”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 看到增加就一律相加，没有判断未知量是变化前还是变化后。",
+  "title": "已知变化和结果求初始量"
+}

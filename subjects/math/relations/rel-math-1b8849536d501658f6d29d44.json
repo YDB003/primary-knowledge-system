@@ -1,0 +1,12 @@
+{
+  "contentHash": "cd806e66f2fa7cb1f71e28b027cb2853d0f91457498fd9995cfbb176f4da659c",
+  "fromId": "cn-math-decimal-to-fraction",
+  "id": "rel-math-1b8849536d501658f6d29d44",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数化分数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-to-terminating-decimal"
+}

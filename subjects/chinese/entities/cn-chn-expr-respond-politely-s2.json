@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "530633c43e5685b7a12cf7cab507e2d1174fa9c0df1ce91862dec8f4e4e4517b",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-respond-politely-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-respond-politely-s2-curriculum-standard",
+    "review-cn-chn-expr-respond-politely-s2-unified-pre-2024",
+    "review-cn-chn-expr-respond-politely-s2-unified-2024-revision",
+    "review-cn-chn-expr-respond-politely-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头交往中，只完成针对对方请教事项作出礼貌回应的操作。\n\n## 掌握证据\n\n- 能针对对方请教的事项说出礼貌回应。\n- 能把一处不礼貌措辞调整为礼貌回应。\n\n## 常见错误\n\n- 回应没有针对对方提出的事项。",
+  "title": "有礼貌地作出回应"
+}

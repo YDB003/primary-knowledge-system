@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8ff5d98f93ca582d4230e1f9315e8e77e08e6d3e9bdf5164fc1d23456b36c628",
+  "domain": "阅读与鉴赏",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-explain-literal-sentence-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-explain-literal-sentence-s1-curriculum-standard",
+    "review-cn-chn-read-explain-literal-sentence-s1-unified-pre-2024",
+    "review-cn-chn-read-explain-literal-sentence-s1-unified-2024-revision",
+    "review-cn-chn-read-explain-literal-sentence-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "依据句中词语的常用意义和基本语序，用自己的话说明句子直接说了什么。\n\n## 掌握证据\n\n- 能解释陈述句在字面上说明的对象和动作。\n- 能按原有语序还原省略较少的句子字面信息。\n\n## 常见错误\n\n- 加入句中没有的原因或态度，把推断当成字面意思。",
+  "title": "解释句子字面意思"
+}

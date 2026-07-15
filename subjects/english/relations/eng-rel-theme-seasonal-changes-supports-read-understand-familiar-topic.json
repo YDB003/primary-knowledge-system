@@ -1,0 +1,14 @@
+{
+  "contentHash": "6faac57e38ef88300d454c62a7709b8ec86a0f03ef5868edf88c1d7762f3f5d4",
+  "fromId": "eng-theme-seasonal-changes",
+  "id": "eng-rel-theme-seasonal-changes-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

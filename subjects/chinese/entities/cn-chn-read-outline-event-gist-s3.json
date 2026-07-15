@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1dc42a21c824373e1e28b23131f94093c875260ac9e55e8ab36765318e31cdf5",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-outline-event-gist-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-outline-event-gist-s3-curriculum-standard",
+    "review-cn-chn-read-outline-event-gist-s3-unified-pre-2024",
+    "review-cn-chn-read-outline-event-gist-s3-unified-2024-revision",
+    "review-cn-chn-read-outline-event-gist-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "保留叙事性作品的主要人物、起因、经过和结果，用简明语句概述事件梗概。\n\n## 掌握证据\n\n- 能概括推动事件发展的主要人物和核心行动。\n- 能按起因、经过和结果概括事件梗概。\n\n## 常见错误\n\n- 罗列许多局部情节，却漏掉事件起因或结果。",
+  "title": "概述叙事性作品的事件梗概"
+}

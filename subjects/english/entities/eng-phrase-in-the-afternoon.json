@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e54802e1556a3ee35b2ec8f81bf7ccc45665be603131ebb496ab960e439297ec",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-in-the-afternoon",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "in the afternoon 表示“在下午”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "in the afternoon"
+}

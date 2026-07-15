@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "199fc0b2476651ac6336f5b6f923140b0069cc747f3e19803f74b2228fdaf9d3",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-square-properties",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-square-properties-pep",
+    "review-cn-math-square-properties-bnup",
+    "review-cn-math-square-properties-jsep"
+  ],
+  "subject": "math",
+  "summary": "正方形四边相等且四角都是直角，是特殊的长方形。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“正方形的基本性质”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 认为正方形不能归入长方形。",
+  "title": "正方形的基本性质"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "2385751563d25553c21354d74adc56481af5af5ed7cb090d9572cc86b4fc20a4",
+  "fromId": "cn-math-find-symmetry-axis",
+  "id": "rel-math-cfc3ee37f84e125a7e34af8e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“寻找对称轴”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-complete-symmetric-shape"
+}

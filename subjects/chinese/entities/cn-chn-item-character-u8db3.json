@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "c85e3042415ef9575e822c3ec8b943d84da0db11c7d5221f2df4b2f2f2ac67c3",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u8db3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":7,\"variantForms\":[\"⻊\"],\"writtenForm\":\"足\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "足"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "51f853e65ac704626110d3c6df133bbbc4d3ddbf533aeb952d3c307c33d8093a",
+  "domain": "discourse_pragmatics",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-prag-shop-interaction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-pragmatics"
+  ],
+  "subject": "english",
+  "summary": "# 在简单购物情境中交流\n\n## 能力说明\n\n在简单购物情境中交流，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能询问物品、价格或数量并完成简短购物对话。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：discourse_pragmatics\n- 课标锚点：[[eng-anchor-l2-pragmatics]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "在简单购物情境中交流"
+}

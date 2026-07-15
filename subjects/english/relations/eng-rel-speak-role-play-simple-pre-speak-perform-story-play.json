@@ -1,0 +1,15 @@
+{
+  "contentHash": "b0c265a895cea0db57f85b4482a0049b7a8049bb6df242ca4046fa99543c9a6e",
+  "fromId": "eng-ability-speak-role-play-simple",
+  "id": "eng-rel-speak-role-play-simple-pre-speak-perform-story-play",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n与同伴使用台词和动作表演故事，必须先能在提示下完成基本角色对话。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-perform-story-play"
+}

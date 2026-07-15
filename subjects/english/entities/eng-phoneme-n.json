@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "a00b2ec7ecc26b6bfd65b46fda0e3c58907a03cea77b2e716c2fc2288398b11b",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-n",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n鼻辅音 /n/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌尖抵住上齿龈，声带振动，气流从鼻腔通过。\n\n## 示例\n\n可在这些词中观察该声音：nose、ten。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "鼻辅音 /n/"
+}

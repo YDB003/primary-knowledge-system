@@ -1,0 +1,14 @@
+{
+  "contentHash": "278501e767e3feafc30b4be5485558b087e5129d696ca44048e63f0dbfe5e934",
+  "fromId": "eng-grapheme-rule-e-ee-to-long-i",
+  "id": "eng-rel-grapheme-rule-e-ee-to-long-i-supports-pron-decode-with-phonics",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-pron-decode-with-phonics”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-decode-with-phonics"
+}

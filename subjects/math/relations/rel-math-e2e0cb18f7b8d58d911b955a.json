@@ -1,0 +1,12 @@
+{
+  "contentHash": "bce1f2c1594724371e6848f98df49eef735b434eac53ab40272c7d3ac3348e20",
+  "fromId": "cn-math-common-factor-greatest",
+  "id": "rel-math-e2e0cb18f7b8d58d911b955a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“公因数与最大公因数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-common-multiple-least"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d18aa8d7cf7327060fad42e910fe83a51d790813d313a8a7b6c6d18c045ff9a1",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-rotation",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-rotation-pep",
+    "review-cn-math-rotation-bnup",
+    "review-cn-math-rotation-jsep"
+  ],
+  "subject": "math",
+  "summary": "旋转由中心、方向和角度确定，各点到旋转中心的距离保持不变。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“旋转”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只描述顺时针或逆时针却漏掉中心与角度。",
+  "title": "旋转"
+}

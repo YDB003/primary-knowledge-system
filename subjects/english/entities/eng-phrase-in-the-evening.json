@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f55e3fa3896471c5ec0c44573650b9556201b78adb69e93cbf2667920f4ebcce",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-in-the-evening",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "in the evening 表示“在傍晚；在晚上”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "in the evening"
+}

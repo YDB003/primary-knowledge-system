@@ -1,0 +1,12 @@
+{
+  "contentHash": "14c0c0cf7ddd3dc1d54d74712fba88f313b7452957194728ec48965c095f04ed",
+  "fromId": "cn-chn-item-oral-task-experience-feeling-idea-telling",
+  "id": "rel-oral-task-experience-feeling-idea-telling-supports-expr-state-opinion-clearly-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“见闻、感受和想法讲述任务”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-state-opinion-clearly-s2"
+}

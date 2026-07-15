@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5f4db9e407280f768d38f5da544690f15722eea70198ed5e1e3d34e39f7ba29a",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-item-word-relation-synonym",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"ruleCategory\":\"词义相同或相近关系身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "同义词关系"
+}

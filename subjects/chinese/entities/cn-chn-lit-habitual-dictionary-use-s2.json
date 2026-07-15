@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f09ca49a284443606a7cd39278a3116352acf9684c3b24e4cec344dba2aba98d",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-habitual-dictionary-use-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-habitual-dictionary-use-s2-curriculum-standard",
+    "review-cn-chn-lit-habitual-dictionary-use-s2-unified-pre-2024",
+    "review-cn-chn-lit-habitual-dictionary-use-s2-unified-2024-revision",
+    "review-cn-chn-lit-habitual-dictionary-use-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "遇到字形、读音或字义疑问时主动查字典，输出能够回答当前疑问的词条记录。\n\n## 掌握证据\n\n- 能在发现疑难字后主动选择查字典，而不是等待别人告知答案。\n- 能记录查得的字形、读音或义项，并说明解决了哪一项疑问。\n\n## 常见错误\n\n- 翻到相近词条便停止，没有核对词条是否回答当前疑问。",
+  "title": "遇到疑难字主动查字典"
+}

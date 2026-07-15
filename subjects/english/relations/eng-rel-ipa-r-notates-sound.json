@@ -1,0 +1,15 @@
+{
+  "contentHash": "154946d8c9a0a7f51ee5767a165a2b6c026b14b1c4c27ad7de5dcd20319c9d89",
+  "fromId": "eng-ipa-r",
+  "id": "eng-rel-ipa-r-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/r/ 这个书写符号用于标记英语声音“近音 /r/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-r"
+}

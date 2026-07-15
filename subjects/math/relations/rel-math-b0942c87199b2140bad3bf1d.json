@@ -1,0 +1,12 @@
+{
+  "contentHash": "9a195efa281041ac84297cd83075b235bf596da74b8de195cf820296380215a4",
+  "fromId": "cn-math-classify-multiple-criteria",
+  "id": "rel-math-b0942c87199b2140bad3bf1d",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“按多个标准分层分类”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-tally-data"
+}

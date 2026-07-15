@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b7f30137e5f3499fcf70dd09b31c039d6c46360d66f9edcc782a755507430cb5",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-writing-task-write-up",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"习作任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "写话任务"
+}

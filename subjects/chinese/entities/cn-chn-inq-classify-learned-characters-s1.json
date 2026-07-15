@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "33e0e5c0b0a2d9e8b960e48e3de0c4dc373196420f5a5b80b01f7f0e9d0f4d81",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-inq-classify-learned-characters-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-organizing-inquiry",
+    "review-cn-chn-inq-classify-learned-characters-s1-curriculum-standard",
+    "review-cn-chn-inq-classify-learned-characters-s1-unified-pre-2024",
+    "review-cn-chn-inq-classify-learned-characters-s1-unified-2024-revision",
+    "review-cn-chn-inq-classify-learned-characters-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“分类整理学过的汉字”这一操作，以带有分类标准的汉字分组结果作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能分类整理学过的汉字，产出带有分类标准的汉字分组结果。\n- 能换用另一批字词材料分类整理学过的汉字，仍产出带有分类标准的汉字分组结果。\n\n## 常见错误\n\n- 只按读音顺序摆放汉字，却说不出分类标准。",
+  "title": "分类整理学过的汉字"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "66537fd2be82a99c6ffff9c11c4501fe8f77c0293afb58f7fe196b3a6e5f2ab0",
+  "fromId": "eng-phrase-in-the-morning",
+  "id": "eng-rel-phrase-in-the-morning-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

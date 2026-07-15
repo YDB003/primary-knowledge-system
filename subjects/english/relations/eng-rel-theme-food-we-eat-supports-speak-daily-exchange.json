@@ -1,0 +1,14 @@
+{
+  "contentHash": "218194e26f96284ed6c200222430092af6a89cf04a99663e061ad16b70949101",
+  "fromId": "eng-theme-food-we-eat",
+  "id": "eng-rel-theme-food-we-eat-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

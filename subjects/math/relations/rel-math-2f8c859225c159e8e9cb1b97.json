@@ -1,0 +1,12 @@
+{
+  "contentHash": "c8960b0dd2dead92487365406c293a48e045fbaa21e88bd622486f48926f7cde",
+  "fromId": "cn-math-rate-as-change-per-unit",
+  "id": "rel-math-2f8c859225c159e8e9cb1b97",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“单位量变化率”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-calculate-unit-rate"
+}

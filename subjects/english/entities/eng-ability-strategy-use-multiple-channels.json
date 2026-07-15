@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "8a069ac54fb10f7ba12a76d1995fb27098f8fd60762a5b7e17aa9a52194b2904",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-strategy-use-multiple-channels",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 尝试多种途径学习英语\n\n## 能力说明\n\n尝试多种途径学习英语，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能选择图片、音频、动作或阅读中的两种方式学习同一内容。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l1-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "尝试多种途径学习英语"
+}

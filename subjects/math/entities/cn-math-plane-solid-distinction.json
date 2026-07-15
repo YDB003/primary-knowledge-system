@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4f1a22e88462bc615e6fe3aa08d9d6266629db0ccea8bc9785d247832ecf1753",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-plane-solid-distinction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-plane-solid-distinction-pep",
+    "review-cn-math-plane-solid-distinction-bnup",
+    "review-cn-math-plane-solid-distinction-jsep"
+  ],
+  "subject": "math",
+  "summary": "平面图形主要描述二维边界，立体图形占据三维空间，物体的面可以呈现平面图形。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“平面图形与立体图形的区别”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把物体照片中的轮廓直接当作物体本身的立体形状。",
+  "title": "平面图形与立体图形的区别"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5c8a8c22cdbb12d92d496f81f771714f605254d9f8947f4ca4e1abf06f627118",
+  "domain": "统计与概率",
+  "entityType": "model",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-line-chart",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:statistics-and-probability",
+    "anchor-stage-3-statistics-and-probability",
+    "review-cn-math-line-chart-pep",
+    "review-cn-math-line-chart-bnup",
+    "review-cn-math-line-chart-jsep"
+  ],
+  "subject": "math",
+  "summary": "按顺序连接数据点可突出随时间或顺序的变化趋势。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“折线统计图”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 把无顺序类别也强行连线解释趋势。",
+  "title": "折线统计图"
+}

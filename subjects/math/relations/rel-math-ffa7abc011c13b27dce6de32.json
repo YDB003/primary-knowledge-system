@@ -1,0 +1,12 @@
+{
+  "contentHash": "5a72cf4e4295d5129c8745c72cc5acefe609f2ee641e9c4e772c7f416bc1a801",
+  "fromId": "cn-math-qualitative-likelihood",
+  "id": "rel-math-ffa7abc011c13b27dce6de32",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“可能性大小的定性比较”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-randomness-unpredictable-single"
+}

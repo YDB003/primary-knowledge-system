@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e453f29e96f43b19c64932a81e7b37bfeb73e98f7e8f7920b34971805be916fe",
+  "domain": "图形与几何",
+  "entityType": "skill",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-spatial-visualization",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-spatial-visualization-pep",
+    "review-cn-math-spatial-visualization-bnup",
+    "review-cn-math-spatial-visualization-jsep"
+  ],
+  "subject": "math",
+  "summary": "结合多个方向视图和方块数量，可推断可能的立体排列并检查是否唯一。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“由视图想象立体结构”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只凭一个视图断定唯一摆法。",
+  "title": "由视图想象立体结构"
+}

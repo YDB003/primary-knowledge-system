@@ -1,0 +1,14 @@
+{
+  "contentHash": "d0ad6951f6fbd323178d359ec393bb0b09656b9ee33ae689a22eaadb05909eed",
+  "fromId": "eng-word-wood-noun",
+  "id": "eng-rel-word-wood-noun-supports-vocab-name-objects",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-name-objects”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-name-objects"
+}

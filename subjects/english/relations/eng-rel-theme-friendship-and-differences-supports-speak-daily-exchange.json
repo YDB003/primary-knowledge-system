@@ -1,0 +1,14 @@
+{
+  "contentHash": "f73bc053385ce4ff24471e056f5c1eae2288e5b6371be10bd53150ae463fa969",
+  "fromId": "eng-theme-friendship-and-differences",
+  "id": "eng-rel-theme-friendship-and-differences-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

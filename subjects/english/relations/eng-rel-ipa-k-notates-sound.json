@@ -1,0 +1,15 @@
+{
+  "contentHash": "e900d64160d82ad6486d81fa025661136455f8b40ff53dc5c763532d69b555ad",
+  "fromId": "eng-ipa-k",
+  "id": "eng-rel-ipa-k-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/k/ 这个书写符号用于标记英语声音“清辅音 /k/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-k"
+}

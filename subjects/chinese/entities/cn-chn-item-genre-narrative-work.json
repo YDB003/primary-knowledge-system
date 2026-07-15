@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e558de36b38db7d16746b88fc03fa51759a2279bd527bd344d3dd345c3535178",
+  "domain": "GENRE",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "cn-chn-item-genre-narrative-work",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"genreCategory\":\"课程标准直接命名文体身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "叙事性作品"
+}

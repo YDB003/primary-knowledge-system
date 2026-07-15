@@ -1,0 +1,14 @@
+{
+  "contentHash": "9108576799a0d6ab556433bc7399ed79059f81176e1b359b33934f0d65e2c05c",
+  "fromId": "eng-word-waste-verb",
+  "id": "eng-rel-word-waste-verb-supports-vocab-describe-actions-processes",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-describe-actions-processes”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-describe-actions-processes"
+}

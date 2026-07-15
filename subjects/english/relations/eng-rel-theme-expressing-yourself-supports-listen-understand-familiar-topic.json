@@ -1,0 +1,14 @@
+{
+  "contentHash": "97c3e5d194d308bf4ebe976f195cfa75508b7609a588b82e4164bfc01b224ee4",
+  "fromId": "eng-theme-expressing-yourself",
+  "id": "eng-rel-theme-expressing-yourself-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e0263c333bbd19b1f3c4a528a6bdcbd97ff66d90763c890994d5d5f400265307",
+  "domain": "数学思维与方法",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-observe-varying-attributes",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:mathematical-thinking-and-methods",
+    "anchor-stage-1-mathematical-thinking-and-methods",
+    "review-cn-math-observe-varying-attributes-pep",
+    "review-cn-math-observe-varying-attributes-bnup",
+    "review-cn-math-observe-varying-attributes-jsep"
+  ],
+  "subject": "math",
+  "summary": "确定哪些属性变化、哪些保持不变。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“有目的观察变化属性”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "有目的观察变化属性"
+}

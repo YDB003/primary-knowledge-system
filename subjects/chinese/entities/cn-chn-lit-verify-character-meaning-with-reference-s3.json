@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "27bd09115d5421e20d4b9abb8439ae9f335a662e04e885f3d5f91df2343548eb",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-verify-character-meaning-with-reference-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-verify-character-meaning-with-reference-s3-curriculum-standard",
+    "review-cn-chn-lit-verify-character-meaning-with-reference-s3-unified-pre-2024",
+    "review-cn-chn-lit-verify-character-meaning-with-reference-s3-unified-2024-revision",
+    "review-cn-chn-lit-verify-character-meaning-with-reference-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在工具书词条中比较义项与当前语境，输出最匹配的汉字意义和义项位置。\n\n## 掌握证据\n\n- 能查找目标词条并指出与语境相关的候选义项。\n- 能把选定意义代回语境检查解释是否通顺。\n\n## 常见错误\n\n- 抄录全部义项却不选择与当前语境匹配的意义。",
+  "title": "使用工具书核验汉字意义"
+}

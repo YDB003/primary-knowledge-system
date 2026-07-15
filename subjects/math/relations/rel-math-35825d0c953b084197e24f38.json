@@ -1,0 +1,12 @@
+{
+  "contentHash": "a6aa40e38aa6c16e13ced882d8001576a2684302596cd4b99470d3648861e487",
+  "fromId": "cn-math-rotation",
+  "id": "rel-math-35825d0c953b084197e24f38",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“旋转”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-identify-rigid-motion"
+}

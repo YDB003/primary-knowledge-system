@@ -1,0 +1,14 @@
+{
+  "contentHash": "fdbf734a9854a03e1e7808e7878723181126d80563d52b9785b2021d2ccafa56",
+  "fromId": "eng-communicative-function-ask-and-tell-origin",
+  "id": "eng-rel-communicative-function-ask-and-tell-origin-supports-speak-ask-personal-info",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-ask-personal-info”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-ask-personal-info"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c34e0b9fe00d7d57211e2c30728e9b130e28cf934e5ae8070743bc342efb611a",
+  "domain": "统计与概率",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-tally-data",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:statistics-and-probability",
+    "anchor-stage-1-statistics-and-probability",
+    "review-cn-math-tally-data-pep",
+    "review-cn-math-tally-data-bnup",
+    "review-cn-math-tally-data-jsep"
+  ],
+  "subject": "math",
+  "summary": "用统一符号逐项记录可减少遗漏并便于计数。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“用符号记录数据”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 事后凭记忆补记录。",
+  "title": "用符号记录数据"
+}

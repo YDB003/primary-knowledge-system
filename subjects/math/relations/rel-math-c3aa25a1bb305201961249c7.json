@@ -1,0 +1,12 @@
+{
+  "contentHash": "b2133c781f8a9a08922824b1d415eab55aa5eac390a3cc701020346763d7b5f6",
+  "fromId": "cn-math-reciprocal",
+  "id": "rel-math-c3aa25a1bb305201961249c7",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“倒数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-divide-by-fraction"
+}

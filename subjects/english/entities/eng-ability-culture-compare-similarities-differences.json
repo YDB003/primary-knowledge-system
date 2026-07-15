@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "32de03a78f27b2e953bf1a689c7d3ab3199063cf8643d42361e30a2cd27b4d9a",
+  "domain": "culture",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-culture-compare-similarities-differences",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-culture"
+  ],
+  "subject": "english",
+  "summary": "# 初步比较中外文化异同\n\n## 能力说明\n\n初步比较中外文化异同，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能围绕同一主题指出一种相同和一种不同。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：culture\n- 课标锚点：[[eng-anchor-l2-culture]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "初步比较中外文化异同"
+}

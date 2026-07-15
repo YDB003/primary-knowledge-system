@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "7bc36171e6544a211c98ebbd167e7c774a58e55f6c26dc7b16dd19043a490855",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-strategy-preview",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 根据需要进行预习\n\n## 能力说明\n\n根据需要进行预习，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 课前能浏览学习内容并标记已知和疑问。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l2-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "根据需要进行预习"
+}

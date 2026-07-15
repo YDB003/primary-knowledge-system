@@ -1,0 +1,15 @@
+{
+  "contentHash": "402b2f82a576d2ff7fe1d34f70bb1b861906f4270b8c65aa99984408beae8365",
+  "fromId": "eng-phoneme-sequence-ts",
+  "id": "eng-rel-phoneme-sequence-ts-supports-basic-pronunciation",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 基础支撑关系\n\n基础内容“辅音序列 /ts/”为正式能力“模仿基础语音和句子升降调”提供辨认、模仿或练习工具。\n\n这条关系只表示支撑，不把基础工具误标为三至六年级独立必修能力。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-imitate-basic-pronunciation"
+}

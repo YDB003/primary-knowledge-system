@@ -1,0 +1,12 @@
+{
+  "contentHash": "64216815da446e1b292cdc5aaf8381ab9d99dcf0e640ea7a2acbe7c34d6541c9",
+  "fromId": "cn-math-additive-increase-result",
+  "id": "rel-math-d6358bb30424d376bba1d710",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“增加变化中求结果量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-additive-decrease-result"
+}

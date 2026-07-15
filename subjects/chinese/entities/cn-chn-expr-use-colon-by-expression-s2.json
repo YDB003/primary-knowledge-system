@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7dc15e550a81a9337523924d90af106b93ad956bb6b9bedb826b38ab22e1735a",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-use-colon-by-expression-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-use-colon-by-expression-s2-curriculum-standard",
+    "review-cn-chn-expr-use-colon-by-expression-s2-unified-pre-2024",
+    "review-cn-chn-expr-use-colon-by-expression-s2-unified-2024-revision",
+    "review-cn-chn-expr-use-colon-by-expression-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面表达中只完成按表达需要使用冒号这一操作，以用于提示下文等常见位置的冒号作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能写出用于提示下文等常见位置的冒号。\n- 能在另一处提示下文的位置写出冒号。\n\n## 常见错误\n\n- 没有提示关系也使用冒号。",
+  "title": "按表达需要使用冒号"
+}

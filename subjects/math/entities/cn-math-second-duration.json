@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b6981d57c78aadc2743b23b850d48cc044a253de17c2963b256022a7730ab2f2",
+  "domain": "量与计量",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-second-duration",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-second-duration-pep",
+    "review-cn-math-second-duration-bnup",
+    "review-cn-math-second-duration-jsep"
+  ],
+  "subject": "math",
+  "summary": "秒适合描述很短事件，60秒等于1分钟。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“秒的量感”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 用秒估计需要数小时的活动。",
+  "title": "秒的量感"
+}

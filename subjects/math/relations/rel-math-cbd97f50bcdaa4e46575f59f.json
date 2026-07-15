@@ -1,0 +1,12 @@
+{
+  "contentHash": "169d4bf7a445ed29b47afb7a8f9340f462e55d96d14789810b380c37cc7281e6",
+  "fromId": "cn-math-identify-rigid-motion",
+  "id": "rel-math-cbd97f50bcdaa4e46575f59f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“辨认平移旋转与轴对称”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-transformation-invariants"
+}

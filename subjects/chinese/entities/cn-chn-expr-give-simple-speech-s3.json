@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5dc279ba06cc282b1bcf675e4ae6582a6a35e8fbfaa6188364228b0db0661e27",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-give-simple-speech-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-give-simple-speech-s3-curriculum-standard",
+    "review-cn-chn-expr-give-simple-speech-s3-unified-pre-2024",
+    "review-cn-chn-expr-give-simple-speech-s3-unified-2024-revision",
+    "review-cn-chn-expr-give-simple-speech-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中，围绕一个主题说出意思完整的简短发言。\n\n## 掌握证据\n\n- 能围绕一个主题说出简短发言。\n- 能围绕另一主题说出简短发言。\n\n## 常见错误\n\n- 发言偏离主题或没有形成完整意思。",
+  "title": "作简短的准备性发言"
+}

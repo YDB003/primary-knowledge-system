@@ -1,0 +1,15 @@
+{
+  "contentHash": "054ebfefa7128c8e992a4a5fba4d4da6bc062aeecae854abb2a229950e7d07ed",
+  "fromId": "eng-ipa-long-er",
+  "id": "eng-rel-ipa-long-er-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ɜː/ 这个书写符号用于标记英语声音“长元音 /ɜː/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-long-er"
+}

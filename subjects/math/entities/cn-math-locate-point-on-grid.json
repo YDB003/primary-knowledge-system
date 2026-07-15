@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "403c7641e76732b97c358c2c67956d495b536d280288c24a4dcc68b0de37ee85",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-locate-point-on-grid",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-locate-point-on-grid-pep",
+    "review-cn-math-locate-point-on-grid-bnup",
+    "review-cn-math-locate-point-on-grid-jsep"
+  ],
+  "subject": "math",
+  "summary": "先沿第一坐标方向找到对应线，再沿第二方向确定交点。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“根据数对在方格中定位”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 从错误原点出发或混淆两个坐标方向。",
+  "title": "根据数对在方格中定位"
+}

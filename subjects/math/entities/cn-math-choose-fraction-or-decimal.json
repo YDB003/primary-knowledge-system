@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8482a30d747d5295dd6a4505471d1e99b5137e98346c36e46cef34db3f391c2f",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-choose-fraction-or-decimal",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-choose-fraction-or-decimal-pep",
+    "review-cn-math-choose-fraction-or-decimal-bnup",
+    "review-cn-math-choose-fraction-or-decimal-jsep"
+  ],
+  "subject": "math",
+  "summary": "同一个有理数量可以用分数或小数表示，应根据精确性、计算便利和情境单位选择形式。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“分数与小数表示的选择”。\n- 能用数量关系或运算结构解释“分数与小数表示的选择”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把表示形式不同误认为数量本身不同。",
+  "title": "分数与小数表示的选择"
+}

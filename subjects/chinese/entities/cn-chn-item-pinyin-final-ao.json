@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "2ce4306cd2aa1ee08fa7b0409ffde2055802985c30fa9c878fc46704c92f0ba5",
+  "domain": "PINYIN_SYMBOL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-pinyin-final-ao",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-hanyu-pinyin-scheme",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"symbol\":\"ao\",\"symbolCategory\":\"韵母\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "韵母ao"
+}

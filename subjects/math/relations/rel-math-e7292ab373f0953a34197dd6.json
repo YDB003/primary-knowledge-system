@@ -1,0 +1,12 @@
+{
+  "contentHash": "ab05504243cedbbfa2e2028f3ff4198675880a908008615e5066111c06843b28",
+  "fromId": "cn-math-measurement-error",
+  "id": "rel-math-e7292ab373f0953a34197dd6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“测量误差与重复测量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-scale-range-reasonableness"
+}

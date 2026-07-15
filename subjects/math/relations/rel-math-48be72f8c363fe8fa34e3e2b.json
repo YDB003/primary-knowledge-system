@@ -1,0 +1,12 @@
+{
+  "contentHash": "e0531b4d710d9c2ad7db13ace4865274e98bbd7eb248a6bdb51889c4e47f7438",
+  "fromId": "cn-math-read-write-signed-numbers",
+  "id": "rel-math-48be72f8c363fe8fa34e3e2b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正负数的读写”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-signed-numbers-on-number-line"
+}

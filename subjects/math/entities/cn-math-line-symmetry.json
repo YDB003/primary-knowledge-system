@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "da7a8addb9cb6b1d7f03b557d92d7d5a12c6dc7344b736e537bcaedf8336e295",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-line-symmetry",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-line-symmetry-pep",
+    "review-cn-math-line-symmetry-bnup",
+    "review-cn-math-line-symmetry-jsep"
+  ],
+  "subject": "math",
+  "summary": "沿某条直线折叠后两侧能够完全重合的图形是轴对称图形，该直线是对称轴。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“轴对称图形”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 外观看起来均衡就判断轴对称。",
+  "title": "轴对称图形"
+}

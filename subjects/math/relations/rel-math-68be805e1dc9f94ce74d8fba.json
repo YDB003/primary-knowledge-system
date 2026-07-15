@@ -1,0 +1,12 @@
+{
+  "contentHash": "62726e56d88ad97e66b42f348fed404850b7db564a536ea841c11af2bf6303e7",
+  "fromId": "cn-math-decimal-meaning",
+  "id": "rel-math-68be805e1dc9f94ce74d8fba",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数表示十进分数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-decimal-point-and-places"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "9785a80c2bc3ce86d9fe8e5a3ccd9580df4fc11853802b9c80127438deba71f2",
+  "fromId": "cn-math-additive-find-change",
+  "id": "rel-math-80a6995dae6d3f017c2d0787",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“已知初始和结果求变化量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-two-step-additive-change"
+}

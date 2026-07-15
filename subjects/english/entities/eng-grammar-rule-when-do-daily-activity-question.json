@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "3378eb1a1881390223398590bcd0c6b4dff5e0327f6a07f245e0f19d65b9cb02",
+  "domain": "GRAMMAR_RULE",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-grammar-rule-when-do-daily-activity-question",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "一般现在时的时间问句可以由 When、do、主语和动词原形构成。主语为单数第三人称时需改用 does。",
+  "title": "When 与 do 构成时间问句"
+}

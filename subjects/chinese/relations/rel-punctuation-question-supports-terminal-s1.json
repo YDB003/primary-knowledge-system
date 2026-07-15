@@ -1,0 +1,12 @@
+{
+  "contentHash": "16e3bc7d651bed8b9b908deede4ff7320ee975a2dabe1cd9ceb667d37e9bedb7",
+  "fromId": "cn-chn-item-punctuation-symbol-question-mark",
+  "id": "rel-punctuation-question-supports-terminal-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "问号符号身份支持按疑问语气选用对应句末点号的书面表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-choose-terminal-punctuation-by-expression-s1"
+}

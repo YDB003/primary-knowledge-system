@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "212c30d31676ff5656919a3d794569f8494e8e94febca743c5749af9c0c5d115",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-mass-add-subtract-context",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-mass-add-subtract-context-pep",
+    "review-cn-math-mass-add-subtract-context-bnup",
+    "review-cn-math-mass-add-subtract-context-jsep"
+  ],
+  "subject": "math",
+  "summary": "同单位质量可按情境相加、相减或比较，混合单位应先统一。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“质量的合并与相差”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 克和千克数值直接相加。",
+  "title": "质量的合并与相差"
+}

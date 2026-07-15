@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c1ee148e9cea24ed1d3ed55b2290288ca0d7ad09e8f00a67b5a91c6824784184",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-rectangle-properties",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-rectangle-properties-pep",
+    "review-cn-math-rectangle-properties-bnup",
+    "review-cn-math-rectangle-properties-jsep"
+  ],
+  "subject": "math",
+  "summary": "长方形有四个直角，两组对边分别平行且相等。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“长方形的基本性质”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 图形斜放后就不再认为是长方形。",
+  "title": "长方形的基本性质"
+}

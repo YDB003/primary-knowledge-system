@@ -1,0 +1,15 @@
+{
+  "contentHash": "a97dcabec0e016e75edd0cd84cc65d4e06966488bd4fff3d8fc0ab295ec57693",
+  "fromId": "eng-ipa-eth",
+  "id": "eng-rel-ipa-eth-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ð/ 这个书写符号用于标记英语声音“浊辅音 /ð/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-eth"
+}

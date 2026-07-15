@@ -1,0 +1,15 @@
+{
+  "contentHash": "d618a26802b46bd9bf1bc127c5c086971053e578cf87a89219418c526c6fe3e3",
+  "fromId": "eng-ability-imitate-basic-pronunciation",
+  "id": "eng-rel-imitate-basic-pronunciation-pre-pron-read-dialogue-clearly",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n把学过的对话读得清楚连贯，必须先能模仿其中主要发音和句子升降调。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-read-dialogue-clearly"
+}

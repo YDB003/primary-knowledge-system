@@ -1,0 +1,12 @@
+{
+  "contentHash": "90b479ff03de670d7e7668fcff20d3c6f2085f4496b144281721d4b9cc9dee11",
+  "fromId": "cn-math-days-in-month",
+  "id": "rel-math-0a3dfd8d857b0af2c10c58dc",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“判断月份天数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-leap-year"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "68de5dd8d9f323776238d9266726fde8c765f6b1eac12b2a96d23011f3e03302",
+  "fromId": "eng-ipa-diphthong-eye",
+  "id": "eng-rel-ipa-diphthong-eye-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/aɪ/ 这个书写符号用于标记英语声音“双元音 /aɪ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-diphthong-eye"
+}

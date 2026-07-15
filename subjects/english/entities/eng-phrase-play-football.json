@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "9b90b55a0e6b525f90a4aed70b4e01df7a144d60c2858ee212859fdeae5d6565",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-play-football",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "play football 表示“踢足球”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "play football"
+}

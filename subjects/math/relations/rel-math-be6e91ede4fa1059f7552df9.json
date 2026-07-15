@@ -1,0 +1,12 @@
+{
+  "contentHash": "2f07be98381f6223bbef56109ca278337e9fbc18dda17c5fc7f3cfb8266a7bed",
+  "fromId": "cn-math-estimate-multiplication",
+  "id": "rel-math-be6e91ede4fa1059f7552df9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“乘法结果估算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-estimate-division-quotient-range"
+}

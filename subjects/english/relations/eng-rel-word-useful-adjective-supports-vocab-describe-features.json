@@ -1,0 +1,14 @@
+{
+  "contentHash": "2b88af68b3f194155682f23a016ccf81fa8079409417d69aebd7953bda1b1b0f",
+  "fromId": "eng-word-useful-adjective",
+  "id": "eng-rel-word-useful-adjective-supports-vocab-describe-features",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-describe-features”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-describe-features"
+}

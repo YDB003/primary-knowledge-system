@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "bfc78a8c3bee32f7d50d59b9988bd85da3ddcd01c07fb5109bd7f63242311479",
+  "domain": "量与计量",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-standard-length-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-standard-length-units-pep",
+    "review-cn-math-standard-length-units-bnup",
+    "review-cn-math-standard-length-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "毫米、厘米、分米、米和千米适合不同尺度，并有固定换算关系。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“常用长度单位”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 只看数值不看单位比较长度。",
+  "title": "常用长度单位"
+}

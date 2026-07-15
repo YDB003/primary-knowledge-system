@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "91e2b200fe67a1984d246adc9eaa1b14a70ca687b48b80430936db36f460f243",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-strategy-self-evaluate-adjust",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 评价反思并调整学习计划\n\n## 能力说明\n\n评价反思并调整学习计划，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 对照目标检查效果后能修改下一步计划。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l2-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "评价反思并调整学习计划"
+}

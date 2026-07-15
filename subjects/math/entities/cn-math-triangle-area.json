@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e68c4cb1fdfb8ff3ebfb669bb7b5a40b5d3d03e1b67e909204d8339b5219afb8",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-triangle-area",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-triangle-area-pep",
+    "review-cn-math-triangle-area-bnup",
+    "review-cn-math-triangle-area-jsep"
+  ],
+  "subject": "math",
+  "summary": "两个全等三角形可拼成平行四边形，三角形面积等于底乘对应高除以2。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“三角形面积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 忘记除以2或底与高不对应。",
+  "title": "三角形面积"
+}

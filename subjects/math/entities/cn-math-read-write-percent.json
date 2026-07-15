@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "34e686e4e57d6579d4e13817df0178b1c432a1588d7cb3d353904f3f833d058a",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-read-write-percent",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-read-write-percent-pep",
+    "review-cn-math-read-write-percent-bnup",
+    "review-cn-math-read-write-percent-jsep"
+  ],
+  "subject": "math",
+  "summary": "百分数用百分号表示，读写时数值与百分号共同构成相对于100的份额。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“百分数的读写”。\n- 能用数量关系或运算结构解释“百分数的读写”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把百分号遗漏，导致百分数变成普通数。",
+  "title": "百分数的读写"
+}

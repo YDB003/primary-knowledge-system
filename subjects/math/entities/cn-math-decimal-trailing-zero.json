@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "850ace2a0f3448c1d55260568185285500d551b59a7c64d87653a24bea5bbb62",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-decimal-trailing-zero",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-decimal-trailing-zero-pep",
+    "review-cn-math-decimal-trailing-zero-bnup",
+    "review-cn-math-decimal-trailing-zero-jsep"
+  ],
+  "subject": "math",
+  "summary": "在小数末尾添加或删除0不改变各非零数字的位值，因此小数数值保持不变。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数末尾添零去零数值不变”。\n- 能用数量关系或运算结构解释“小数末尾添零去零数值不变”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把小数中间或整数部分的0也任意删除。",
+  "title": "小数末尾添零去零数值不变"
+}

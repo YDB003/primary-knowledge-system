@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "b5aeaed3dc05699f8f4569bc3f1df2c8180189c376cc74cdc606e2aa00ca69d0",
+  "domain": "PUNCTUATION",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-item-punctuation-rule-enumeration-comma-vs-comma",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-samr-punctuation-2011",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"punctuationCategory\":\"用法规则身份\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "顿号与逗号用法区分规则"
+}

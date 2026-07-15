@@ -1,0 +1,12 @@
+{
+  "contentHash": "27062a588611f5a03159d14947e8f73b56edc7f87f04f0e2826d955b98cce4d7",
+  "fromId": "cn-math-line-chart",
+  "id": "rel-math-5bb8831065cf8b73916fcbc5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“折线统计图”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-choose-statistical-display"
+}

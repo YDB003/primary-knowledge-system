@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6284ed47877b1808f497041334f90458fa236c9c1fad5253c2ce1e1d80a9f1b9",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-fraction-fundamental-property",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-fraction-fundamental-property-pep",
+    "review-cn-math-fraction-fundamental-property-bnup",
+    "review-cn-math-fraction-fundamental-property-jsep"
+  ],
+  "subject": "math",
+  "summary": "分数的分子和分母同时乘或除以同一个非零数，分数值保持不变。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“分数的基本性质”。\n- 能用数量关系或运算结构解释“分数的基本性质”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 只改变分子或只改变分母也认为分数值不变。",
+  "title": "分数的基本性质"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "2f23269a301faa158213c1a770376dbaabf7dcabeb3ec9ba6be2b7ffc380b520",
+  "fromId": "cn-math-subtraction-take-away",
+  "id": "rel-math-7fa28dfd3de4fd080f41773b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“减法表示去掉”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-subtraction-comparison"
+}

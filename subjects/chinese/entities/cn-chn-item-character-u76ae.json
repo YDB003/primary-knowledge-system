@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "be2d85bb9918c8f313dd2404eeddbc50848dfbb9ed7b2ed62e122b172363ffd5",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u76ae",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"writtenForm\":\"皮\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "皮"
+}

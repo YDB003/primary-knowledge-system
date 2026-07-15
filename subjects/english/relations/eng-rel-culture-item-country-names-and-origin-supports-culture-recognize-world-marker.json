@@ -1,0 +1,14 @@
+{
+  "contentHash": "e2e98b3f9bc42e6b80abe1d8d0963552930a2f06929f4471f49080cf23687f06",
+  "fromId": "eng-culture-item-country-names-and-origin",
+  "id": "eng-rel-culture-item-country-names-and-origin-supports-culture-recognize-world-marker",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-culture-recognize-world-marker”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-culture-recognize-world-marker"
+}

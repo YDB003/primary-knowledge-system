@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "465d05e6b633511a63b0adaabf1700405ef7a58448924082cce36340e668a6d6",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-ask-for-clarification-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-ask-for-clarification-s2-curriculum-standard",
+    "review-cn-chn-expr-ask-for-clarification-s2-unified-pre-2024",
+    "review-cn-chn-expr-ask-for-clarification-s2-unified-2024-revision",
+    "review-cn-chn-expr-ask-for-clarification-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头交往中，就自己未听懂的一处内容向对方提出具体问题。\n\n## 掌握证据\n\n- 能就未听懂的具体内容向对方提问。\n- 能换一个未听懂的疑点向对方提问。\n\n## 常见错误\n\n- 没有说明未听懂之处，只作笼统追问。",
+  "title": "就未听懂处向人请教"
+}

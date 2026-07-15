@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "264f6ce1235e94e47457b77d8bd2760488021a3efaa06023c177c9830a5e0aae",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-distinguish-similar-forms-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-distinguish-similar-forms-s1-curriculum-standard",
+    "review-cn-chn-lit-distinguish-similar-forms-s1-unified-pre-2024",
+    "review-cn-chn-lit-distinguish-similar-forms-s1-unified-2024-revision",
+    "review-cn-chn-lit-distinguish-similar-forms-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在不依赖具体字表的识字任务中辨别形近字字形，建立可核对的形音义联系。\n\n## 掌握证据\n\n- 能面对未学材料中的目标汉字独立辨别形近字字形。\n- 能用读音、语境意义或规范字形说明判断结果。\n\n## 常见错误\n\n- 只凭局部字形或单一读音作答，未核对形音义关系。",
+  "title": "辨别形近字字形"
+}

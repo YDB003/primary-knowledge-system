@@ -1,0 +1,12 @@
+{
+  "contentHash": "2f9dbc21d78a0a0c6dc72f405cddcf82eefd2d24c86ad57d015139083f3e441c",
+  "fromId": "cn-math-unit-fraction",
+  "id": "rel-math-e3bc49ad9ef5f2022d6c7f0d",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“单位分数的意义”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-numerator-denominator"
+}

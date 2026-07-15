@@ -1,0 +1,14 @@
+{
+  "contentHash": "f0dbe5c003cc2a7091dfc7d1effd8e336281c7c9c291ce87ff5686d9356c3c52",
+  "fromId": "eng-phrase-in-the-morning",
+  "id": "eng-rel-phrase-in-the-morning-supports-speak-describe-routine",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-routine”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-routine"
+}

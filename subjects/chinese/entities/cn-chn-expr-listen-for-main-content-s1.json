@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "94b29507b8f3c5f80500071adb60e4a2404faa9f5eddeaa43fb7d9b2c51469ff",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-listen-for-main-content-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-listen-for-main-content-s1-curriculum-standard",
+    "review-cn-chn-expr-listen-for-main-content-s1-unified-pre-2024",
+    "review-cn-chn-expr-listen-for-main-content-s1-unified-2024-revision",
+    "review-cn-chn-expr-listen-for-main-content-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在倾听后，只辨认讲话主要围绕的事情或意思，并以该主要内容作为判断结果。\n\n## 掌握证据\n\n- 能说出讲话的主要内容。\n- 能指出与主要内容直接相关的一项信息。\n\n## 常见错误\n\n- 只记住零散细节，无法指出讲话主要内容。",
+  "title": "听取讲话的主要内容"
+}

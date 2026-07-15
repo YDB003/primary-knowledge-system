@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "aafc6c8a34843530423dc7c71aa6fbd05f5875a68e7608aa25c4f62050f5991e",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-compare-fractions-with-benchmark",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-compare-fractions-with-benchmark-pep",
+    "review-cn-math-compare-fractions-with-benchmark-bnup",
+    "review-cn-math-compare-fractions-with-benchmark-jsep"
+  ],
+  "subject": "math",
+  "summary": "可利用0、二分之一、1等基准判断分数所在区间，再比较两个分数的大小。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“用基准数比较分数”。\n- 能用数量关系或运算结构解释“用基准数比较分数”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 只比较与基准的表面差值，不保持同一单位整体。",
+  "title": "用基准数比较分数"
+}

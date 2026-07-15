@@ -1,0 +1,14 @@
+{
+  "contentHash": "b2cee70939b1c091ac62e5a708b8e60062be938e0b35d338be7978a48645baea",
+  "fromId": "eng-phrase-in-the-evening",
+  "id": "eng-rel-phrase-in-the-evening-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

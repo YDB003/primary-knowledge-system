@@ -1,0 +1,12 @@
+{
+  "contentHash": "dc1413a54fd5583fce4b66c3da39c6819f176368d308fc77747bf8ba9933810e",
+  "fromId": "cn-math-estimate-capacity",
+  "id": "rel-math-5b1d131b50ae2fce8e5caf3d",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“容量估测”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-capacity-volume-link"
+}

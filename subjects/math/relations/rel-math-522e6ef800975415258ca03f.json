@@ -1,0 +1,12 @@
+{
+  "contentHash": "a18d3ac4aa0f53d95d2f98c002de2bc525c22f6bd7abac809f077b48a6a66b85",
+  "fromId": "cn-math-division-equal-sharing",
+  "id": "rel-math-522e6ef800975415258ca03f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“除法表示平均分”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-division-equal-grouping"
+}

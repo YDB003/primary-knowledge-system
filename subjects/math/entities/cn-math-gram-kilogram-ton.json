@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "016833b6a548f2386ef9b6795b2db2dd6c014c8a6f73ffa0723600daa92c4f6e",
+  "domain": "量与计量",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-gram-kilogram-ton",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-gram-kilogram-ton-pep",
+    "review-cn-math-gram-kilogram-ton-bnup",
+    "review-cn-math-gram-kilogram-ton-jsep"
+  ],
+  "subject": "math",
+  "summary": "克、千克和吨分别适合较轻、日常和大型物体的质量。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“克千克吨的量感”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 给普通文具使用吨作单位。",
+  "title": "克千克吨的量感"
+}

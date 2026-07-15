@@ -1,0 +1,12 @@
+{
+  "contentHash": "6d158a2314cbb8b82bd4e03eba56d8b296be12b085e7dd6f466969ab9a80d447",
+  "fromId": "cn-chn-inq-identify-component-relationships-s1",
+  "id": "rel-audit-inq-component-relationships-to-lit-construction-rationale",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "分析汉字构字理据必须先能指出部件的位置与组合关系；否则无法进一步解释部件配置怎样提示字义范围或读音线索。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-analyze-character-construction-rationale-s3"
+}

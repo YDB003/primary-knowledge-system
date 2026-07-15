@@ -1,0 +1,12 @@
+{
+  "contentHash": "877735c35646264ff67035efe4dadec1a1686c0701f185f73037778d8c9f4ab6",
+  "fromId": "cn-chn-lit-identify-nonstandard-character-s3",
+  "id": "rel-audit-lit-identify-nonstandard-to-replace",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "替换不规范用字必须先识别并定位已确认的不规范形式；否则无法确定需要替换的位置和对应的规范字形。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-replace-nonstandard-character-s3"
+}

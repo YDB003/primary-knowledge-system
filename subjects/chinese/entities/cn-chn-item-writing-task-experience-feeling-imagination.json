@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5cd893cdeb5d2811e47dffe5abf2a3eed7dccf285b26b66642ca9eacfd93f6a6",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-item-writing-task-experience-feeling-imagination",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"习作任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "见闻、感受和想象习作任务"
+}

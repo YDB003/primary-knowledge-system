@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "4553cef75004e58d49f34dda5dd88c98104818ba643f2fcdaea5fd686c112553",
+  "domain": "discourse_pragmatics",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-prag-ask-directions",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-pragmatics"
+  ],
+  "subject": "english",
+  "summary": "# 在问路情境中交流\n\n## 能力说明\n\n在问路情境中交流，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能礼貌询问地点并理解简单路线说明。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：discourse_pragmatics\n- 课标锚点：[[eng-anchor-l2-pragmatics]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "在问路情境中交流"
+}

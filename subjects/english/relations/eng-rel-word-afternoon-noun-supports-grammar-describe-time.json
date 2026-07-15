@@ -1,0 +1,14 @@
+{
+  "contentHash": "5e0e2f3e5a482681982986eaf29bec700531810a3576a77cf5d30a32c9a8febb",
+  "fromId": "eng-word-afternoon-noun",
+  "id": "eng-rel-word-afternoon-noun-supports-grammar-describe-time",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-describe-time”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-describe-time"
+}

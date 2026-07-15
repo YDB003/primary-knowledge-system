@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "45b9a1fbf2edea50c4bd6dd9d773757cfc9f83ba24d3fa24c3723a37bfa348fe",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-write-final-symbols-legibly-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-write-final-symbols-legibly-s1-curriculum-standard",
+    "review-cn-chn-lit-write-final-symbols-legibly-s1-unified-pre-2024",
+    "review-cn-chn-lit-write-final-symbols-legibly-s1-unified-2024-revision",
+    "review-cn-chn-lit-write-final-symbols-legibly-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "按规范笔形和组合顺序书写韵母符号，输出完整可辨的韵母形式。\n\n## 掌握证据\n\n- 能在四线格中完整书写给定韵母符号。\n- 能检查韵母各字母的先后和占格，指出漏写或错位处。\n\n## 常见错误\n\n- 漏写复韵母中的字母，或把相近韵母的字母顺序写反。",
+  "title": "清楚书写韵母符号"
+}

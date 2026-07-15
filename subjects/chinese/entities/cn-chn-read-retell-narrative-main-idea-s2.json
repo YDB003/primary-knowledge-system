@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "919abbe1892d7647de07ffd4abf3687596346e789ce98446710f6dac6000e0a4",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-retell-narrative-main-idea-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-retell-narrative-main-idea-s2-curriculum-standard",
+    "review-cn-chn-read-retell-narrative-main-idea-s2-unified-pre-2024",
+    "review-cn-chn-read-retell-narrative-main-idea-s2-unified-2024-revision",
+    "review-cn-chn-read-retell-narrative-main-idea-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "保留叙事性作品的主要人物、核心事件和结果，按基本发展顺序重新讲述作品大意。\n\n## 掌握证据\n\n- 能复述推动核心事件发展的主要环节。\n- 能压缩次要细节后复述人物、事件和结果。\n\n## 常见错误\n\n- 逐句重复局部细节，却漏掉核心事件或结果。",
+  "title": "复述叙事性作品大意"
+}

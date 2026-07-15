@@ -1,0 +1,12 @@
+{
+  "contentHash": "e0520938264c72853d951e5b0bf8abfee68eb681f7bedab42f6826e1662cd638",
+  "fromId": "cn-math-define-data-population",
+  "id": "rel-math-e2915cd0f1dca3338950d3cf",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“确定调查对象与范围”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-plan-data-collection"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b0a05992fa99046294798286afaa856422dc2c31196c2d9a8fb28616cc025ebc",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-theme-daily-routines-and-time",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕一天中的时间、活动顺序和个人作息组织语言，可用于描述并比较日常安排。",
+  "title": "My day"
+}

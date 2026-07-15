@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e01954d3f0d15be6b23144af5a8fc1d0758070e326bd7ef45937d49bb4401676",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u4eae",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":9,\"writtenForm\":\"亮\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "亮"
+}

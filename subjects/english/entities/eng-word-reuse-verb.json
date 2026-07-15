@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "d7ef9784881e0031027edbfbc8d6d08c9b5822d4f2361ab0b5ce7bfe63ebc01a",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-word-reuse-verb",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "reuse 在本知识点中作verb，基本义为“再次使用”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "reuse"
+}

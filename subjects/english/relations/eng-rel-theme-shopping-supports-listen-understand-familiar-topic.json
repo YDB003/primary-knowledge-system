@@ -1,0 +1,14 @@
+{
+  "contentHash": "20aa63e4ed566f6511adc51c785c9b1b4c61b1a322b270263a133278b5255bb5",
+  "fromId": "eng-theme-shopping",
+  "id": "eng-rel-theme-shopping-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

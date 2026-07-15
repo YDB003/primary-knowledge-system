@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "51bcbdf86457a7dee35d91c12dfb3fbf904057838629f078b5ec26cceec1ed31",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-read-modern-text-aloud-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-read-modern-text-aloud-s2-curriculum-standard",
+    "review-cn-chn-read-read-modern-text-aloud-s2-unified-pre-2024",
+    "review-cn-chn-read-read-modern-text-aloud-s2-unified-2024-revision",
+    "review-cn-chn-read-read-modern-text-aloud-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在正确流利的基础上，根据句意和人物语气调整重音、停顿与语调朗读现代课文。\n\n## 掌握证据\n\n- 能标出一处需要重读或变化语调的句子。\n- 能朗读时用停顿和语调表现该句的具体情感。\n\n## 常见错误\n\n- 只提高音量表示有感情，语调与句意不符。",
+  "title": "有感情地朗读现代课文"
+}

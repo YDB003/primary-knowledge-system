@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1e9b17a0c96e3c9f4d387f7bdc5ef73129910066bc597f1894c43adc0a40e3ca",
+  "domain": "综合与实践",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-formulate-data-question",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:synthesis-and-practice",
+    "anchor-stage-3-synthesis-and-practice",
+    "review-cn-math-formulate-data-question-pep",
+    "review-cn-math-formulate-data-question-bnup",
+    "review-cn-math-formulate-data-question-jsep"
+  ],
+  "subject": "math",
+  "summary": "把笼统兴趣改写为可收集数据回答的问题。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“提出可调查的数据问题”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "提出可调查的数据问题"
+}

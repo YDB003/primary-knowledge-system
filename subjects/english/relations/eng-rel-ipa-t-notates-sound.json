@@ -1,0 +1,15 @@
+{
+  "contentHash": "04594c90838b9113afe88ba815d18b5435bf030c23bb49446b9e4ea89bdfb70a",
+  "fromId": "eng-ipa-t",
+  "id": "eng-rel-ipa-t-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/t/ 这个书写符号用于标记英语声音“清辅音 /t/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-t"
+}

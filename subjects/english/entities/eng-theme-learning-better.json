@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e1ebf99fa0103b2d4975e4f991e6fc66227a38e3d8f960ff1ff1945864578bf3",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-theme-learning-better",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕“Learning better”组织基础听、说、读、看、写活动。学习时应把相关词句放回真实生活场景理解和使用。",
+  "title": "Learning better"
+}

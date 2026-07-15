@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "555c8ae25c18e4d9604c68e4c00d6ed9bffe1dfdb8efc6bc97b94ce60b454062",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-division-facts",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-division-facts-pep",
+    "review-cn-math-division-facts-bnup",
+    "review-cn-math-division-facts-jsep"
+  ],
+  "subject": "math",
+  "summary": "利用对应的乘法事实求表内除法的商。\n\n## 可观察证据\n\n- 能准确计算表内除法。\n- 能说出求商所依据的乘法事实。\n\n## 常见误区\n\n- 在同一组乘除事实中混淆被除数与除数。",
+  "title": "表内除法事实"
+}

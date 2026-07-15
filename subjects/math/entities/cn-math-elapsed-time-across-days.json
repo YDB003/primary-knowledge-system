@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "67198eb49ab131c842969baf1a53f26c83a81b41ba5904093b973448d8affb7c",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-elapsed-time-across-days",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-elapsed-time-across-days-pep",
+    "review-cn-math-elapsed-time-across-days-bnup",
+    "review-cn-math-elapsed-time-across-days-jsep"
+  ],
+  "subject": "math",
+  "summary": "跨越午夜时可分成开始到24时和0时到结束两段再相加。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“跨日经过时间”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 用较小时刻直接减较大时刻得到负时长。",
+  "title": "跨日经过时间"
+}

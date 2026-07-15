@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9feb70bca2111061e57176fc0156c43197630f2de425cbbf612ca248af4c7a94",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-compound-unit-conversion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-and-measurement",
+    "anchor-stage-3-quantity-and-measurement",
+    "review-cn-math-compound-unit-conversion-pep",
+    "review-cn-math-compound-unit-conversion-bnup",
+    "review-cn-math-compound-unit-conversion-jsep"
+  ],
+  "subject": "math",
+  "summary": "含两个单位维度或复名数的量应逐部分换算并检查量纲一致。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“复合与混合单位换算”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 只换算复合单位的一侧。",
+  "title": "复合与混合单位换算"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "cd173a917ce222c04889056f9c839e7e161f70ff7d89a1819394b2490a3c2244",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-positive-negative-opposite-quantities",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-positive-negative-opposite-quantities-pep",
+    "review-cn-math-positive-negative-opposite-quantities-bnup",
+    "review-cn-math-positive-negative-opposite-quantities-jsep"
+  ],
+  "subject": "math",
+  "summary": "当两个量相对于同一基准具有相反方向或意义时，可分别用正数和负数表示。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“正负数表示相反意义的量”。\n- 能用数的结构或数量关系解释“正负数表示相反意义的量”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 只要两个量不同就给它们加上正负号，而不确认共同基准和相反意义。",
+  "title": "正负数表示相反意义的量"
+}

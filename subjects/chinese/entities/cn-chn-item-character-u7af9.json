@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "fe4343bef718f898efde93d18a5c35cfb5b5e467e06ecf32034fd9a12822ab0a",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7af9",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"variantForms\":[\"⺮\"],\"writtenForm\":\"竹\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "竹"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "3cb30bfdea15ec24db087574c008fa6cf94fe1a83465fa43de1a3d32c7f5961b",
+  "fromId": "cn-math-compare-whole-numbers",
+  "id": "rel-math-54f9ec757789e80059163279",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“整数大小比较”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-round-whole-numbers"
+}

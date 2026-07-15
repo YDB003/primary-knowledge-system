@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ae90d0b93405e9d326374d7b6cc6fd1bb269c0896a8b011c0f4f5175b954acbb",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-use-polite-conversation-manner-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-use-polite-conversation-manner-s1-curriculum-standard",
+    "review-cn-chn-expr-use-polite-conversation-manner-s1-unified-pre-2024",
+    "review-cn-chn-expr-use-polite-conversation-manner-s1-unified-2024-revision",
+    "review-cn-chn-expr-use-polite-conversation-manner-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头交谈中，用正常音量和连贯语句自然表达，以面向对方的姿态大方交流，并使用礼貌称呼或回应。\n\n## 掌握证据\n\n- 能在一轮交谈中用正常音量自然说出内容，以面向对方的姿态大方交流，并使用礼貌称呼。\n- 能在另一轮交谈中用自然语气和大方姿态说出礼貌回应。\n\n## 常见错误\n\n- 交谈时语气僵硬、姿态回避，或没有使用礼貌措辞。",
+  "title": "用自然大方有礼貌的态度交谈"
+}

@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "97229f2845a7c9e33e1fcc88300da9a8a697dab1fe188384a0867efc8918d575",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-l",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n边音 /l/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌尖接触上齿龈，让气流从舌头两侧通过并振动声带。\n\n## 示例\n\n可在这些词中观察该声音：leg、ball。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "边音 /l/"
+}

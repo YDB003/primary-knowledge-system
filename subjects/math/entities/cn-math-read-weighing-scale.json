@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "410d074c40063ccc323590b5ea08e06ca097448be59f4102bcc39adc307fb705",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-read-weighing-scale",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-read-weighing-scale-pep",
+    "review-cn-math-read-weighing-scale-bnup",
+    "review-cn-math-read-weighing-scale-jsep"
+  ],
+  "subject": "math",
+  "summary": "先确定刻度单位和每小格表示量，再读取指针或数字示数。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“读取秤的示数”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 忽略量程和最小分度。",
+  "title": "读取秤的示数"
+}

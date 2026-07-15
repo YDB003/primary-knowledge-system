@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "fa8f416649270b3eb30d78bb7680c7696f69e18cf74f68d5b358478ea3e4d5dc",
+  "domain": "量与计量",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-measurement-resolution",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-and-measurement",
+    "anchor-stage-3-quantity-and-measurement",
+    "review-cn-math-measurement-resolution-pep",
+    "review-cn-math-measurement-resolution-bnup",
+    "review-cn-math-measurement-resolution-jsep"
+  ],
+  "subject": "math",
+  "summary": "工具最小分度限制可直接读取的精细程度，记录位数应与工具能力相称。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“最小分度与精度”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 记录远超工具分度的虚假精确数字。",
+  "title": "最小分度与精度"
+}

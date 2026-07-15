@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "bc99d1444a72ea623a5a18ca47983ee24a24c509650913a9e57c3473f8806426",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-write-short-letter-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-write-short-letter-s2-curriculum-standard",
+    "review-cn-chn-expr-write-short-letter-s2-unified-pre-2024",
+    "review-cn-chn-expr-write-short-letter-s2-unified-2024-revision",
+    "review-cn-chn-expr-write-short-letter-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面表达中只完成写简短书信进行交流这一操作，以称呼、正文和署名可辨的简短信件作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能写出称呼、正文和署名可辨的简短信件。\n- 能为另一交流对象写出组成完整的简短信件。\n\n## 常见错误\n\n- 书信缺少称呼或署名。",
+  "title": "写简短书信进行交流"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "d42c76db982b227a330a1344756210d079f386195fe59deca971b68e8fe44a72",
+  "fromId": "eng-communicative-function-explain-resource-use",
+  "id": "eng-rel-communicative-function-explain-resource-use-supports-vocab-describe-actions-processes",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-describe-actions-processes”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-describe-actions-processes"
+}

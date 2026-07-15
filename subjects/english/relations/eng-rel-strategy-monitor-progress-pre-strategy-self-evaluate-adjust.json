@@ -1,0 +1,15 @@
+{
+  "contentHash": "c111e29e3e321c1812186ca7079c8bca9cce14631497bc7cd2e191ac3a6cadac",
+  "fromId": "eng-ability-strategy-monitor-progress",
+  "id": "eng-rel-strategy-monitor-progress-pre-strategy-self-evaluate-adjust",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n对照目标评价效果并调整下一步计划，必须先能识别自己的进步、困难和当前行动。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-strategy-self-evaluate-adjust"
+}

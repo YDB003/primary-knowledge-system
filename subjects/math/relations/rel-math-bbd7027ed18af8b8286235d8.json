@@ -1,0 +1,12 @@
+{
+  "contentHash": "10d7ea1eeee4c98fc75bcae8f946761c9c19d90b7b5654aece74d93b221a4255",
+  "fromId": "cn-math-locate-whole-number-line",
+  "id": "rel-math-bbd7027ed18af8b8286235d8",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“整数在数线上的定位”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-on-number-line"
+}

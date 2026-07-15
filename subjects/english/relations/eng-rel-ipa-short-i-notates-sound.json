@@ -1,0 +1,15 @@
+{
+  "contentHash": "cff9b7ad3ae8d088c8800e97a57ec938828dcf6ecb7aaacddb96594153a4811a",
+  "fromId": "eng-ipa-short-i",
+  "id": "eng-rel-ipa-short-i-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ɪ/ 这个书写符号用于标记英语声音“短元音 /ɪ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-short-i"
+}

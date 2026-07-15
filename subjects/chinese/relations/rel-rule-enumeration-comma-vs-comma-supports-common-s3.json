@@ -1,0 +1,12 @@
+{
+  "contentHash": "5ecdb04c74728379b88f7b2e9ed80a357f59c37c02884be17fbc08bf4d2a03fd",
+  "fromId": "cn-chn-item-punctuation-rule-enumeration-comma-vs-comma",
+  "id": "rel-rule-enumeration-comma-vs-comma-supports-common-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "顿号与逗号用法区分规则身份支撑按句内关系选择正确的常用标点。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-use-common-punctuation-correctly-s3"
+}

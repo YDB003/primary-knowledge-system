@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9e6a23f17f93a319ca5970afcd1e7bbea369144339a1ca81428b58b3a7a374b1",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-retell-interesting-plot-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-retell-interesting-plot-s1-curriculum-standard",
+    "review-cn-chn-expr-retell-interesting-plot-s1-unified-pre-2024",
+    "review-cn-chn-expr-retell-interesting-plot-s1-unified-2024-revision",
+    "review-cn-chn-expr-retell-interesting-plot-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在听完故事或看完影视作品后，选择自己感兴趣的一段情节作口头复述，不承担概括整部作品的任务。\n\n## 掌握证据\n\n- 能口头复述自己感兴趣的一段情节。\n- 能再次口头复述自己感兴趣的同一具体情节。\n\n## 常见错误\n\n- 只说喜欢或有趣，没有复述具体情节。",
+  "title": "复述自己感兴趣的故事情节"
+}

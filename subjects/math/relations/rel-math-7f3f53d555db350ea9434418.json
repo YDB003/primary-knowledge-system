@@ -1,0 +1,12 @@
+{
+  "contentHash": "35ddcb74a8381204dcb9d1d061c318d1dd1837e24a54a7cf93342ffd427b6297",
+  "fromId": "cn-math-multiplication-expression",
+  "id": "rel-math-7f3f53d555db350ea9434418",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“乘法算式的符号表达”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplication-commutative"
+}

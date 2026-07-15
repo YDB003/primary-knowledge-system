@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "64ceaf2d829b5bbefd20ee22c18b40e8b8615718893ee890255e913b5e5b3574",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-division-equal-sharing",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-division-equal-sharing-pep",
+    "review-cn-math-division-equal-sharing-bnup",
+    "review-cn-math-division-equal-sharing-jsep"
+  ],
+  "subject": "math",
+  "summary": "把总量平均分成已知份数，用除法求每份数量。\n\n## 可观察证据\n\n- 能把平均分情境写成除法算式。\n- 能说明总量、份数和每份数的对应关系。\n\n## 常见误区\n\n- 没有保证每份相等就使用除法。",
+  "title": "除法表示平均分"
+}

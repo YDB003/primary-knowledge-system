@@ -1,0 +1,12 @@
+{
+  "contentHash": "c80c87b0a1012ae230940a881fce8dec957e6b2a73d716bc64e0f71dd04c9652",
+  "fromId": "cn-math-why-standard-units",
+  "id": "rel-math-4552027791b59576dfd86969",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“标准单位的必要性”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-choose-unit-by-scale"
+}

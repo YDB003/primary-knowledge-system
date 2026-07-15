@@ -1,0 +1,12 @@
+{
+  "contentHash": "377869e52c34e9eb225884c42b16a82b4bdc30e2cf91aabfdd7fe2511abcc529",
+  "fromId": "cn-math-time-schedule",
+  "id": "rel-math-fc98d360730b298e79e3d699",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“时间安排与顺序”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-24-hour-clock"
+}

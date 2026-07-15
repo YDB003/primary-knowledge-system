@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8946856c8b73ad302c5b4e2512c5d08c14d27c0edd08e14027d87b0441a46bb9",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-choose-measuring-tool",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-and-measurement",
+    "anchor-stage-3-quantity-and-measurement",
+    "review-cn-math-choose-measuring-tool-pep",
+    "review-cn-math-choose-measuring-tool-bnup",
+    "review-cn-math-choose-measuring-tool-jsep"
+  ],
+  "subject": "math",
+  "summary": "根据量的种类、范围和精度选择尺、秤、钟表、量杯等工具。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“选择测量工具”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 工具量程小于待测量仍强行使用。",
+  "title": "选择测量工具"
+}

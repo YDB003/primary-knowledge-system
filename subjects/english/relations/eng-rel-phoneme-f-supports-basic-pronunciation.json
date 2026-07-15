@@ -1,0 +1,15 @@
+{
+  "contentHash": "dd874f1f3779e95e8bcd5de37ed75b036fd4e8e92de7f4ecf5ae2b53b3340f79",
+  "fromId": "eng-phoneme-f",
+  "id": "eng-rel-phoneme-f-supports-basic-pronunciation",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 基础支撑关系\n\n基础内容“清辅音 /f/”为正式能力“模仿基础语音和句子升降调”提供辨认、模仿或练习工具。\n\n这条关系只表示支撑，不把基础工具误标为三至六年级独立必修能力。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-imitate-basic-pronunciation"
+}

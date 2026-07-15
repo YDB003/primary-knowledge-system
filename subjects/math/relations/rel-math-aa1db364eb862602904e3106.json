@@ -1,0 +1,12 @@
+{
+  "contentHash": "4333c0f667171a26c43efd9f90ecf7a5847b943e86d0a3b53b5e4d28eeea4c89",
+  "fromId": "cn-math-parity-sum-product",
+  "id": "rel-math-aa1db364eb862602904e3106",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“和与积的奇偶性”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-use-factor-structure-in-fractions"
+}

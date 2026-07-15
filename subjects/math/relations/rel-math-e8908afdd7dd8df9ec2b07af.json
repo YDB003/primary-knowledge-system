@@ -1,0 +1,12 @@
+{
+  "contentHash": "321ce4cc178cd4b95f74a1d373a049a27538842200c5a57f81ec3d411c5f3b41",
+  "fromId": "cn-math-multidigit-by-two-digit",
+  "id": "rel-math-e8908afdd7dd8df9ec2b07af",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“多位数乘两位数笔算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multidigit-divide-one-digit"
+}

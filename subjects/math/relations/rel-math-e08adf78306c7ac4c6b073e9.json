@@ -1,0 +1,12 @@
+{
+  "contentHash": "7e2d5d1782e044d7cb4d298bbfb720c95106a6bb9065ec35ba1475d980899e97",
+  "fromId": "cn-math-construct-mathematical-model",
+  "id": "rel-math-e08adf78306c7ac4c6b073e9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“构建数学模型”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-check-model-units"
+}

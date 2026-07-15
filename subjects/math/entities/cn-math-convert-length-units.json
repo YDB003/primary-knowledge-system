@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9e786dd7ee63c5faae40a0b91a930cb838a57ac86e9219040c3bab21a8e40610",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-convert-length-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-convert-length-units-pep",
+    "review-cn-math-convert-length-units-bnup",
+    "review-cn-math-convert-length-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "根据毫米、厘米、分米、米、千米间进率，同步改变数值与单位。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“长度单位换算”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 只移动小数点却不确认进率。",
+  "title": "长度单位换算"
+}

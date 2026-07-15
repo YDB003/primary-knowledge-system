@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6f239892524320ac6b11da670386a8669f727d8a14b731a3cde947b6c9e4bb55",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-compare-mass-by-hefting",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-compare-mass-by-hefting-pep",
+    "review-cn-math-compare-mass-by-hefting-bnup",
+    "review-cn-math-compare-mass-by-hefting-jsep"
+  ],
+  "subject": "math",
+  "summary": "在差异明显时可用双手掂量初步比较质量，再用秤确认。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“用掂量比较轻重”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把体积大直接当作质量大。",
+  "title": "用掂量比较轻重"
+}

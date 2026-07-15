@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "7f0cb5067388a428fbae853c1f2cb59d0c9c50184a17405aa5a712741c0fc5fa",
+  "domain": "GRAMMAR_RULE",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-grammar-rule-time-prepositions-in-at",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "描述时间时，in 常用于 morning、afternoon、evening 等时间段，at 常用于具体钟点；at night 是固定搭配。",
+  "title": "in 与 at 表示时间"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "daee55142087948021abbe9facfc75b472715c17c92b6b88885d01888e349bd6",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-describe-imagined-scene-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-describe-imagined-scene-s2-curriculum-standard",
+    "review-cn-chn-read-describe-imagined-scene-s2-unified-pre-2024",
+    "review-cn-chn-read-describe-imagined-scene-s2-unified-2024-revision",
+    "review-cn-chn-read-describe-imagined-scene-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "整合描写中的对象、动作、色彩和声音，用自己的话描述文学语言唤起的连贯画面。\n\n## 掌握证据\n\n- 能提取画面中的主要对象和动作或状态。\n- 能描述包含空间关系或感官特征的连贯场景。\n\n## 常见错误\n\n- 随意添加与描写矛盾的人物或景物。",
+  "title": "描述文学语言唤起的画面"
+}

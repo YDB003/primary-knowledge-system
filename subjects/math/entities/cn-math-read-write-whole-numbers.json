@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a370228e7d0d9460320d2d9ff2d5e6ab6fc71348d7ab568ad823999ff1f67aa5",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-read-write-whole-numbers",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-read-write-whole-numbers-pep",
+    "review-cn-math-read-write-whole-numbers-bnup",
+    "review-cn-math-read-write-whole-numbers-jsep"
+  ],
+  "subject": "math",
+  "summary": "按照数级和数位规则在数字写法与中文数词之间转换。\n\n## 可观察证据\n\n- 能正确读写典型年级范围内的整数。\n- 能解释含0整数的读写位置规则。\n\n## 常见误区\n\n- 见到几个0就机械读出几个零。",
+  "title": "整数的读写"
+}

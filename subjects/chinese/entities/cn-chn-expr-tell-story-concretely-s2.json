@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "19745bd7ccbdc89d5f272deb67459d2cafce17d94e89280f30eda0904501c616",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-tell-story-concretely-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-tell-story-concretely-s2-curriculum-standard",
+    "review-cn-chn-expr-tell-story-concretely-s2-unified-pre-2024",
+    "review-cn-chn-expr-tell-story-concretely-s2-unified-2024-revision",
+    "review-cn-chn-expr-tell-story-concretely-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中，用人物、事件和关键细节把一个故事讲述具体。\n\n## 掌握证据\n\n- 能口头讲述含有关键人物、事件和细节的故事。\n- 能补充关键细节后再次具体讲述同一故事。\n\n## 常见错误\n\n- 只说事件结果，没有讲述关键经过。",
+  "title": "具体生动地讲述故事"
+}

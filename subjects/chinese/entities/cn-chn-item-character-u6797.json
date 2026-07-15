@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "877f4482df1994052c2f791c8e58127bc7c9a94b87e0a755f0f0c54c22555fae",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u6797",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":8,\"writtenForm\":\"林\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "林"
+}

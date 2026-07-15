@@ -1,0 +1,12 @@
+{
+  "contentHash": "5fab8c41542ca83ddd4f856fb5c9e3f3b21b02c5f7e8d706ae74c3bdd337a59e",
+  "fromId": "cn-math-describe-route",
+  "id": "rel-math-d966ffafac7820a5cfb6d0d2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“路线方向与转折描述”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-object-views"
+}

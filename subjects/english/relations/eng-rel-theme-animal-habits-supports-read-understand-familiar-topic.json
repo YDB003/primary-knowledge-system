@@ -1,0 +1,14 @@
+{
+  "contentHash": "ab4502a0fdfc107049fdd9a06a14f7c66afadd2a8647930ba56fa63ad11e8e03",
+  "fromId": "eng-theme-animal-habits",
+  "id": "eng-rel-theme-animal-habits-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-6a-m7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "3b0188f062bce1ce98ea7365b57fd8c43f21ccd2783f4b2da2e06b652152b632",
+  "fromId": "eng-phrase-good-morning",
+  "id": "eng-rel-phrase-good-morning-supports-speak-greet-farewell",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-greet-farewell”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-greet-farewell"
+}

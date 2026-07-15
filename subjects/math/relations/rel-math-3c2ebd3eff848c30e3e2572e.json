@@ -1,0 +1,12 @@
+{
+  "contentHash": "3509d74509bf96c08bad26cee539edbf6b52f9fd4519ecb5696ceb9ca7e67a0e",
+  "fromId": "cn-math-read-write-decimals",
+  "id": "rel-math-3c2ebd3eff848c30e3e2572e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数的读写”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-decimal-digit-value"
+}

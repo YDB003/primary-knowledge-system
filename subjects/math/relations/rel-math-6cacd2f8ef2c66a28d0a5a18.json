@@ -1,0 +1,12 @@
+{
+  "contentHash": "d22a9abf0d85cd03f1b7e32ecbeee8df8a0b543aa5fd0fcd9f5c01e79bf7c911",
+  "fromId": "cn-math-fraction-of-set",
+  "id": "rel-math-6cacd2f8ef2c66a28d0a5a18",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“离散集合的分数表示”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-number-line-measure"
+}

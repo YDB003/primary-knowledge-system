@@ -1,0 +1,14 @@
+{
+  "contentHash": "d0c4fbc02710e89e8a24a1a425cc3f9b4199d922bd617358ee35616d018cac98",
+  "fromId": "eng-theme-colourful-world",
+  "id": "eng-rel-theme-colourful-world-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

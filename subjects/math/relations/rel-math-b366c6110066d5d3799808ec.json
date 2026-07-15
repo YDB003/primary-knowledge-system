@@ -1,0 +1,12 @@
+{
+  "contentHash": "35b18e664a9893ce85b5861b337a3cbc6476ed28cbaa26a45b21ac74f7b70410",
+  "fromId": "cn-math-equal-groups",
+  "id": "rel-math-b366c6110066d5d3799808ec",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“相等分组”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplication-repeated-addition"
+}

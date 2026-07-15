@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "93cead719ca6f6c99271674647c6cee5e0f5b2e70b9c1d58c8ebf2c60e99533e",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-subtraction-comparison",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-subtraction-comparison-pep",
+    "review-cn-math-subtraction-comparison-bnup",
+    "review-cn-math-subtraction-comparison-jsep"
+  ],
+  "subject": "math",
+  "summary": "用较大数量减较小数量表示两个同类量之间相差多少。\n\n## 可观察证据\n\n- 能把比较情境写成减法表达式。\n- 能说明相差量不是其中任何一个原数量。\n\n## 常见误区\n\n- 看到谁的叙述在前就把谁写成被减数。",
+  "title": "减法表示相差"
+}

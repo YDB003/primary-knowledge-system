@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "292e41522f73697fbf7a13e7c808ca1f4d0f63ae017252632d77264b948ba56f",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u8089",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"variantForms\":[\"月\"],\"writtenForm\":\"肉\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "肉"
+}

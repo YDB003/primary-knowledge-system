@@ -1,0 +1,12 @@
+{
+  "contentHash": "e075830c03300de55155531635bd913988930e108062b01a7940e48981cfaa39",
+  "fromId": "cn-math-direct-length-comparison",
+  "id": "rel-math-04affb14de7d08beb6ed6a35",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“直接比较长度”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-indirect-length-comparison"
+}

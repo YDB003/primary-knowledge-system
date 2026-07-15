@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "1e5a1063c4a65468b2551de104fcff7e053fc476c5f2835a694248982bb8b9b3",
+  "domain": "PINYIN_SYMBOL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-pinyin-alphabet-j",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-hanyu-pinyin-scheme",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"symbol\":\"J/j\",\"symbolCategory\":\"字母表大小写字母对\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "字母J/j"
+}

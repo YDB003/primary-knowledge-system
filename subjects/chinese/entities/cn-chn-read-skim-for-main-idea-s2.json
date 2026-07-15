@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3bec7e3ad9487fd3a3d57f85f6752961e47aa781ebc4a040cf033b59968bf2b9",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-skim-for-main-idea-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-skim-for-main-idea-s2-curriculum-standard",
+    "review-cn-chn-read-skim-for-main-idea-s2-unified-pre-2024",
+    "review-cn-chn-read-skim-for-main-idea-s2-unified-2024-revision",
+    "review-cn-chn-read-skim-for-main-idea-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "快速读取标题、首尾和关键句，跳过非关键细节，形成对文章大意的初步判断。\n\n## 掌握证据\n\n- 能浏览标题和段落首尾句后指出主要对象。\n- 能略读全文并概括文章大致写了什么。\n\n## 常见错误\n\n- 逐句细读所有细节，未按略读目的筛选信息。",
+  "title": "略读文章以粗知大意"
+}

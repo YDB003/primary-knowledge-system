@@ -1,0 +1,14 @@
+{
+  "contentHash": "707a595dcc9f56a64dda7b24941288140cfb003f06dd6d5fe47a5b3efb534c16",
+  "fromId": "eng-theme-plants-around-us",
+  "id": "eng-rel-theme-plants-around-us-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

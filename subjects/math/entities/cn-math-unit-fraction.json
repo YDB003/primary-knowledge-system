@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0aaf28b2abf49c3e5e6c0262eff1b2c79db2e3aa0e6166e0fc1d6164d2211640",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-unit-fraction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-unit-fraction-pep",
+    "review-cn-math-unit-fraction-bnup",
+    "review-cn-math-unit-fraction-jsep"
+  ],
+  "subject": "math",
+  "summary": "单位分数表示把整体平均分成若干份后的一份，分子为1，分母说明平均分的份数。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“单位分数的意义”。\n- 能用数量关系或运算结构解释“单位分数的意义”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 认为分母越大，单位分数反而越大。",
+  "title": "单位分数的意义"
+}

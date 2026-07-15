@@ -1,0 +1,12 @@
+{
+  "contentHash": "fb9e585a866e1e42328c907c773c814eb1325b51b4276de0813f17f76e8fad46",
+  "fromId": "cn-math-additive-decrease-result",
+  "id": "rel-math-e5d395ab1033156a266a7f5b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“减少变化中求结果量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-part-part-whole-unknown"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "80fdcd14df1a727f0aacdd6d76f0691956edc52f8b4a25df8ce5a6676de3862c",
+  "fromId": "eng-theme-seasonal-changes",
+  "id": "eng-rel-theme-seasonal-changes-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

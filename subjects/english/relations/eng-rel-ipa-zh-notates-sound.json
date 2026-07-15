@@ -1,0 +1,15 @@
+{
+  "contentHash": "9ae6c8990fec9a5c782cf7a87b9e28e75ef7c09829dbb1eb378f2567a020cb28",
+  "fromId": "eng-ipa-zh",
+  "id": "eng-rel-ipa-zh-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ʒ/ 这个书写符号用于标记英语声音“浊辅音 /ʒ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-zh"
+}

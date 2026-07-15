@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e7b6463a2acb63fb67e4545a3a5d6ae60b44552b8ca639063164d4da530763e3",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-classify-triangles",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-classify-triangles-pep",
+    "review-cn-math-classify-triangles-bnup",
+    "review-cn-math-classify-triangles-jsep"
+  ],
+  "subject": "math",
+  "summary": "可按角分为锐角、直角、钝角三角形，也可按边分为一般、等腰和等边三角形。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“三角形分类”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把按边分类和按角分类当成互斥的唯一标签。",
+  "title": "三角形分类"
+}

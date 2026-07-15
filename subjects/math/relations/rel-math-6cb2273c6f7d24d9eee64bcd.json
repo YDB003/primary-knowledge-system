@@ -1,0 +1,12 @@
+{
+  "contentHash": "08f9382ebae2bc7cd05e2f8de4f7316b0013a4cca8b4c3f1fc5ca7be932a269e",
+  "fromId": "cn-math-random-certain-impossible",
+  "id": "rel-math-6cb2273c6f7d24d9eee64bcd",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“必然不可能与随机事件”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-qualitative-likelihood"
+}

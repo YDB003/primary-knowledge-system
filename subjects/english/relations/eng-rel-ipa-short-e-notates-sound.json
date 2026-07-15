@@ -1,0 +1,15 @@
+{
+  "contentHash": "5a19830976fab0a2404588a5ac8d776c20372fad482f57d03d7cbe455f259b43",
+  "fromId": "eng-ipa-short-e",
+  "id": "eng-rel-ipa-short-e-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/e/ 这个书写符号用于标记英语声音“短元音 /e/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-short-e"
+}

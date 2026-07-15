@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "8719a513dbb32a5129bb752e1e27ebe1d4a5f9fbabcb8937a9adb8a194528c71",
+  "domain": "GRAPHEME_RULE",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-grapheme-rule-e-ee-to-long-i",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "e 和 ee 在部分常见词中可以表示 /iː/。这是常见音形对应，不代表所有含 e 或 ee 的词都按同一方式发音。",
+  "title": "e 和 ee 的常见长元音"
+}

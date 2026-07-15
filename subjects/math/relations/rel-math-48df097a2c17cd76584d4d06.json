@@ -1,0 +1,12 @@
+{
+  "contentHash": "6f3606a4ba6ecdec744fc2dc954d5ceff662ec5ec994486e87f1e281ac6a31ef",
+  "fromId": "cn-math-multiplication-array",
+  "id": "rel-math-48df097a2c17cd76584d4d06",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“乘法的阵列表征”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplication-expression"
+}

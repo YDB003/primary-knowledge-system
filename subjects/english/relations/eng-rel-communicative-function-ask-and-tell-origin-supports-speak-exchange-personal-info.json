@@ -1,0 +1,14 @@
+{
+  "contentHash": "5b84b209f4c29ae8dd9fb597f0c7f4654b61d845376abe20b14837ebb3afa54d",
+  "fromId": "eng-communicative-function-ask-and-tell-origin",
+  "id": "eng-rel-communicative-function-ask-and-tell-origin-supports-speak-exchange-personal-info",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-exchange-personal-info”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-exchange-personal-info"
+}

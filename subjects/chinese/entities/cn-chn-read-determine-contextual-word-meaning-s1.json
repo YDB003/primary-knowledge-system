@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f1bcca2b5ca1b4ec7b2905a2b5cdfcc5430a2883ba3f8a2127d3c88de8f3b5fa",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-determine-contextual-word-meaning-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-determine-contextual-word-meaning-s1-curriculum-standard",
+    "review-cn-chn-read-determine-contextual-word-meaning-s1-unified-pre-2024",
+    "review-cn-chn-read-determine-contextual-word-meaning-s1-unified-2024-revision",
+    "review-cn-chn-read-determine-contextual-word-meaning-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "联系目标词前后句提供的对象、动作或结果，确定该词在当前语境中的具体意义。\n\n## 掌握证据\n\n- 能圈画目标词前后能够限制词义的上下文线索。\n- 能从多个常见义中确定与当前语境相符的意义。\n\n## 常见错误\n\n- 只按熟悉的常用义解释，不检查上下文是否相容。",
+  "title": "确定词语的语境意义"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "24988511566332e0e6c5b130f0a41b00ba159234da07b9f5c276eb39f6659ebf",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-infer-meaning-from-radical-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-infer-meaning-from-radical-s2-curriculum-standard",
+    "review-cn-chn-lit-infer-meaning-from-radical-s2-unified-pre-2024",
+    "review-cn-chn-lit-infer-meaning-from-radical-s2-unified-2024-revision",
+    "review-cn-chn-lit-infer-meaning-from-radical-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "观察汉字构形时借助形旁推测意义范围，以笔画、偏旁、部件或结构关系呈现结果。\n\n## 掌握证据\n\n- 能在陌生字形中准确借助形旁推测意义范围。\n- 能指出所依据的构形位置或部件线索。\n\n## 常见错误\n\n- 把笔画、偏旁、部件和整字结构混为同一层级。",
+  "title": "借助形旁推测意义范围"
+}

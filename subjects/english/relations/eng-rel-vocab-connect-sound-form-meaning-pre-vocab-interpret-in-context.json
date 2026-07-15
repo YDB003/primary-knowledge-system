@@ -1,0 +1,15 @@
+{
+  "contentHash": "a7d8463467b48eb2b921553554442df541aa00e17302b3e611071d91f3832732",
+  "fromId": "eng-ability-vocab-connect-sound-form-meaning",
+  "id": "eng-rel-vocab-connect-sound-form-meaning-pre-vocab-interpret-in-context",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n判断熟悉词在当前语境中的具体含义，必须先能把该词的读音、拼写和基本含义相互关联。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-interpret-in-context"
+}

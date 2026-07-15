@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "a32de3e938029b0e53b23e4316e7d2a9fdcc6e8c2a81a044a0970c2049e7f445",
+  "domain": "writing",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-write-greeting-card",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 参照范例仿写简单贺卡\n\n## 能力说明\n\n参照范例仿写简单贺卡，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能写出对象、祝福语和署名等基本信息。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：writing\n- 课标锚点：[[eng-anchor-l2-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "参照范例仿写简单贺卡"
+}

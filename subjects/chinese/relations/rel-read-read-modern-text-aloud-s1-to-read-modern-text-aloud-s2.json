@@ -1,0 +1,12 @@
+{
+  "contentHash": "5cff5278b007e86ec7e3e3e6866479ee94bfca9051cf3bd02940cbb3c2678b93",
+  "fromId": "cn-chn-read-read-modern-text-aloud-s1",
+  "id": "rel-read-read-modern-text-aloud-s1-to-read-modern-text-aloud-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "第二学段按句意和情感调节朗读语调，必须先能正确连贯地读出字音和语句，否则语调变化没有稳定的语言载体。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-read-modern-text-aloud-s2"
+}

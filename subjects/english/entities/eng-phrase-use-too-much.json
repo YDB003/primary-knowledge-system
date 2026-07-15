@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "173d83ae4b5e88ee41db4587f13d8b9f4b9e9fcfe83f0922b5d6888d8ee06ade",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-phrase-use-too-much",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "use too much 表示“使用过多”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "use too much"
+}

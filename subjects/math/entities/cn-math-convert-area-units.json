@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f38690548606651cc9ce39e2f0d817197b2acd1d139d5c15029f5d16de3a94b8",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-convert-area-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-convert-area-units-pep",
+    "review-cn-math-convert-area-units-bnup",
+    "review-cn-math-convert-area-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "相邻长度单位进率平方后形成面积单位进率，换算需反映二维覆盖。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“面积单位换算”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 照搬长度单位进率。",
+  "title": "面积单位换算"
+}

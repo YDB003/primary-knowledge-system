@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "113c31f6d457a7005f0740ba61e729806c6ce82514eb6802c0b29d7296c7c0de",
+  "domain": "COMMUNICATIVE_FUNCTION",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-communicative-function-ask-and-tell-daily-activity-time",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "先询问活动何时发生，再用活动表达和具体时间回答，形成完整的作息信息交换。",
+  "title": "询问和说明日常活动时间"
+}

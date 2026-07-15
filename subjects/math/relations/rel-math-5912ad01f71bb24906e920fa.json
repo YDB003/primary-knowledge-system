@@ -1,0 +1,12 @@
+{
+  "contentHash": "524b224e1d1f0709880996137134ef4bd6a9aa1651f1627a42694b567ca2e5fb",
+  "fromId": "cn-math-coordinate-change-under-translation",
+  "id": "rel-math-5912ad01f71bb24906e920fa",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平移后的坐标变化”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-direction-distance-location"
+}

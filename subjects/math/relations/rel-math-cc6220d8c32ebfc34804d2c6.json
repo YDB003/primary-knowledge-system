@@ -1,0 +1,12 @@
+{
+  "contentHash": "2c26e0f2d74722b1360c5ca5bfbd5f3bfd962ac522fdc919ad0f782b35cb2564",
+  "fromId": "cn-math-signed-numbers-on-number-line",
+  "id": "rel-math-cc6220d8c32ebfc34804d2c6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正负数在数线上的位置”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-signed-numbers"
+}

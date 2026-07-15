@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2397a8b1d3fae959cab539b06ba46011ae5632d4d0f0fc86d59cfb47f2b0e5d0",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-unit-price-quantity-total",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-unit-price-quantity-total-pep",
+    "review-cn-math-unit-price-quantity-total-bnup",
+    "review-cn-math-unit-price-quantity-total-jsep"
+  ],
+  "subject": "math",
+  "summary": "单价表示每一件或每一单位商品的价格，总价等于单价乘数量。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“单价数量总价关系”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把总价除以错误的商品数量得到单价。",
+  "title": "单价数量总价关系"
+}

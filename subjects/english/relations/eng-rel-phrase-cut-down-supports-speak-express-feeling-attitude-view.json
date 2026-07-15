@@ -1,0 +1,14 @@
+{
+  "contentHash": "bbb5cea81c68732904541ef6fede8feb297f9de868867e6a008b18990afa9758",
+  "fromId": "eng-phrase-cut-down",
+  "id": "eng-rel-phrase-cut-down-supports-speak-express-feeling-attitude-view",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-express-feeling-attitude-view”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-express-feeling-attitude-view"
+}

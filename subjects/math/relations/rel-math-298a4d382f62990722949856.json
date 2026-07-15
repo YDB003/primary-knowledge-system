@@ -1,0 +1,12 @@
+{
+  "contentHash": "e9ba50fb765025430f84723a0d5037f810e33a4a761c32ece4f58a41faf41197",
+  "fromId": "cn-math-interpret-model-result",
+  "id": "rel-math-298a4d382f62990722949856",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“把数学结果解释回情境”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-communicate-real-world-solution"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "6f22fd69aa7e09165ac6a06dafa63684a3f25fe0b72c1c725ea0663e2b0378f8",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-phrase-nice-to-meet-you",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "Nice to meet you 是初次见面时的礼貌表达。回应时可在句末加入 too。",
+  "title": "Nice to meet you"
+}

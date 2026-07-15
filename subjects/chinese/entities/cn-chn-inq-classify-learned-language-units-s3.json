@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0ead07318d60c23ea2b90c1562f7dc8deb9d0b9b2b48285eb6b81d9edfe01ac8",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-classify-learned-language-units-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-classify-learned-language-units-s3-curriculum-standard",
+    "review-cn-chn-inq-classify-learned-language-units-s3-unified-pre-2024",
+    "review-cn-chn-inq-classify-learned-language-units-s3-unified-2024-revision",
+    "review-cn-chn-inq-classify-learned-language-units-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“分类整理学过的字词”这一操作，以带有分类标准和归类依据的字词分组结果作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能分类整理学过的字词，产出带有分类标准和归类依据的字词分组结果。\n- 能换用另一批字词材料分类整理学过的字词，仍产出带有分类标准和归类依据的字词分组结果。\n\n## 常见错误\n\n- 沿用旧分类标准，却不能解释新字词为何归入该组。",
+  "title": "分类整理学过的字词"
+}

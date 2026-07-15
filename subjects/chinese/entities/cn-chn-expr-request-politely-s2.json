@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b4991ac32877f11809a473f55fc55d089c85c452ddb2ff8fbe17226558d7fdaf",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-request-politely-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-request-politely-s2-curriculum-standard",
+    "review-cn-chn-expr-request-politely-s2-unified-pre-2024",
+    "review-cn-chn-expr-request-politely-s2-unified-2024-revision",
+    "review-cn-chn-expr-request-politely-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头交往中，只完成用礼貌措辞向对方提出一项明确请教的操作。\n\n## 掌握证据\n\n- 能说出包含称呼和明确事项的礼貌请教。\n- 能把命令式措辞调整为礼貌请求。\n\n## 常见错误\n\n- 没有说明请教事项，只要求对方回答。",
+  "title": "有礼貌地提出请教"
+}

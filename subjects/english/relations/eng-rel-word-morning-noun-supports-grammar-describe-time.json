@@ -1,0 +1,14 @@
+{
+  "contentHash": "e1e1502f34b944ed9b83eeaa93b5dd34562909568266219d1089d41352de4aad",
+  "fromId": "eng-word-morning-noun",
+  "id": "eng-rel-word-morning-noun-supports-grammar-describe-time",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-describe-time”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-describe-time"
+}

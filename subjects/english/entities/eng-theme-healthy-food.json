@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "0821e3eb4270bb28a943c5cb2ddf5bdcd5ae70c6c706cf72c5879f38f6084577",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-theme-healthy-food",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕“Healthy food”组织基础听、说、读、看、写活动。学习时应把相关词句放回真实生活场景理解和使用。",
+  "title": "Healthy food"
+}

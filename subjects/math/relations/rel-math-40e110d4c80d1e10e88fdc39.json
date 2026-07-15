@@ -1,0 +1,12 @@
+{
+  "contentHash": "fa0cef4a0417ca6b918c178a52a3fdb75b9e2c99b66e0875831d5e134b1cc5d2",
+  "fromId": "cn-math-calculate-unit-rate",
+  "id": "rel-math-40e110d4c80d1e10e88fdc39",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“求单位率”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-rate-times-quantity-total"
+}

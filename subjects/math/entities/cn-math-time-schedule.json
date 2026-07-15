@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4432c160d3f8e1e9698fa7260c83efb8444f05ee2a0fe6ba25826339c00770ca",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-time-schedule",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-time-schedule-pep",
+    "review-cn-math-time-schedule-bnup",
+    "review-cn-math-time-schedule-jsep"
+  ],
+  "subject": "math",
+  "summary": "依据开始时刻、持续时间和先后约束安排活动，并检查是否重叠。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“时间安排与顺序”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 只计算单项时长而忽略活动间冲突。",
+  "title": "时间安排与顺序"
+}

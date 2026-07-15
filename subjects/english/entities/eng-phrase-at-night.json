@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b6d0a7e329049254b616b9ed2c406dd500c911cf001e8718df7c1aca8c9c0b21",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-at-night",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "at night 表示“在夜晚”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "at night"
+}

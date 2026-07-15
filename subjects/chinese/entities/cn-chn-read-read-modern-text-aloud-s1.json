@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1308677f5e4008cb83b2abd607d7a5586dcf101562baabad483602bd58d2a930",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-read-modern-text-aloud-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-read-modern-text-aloud-s1-curriculum-standard",
+    "review-cn-chn-read-read-modern-text-aloud-s1-unified-pre-2024",
+    "review-cn-chn-read-read-modern-text-aloud-s1-unified-2024-revision",
+    "review-cn-chn-read-read-modern-text-aloud-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "使用普通话逐句朗读现代课文，做到字音正确、语句连贯，并按句意作基本停顿。\n\n## 掌握证据\n\n- 能朗读短篇现代课文时读准字音并保持语句连贯。\n- 能标出句意停顿后按标记完成朗读。\n\n## 常见错误\n\n- 逐字顿读或随意添字漏字，破坏语句连贯。",
+  "title": "正确流利地朗读现代课文"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d71b0d2a82dff71d2da43adb545bffa9a3cf1992fc3f985f095c519e0ca6c9ac",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-observe-surroundings-for-writing-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-observe-surroundings-for-writing-s1-curriculum-standard",
+    "review-cn-chn-expr-observe-surroundings-for-writing-s1-unified-pre-2024",
+    "review-cn-chn-expr-observe-surroundings-for-writing-s1-unified-2024-revision",
+    "review-cn-chn-expr-observe-surroundings-for-writing-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在写话准备中，从周围事物的观察所得形成一条可查看的材料。\n\n## 掌握证据\n\n- 能记录从周围事物观察所得的一条材料。\n- 能换一个观察对象记录一条写话材料。\n\n## 常见错误\n\n- 记录内容不是亲自观察所得。",
+  "title": "观察周围事物形成写话材料"
+}

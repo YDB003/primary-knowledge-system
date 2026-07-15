@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5a3acaa48737c43dfdcd70af9cd46449a0866cbd5ccfd4ab0fe762c2c98c3d00",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-word-morning-noun",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "morning 在本知识点中作noun，基本义为“早晨；上午”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "morning"
+}

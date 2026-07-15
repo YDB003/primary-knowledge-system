@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1eb6a50cc18f367c4ea182c2a29d2d4d32c46c498f7ef3acfcefce06af415561",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-volume-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-volume-meaning-pep",
+    "review-cn-math-volume-meaning-bnup",
+    "review-cn-math-volume-meaning-jsep"
+  ],
+  "subject": "math",
+  "summary": "体积描述物体占据三维空间的大小，与表面积和容积相关但不相同。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“体积表示占据空间大小”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 表面积大就断定体积一定大。",
+  "title": "体积表示占据空间大小"
+}

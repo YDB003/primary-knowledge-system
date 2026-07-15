@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3b194cf18ab00a8f8098ddbfc7d04d32c70144d2d3f23ed2d659688a9f6306df",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-addition-expression",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-addition-expression-pep",
+    "review-cn-math-addition-expression-bnup",
+    "review-cn-math-addition-expression-jsep"
+  ],
+  "subject": "math",
+  "summary": "用加号和等号把加数与和之间的关系写成算式。\n\n## 可观察证据\n\n- 能正确读写加法算式并指出各部分名称。\n- 能把实物或图示转换为对应加法算式。\n\n## 常见误区\n\n- 把等号理解成继续计算的提示而不是两边相等。",
+  "title": "加法算式的符号表达"
+}

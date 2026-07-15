@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "2cd08a7e22240b4c618d3679a03788027ddc74eb3965f839773b2d8b38d6b493",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-y",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n近音 /j/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌前部抬向硬腭但不接触，快速滑向后面的元音。\n\n## 示例\n\n可在这些词中观察该声音：yes、yellow。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "近音 /j/"
+}

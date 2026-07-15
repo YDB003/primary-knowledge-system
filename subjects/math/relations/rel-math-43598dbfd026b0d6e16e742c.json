@@ -1,0 +1,12 @@
+{
+  "contentHash": "480d9353686213bf51654d9c603b9a02d1638f205d54ef19bf1c1a1902c19bad",
+  "fromId": "cn-math-rate-times-quantity-total",
+  "id": "rel-math-43598dbfd026b0d6e16e742c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“率乘单位数得到总量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-speed-time-distance"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f7f24514531d9a945ce7f00af97d92bc52a3262f3c1bb79e1b5b1c413ac4e048",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u706f",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"writtenForm\":\"灯\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "灯"
+}

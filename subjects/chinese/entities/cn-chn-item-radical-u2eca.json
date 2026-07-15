@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "017ae620e6121960c662da090832e8867839d4e2265f375c9e5677dabb786166",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u2eca",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"⻊\",\"variantForms\":[\"足\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "足的部首变体⻊"
+}

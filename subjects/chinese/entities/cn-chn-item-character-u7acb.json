@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "56d170692d4ed1ad0b66fec9599defac0ea00253f99aa4c7c07ae3862de0ef75",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7acb",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"writtenForm\":\"立\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "立"
+}

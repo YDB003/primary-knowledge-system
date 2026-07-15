@@ -1,0 +1,12 @@
+{
+  "contentHash": "7e1474c4d2b33771f53b6d8d98386182d8923371441b4c53c8fabaefed552b62",
+  "fromId": "cn-math-compare-fractions-same-denominator",
+  "id": "rel-math-a501cfa2d0f6784f3e15f619",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“同分母分数比较”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-fractions-same-numerator"
+}

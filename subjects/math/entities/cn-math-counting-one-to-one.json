@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e80f659037a6ba6af66bd46877e6b65de632684d8ff4dea8457016a4e249520c",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-counting-one-to-one",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-counting-one-to-one-pep",
+    "review-cn-math-counting-one-to-one-bnup",
+    "review-cn-math-counting-one-to-one-jsep"
+  ],
+  "subject": "math",
+  "summary": "点数时让每个对象与一个数词恰好对应一次。\n\n## 可观察证据\n\n- 能通过指点、移动或标记做到不漏不重地计数。\n- 能说明重复数或漏数会改变计数结果。\n\n## 常见误区\n\n- 只背数词顺序，却没有让数词与对象逐一对应。",
+  "title": "计数中的一一对应"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "86d4fd0bb9e3a2627ef421dab5d78a27412af51393ce56cc3a411f02bada641c",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u5fc4",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"忄\",\"variantForms\":[\"心\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "心的部首变体忄"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "cf733b0597b19196c1e48182f5e7f23be9ef2e8bc4c1ccd94cb6d5d2295522b8",
+  "fromId": "eng-ipa-diphthong-oh",
+  "id": "eng-rel-ipa-diphthong-oh-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/əʊ/ 这个书写符号用于标记英语声音“双元音 /əʊ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-diphthong-oh"
+}

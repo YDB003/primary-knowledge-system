@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "76ca06ac5587a282343ef853e74b013d610e03b804ae48e60799d06c4c4301bc",
+  "domain": "listening_viewing",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-view-interpret-sound-color-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 推断声音和色彩传达的意义\n\n## 能力说明\n\n推断声音和色彩传达的意义，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 观看简单多模态材料时能用声音或色彩线索判断氛围。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：listening_viewing\n- 课标锚点：[[eng-anchor-l1-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "推断声音和色彩传达的意义"
+}

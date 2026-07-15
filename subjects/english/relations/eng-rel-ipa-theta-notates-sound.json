@@ -1,0 +1,15 @@
+{
+  "contentHash": "d128a4b9a05eb552cd647f021902689d316dd6240d532b5ea9589cf3849a0a9c",
+  "fromId": "eng-ipa-theta",
+  "id": "eng-rel-ipa-theta-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/θ/ 这个书写符号用于标记英语声音“清辅音 /θ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-theta"
+}

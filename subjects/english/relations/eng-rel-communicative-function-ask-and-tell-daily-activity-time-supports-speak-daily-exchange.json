@@ -1,0 +1,14 @@
+{
+  "contentHash": "f8ea1b000a369ee759026a7bf1635cd49b27daa8bf01661dc6e7ecee1de45122",
+  "fromId": "eng-communicative-function-ask-and-tell-daily-activity-time",
+  "id": "eng-rel-communicative-function-ask-and-tell-daily-activity-time-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

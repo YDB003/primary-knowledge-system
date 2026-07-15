@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "91c2aecf365eeb880f5a5f94e0e1a20030bdb6c307d564d0731be0fef7f847e1",
+  "domain": "数量关系",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-additive-vs-multiplicative-comparison",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-additive-vs-multiplicative-comparison-pep",
+    "review-cn-math-additive-vs-multiplicative-comparison-bnup",
+    "review-cn-math-additive-vs-multiplicative-comparison-jsep"
+  ],
+  "subject": "math",
+  "summary": "相差比较使用减法描述绝对差，倍数比较使用除法描述相对大小，两者回答不同问题。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“相差比较与倍数比较的区别”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把多3与3倍视为同一关系。",
+  "title": "相差比较与倍数比较的区别"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b42907677f531b939bdaad14b8bc2ca21e7209806f8b6dc6eede74a2add66e56",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-recognize-basic-plane-shapes",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-recognize-basic-plane-shapes-pep",
+    "review-cn-math-recognize-basic-plane-shapes-bnup",
+    "review-cn-math-recognize-basic-plane-shapes-jsep"
+  ],
+  "subject": "math",
+  "summary": "可依据边的数量、曲直、角和封闭性识别三角形、四边形、圆等基本图形。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“基本平面图形的识别”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只按图形摆放方向或大小识别。",
+  "title": "基本平面图形的识别"
+}

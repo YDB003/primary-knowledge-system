@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "43c0f9ea6770f194922699742691e01cf9a23036688cd4188049d9ea85d3009e",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-word-energy-noun",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "energy 在本知识点中作noun，基本义为“能源；能量”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "energy"
+}

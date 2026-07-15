@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b50a8b1710f0c798a3674d60a1ae7a17ad741d0b574ece351f24e6e63a072369",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-state-medium-expression-effect-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-state-medium-expression-effect-s3-curriculum-standard",
+    "review-cn-chn-inq-state-medium-expression-effect-s3-unified-pre-2024",
+    "review-cn-chn-inq-state-medium-expression-effect-s3-unified-2024-revision",
+    "review-cn-chn-inq-state-medium-expression-effect-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "针对一份媒介材料，只完成“说出媒介带来的表达效果”这一操作，以明确媒介形式并描述其具体表达效果的陈述作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能说出某种媒介怎样突出、补充或改变信息的呈现效果，并指出对应媒介。\n- 能换用另一份媒介材料说出其带来的具体表达效果，并指出对应信息。\n\n## 常见错误\n\n- 只说喜欢或不喜欢，没有指出媒介带来的具体表达效果。",
+  "title": "说出媒介带来的表达效果"
+}

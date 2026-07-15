@@ -1,0 +1,12 @@
+{
+  "contentHash": "980d7b87df3f63f56ad0cd43b3dca685649b548a24d780c2057903fee8f62c99",
+  "fromId": "cn-math-recognize-cuboid",
+  "id": "rel-math-ccf95302d8e5955440877fb5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“长方体的识别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-recognize-cube"
+}

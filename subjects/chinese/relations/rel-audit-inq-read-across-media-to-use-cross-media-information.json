@@ -1,0 +1,12 @@
+{
+  "contentHash": "e8899d80308f17a7fd9022baa9dbeac6f4593d3b5dbd547d49cddf39b6ccc7e7",
+  "fromId": "cn-chn-inq-read-across-media-s3",
+  "id": "rel-audit-inq-read-across-media-to-use-cross-media-information",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "运用跨媒介信息必须先从两种以上媒介读取并记录可追溯信息；缺少这些媒介信息输入时，无法按任务选择和使用跨媒介内容。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-inq-use-cross-media-information-s3"
+}

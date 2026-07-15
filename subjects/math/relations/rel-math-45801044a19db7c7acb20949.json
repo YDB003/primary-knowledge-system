@@ -1,0 +1,12 @@
+{
+  "contentHash": "cbe1da5e9450d4bb4d4e606038dbfd749d7f6725a90287b69aefbc27635565c8",
+  "fromId": "cn-math-read-write-percent",
+  "id": "rel-math-45801044a19db7c7acb20949",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“百分数的读写”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-convert-percent-fraction-decimal"
+}

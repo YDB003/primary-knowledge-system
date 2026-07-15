@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "960cccba3692d237ec5c519a41bd2135f013c29d238641af4a8a23869109a5c2",
+  "domain": "vocabulary_semantics",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-vocab-connect-sound-form-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-vocabulary"
+  ],
+  "subject": "english",
+  "summary": "# 建立单词音形义联系\n\n## 能力说明\n\n建立单词音形义联系，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 听到、看到或使用已学词时能关联其读音、拼写和含义。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：vocabulary_semantics\n- 课标锚点：[[eng-anchor-l1-vocabulary]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "建立单词音形义联系"
+}

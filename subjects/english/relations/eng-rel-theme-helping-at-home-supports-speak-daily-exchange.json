@@ -1,0 +1,14 @@
+{
+  "contentHash": "383bcd1e359ffdd1f08df83b2de7636902614a4d9e16a341f0460a7d58750c97",
+  "fromId": "eng-theme-helping-at-home",
+  "id": "eng-rel-theme-helping-at-home-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

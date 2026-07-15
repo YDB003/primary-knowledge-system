@@ -1,0 +1,14 @@
+{
+  "contentHash": "d665f9ac258a367d6ab34d1d6e442e60717daab1a335a1c57327ca977f7530c7",
+  "fromId": "eng-communicative-function-introduce-self",
+  "id": "eng-rel-communicative-function-introduce-self-supports-grammar-use-simple-sentence-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-use-simple-sentence-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-3a-m2"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-use-simple-sentence-exchange"
+}

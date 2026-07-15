@@ -1,0 +1,14 @@
+{
+  "contentHash": "f6a6fd8c889f487de36510f005afeea7bbb2bf0dbf1297f7562479ff900f3fc2",
+  "fromId": "eng-phrase-nice-to-meet-you",
+  "id": "eng-rel-phrase-nice-to-meet-you-supports-prag-use-greetings",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-prag-use-greetings”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-prag-use-greetings"
+}

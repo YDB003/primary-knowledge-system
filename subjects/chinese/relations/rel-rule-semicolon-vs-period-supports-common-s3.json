@@ -1,0 +1,12 @@
+{
+  "contentHash": "c015c6aa21040fefdea67c9293909ae4ba621140b52326ce9bda9377c20aed88",
+  "fromId": "cn-chn-item-punctuation-rule-semicolon-vs-period",
+  "id": "rel-rule-semicolon-vs-period-supports-common-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "分号与句号用法区分规则身份支撑按句间关系选择正确的常用标点。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-use-common-punctuation-correctly-s3"
+}

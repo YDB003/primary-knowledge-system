@@ -1,0 +1,15 @@
+{
+  "contentHash": "56168ddeb9b2639f7b60eac02ae5d4e4405bad04845e341e79a9442ab9f8180a",
+  "fromId": "eng-ability-recognize-letter-forms",
+  "id": "eng-rel-recognize-letter-forms-pre-pron-read-letter-names",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n读出当前字母的名称，必须先能从呈现的字形中辨认出该字母。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-read-letter-names"
+}

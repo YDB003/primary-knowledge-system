@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f1b7c1015e19edc803496e8b7a7620b8aed6114e0e80155165bbc72de08d832a",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u866b",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"writtenForm\":\"虫\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "虫"
+}

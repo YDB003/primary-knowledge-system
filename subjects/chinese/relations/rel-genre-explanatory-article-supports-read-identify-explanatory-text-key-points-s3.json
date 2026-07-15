@@ -1,0 +1,12 @@
+{
+  "contentHash": "142a536300a313e2b912cc6aa01e2bb641dd40b723894b2d83e1e862c72455d1",
+  "fromId": "cn-chn-item-genre-explanatory-article",
+  "id": "rel-genre-explanatory-article-supports-read-identify-explanatory-text-key-points-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“说明性文章”文体身份支持该能力针对课标所指文本类型完成对应阅读操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-identify-explanatory-text-key-points-s3"
+}

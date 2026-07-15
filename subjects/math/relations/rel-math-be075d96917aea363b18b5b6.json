@@ -1,0 +1,12 @@
+{
+  "contentHash": "d2dca04661d12b4fe5f2c4dafd27c7a00d19b8e9a096ddec960f8b4bf2e4d25c",
+  "fromId": "cn-math-test-model-boundary-case",
+  "id": "rel-math-be075d96917aea363b18b5b6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用边界与反例检验模型”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-revise-model"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0a60566cb712700a696d0b1d9a0011a3d93b92369fdba26d6e36ebeb1a031ccc",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-written-subtraction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-written-subtraction-pep",
+    "review-cn-math-written-subtraction-bnup",
+    "review-cn-math-written-subtraction-jsep"
+  ],
+  "subject": "math",
+  "summary": "把相同计数单位对齐，从低位起相减，不够减时从前一位退一换成十个当前单位。\n\n## 可观察证据\n\n- 能正确完成含连续退位的多位数减法竖式。\n- 能用计数单位解释退位后的数量不变。\n\n## 常见误区\n\n- 退位后没有减少前一位或重复退位。",
+  "title": "多位数减法笔算"
+}

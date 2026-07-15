@@ -1,0 +1,15 @@
+{
+  "contentHash": "ce0758ae0de744e18a31844455a1e9fa93045763b14cbabc01227d36b232529d",
+  "fromId": "eng-ability-write-learned-words",
+  "id": "eng-rel-write-learned-words-pre-write-spell-basic-words",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n独立写作时保持已学词拼写基本正确，必须先能按正确字母顺序书写这些单词。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-write-spell-basic-words"
+}

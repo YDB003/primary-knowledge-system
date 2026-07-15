@@ -1,0 +1,12 @@
+{
+  "contentHash": "46510601ed30f3c7e6636e6c5379e97e85f29a1428090c6f051af266df26813f",
+  "fromId": "cn-math-translate-context-to-model",
+  "id": "rel-math-a8b84392f0beb4b4cb99b979",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“把情境转化为数学模型”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-interpret-model-result"
+}

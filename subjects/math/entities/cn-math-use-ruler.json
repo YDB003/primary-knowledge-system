@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4ce9fd6258071e8d3c75fd5cd21274367cbf81da58954aa078a9cb1f22749272",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-use-ruler",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-use-ruler-pep",
+    "review-cn-math-use-ruler-bnup",
+    "review-cn-math-use-ruler-jsep"
+  ],
+  "subject": "math",
+  "summary": "把线段起点对准零刻度，沿直尺读取终点刻度差。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“用直尺测量线段”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 起点不在零刻度时仍把终点读数当长度。",
+  "title": "用直尺测量线段"
+}

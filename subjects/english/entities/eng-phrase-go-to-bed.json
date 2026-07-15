@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "45537ea5ea0a8b42979b7a3225d746e9a636cc219580dc31eca4e191c1561491",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-go-to-bed",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "go to bed 表示“上床睡觉”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "go to bed"
+}

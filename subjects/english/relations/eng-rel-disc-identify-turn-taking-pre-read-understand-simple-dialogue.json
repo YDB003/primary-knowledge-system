@@ -1,0 +1,15 @@
+{
+  "contentHash": "a85033796cfd34a8058fe281c50f7632e002d1fe9f39d2e35d35593c589803f4",
+  "fromId": "eng-ability-disc-identify-turn-taking",
+  "id": "eng-rel-disc-identify-turn-taking-pre-read-understand-simple-dialogue",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n说明简短对话中谁在谈什么及其意图，必须先能依据话轮转换区分说话者。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-simple-dialogue"
+}

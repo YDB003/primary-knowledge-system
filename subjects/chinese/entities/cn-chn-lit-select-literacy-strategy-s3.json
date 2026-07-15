@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "199d83f9b7c4bd4d9b555370e53f6936d693387b02c193567ab6977e7623542c",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-select-literacy-strategy-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-select-literacy-strategy-s3-curriculum-standard",
+    "review-cn-chn-lit-select-literacy-strategy-s3-unified-pre-2024",
+    "review-cn-chn-lit-select-literacy-strategy-s3-unified-2024-revision",
+    "review-cn-chn-lit-select-literacy-strategy-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "遇到未识汉字时按识字困难选择解决策略，形成推测、查验或修正的独立处理过程。\n\n## 掌握证据\n\n- 能在没有直接告知答案时主动按识字困难选择解决策略。\n- 能说明所用线索，并用语境或工具查验结果。\n\n## 常见错误\n\n- 得到初步猜测后直接当作结论，没有继续查验。",
+  "title": "按识字困难选择解决策略"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "614cfcb95e1ae20f17edddb5436116eab13a6bacb50ae9ca008914c41c2f0bc4",
+  "fromId": "cn-chn-item-writing-task-simple-factual-composition",
+  "id": "rel-writing-task-simple-factual-composition-supports-expr-write-simple-factual-composition-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“简单记实作文”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-write-simple-factual-composition-s3"
+}

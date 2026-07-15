@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "d7f3d4860dd80c79278877138ba27210b410c3f8f273f35c841b3aaad155e468",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u8dd1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":12,\"writtenForm\":\"跑\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "跑"
+}

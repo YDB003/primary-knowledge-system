@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5146b53feb69028a6a2357c5ac7364d7f1dc3e5d34aef32ae77cd35059fab12a",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u77f3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"writtenForm\":\"石\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "石"
+}

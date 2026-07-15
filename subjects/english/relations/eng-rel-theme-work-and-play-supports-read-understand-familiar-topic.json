@@ -1,0 +1,14 @@
+{
+  "contentHash": "602f3e6ace76138f9a0c7898d74af196b0f1f5ec990ea31adf93fe19e47ecfcd",
+  "fromId": "eng-theme-work-and-play",
+  "id": "eng-rel-theme-work-and-play-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

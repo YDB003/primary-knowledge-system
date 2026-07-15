@@ -1,0 +1,12 @@
+{
+  "contentHash": "afce65996d8669699466a0b16d381d4daeab586de68b7884b3955a1aada260f6",
+  "fromId": "cn-math-choose-unit-by-scale",
+  "id": "rel-math-4ac76e2abf8ab70091572d86",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“按对象尺度选择单位”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-attach-unit-to-result"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "85a44c7c723bcd24c2dd63851083ae38c020498baffdafe1b7cadd85451dd7dd",
+  "fromId": "eng-word-reuse-verb",
+  "id": "eng-rel-word-reuse-verb-supports-vocab-describe-actions-processes",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-describe-actions-processes”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-describe-actions-processes"
+}

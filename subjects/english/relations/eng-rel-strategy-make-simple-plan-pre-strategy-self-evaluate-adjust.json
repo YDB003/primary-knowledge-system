@@ -1,0 +1,15 @@
+{
+  "contentHash": "a45f1101e77b5a963b6a15c47c67ce5b52b025ac4c9c2c42afea93d0e6df425a",
+  "fromId": "eng-ability-strategy-make-simple-plan",
+  "id": "eng-rel-strategy-make-simple-plan-pre-strategy-self-evaluate-adjust",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n检查效果后修改下一步学习计划，必须先能形成包含目标和行动的简单计划。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-strategy-self-evaluate-adjust"
+}

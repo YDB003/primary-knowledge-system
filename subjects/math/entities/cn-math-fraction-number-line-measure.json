@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "47ba7bba6540484833df5256fcf7ae1bb8934d29add0ff46a6ed50fc40d175c7",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-fraction-number-line-measure",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-fraction-number-line-measure-pep",
+    "review-cn-math-fraction-number-line-measure-bnup",
+    "review-cn-math-fraction-number-line-measure-jsep"
+  ],
+  "subject": "math",
+  "summary": "把单位长度平均分后，分数表示从0出发累积若干个单位分数所到达的位置。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“分数在数线上的度量意义”。\n- 能用数量关系或运算结构解释“分数在数线上的度量意义”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 只把分数看成涂色面积，不能把它看成数线上的数。",
+  "title": "分数在数线上的度量意义"
+}

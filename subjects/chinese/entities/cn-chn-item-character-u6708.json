@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "8e3c0df39fbbf6566f4178ac6346baaed9c183600ecb5d29c9b5feb164958c24",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u6708",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":4,\"writtenForm\":\"月\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "月"
+}

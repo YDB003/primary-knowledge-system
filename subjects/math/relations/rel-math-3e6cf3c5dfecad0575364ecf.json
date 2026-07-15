@@ -1,0 +1,12 @@
+{
+  "contentHash": "d55d62f3a85728e671598cd98424879a735c92721b911c0ff006cdebec4674f8",
+  "fromId": "cn-math-estimate-add-subtract",
+  "id": "rel-math-3e6cf3c5dfecad0575364ecf",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“加减法结果估算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-estimate-multiplication"
+}

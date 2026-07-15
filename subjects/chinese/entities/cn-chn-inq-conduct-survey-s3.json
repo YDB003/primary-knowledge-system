@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "41e0b637ffc842efefa671a3a396a29941a878bab9f7cb74bc33b16f85231fdc",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-conduct-survey-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-conduct-survey-s3-curriculum-standard",
+    "review-cn-chn-inq-conduct-survey-s3-unified-pre-2024",
+    "review-cn-chn-inq-conduct-survey-s3-unified-2024-revision",
+    "review-cn-chn-inq-conduct-survey-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文专题探究中，只完成“通过调查收集回应”这一操作，以调查对象针对明确专题项目作出的回应作为可直接观察或听取的过程结果。\n\n## 掌握证据\n\n- 能通过调查收集多个对象对同一专题项目的回应，所得回应与项目直接对应。\n- 能围绕另一专题项目开展调查并收集对象回应，所得回应仍与该项目直接对应。\n\n## 常见错误\n\n- 调查项目偏离专题或表述含混，收集到的回应不能回答所调查的内容。",
+  "title": "通过调查收集专题回应"
+}

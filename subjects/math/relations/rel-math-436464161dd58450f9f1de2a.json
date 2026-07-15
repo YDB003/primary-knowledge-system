@@ -1,0 +1,12 @@
+{
+  "contentHash": "5d8e9d3084fea43d1527866f254196229e6ed3829a1a4cd06fd3d015853e56e0",
+  "fromId": "cn-math-measurement-resolution",
+  "id": "rel-math-436464161dd58450f9f1de2a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“最小分度与精度”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-measurement-error"
+}

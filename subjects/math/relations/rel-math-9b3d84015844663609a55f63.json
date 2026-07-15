@@ -1,0 +1,12 @@
+{
+  "contentHash": "745f9413162daa31dae14ff49e58fe27949cb796f3b99fdcd5ea2e1a6b624fe9",
+  "fromId": "cn-math-equally-likely-outcomes",
+  "id": "rel-math-9b3d84015844663609a55f63",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“等可能结果”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-experimental-frequency"
+}

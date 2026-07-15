@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8e55cdef19bb43fb3a343395d98b93e63f2a4646b5030e12bbfca0cab0453e6a",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-find-percentage-of-quantity",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-find-percentage-of-quantity-pep",
+    "review-cn-math-find-percentage-of-quantity-bnup",
+    "review-cn-math-find-percentage-of-quantity-jsep"
+  ],
+  "subject": "math",
+  "summary": "把百分率化为小数或分数并乘单位1对应的总量，得到该百分率对应的部分量。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“求一个量的百分之几”。\n- 能用数量关系或运算结构解释“求一个量的百分之几”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把总量直接加上百分数这个无量纲数。",
+  "title": "求一个量的百分之几"
+}

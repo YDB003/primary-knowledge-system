@@ -1,0 +1,12 @@
+{
+  "contentHash": "8c0b4ab3837261efecae1f60761cd9f947b22b90f160571c2dc4b2a43b707bef",
+  "fromId": "cn-math-read-calendar",
+  "id": "rel-math-6fb2655c2dfea7174789f3bb",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“阅读日历”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-calendar-interval"
+}

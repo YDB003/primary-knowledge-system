@@ -1,0 +1,14 @@
+{
+  "contentHash": "e7a4b20f4260a9a6a18fe22ca76c13f34aabaf74fed91eea21bef623b5bbabf6",
+  "fromId": "eng-phrase-in-the-afternoon",
+  "id": "eng-rel-phrase-in-the-afternoon-supports-speak-describe-routine",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-routine”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-routine"
+}

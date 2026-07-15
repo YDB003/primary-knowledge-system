@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "638bb1168c5f3cf4b4a4af254dac7dafd8d9e2ace5a5128ef95212d726f6dfd8",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-detect-character-error-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-detect-character-error-s2-curriculum-standard",
+    "review-cn-chn-lit-detect-character-error-s2-unified-pre-2024",
+    "review-cn-chn-lit-detect-character-error-s2-unified-2024-revision",
+    "review-cn-chn-lit-detect-character-error-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "逐字复核自己的书写结果，标出字形或用字有误的位置，输出待改正标记。\n\n## 掌握证据\n\n- 能在一段自主书写文字中发现并标出错字位置。\n- 能指出被标汉字是字形错误还是语境用字不当。\n\n## 常见错误\n\n- 只检查整洁程度，没有逐字辨认可能的错字。",
+  "title": "书写后发现错字"
+}

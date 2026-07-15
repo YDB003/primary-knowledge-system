@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f0f65b41a0ed80a172d45835a88f5db5fb1ada5e600d8b692994fded10fa3527",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-additive-decrease-result",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-additive-decrease-result-pep",
+    "review-cn-math-additive-decrease-result-bnup",
+    "review-cn-math-additive-decrease-result-jsep"
+  ],
+  "subject": "math",
+  "summary": "已知初始量和减少量时，结果量等于初始量减减少量。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“减少变化中求结果量”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 忽略变化方向，把减少情境仍列成加法。",
+  "title": "减少变化中求结果量"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "64771444ea6e3263a463a71ef6f406c97140c93a6c8a1786ece6442f3131a728",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-identify-basic-explanatory-methods-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-identify-basic-explanatory-methods-s3-curriculum-standard",
+    "review-cn-chn-read-identify-basic-explanatory-methods-s3-unified-pre-2024",
+    "review-cn-chn-read-identify-basic-explanatory-methods-s3-unified-2024-revision",
+    "review-cn-chn-read-identify-basic-explanatory-methods-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "依据语句呈现信息的方式，识别列数字、举例子、作比较等基本说明方法。\n\n## 掌握证据\n\n- 能识别语句使用的一种基本说明方法。\n- 能指出该说明方法所在的语句及其说明对象。\n\n## 常见错误\n\n- 只背出说明方法名称，不能在文章中指出对应位置。",
+  "title": "识别基本说明方法"
+}

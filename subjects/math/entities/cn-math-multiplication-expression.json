@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "77808ff272e3c1e67a349a632d0ef49fde95867d17b7ba5f7169388d977c04cd",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-multiplication-expression",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-multiplication-expression-pep",
+    "review-cn-math-multiplication-expression-bnup",
+    "review-cn-math-multiplication-expression-jsep"
+  ],
+  "subject": "math",
+  "summary": "用乘号和等号表示因数与积之间的数量关系。\n\n## 可观察证据\n\n- 能正确读写乘法算式并指出因数和积。\n- 能把等量分组情境转换为乘法算式。\n\n## 常见误区\n\n- 把乘号两边数字只当作普通相邻数字。",
+  "title": "乘法算式的符号表达"
+}

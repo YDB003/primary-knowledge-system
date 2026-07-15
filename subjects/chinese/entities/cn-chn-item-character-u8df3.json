@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "37349789d3c9ffe700f768f00c51e7338a28755a8e008e197a01747d56b93a01",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u8df3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":13,\"writtenForm\":\"跳\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "跳"
+}

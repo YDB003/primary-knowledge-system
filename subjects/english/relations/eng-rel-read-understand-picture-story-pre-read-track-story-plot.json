@@ -1,0 +1,15 @@
+{
+  "contentHash": "4899e28a857434accc303943c2fc95e4fa7ce0c7a9283a051c1cb0cbfe4d613b",
+  "fromId": "eng-ability-read-understand-picture-story",
+  "id": "eng-rel-read-understand-picture-story-pre-read-track-story-plot",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n归纳故事的开端、发展和结局，必须先理解配图故事中的主要人物与事件。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-track-story-plot"
+}

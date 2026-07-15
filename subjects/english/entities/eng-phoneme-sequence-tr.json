@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "6241e81bb1f00e57b5e3845d6f914c752920a47fa23394cc93603c97f6de876e",
+  "domain": "PHONEME_SEQUENCE",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-sequence-tr",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n辅音序列 /tr/。本条是音位序列，不把它误标为单一音位。\n\n## 发音提示\n\n先发 /t/ 的阻塞，再迅速过渡到 /r/；它是两个音位的连续组合。\n\n## 示例\n\n可在这些词中观察该声音：tree、train。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "辅音序列 /tr/"
+}

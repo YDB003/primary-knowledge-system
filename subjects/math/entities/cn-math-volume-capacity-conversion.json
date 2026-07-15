@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3b7394dff385f263a15d1fd7cf2de78574460496b89ca5a97ba2a3a8469fa34f",
+  "domain": "图形与几何",
+  "entityType": "model",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-volume-capacity-conversion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-volume-capacity-conversion-pep",
+    "review-cn-math-volume-capacity-conversion-bnup",
+    "review-cn-math-volume-capacity-conversion-jsep"
+  ],
+  "subject": "math",
+  "summary": "1立方分米与1升、1立方厘米与1毫升在相应容积情境中数量相等。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“体积单位与容积单位联系”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把升和立方米直接按十进一位换算。",
+  "title": "体积单位与容积单位联系"
+}

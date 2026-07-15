@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "7a01a6de4e9584c8745428f715b08bbd16938775176be49a39ed208371d39378",
+  "domain": "GENRE",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-item-genre-simple-non-continuous-text",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022",
+    "anchor-stage-3-reading-appreciation"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"genreCategory\":\"课程标准直接命名文体身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "简单的非连续性文本"
+}
