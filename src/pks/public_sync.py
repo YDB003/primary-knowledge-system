@@ -302,6 +302,7 @@ class PublicSyncService:
             "schemaVersion": SCHEMA_VERSION,
             "repositoryId": repository_id,
             "repositoryUrl": repository_url,
+            "repositoryUrlHistory": list(state.get("repositoryUrlHistory", [])),
             "branch": branch,
             "lastSeenCommit": commit,
             "upstreamRecords": current_records,
@@ -397,6 +398,8 @@ class PublicSyncService:
         try:
             _run_git(
                 [
+                    "-c",
+                    "core.longpaths=true",
                     "clone",
                     "--quiet",
                     "--depth",
