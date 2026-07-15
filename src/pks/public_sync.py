@@ -6,7 +6,9 @@ import json
 import os
 import re
 import shutil
+import stat
 import subprocess
+import time
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
@@ -107,6 +109,35 @@ def _run_git(arguments: list[str], *, timeout: int = 120) -> str:
         message = result.stderr.strip() or result.stdout.strip() or "git failed"
         raise ProtocolError("PUBLIC_GIT_FAILED", message)
     return result.stdout.strip()
+
+
+def _replace_directory(source: Path, target: Path) -> None:
+    for attempt in range(5):
+        try:
+            os.replace(source, target)
+            return
+        except FileExistsError:
+            return
+        except PermissionError:
+            if target.is_dir():
+                return
+            if attempt == 4:
+                raise
+            time.sleep(0.05 * (attempt + 1))
+
+
+def _remove_readonly(
+    function: Any, path: str, error: tuple[type[BaseException], BaseException, Any]
+) -> None:
+    exception = error[1]
+    if not isinstance(exception, PermissionError):
+        raise exception
+    os.chmod(path, stat.S_IWRITE)
+    function(path)
+
+
+def _remove_tree(path: Path) -> None:
+    shutil.rmtree(path, onerror=_remove_readonly)
 
 
 def _serialize_change(change: PublicChange) -> dict[str, Any]:
@@ -383,13 +414,10 @@ class PublicSyncService:
                     "PUBLIC_HEAD_MOVED",
                     "public main changed during synchronization; retry",
                 )
-            try:
-                os.replace(temporary, target)
-            except FileExistsError:
-                pass
+            _replace_directory(temporary, target)
         finally:
             if temporary.exists():
-                shutil.rmtree(temporary)
+                _remove_tree(temporary)
         return target
 
     @staticmethod
