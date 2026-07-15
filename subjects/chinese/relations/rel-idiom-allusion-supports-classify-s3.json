@@ -1,0 +1,12 @@
+{
+  "contentHash": "8ec27a5cb75173f9426e9077251f2c73726f3526a8e7d3234993790f70f86df1",
+  "fromId": "cn-chn-item-idiom-allusion-category",
+  "id": "rel-idiom-allusion-supports-classify-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "成语典故类别身份支持第三学段按主题分类整理已经积累的成语典故。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-inq-classify-learned-language-units-s3"
+}

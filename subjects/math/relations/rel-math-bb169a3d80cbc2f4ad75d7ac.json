@@ -1,0 +1,12 @@
+{
+  "contentHash": "e2d91fda7572eaeb4f38f315e16dbf49d06111561cd216ec5f855a5bb09ca7ec",
+  "fromId": "cn-math-fraction-add-subtract-same-denominator",
+  "id": "rel-math-bb169a3d80cbc2f4ad75d7ac",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“同分母分数加减”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-add-subtract-different-denominator"
+}

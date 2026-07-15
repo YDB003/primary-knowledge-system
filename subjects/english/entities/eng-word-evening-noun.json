@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "d0a6f145627be2bdc9f17f5726cc9a0e4a9d45cab769832d5eed8825ebc04e5c",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-word-evening-noun",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "evening 在本知识点中作noun，基本义为“傍晚；晚上”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "evening"
+}

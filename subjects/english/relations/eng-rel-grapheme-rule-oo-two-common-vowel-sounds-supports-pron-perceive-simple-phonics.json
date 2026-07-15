@@ -1,0 +1,14 @@
+{
+  "contentHash": "909a47498ecd1ee4c4ed66a6b7960838f8ae49563395a871f9678349f4648f78",
+  "fromId": "eng-grapheme-rule-oo-two-common-vowel-sounds",
+  "id": "eng-rel-grapheme-rule-oo-two-common-vowel-sounds-supports-pron-perceive-simple-phonics",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-pron-perceive-simple-phonics”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-perceive-simple-phonics"
+}

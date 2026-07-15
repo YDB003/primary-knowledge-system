@@ -1,0 +1,12 @@
+{
+  "contentHash": "63a4270c0a860af182a4db0c1cc1d83157c53d3dea27f3995e0e8c284b7f99a5",
+  "fromId": "cn-math-decimal-scaling",
+  "id": "rel-math-714be41f7f28e6bb79488f1d",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数点移动与十进缩放”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-decimal-times-integer"
+}

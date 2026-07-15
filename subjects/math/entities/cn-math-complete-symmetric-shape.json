@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "dfa9115adf0e03cfeffb2a0e016dee0b8a8a9f405b3dde739aea408522dfdd48",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-complete-symmetric-shape",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-complete-symmetric-shape-pep",
+    "review-cn-math-complete-symmetric-shape-bnup",
+    "review-cn-math-complete-symmetric-shape-jsep"
+  ],
+  "subject": "math",
+  "summary": "对应点位于对称轴两侧的垂线上且到轴距离相等，据此逐点补全图形。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“补全轴对称图形”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只复制形状但不保持各点到轴的距离。",
+  "title": "补全轴对称图形"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "ac4af0993a1c173982dde99d42fb685808f967abf78e976413427cd2595564b1",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-word-save-verb",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "save 在本知识点中作verb，基本义为“节约；拯救”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "save"
+}

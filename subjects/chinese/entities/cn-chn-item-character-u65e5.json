@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5d51513e57062f6f6aed2ac26bff651706f5a4518f5d2d0045d9483b3f4d8efb",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u65e5",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":4,\"writtenForm\":\"日\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "日"
+}

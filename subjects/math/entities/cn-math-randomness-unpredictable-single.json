@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a3ede62a15b391f4845274bb8e36c580d7ccd96dd97434ff075cdeb8a933eacc",
+  "domain": "统计与概率",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-randomness-unpredictable-single",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:statistics-and-probability",
+    "anchor-stage-2-statistics-and-probability",
+    "review-cn-math-randomness-unpredictable-single-pep",
+    "review-cn-math-randomness-unpredictable-single-bnup",
+    "review-cn-math-randomness-unpredictable-single-jsep"
+  ],
+  "subject": "math",
+  "summary": "可以描述长期倾向，但不能据此确定单次随机结果。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“单次随机结果不可预知”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 认为最可能的结果下一次必然出现。",
+  "title": "单次随机结果不可预知"
+}

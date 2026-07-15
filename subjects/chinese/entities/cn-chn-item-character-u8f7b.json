@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "8295e70d2ce4256f0107eb78116c0dfb03ff7bb615bcb56182c90713fdfe0191",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u8f7b",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":9,\"writtenForm\":\"轻\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "轻"
+}

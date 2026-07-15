@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0eb12dfa633a29377a13a73c9ae07c0bb76ea9c63726a803bd2b163ba40ead37",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-nonstandard-length-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-nonstandard-length-units-pep",
+    "review-cn-math-nonstandard-length-units-bnup",
+    "review-cn-math-nonstandard-length-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "用同样大小的物体连续无缝排列，个数可描述长度。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“用非标准单位测量长度”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 测量单位大小不一或排列有空隙。",
+  "title": "用非标准单位测量长度"
+}

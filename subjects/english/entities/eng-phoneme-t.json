@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "c6e6dc0a6e06589bf357939afe39591d165b4fec8ad4c68ebd13d22d4346f4ca",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-t",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n清辅音 /t/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌尖抵住上齿龈后放开，声带不振动；词首常带气流。\n\n## 示例\n\n可在这些词中观察该声音：ten、cat。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "清辅音 /t/"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "7e719eb7ae57658c88f9e0104f4f84438b3b969e159233cd2c75f41cad0e62a2",
+  "fromId": "cn-math-convert-percent-fraction-decimal",
+  "id": "rel-math-4698902e41bc8ef0f7eaff96",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“百分数分数小数互化”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-find-percentage-of-quantity"
+}

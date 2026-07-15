@@ -1,0 +1,12 @@
+{
+  "contentHash": "635480f0e5974077865e2e16f855f217bd0af906392a420f5fc73f7a29b0c0ae",
+  "fromId": "cn-math-place-value-units",
+  "id": "rel-math-92d9ead519f4f31de4ec8adc",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“整数的数位与计数单位”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-adjacent-place-tenfold"
+}

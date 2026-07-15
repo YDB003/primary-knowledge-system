@@ -1,0 +1,12 @@
+{
+  "contentHash": "eeaf1d322521fdb671c1e371bf0063361da92a6c9c2488e6514991dd1dcf4d43",
+  "fromId": "cn-math-angle-as-two-rays",
+  "id": "rel-math-ef8a5b0f932ac8989e23e8d8",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“角由两条射线组成”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-ray"
+}

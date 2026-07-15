@@ -1,0 +1,12 @@
+{
+  "contentHash": "95b220431556d0c758932b04a785ab3af29b6b4f08e50de3cf26cf3dd422a74e",
+  "fromId": "cn-math-plan-data-collection",
+  "id": "rel-math-cc98a92f718cf78c1d51195e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“设计数据收集方案”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-clean-organize-project-data"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "af79ee7ac68f9f1ef37e8abd827dd5492f86884f606013350b36c4ce3b1fd4dd",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-do-homework",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "do homework 表示“做家庭作业”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "do homework"
+}

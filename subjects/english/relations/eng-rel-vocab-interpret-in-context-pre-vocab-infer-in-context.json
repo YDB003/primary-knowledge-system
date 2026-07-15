@@ -1,0 +1,15 @@
+{
+  "contentHash": "2c74530f6878048e05d4a350d92986c3b15abd94206a905b2e42158eda6000c8",
+  "fromId": "eng-ability-vocab-interpret-in-context",
+  "id": "eng-rel-vocab-interpret-in-context-pre-vocab-infer-in-context",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n在较完整语篇中结合上下文判断词义，必须先能在简单句或场景中解释熟悉词的语境义。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-infer-in-context"
+}

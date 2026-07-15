@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6020c074f8ac3560d11256f3bf782343bea65f758d8d73219ddcf2794e34258c",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-multiplicative-find-base",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-multiplicative-find-base-pep",
+    "review-cn-math-multiplicative-find-base-bnup",
+    "review-cn-math-multiplicative-find-base-jsep"
+  ],
+  "subject": "math",
+  "summary": "当新量是基准量的若干倍时，用新量除以倍数还原一份基准量。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“已知新量和倍数求基准量”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 用新量乘倍数，使结果再次放大。",
+  "title": "已知新量和倍数求基准量"
+}

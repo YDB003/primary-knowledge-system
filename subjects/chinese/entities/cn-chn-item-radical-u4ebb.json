@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "1f96570d233ffcebfe2aa928d8000485c93a5278467dbb07011ac727d8feb0fd",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u4ebb",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"亻\",\"variantForms\":[\"人\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "人的部首变体亻"
+}

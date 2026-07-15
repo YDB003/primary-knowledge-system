@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "1858b674671c960bf6ca1275201ca870449a72af9ee303269744ec7a0984e35a",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u706c",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"灬\",\"variantForms\":[\"火\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "火的部首变体灬"
+}

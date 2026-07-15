@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "c0725c71181f5645ac0605e1a3e5e59b424e4e5652870110e336193f5d1e2520",
+  "domain": "speaking_interaction",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-speak-greet-farewell",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 与他人进行简单问候和道别\n\n## 能力说明\n\n与他人进行简单问候和道别，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能主动完成见面问候与离开道别。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：speaking_interaction\n- 课标锚点：[[eng-anchor-l1-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "与他人进行简单问候和道别"
+}

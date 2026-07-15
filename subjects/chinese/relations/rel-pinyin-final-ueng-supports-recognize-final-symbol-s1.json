@@ -1,0 +1,12 @@
+{
+  "contentHash": "9bb20ce81afaeff33700e9edc05638bc9dc865dcfaae2bb77c6ee88ff0f2a7c4",
+  "fromId": "cn-chn-item-pinyin-final-ueng",
+  "id": "rel-pinyin-final-ueng-supports-recognize-final-symbol-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该韵母表形式是认读韵母符号操作的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-final-symbol-s1"
+}

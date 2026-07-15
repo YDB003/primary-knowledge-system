@@ -1,0 +1,12 @@
+{
+  "contentHash": "668d27fa32cf3356722b8e861e95d6d4818ae6e11e9e80a0442bbd8925179da5",
+  "fromId": "cn-math-division-equal-grouping",
+  "id": "rel-math-bdc36ba0f78f8ef98d363172",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“除法表示按份分组”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-division-expression"
+}

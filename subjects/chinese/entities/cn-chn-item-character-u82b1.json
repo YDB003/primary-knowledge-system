@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "a822e97100bcae4750855e8b15579703f5bad3776451dc71c221a53d2864aa96",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u82b1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":7,\"writtenForm\":\"花\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "花"
+}

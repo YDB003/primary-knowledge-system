@@ -1,0 +1,12 @@
+{
+  "contentHash": "7bac44ed3ab2cb8dce016e91f89f5f23f9e14f6747ff44ba232250ef25023769",
+  "fromId": "cn-math-division-facts",
+  "id": "rel-math-9c0a7e3a0b94a4be3763ae46",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“表内除法事实”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-remainder-meaning"
+}

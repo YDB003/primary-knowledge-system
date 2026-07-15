@@ -1,0 +1,14 @@
+{
+  "contentHash": "cf97dfeabf3e702b86d6d14d78e79a127663a30866406e8bba9d4e0c366d679a",
+  "fromId": "eng-grammar-rule-present-simple-do-question",
+  "id": "eng-rel-grammar-rule-present-simple-do-question-supports-grammar-understand-present-simple",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-understand-present-simple”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-understand-present-simple"
+}

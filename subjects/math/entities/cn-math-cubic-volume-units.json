@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3f53cd5d6ca5049845f38e21ae02077a69fed1de3422f99042efd72629bc8098",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-cubic-volume-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-cubic-volume-units-pep",
+    "review-cn-math-cubic-volume-units-bnup",
+    "review-cn-math-cubic-volume-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "立方厘米、立方米等体积单位以相应棱长的正方体为基准。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“立方单位”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把平方单位用于表示体积。",
+  "title": "立方单位"
+}

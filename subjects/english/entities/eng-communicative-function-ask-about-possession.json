@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "45e01cebad5eeb075b1cc32f3f785217f83ced0c43983d6ba17c10022d0a50b0",
+  "domain": "COMMUNICATIVE_FUNCTION",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-communicative-function-ask-about-possession",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "用一般疑问句询问对方是否拥有某物，并根据真实情况作肯定或否定回答。",
+  "title": "询问是否拥有某物"
+}

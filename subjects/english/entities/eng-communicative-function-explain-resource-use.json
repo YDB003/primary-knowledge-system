@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "71dcef9a1d1a3aa36d0321df79e915b12c0e229701efd5c49f2741c119b02cdf",
+  "domain": "COMMUNICATIVE_FUNCTION",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-communicative-function-explain-resource-use",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "明确说出使用哪种资源以及使用目的，使资源与日常行为之间的关系清楚可见。",
+  "title": "说明资源用途"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "847b399270a9d1ec3bd09dac6ea073f70c977e047da7753ce139ddec619d61ed",
+  "domain": "综合与实践",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-clean-organize-project-data",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:synthesis-and-practice",
+    "anchor-stage-3-synthesis-and-practice",
+    "review-cn-math-clean-organize-project-data-pep",
+    "review-cn-math-clean-organize-project-data-bnup",
+    "review-cn-math-clean-organize-project-data-jsep"
+  ],
+  "subject": "math",
+  "summary": "检查缺失重复并按分析需要整理。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“整理核查项目数据”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "整理核查项目数据"
+}

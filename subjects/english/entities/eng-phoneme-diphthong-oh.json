@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "6e79fcfe9c97931da540f5c639c39eb82ae00a8359e1ecf16773d0c5e737880d",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-diphthong-oh",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n双元音 /əʊ/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n从中央元音位置向圆唇的 /ʊ/ 滑动；这是常见英式标法。\n\n## 示例\n\n可在这些词中观察该声音：go、home。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "双元音 /əʊ/"
+}

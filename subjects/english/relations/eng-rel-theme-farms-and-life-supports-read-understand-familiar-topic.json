@@ -1,0 +1,14 @@
+{
+  "contentHash": "ad0dfa9079ff3974c93003cc19ddea8337a2bf2e875f91df1d17e21755f9b024",
+  "fromId": "eng-theme-farms-and-life",
+  "id": "eng-rel-theme-farms-and-life-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

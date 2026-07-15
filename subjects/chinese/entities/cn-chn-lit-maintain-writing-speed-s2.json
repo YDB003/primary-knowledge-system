@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9c280a437717f3e77dfaa1023d3bd5685151b531416d628b5f69db8ea924487f",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-maintain-writing-speed-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-maintain-writing-speed-s2-curriculum-standard",
+    "review-cn-chn-lit-maintain-writing-speed-s2-unified-pre-2024",
+    "review-cn-chn-lit-maintain-writing-speed-s2-unified-2024-revision",
+    "review-cn-chn-lit-maintain-writing-speed-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在独立书写任务中以适当速度连续书写，以可观察的字形、行列或版面结果呈现。\n\n## 掌握证据\n\n- 能在无描摹提示时稳定以适当速度连续书写。\n- 能依据笔画、笔顺、间架或版面要求检查书写成品。\n\n## 常见错误\n\n- 只追求写完，忽略本操作要求的笔画、结构、速度或格式。",
+  "title": "以适当速度连续书写"
+}

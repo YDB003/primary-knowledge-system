@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "c016f52529464e35b30ddadc129fddd9c0bb532c044795125cce86db89e6f088",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-theme-food-we-eat",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕“Food we eat”组织基础听、说、读、看、写活动。学习时应把相关词句放回真实生活场景理解和使用。",
+  "title": "Food we eat"
+}

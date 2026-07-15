@@ -1,0 +1,14 @@
+{
+  "contentHash": "6fdf2680cb55514d681bbaf772c9b932fabd993a0080679433b336663aea24c7",
+  "fromId": "eng-phrase-cut-down",
+  "id": "eng-rel-phrase-cut-down-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

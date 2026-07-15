@@ -1,0 +1,14 @@
+{
+  "contentHash": "06d8e0912406f89ee55f7d528d0ed410ce1fccdb0f341b003ce9e9059da4f061",
+  "fromId": "eng-sentence-pattern-person-should-action",
+  "id": "eng-rel-sentence-pattern-person-should-action-supports-prag-express-viewpoint",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-prag-express-viewpoint”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-prag-express-viewpoint"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "9f32677307cf61bb6661c3d11c42d55fbc80f915180e5cb6014fcc67260b2390",
+  "fromId": "cn-math-zero-as-signed-reference",
+  "id": "rel-math-e86ad9a91486af255d5edfb9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“0作为正负数的分界与参照”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-read-write-signed-numbers"
+}

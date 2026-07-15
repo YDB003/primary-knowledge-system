@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d011d6a0cc39d5ba917c80c086863208815cf24927a3ee483fb8243e6c70bc20",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-square-perimeter",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-square-perimeter-pep",
+    "review-cn-math-square-perimeter-bnup",
+    "review-cn-math-square-perimeter-jsep"
+  ],
+  "subject": "math",
+  "summary": "正方形周长等于边长的4倍。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“正方形周长”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 用边长平方求周长。",
+  "title": "正方形周长"
+}

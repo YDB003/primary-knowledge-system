@@ -1,0 +1,12 @@
+{
+  "contentHash": "7cb624535f8ed38d371d9923f9afda1eb489c3c4b9a14f8bba4b6e5f4c00209c",
+  "fromId": "cn-chn-item-pinyin-final-ie",
+  "id": "rel-pinyin-final-ie-supports-recognize-final-symbol-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该韵母表形式是认读韵母符号操作的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-final-symbol-s1"
+}

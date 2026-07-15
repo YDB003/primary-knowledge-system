@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a32e0a7dfaf43137887ebd3fe1aa68a986700447d65079e4301f3d9c8cf57f1b",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-annotate-reading-content-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-annotate-reading-content-s2-curriculum-standard",
+    "review-cn-chn-read-annotate-reading-content-s2-unified-pre-2024",
+    "review-cn-chn-read-annotate-reading-content-s2-unified-2024-revision",
+    "review-cn-chn-read-annotate-reading-content-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在阅读位置旁用简短文字或符号留下与该处内容直接对应的理解、感受或疑点记录。\n\n## 掌握证据\n\n- 能圈画需要关注的词句，并在相邻位置写出简短批注。\n- 能批注该处内容引发的理解、感受或疑点。\n\n## 常见错误\n\n- 批注与所标位置没有对应关系，读者无法判断记录所指。",
+  "title": "批注阅读内容"
+}

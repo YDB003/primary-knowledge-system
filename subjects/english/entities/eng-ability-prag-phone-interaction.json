@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "bd068b7b59ca7fe94f4962c528889fe19260882cc8c20961d891957c3d08a8f8",
+  "domain": "discourse_pragmatics",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-prag-phone-interaction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-pragmatics"
+  ],
+  "subject": "english",
+  "summary": "# 进行简单电话交流\n\n## 能力说明\n\n进行简单电话交流，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能完成接听、确认对象、传递简短信息和结束通话。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：discourse_pragmatics\n- 课标锚点：[[eng-anchor-l2-pragmatics]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "进行简单电话交流"
+}

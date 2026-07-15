@@ -1,0 +1,14 @@
+{
+  "contentHash": "6dac5ae7fa4bbda10e1ad435b1bbab29f02d7b41132d11a379e4c3370e120fad",
+  "fromId": "eng-grammar-rule-time-prepositions-in-at",
+  "id": "eng-rel-grammar-rule-time-prepositions-in-at-supports-grammar-describe-time",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-describe-time”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-describe-time"
+}

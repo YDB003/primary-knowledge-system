@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "556ffc7fe5ee51c154236be5ad69a8917572d7fa2cde460b8cd53f84fad150c1",
+  "domain": "综合与实践",
+  "entityType": "skill",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-select-project-tools",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:synthesis-and-practice",
+    "anchor-stage-2-synthesis-and-practice",
+    "review-cn-math-select-project-tools-pep",
+    "review-cn-math-select-project-tools-bnup",
+    "review-cn-math-select-project-tools-jsep"
+  ],
+  "subject": "math",
+  "summary": "按范围、环境和精度选择工具。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“选择项目测量工具”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "选择项目测量工具"
+}

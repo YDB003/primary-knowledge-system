@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a5fb6baa9010e226984d0206ccf749f2355d5af68ea70ecd12d697bcc187f133",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-write-whole-syllables-legibly-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-write-whole-syllables-legibly-s1-curriculum-standard",
+    "review-cn-chn-lit-write-whole-syllables-legibly-s1-unified-pre-2024",
+    "review-cn-chn-lit-write-whole-syllables-legibly-s1-unified-2024-revision",
+    "review-cn-chn-lit-write-whole-syllables-legibly-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "把整体认读音节作为完整单位规范写出，输出字母齐全、声调位置清楚的音节。\n\n## 掌握证据\n\n- 能按给定读音书写完整的整体认读音节。\n- 能检查音节字母和声调位置，指出漏写或错标之处。\n\n## 常见错误\n\n- 把整体认读音节拆开拼写，或遗漏其中的字母和声调。",
+  "title": "清楚书写整体认读音节"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "7538f05e2cb5ee10ed1e8ceb3bca25b8cbf3fedf13467226dc7d7590ef7ef001",
+  "fromId": "cn-math-compose-decompose-plane-shapes",
+  "id": "rel-math-1f14ff9b218534dc87410153",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平面图形的拼合与拆分”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-triangle-basic-structure"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "60932e560b6ce283cdabe85568bf9d77bf72bb72d17355aee9a406de3d933651",
+  "fromId": "cn-math-square-area",
+  "id": "rel-math-7434d136854497dc46224d46",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正方形面积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-parallelogram-area"
+}

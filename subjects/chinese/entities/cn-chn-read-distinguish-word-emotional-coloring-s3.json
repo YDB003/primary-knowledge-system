@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1c4fe1d712dc661f6b12100b166ffa75d1aa4848cab539fd694a18dddf4ab1fd",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-distinguish-word-emotional-coloring-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-distinguish-word-emotional-coloring-s3-curriculum-standard",
+    "review-cn-chn-read-distinguish-word-emotional-coloring-s3-unified-pre-2024",
+    "review-cn-chn-read-distinguish-word-emotional-coloring-s3-unified-2024-revision",
+    "review-cn-chn-read-distinguish-word-emotional-coloring-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "结合词语所在语境传达的态度倾向，辨别它带有赞许、否定、亲近、疏离等感情色彩，或不带明显倾向。\n\n## 掌握证据\n\n- 能辨别语境中词语的褒贬倾向或中性色彩。\n- 能指出词语传达的具体态度或感情倾向。\n\n## 常见错误\n\n- 只根据词语字面判断褒贬，没有结合它在当前语境中的态度。",
+  "title": "辨别词语的感情色彩"
+}

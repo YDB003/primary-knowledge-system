@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "dac7316bbde79d32547f05a8131853a51490abb1d4d6fa5eb12fc64fe5e0653d",
+  "domain": "PUNCTUATION",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-punctuation-rule-comma-pause",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-samr-punctuation-2011",
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"punctuationCategory\":\"用法规则身份\"}\n\n## 证据线\n\n- QUALITY_AND_NORM\n- CURRICULUM_STANDARD",
+  "title": "逗号句内停顿规则"
+}

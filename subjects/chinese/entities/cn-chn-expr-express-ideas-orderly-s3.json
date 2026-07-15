@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c4bb9b45b9d48a8dba271d96b3b505ec64836bf6b82d66e094377b8c3ed60157",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-express-ideas-orderly-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-express-ideas-orderly-s3-curriculum-standard",
+    "review-cn-chn-expr-express-ideas-orderly-s3-unified-pre-2024",
+    "review-cn-chn-expr-express-ideas-orderly-s3-unified-2024-revision",
+    "review-cn-chn-expr-express-ideas-orderly-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中只完成有条理地口头表达这一操作，以按可辨顺序展开的口头内容作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能说出按可辨顺序展开的口头内容。\n- 能按另一种可辨层次说出口头内容。\n\n## 常见错误\n\n- 内容来回跳转导致层次不清。",
+  "title": "有条理地口头表达"
+}

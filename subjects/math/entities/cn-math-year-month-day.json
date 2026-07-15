@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ffb88fcf0e5f0f331e115d645a14a2c10bcd90d035361bce42396d22be2988b0",
+  "domain": "量与计量",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-year-month-day",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-year-month-day-pep",
+    "review-cn-math-year-month-day-bnup",
+    "review-cn-math-year-month-day-jsep"
+  ],
+  "subject": "math",
+  "summary": "一年有12个月，各月天数按历法分布，平年与闰年总天数不同。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“年月日关系”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 认为所有月份天数相同。",
+  "title": "年月日关系"
+}

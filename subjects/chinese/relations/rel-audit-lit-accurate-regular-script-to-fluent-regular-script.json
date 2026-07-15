@@ -1,0 +1,12 @@
+{
+  "contentHash": "3d0544fe32df2dc4e4979cf2f7a8d51bc4c3eae0548efe9379b9e93a1ae1b2dd",
+  "fromId": "cn-chn-lit-write-regular-script-accurately-s2",
+  "id": "rel-audit-lit-accurate-regular-script-to-fluent-regular-script",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "用正楷熟练书写连续文字必须先能准确写出单个正楷汉字；缺少稳定的准确字形时，提高连续书写速度只会累积字形错误。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-write-regular-script-fluently-s3"
+}

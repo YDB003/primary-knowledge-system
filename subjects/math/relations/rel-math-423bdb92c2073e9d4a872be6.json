@@ -1,0 +1,12 @@
+{
+  "contentHash": "08369d6bfad6e3d25f447dcd77220cfc26a73ac849ca98b1a1cd901b2d331abf",
+  "fromId": "cn-math-counting-stable-order",
+  "id": "rel-math-423bdb92c2073e9d4a872be6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“计数的稳定顺序”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-counting-cardinality"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "74ddf47596a773533613191bc1affe8cf3c21dfc581d0d26b90f793cee342003",
+  "fromId": "eng-ipa-diphthong-ay",
+  "id": "eng-rel-ipa-diphthong-ay-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/eɪ/ 这个书写符号用于标记英语声音“双元音 /eɪ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-diphthong-ay"
+}

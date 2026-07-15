@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "53d68bec6dee9c9d5e47e23aaf8d71a25eae36741913de123419c49ce2e73e58",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-segment-syllable-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-segment-syllable-s1-curriculum-standard",
+    "review-cn-chn-lit-segment-syllable-s1-unified-pre-2024",
+    "review-cn-chn-lit-segment-syllable-s1-unified-2024-revision",
+    "review-cn-chn-lit-segment-syllable-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在听辨或发音任务中切分口语音节，只处理目标音节的语音单位。\n\n## 掌握证据\n\n- 能对未提示答案的口语材料准确切分口语音节。\n- 能通过复述或重新发音核对切分口语音节的结果。\n\n## 常见错误\n\n- 混淆声母、韵母、声调或音节层级，判断对象发生偏移。",
+  "title": "切分口语音节"
+}

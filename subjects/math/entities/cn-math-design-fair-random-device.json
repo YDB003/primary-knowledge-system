@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "107989a55ea928299dc002437b39a20f4aacb71fd21454dff2ca7029899c468d",
+  "domain": "统计与概率",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-design-fair-random-device",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:statistics-and-probability",
+    "anchor-stage-3-statistics-and-probability",
+    "review-cn-math-design-fair-random-device-pep",
+    "review-cn-math-design-fair-random-device-bnup",
+    "review-cn-math-design-fair-random-device-jsep"
+  ],
+  "subject": "math",
+  "summary": "比较各结果对应区域、数量或机制是否对称，可判断游戏是否公平。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“判断随机装置公平性”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 只看实际输赢一次就判断公平。",
+  "title": "判断随机装置公平性"
+}

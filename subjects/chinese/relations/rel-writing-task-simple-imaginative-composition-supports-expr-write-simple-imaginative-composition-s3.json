@@ -1,0 +1,12 @@
+{
+  "contentHash": "f07394bf46d2cdfb39b7baffb3299d6d0d5ce708a14c7a604ad47e45ba9a28c0",
+  "fromId": "cn-chn-item-writing-task-simple-imaginative-composition",
+  "id": "rel-writing-task-simple-imaginative-composition-supports-expr-write-simple-imaginative-composition-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“简单想象作文”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-write-simple-imaginative-composition-s3"
+}

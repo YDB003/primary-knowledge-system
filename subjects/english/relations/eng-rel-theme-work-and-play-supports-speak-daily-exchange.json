@@ -1,0 +1,14 @@
+{
+  "contentHash": "84e91bc97426f2ecc0fd3fa6d6558385159abfde7a56b5e5f562aa2bc27da05d",
+  "fromId": "eng-theme-work-and-play",
+  "id": "eng-rel-theme-work-and-play-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

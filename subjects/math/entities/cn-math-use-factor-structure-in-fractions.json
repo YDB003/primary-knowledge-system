@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "399c345e8952a5078da5215d547e8d97b0c6ed5d17f6af69ce0ad453bbef1510",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-use-factor-structure-in-fractions",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-use-factor-structure-in-fractions-pep",
+    "review-cn-math-use-factor-structure-in-fractions-bnup",
+    "review-cn-math-use-factor-structure-in-fractions-jsep"
+  ],
+  "subject": "math",
+  "summary": "约分依赖公因数，通分依赖公倍数，把整数结构用于分数可减少机械试算。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“用因数倍数结构处理分数”。\n- 能用数的结构或数量关系解释“用因数倍数结构处理分数”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 通分和约分都只用分子分母相加来处理。",
+  "title": "用因数倍数结构处理分数"
+}

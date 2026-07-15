@@ -1,0 +1,12 @@
+{
+  "contentHash": "e77728550cc7b77a93d90fc7836fd93c4642fdfccd2e7698ecad86c1d626a3f6",
+  "fromId": "cn-chn-item-pinyin-final-u-umlaut-n",
+  "id": "rel-pinyin-final-u-umlaut-n-supports-recognize-final-symbol-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该韵母表形式是认读韵母符号操作的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-final-symbol-s1"
+}

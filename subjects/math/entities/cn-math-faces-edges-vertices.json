@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "cd3ba7bd1d4a2bfac2efe0a40d1d7550f2eff899d3f75dce993547eb7826ceb5",
+  "domain": "图形与几何",
+  "entityType": "model",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-faces-edges-vertices",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-faces-edges-vertices-pep",
+    "review-cn-math-faces-edges-vertices-bnup",
+    "review-cn-math-faces-edges-vertices-jsep"
+  ],
+  "subject": "math",
+  "summary": "立体图形中面相交形成棱，棱相交形成顶点，可用数量和相邻关系描述结构。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“面棱顶点的结构”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 重复计数被遮挡的棱或漏掉不可见部分。",
+  "title": "面棱顶点的结构"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "fc56ea0a8c13a55d6ef9051e5122ce79129217d89ea35448cd1ae7f358d10a3c",
+  "fromId": "cn-math-decimal-times-integer",
+  "id": "rel-math-437efb02e173bdbf3a0ed479",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数乘整数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-decimal-times-decimal"
+}

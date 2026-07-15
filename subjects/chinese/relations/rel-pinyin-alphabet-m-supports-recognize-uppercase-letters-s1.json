@@ -1,0 +1,12 @@
+{
+  "contentHash": "c68187e924b5e1bb132a28f8cae558adaf59a495f3fb34615f648bd39f85d2eb",
+  "fromId": "cn-chn-item-pinyin-alphabet-m",
+  "id": "rel-pinyin-alphabet-m-supports-recognize-uppercase-letters-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该大小写字母对是辨认拼音大写形式及其对应小写形式的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-uppercase-letters-s1"
+}

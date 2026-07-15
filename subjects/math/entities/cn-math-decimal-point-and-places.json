@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "fe034129512abb083ebe326472b40a0cef40430f98fb1cfb6597244cf0bcea25",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-decimal-point-and-places",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-decimal-point-and-places-pep",
+    "review-cn-math-decimal-point-and-places-bnup",
+    "review-cn-math-decimal-point-and-places-jsep"
+  ],
+  "subject": "math",
+  "summary": "小数点分隔整数部分与小数部分，其右侧数位依次对应十分位、百分位、千分位等。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数点与小数数位”。\n- 能用数量关系或运算结构解释“小数点与小数数位”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把十分位读成十位，或从右向左确定小数数位。",
+  "title": "小数点与小数数位"
+}

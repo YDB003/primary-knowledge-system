@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "bf618b641b7f4b7e7571ebbe1f4c53c6178f014c8b8cf60b13cb4e3d2bdeeaf8",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-equality-balance",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-equality-balance-pep",
+    "review-cn-math-equality-balance-bnup",
+    "review-cn-math-equality-balance-jsep"
+  ],
+  "subject": "math",
+  "summary": "等号表示左右两边的数值相同，而不是答案即将出现。\n\n## 可观察证据\n\n- 能判断不同形式等式是否成立。\n- 能补出等式中的未知数使两边相等。\n\n## 常见误区\n\n- 只接受答案写在等号右边的单一格式。",
+  "title": "等号表示两边相等"
+}

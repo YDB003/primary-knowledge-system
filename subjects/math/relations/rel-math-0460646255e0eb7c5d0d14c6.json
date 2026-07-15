@@ -1,0 +1,12 @@
+{
+  "contentHash": "dfd0ef37b6a3a6ed543911a8f4682a6a3b04539f21931992a38aec1a9e345f6e",
+  "fromId": "cn-math-ratio-notation-terms",
+  "id": "rel-math-0460646255e0eb7c5d0d14c6",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比的写法与各部分名称”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-ratio-value"
+}

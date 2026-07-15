@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "efd425b51d34dc0d7f005089219320c9f6db2b9e8a52707a83648ebf5e7d6ed3",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-item-oral-task-simple-speech",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"口语任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "简单发言任务"
+}

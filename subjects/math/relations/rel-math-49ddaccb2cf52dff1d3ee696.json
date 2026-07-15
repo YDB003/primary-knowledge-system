@@ -1,0 +1,12 @@
+{
+  "contentHash": "de6e4da3cf4fc8cd222d005618cb67fdc33d57faa54b0387590061910862c68a",
+  "fromId": "cn-math-decimal-multiplication-scaling",
+  "id": "rel-math-49ddaccb2cf52dff1d3ee696",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数乘法的缩放意义”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-decimal-divide-by-integer"
+}

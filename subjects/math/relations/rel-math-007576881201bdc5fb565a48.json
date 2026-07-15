@@ -1,0 +1,12 @@
+{
+  "contentHash": "062e609b1a3fc049f3bde61ffdb20c1023a32a87622fb35708b39f33c6df3386",
+  "fromId": "cn-math-prime-and-composite",
+  "id": "rel-math-007576881201bdc5fb565a48",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“质数与合数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-common-factor-greatest"
+}

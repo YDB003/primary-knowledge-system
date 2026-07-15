@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "51ac427f7c4df7b67c04feafeeb594e13a298f7067aa9ce0cc64b569b92cafe4",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u732b",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":11,\"writtenForm\":\"猫\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "猫"
+}

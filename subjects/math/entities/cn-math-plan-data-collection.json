@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "38a4e0974dc4212cb434dbc7324ab6202671152640c2960a0490cacd8c1f8656",
+  "domain": "综合与实践",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-plan-data-collection",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:synthesis-and-practice",
+    "anchor-stage-3-synthesis-and-practice",
+    "review-cn-math-plan-data-collection-pep",
+    "review-cn-math-plan-data-collection-bnup",
+    "review-cn-math-plan-data-collection-jsep"
+  ],
+  "subject": "math",
+  "summary": "选择观察、问卷或测量并规定记录方式。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“设计数据收集方案”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "设计数据收集方案"
+}

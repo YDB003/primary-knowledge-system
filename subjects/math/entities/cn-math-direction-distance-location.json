@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3f44711af5f41ac3881295ea3cb1e8ec3e72992b8966f10c2718720fe792c29d",
+  "domain": "图形与几何",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-direction-distance-location",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-direction-distance-location-pep",
+    "review-cn-math-direction-distance-location-bnup",
+    "review-cn-math-direction-distance-location-jsep"
+  ],
+  "subject": "math",
+  "summary": "以观测点为参照，给出方向角和实际距离可确定平面中的位置。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“用方向和距离确定位置”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只给方向没有距离就认为位置唯一。",
+  "title": "用方向和距离确定位置"
+}

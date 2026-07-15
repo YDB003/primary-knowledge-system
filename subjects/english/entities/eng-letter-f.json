@@ -1,0 +1,20 @@
+{
+  "aliases": [],
+  "contentHash": "8943dfe22f56f00a6d8fff11fb28f17da94f2b7d0967bdb602deeb66f9998c37",
+  "domain": "LETTER",
+  "entityType": "letter",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-letter-f",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-cambridge-dictionary",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 认识字母\n\nF 是大写形式，f 是小写形式。它是英文字母表中的第 6 个字母。\n\n## 字母名称\n\n字母名称读作 /ef/。\n\n## 常见发音\n\n在单词中常见读音包括 /f/。字母名称和字母在单词中的读音不是同一件事，实际读音要结合单词判断。\n\n## 示例\n\n可从这些简单词中观察：fish、family。",
+  "title": "F f"
+}

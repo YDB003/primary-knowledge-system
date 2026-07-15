@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1bed78679e11c75e1c745d0e81730f6b8fa39ec06306fed4c23e75f66f330150",
+  "domain": "识字与写字",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-recognize-uppercase-letters-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-recognize-uppercase-letters-s1-curriculum-standard",
+    "review-cn-chn-lit-recognize-uppercase-letters-s1-unified-pre-2024",
+    "review-cn-chn-lit-recognize-uppercase-letters-s1-unified-2024-revision",
+    "review-cn-chn-lit-recognize-uppercase-letters-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "看到拼音字母的大写形式时，指出其对应的小写形式，输出正确的大小写配对。\n\n## 掌握证据\n\n- 能从混合字母中辨认给定拼音大写字母。\n- 能把大写字母与对应小写字母配对并朗读字母名称。\n\n## 常见错误\n\n- 按英文字母外形猜测，造成大小写配对错误。",
+  "title": "辨认拼音大写字母"
+}

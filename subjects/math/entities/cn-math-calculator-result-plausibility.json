@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1417f692091237cc6f4c9ae3aab08058ee2c307faad5ea150d688abdba32019f",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-calculator-result-plausibility",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-calculator-result-plausibility-pep",
+    "review-cn-math-calculator-result-plausibility-bnup",
+    "review-cn-math-calculator-result-plausibility-jsep"
+  ],
+  "subject": "math",
+  "summary": "使用计算器仍需通过估算、单位、数量级和重新输入检查显示结果是否可信。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“计算器结果的合理性判断”。\n- 能用数的结构或数量关系解释“计算器结果的合理性判断”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 把计算器显示当作必然正确，不检查输入错误。",
+  "title": "计算器结果的合理性判断"
+}

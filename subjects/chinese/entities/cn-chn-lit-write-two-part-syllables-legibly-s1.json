@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "89606e54963f035bec4ef6afc53b8e83e8c3a1f0236572f15160d1ce0adbe691",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-write-two-part-syllables-legibly-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-write-two-part-syllables-legibly-s1-curriculum-standard",
+    "review-cn-chn-lit-write-two-part-syllables-legibly-s1-unified-pre-2024",
+    "review-cn-chn-lit-write-two-part-syllables-legibly-s1-unified-2024-revision",
+    "review-cn-chn-lit-write-two-part-syllables-legibly-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "根据读音把声母和韵母组合写成普通两拼音节，输出字母完整、声调位置清楚的书面音节。\n\n## 掌握证据\n\n- 能听到或读到一个普通两拼音节后写出完整字母组合。\n- 能检查所写音节的声韵顺序和声调位置并标出错误。\n\n## 常见错误\n\n- 漏写声母或韵母，或把声调标在不合规则的位置。",
+  "title": "清楚书写两拼音节"
+}

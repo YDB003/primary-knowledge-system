@@ -1,0 +1,12 @@
+{
+  "contentHash": "e7509ec3d8c6ae32061334391559d592ff9bb52cae47f5348f070af1fd737735",
+  "fromId": "cn-math-compare-model-with-data",
+  "id": "rel-math-b8f9c96931fc7e6384f18c69",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用实际数据检验模型”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-test-model-boundary-case"
+}

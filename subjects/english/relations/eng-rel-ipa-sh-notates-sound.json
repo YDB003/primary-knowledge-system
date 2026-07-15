@@ -1,0 +1,15 @@
+{
+  "contentHash": "72300eb7abe7b46804a9f95c9cf69ce1e10668d3f46b9f6e5fa5389565e6a049",
+  "fromId": "eng-ipa-sh",
+  "id": "eng-rel-ipa-sh-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ʃ/ 这个书写符号用于标记英语声音“清辅音 /ʃ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-sh"
+}

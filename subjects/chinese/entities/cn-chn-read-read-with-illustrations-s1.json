@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9b9a3ed29ed270a00673288351a2d9f68b63f80c0a7b78ecd25cd7e7cc03a7b6",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-read-with-illustrations-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-read-with-illustrations-s1-curriculum-standard",
+    "review-cn-chn-read-read-with-illustrations-s1-unified-pre-2024",
+    "review-cn-chn-read-read-with-illustrations-s1-unified-2024-revision",
+    "review-cn-chn-read-read-with-illustrations-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "把插图中的人物、动作或场景同相邻文字核对，用图文对应关系确定一项文字信息。\n\n## 掌握证据\n\n- 能指出插图与相邻文字共同呈现的对象。\n- 能核对图中动作或场景后解释对应文字信息。\n\n## 常见错误\n\n- 只看插图猜测，没有回到相邻文字核对。",
+  "title": "借助插图理解文字信息"
+}

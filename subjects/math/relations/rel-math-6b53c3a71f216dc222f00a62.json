@@ -1,0 +1,12 @@
+{
+  "contentHash": "6eb4541cd60d1f718d3cf78314f153ccf2297f3f160101d00d4b774faf4a457e",
+  "fromId": "cn-math-compare-category-difference",
+  "id": "rel-math-6b53c3a71f216dc222f00a62",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比较类别频数差”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-arithmetic-mean"
+}

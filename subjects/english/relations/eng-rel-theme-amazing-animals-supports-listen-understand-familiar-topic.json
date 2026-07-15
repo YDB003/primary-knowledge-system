@@ -1,0 +1,14 @@
+{
+  "contentHash": "3d901d6f8e96e4021d9ae7f2ffd2e38a3900f9c1ca1c1b8c47fbf6e63e4af7de",
+  "fromId": "eng-theme-amazing-animals",
+  "id": "eng-rel-theme-amazing-animals-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

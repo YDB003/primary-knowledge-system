@@ -1,0 +1,15 @@
+{
+  "contentHash": "38c88ebfd80df865fab4d6e0328e6cc2ebbe1a9f20424902dca5b2d1258e23ac",
+  "fromId": "eng-ipa-f",
+  "id": "eng-rel-ipa-f-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/f/ 这个书写符号用于标记英语声音“清辅音 /f/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-f"
+}

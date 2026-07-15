@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1be127aebe4bf1270d7b741afa42e86e863a4bec312494ed7802b18b29de8237",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-inq-discover-character-meaning-pattern-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-organizing-inquiry",
+    "review-cn-chn-inq-discover-character-meaning-pattern-s2-curriculum-standard",
+    "review-cn-chn-inq-discover-character-meaning-pattern-s2-unified-pre-2024",
+    "review-cn-chn-inq-discover-character-meaning-pattern-s2-unified-2024-revision",
+    "review-cn-chn-inq-discover-character-meaning-pattern-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“发现汉字字义特点”这一操作，以由语境或词义例证归纳的字义特点作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能发现汉字字义特点，产出由语境或词义例证归纳的字义特点。\n- 能换用另一组汉字材料发现汉字字义特点，仍产出由语境或词义例证归纳的字义特点。\n\n## 常见错误\n\n- 脱离语境把一个义项当作全部字义。",
+  "title": "发现汉字字义特点"
+}

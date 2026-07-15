@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6794472e4f608182c7151626ea783ef1b926348812eaf4c84bd36a7db227f343",
+  "domain": "数量关系",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-solve-proportion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-solve-proportion-pep",
+    "review-cn-math-solve-proportion-bnup",
+    "review-cn-math-solve-proportion-jsep"
+  ],
+  "subject": "math",
+  "summary": "利用内项积等于外项积把比例转化为一元乘除关系，求出未知项并代回检验。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“解比例”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 交叉相乘后把未知数所在因子再次相乘而非相除。",
+  "title": "解比例"
+}

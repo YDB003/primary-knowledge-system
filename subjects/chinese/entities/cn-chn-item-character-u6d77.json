@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f77e24c4cde9825090bc1d15b845e70111d28840830dce11ad141ef9a6f003c7",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u6d77",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":10,\"writtenForm\":\"海\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "海"
+}

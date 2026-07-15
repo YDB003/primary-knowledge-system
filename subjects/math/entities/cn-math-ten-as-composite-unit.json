@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "71a0c24ff9dc65c44f8179895c73f8b4c814c8ff830425ea6dc2382f37c43641",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-ten-as-composite-unit",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-ten-as-composite-unit-pep",
+    "review-cn-math-ten-as-composite-unit-bnup",
+    "review-cn-math-ten-as-composite-unit-jsep"
+  ],
+  "subject": "math",
+  "summary": "把10个一看成1个十，形成比单个对象更大的计数单位。\n\n## 可观察证据\n\n- 能把对象按十个一组并说出几个十和几个一。\n- 能解释1个十与10个一表示同样数量。\n\n## 常见误区\n\n- 把十位上的1仍理解成1个一。",
+  "title": "十作为复合计数单位"
+}

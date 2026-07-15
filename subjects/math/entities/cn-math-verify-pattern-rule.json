@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "26602476c2d94e34c5a88d7363fdd8328fdfc2e0460a976210d13de93ddb825c",
+  "domain": "数学思维与方法",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-verify-pattern-rule",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:mathematical-thinking-and-methods",
+    "anchor-stage-1-mathematical-thinking-and-methods",
+    "review-cn-math-verify-pattern-rule-pep",
+    "review-cn-math-verify-pattern-rule-bnup",
+    "review-cn-math-verify-pattern-rule-jsep"
+  ],
+  "subject": "math",
+  "summary": "用更多例子和边界情况检验概括。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“检验规律适用范围”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "检验规律适用范围"
+}

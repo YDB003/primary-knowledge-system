@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1c8b649167271dcf5c7818711a9815269ec1d4528b95ddc603518c0531492d42",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-replace-nonstandard-character-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-replace-nonstandard-character-s3-curriculum-standard",
+    "review-cn-chn-lit-replace-nonstandard-character-s3-unified-pre-2024",
+    "review-cn-chn-lit-replace-nonstandard-character-s3-unified-2024-revision",
+    "review-cn-chn-lit-replace-nonstandard-character-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "针对已经确认的不规范用字，选择规范汉字完成替换，输出语义保持一致的修订文字。\n\n## 掌握证据\n\n- 能把已标出的不规范用字替换为对应规范字形。\n- 能检查替换后的文字是否保持原有语义并符合语境。\n\n## 常见错误\n\n- 只改变局部笔画却未换成规范字形，或替换后改变原意。",
+  "title": "主动替换不规范用字"
+}

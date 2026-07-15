@@ -1,0 +1,12 @@
+{
+  "contentHash": "194be0c61ab95c8754ad64275451755e499562fef461cd8700bb121a68e0d173",
+  "fromId": "cn-chn-item-pinyin-tone-level",
+  "id": "rel-pinyin-tone-level-supports-mark-tone-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该书面声调符号是标注音节声调操作所使用的规范内容。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-mark-tone-s1"
+}

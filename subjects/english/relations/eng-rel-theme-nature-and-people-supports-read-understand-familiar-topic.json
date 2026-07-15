@@ -1,0 +1,14 @@
+{
+  "contentHash": "a128125ee5029cb6ff8e947582b2f61231bcccd3a5bceeefe1a432394f01e960",
+  "fromId": "eng-theme-nature-and-people",
+  "id": "eng-rel-theme-nature-and-people-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

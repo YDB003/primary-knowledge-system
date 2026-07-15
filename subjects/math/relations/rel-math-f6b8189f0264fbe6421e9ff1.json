@@ -1,0 +1,12 @@
+{
+  "contentHash": "5e09a3d4990954d2454e7a66756cdcc5c5cd91f64059f7156b9f0e23fa6bf53c",
+  "fromId": "cn-math-plane-solid-distinction",
+  "id": "rel-math-f6b8189f0264fbe6421e9ff1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平面图形与立体图形的区别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-recognize-cuboid"
+}

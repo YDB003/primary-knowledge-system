@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1d586a60995929936dc2c6477a8a9162b990d8f0256c70666b57cffc0705aeb1",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-decimal-divide-by-integer",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-decimal-divide-by-integer-pep",
+    "review-cn-math-decimal-divide-by-integer-bnup",
+    "review-cn-math-decimal-divide-by-integer-jsep"
+  ],
+  "subject": "math",
+  "summary": "按位平均分小数计数单位，商的小数点与被除数小数点对齐，必要时添0继续除。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数除以整数”。\n- 能用数量关系或运算结构解释“小数除以整数”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 余数后不能继续细分时就提前停止。",
+  "title": "小数除以整数"
+}

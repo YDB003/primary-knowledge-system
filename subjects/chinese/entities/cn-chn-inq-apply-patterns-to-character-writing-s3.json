@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "45d6c84f99e6c240096abf682799469018b9bf6a4fdfc775f04dfe4e5f8d6dfc",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-apply-patterns-to-character-writing-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-apply-patterns-to-character-writing-s3-curriculum-standard",
+    "review-cn-chn-inq-apply-patterns-to-character-writing-s3-unified-pre-2024",
+    "review-cn-chn-inq-apply-patterns-to-character-writing-s3-unified-2024-revision",
+    "review-cn-chn-inq-apply-patterns-to-character-writing-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“运用汉字特点写字”这一操作，以在连续书写中稳定体现所选特点的结果作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能运用汉字特点写字，产出在连续书写中稳定体现所选特点的结果。\n- 能换用另一组汉字材料运用汉字特点写字，仍产出在连续书写中稳定体现所选特点的结果。\n\n## 常见错误\n\n- 只在单个示范字中体现特点，换字后便失去控制。",
+  "title": "运用汉字特点写字"
+}

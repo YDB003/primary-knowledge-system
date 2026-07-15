@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ff5d702068dc2b27f1c505563f75acabac6a52efefbbca5307405183bac102ab",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-volume-surface-capacity-distinction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-volume-surface-capacity-distinction-pep",
+    "review-cn-math-volume-surface-capacity-distinction-bnup",
+    "review-cn-math-volume-surface-capacity-distinction-jsep"
+  ],
+  "subject": "math",
+  "summary": "表面积描述外表面，体积描述物体占据空间，容积描述容器内部可容纳空间。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“体积表面积容积的区别”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 不看问题对象就混用三种量。",
+  "title": "体积表面积容积的区别"
+}

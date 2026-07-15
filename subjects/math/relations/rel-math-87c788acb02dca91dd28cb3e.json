@@ -1,0 +1,12 @@
+{
+  "contentHash": "acffeca60f6d24ff081a624d186b22639e24950b1547e3a4d89f9f67973a5d86",
+  "fromId": "cn-math-contextual-rounding-remainder",
+  "id": "rel-math-87c788acb02dca91dd28cb3e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“按情境处理近似与余数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-calculator-result-plausibility"
+}

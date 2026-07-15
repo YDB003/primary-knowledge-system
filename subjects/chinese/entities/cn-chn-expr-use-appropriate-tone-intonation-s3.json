@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "bfae966acea2fef4ae3ce34ba39ac605bbebf558231a43246c23edc481ec8f50",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-use-appropriate-tone-intonation-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-use-appropriate-tone-intonation-s3-curriculum-standard",
+    "review-cn-chn-expr-use-appropriate-tone-intonation-s3-unified-pre-2024",
+    "review-cn-chn-expr-use-appropriate-tone-intonation-s3-unified-2024-revision",
+    "review-cn-chn-expr-use-appropriate-tone-intonation-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中只完成使用适当的语气和语调这一操作，以与表达内容相符的语气和语调作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能使用与表达内容相符的语气和语调。\n- 能调整语气和语调后再次说出同一内容。\n\n## 常见错误\n\n- 语气和表达内容明显冲突。",
+  "title": "使用适当的语气和语调"
+}

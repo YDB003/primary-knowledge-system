@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5143f70a5ff49d52a88d2e432b85f68e342033b7ea82068af56c8160cb757f61",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-multiplication-array",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-multiplication-array-pep",
+    "review-cn-math-multiplication-array-bnup",
+    "review-cn-math-multiplication-array-jsep"
+  ],
+  "subject": "math",
+  "summary": "用规则排列的行和列表示两个因数及其乘积。\n\n## 可观察证据\n\n- 能根据阵列写出乘法算式。\n- 能通过交换行列解释乘积不变。\n\n## 常见误区\n\n- 数清总点数却不能识别行列所表示的两个因数。",
+  "title": "乘法的阵列表征"
+}

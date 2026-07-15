@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "683fc493e5a8b3a44ba556d68e1a2b331403444a270f8e88bebc805459780f4b",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-watch-tv",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "watch TV 表示“看电视”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "watch TV"
+}

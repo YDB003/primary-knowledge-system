@@ -1,0 +1,15 @@
+{
+  "contentHash": "e3b2262fa5ab2510a87da67226061e2bb415bbdfb2b1810c800d95366d53e420",
+  "fromId": "eng-ability-read-build-1500-word-volume",
+  "id": "eng-rel-read-build-1500-word-volume-pre-read-build-5000-word-volume",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n达到二级累计阅读量，必须先完成并保留一级阅读量的阶段积累。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-build-5000-word-volume"
+}

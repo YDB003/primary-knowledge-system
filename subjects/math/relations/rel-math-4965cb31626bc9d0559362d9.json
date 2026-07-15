@@ -1,0 +1,12 @@
+{
+  "contentHash": "2d570ddbff84fa82eb7633ddd09787ec84da22d35d6a2b2187e4e6f7ef88c97f",
+  "fromId": "cn-math-divisibility-by-3",
+  "id": "rel-math-4965cb31626bc9d0559362d9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“3的倍数特征”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-even-and-odd"
+}

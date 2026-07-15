@@ -1,0 +1,14 @@
+{
+  "contentHash": "ce7ffc60b9a987de8661fe6b7e6a89834dfa94fb99c89e7dd263277ac836482b",
+  "fromId": "eng-phrase-every-day",
+  "id": "eng-rel-phrase-every-day-supports-speak-describe-routine",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-routine”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-routine"
+}

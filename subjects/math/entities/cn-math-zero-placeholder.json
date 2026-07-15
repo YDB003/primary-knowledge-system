@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "53f1d91f65be67846f02a249cad2742d637fe73519c21680ca476f2c151f0de4",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-zero-placeholder",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-zero-placeholder-pep",
+    "review-cn-math-zero-placeholder-bnup",
+    "review-cn-math-zero-placeholder-jsep"
+  ],
+  "subject": "math",
+  "summary": "某一数位没有相应计数单位时，用0保留该数位的位置。\n\n## 可观察证据\n\n- 能正确读写中间或末尾含0的整数。\n- 能解释去掉占位0为什么可能改变数值。\n\n## 常见误区\n\n- 认为0没有数量就可以在多位数中随意省略。",
+  "title": "0的占位作用"
+}

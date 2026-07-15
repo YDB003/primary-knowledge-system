@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5ef8f4b8e3110e56edaa41341c184632b07400516b8986455f822890eb9300de",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u670b",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":8,\"writtenForm\":\"朋\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "朋"
+}

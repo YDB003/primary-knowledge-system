@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9860be4f8afe36d4fd3e132bd5d59766a61c6e968a1e70a616aed0d65b7263f1",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-add-sub-within-20-strategies",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-add-sub-within-20-strategies-pep",
+    "review-cn-math-add-sub-within-20-strategies-bnup",
+    "review-cn-math-add-sub-within-20-strategies-jsep"
+  ],
+  "subject": "math",
+  "summary": "利用数的拆合、凑十、破十和相邻算式等关系计算20以内加减法。\n\n## 可观察证据\n\n- 能选择合适策略计算20以内加减法。\n- 能用数的拆合解释计算步骤。\n\n## 常见误区\n\n- 只记答案表，数字稍变就无法说明算法。",
+  "title": "20以内加减计算策略"
+}

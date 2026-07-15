@@ -1,0 +1,12 @@
+{
+  "contentHash": "01d278507e52c1eebc185d5659659609d5bb63db938a7cb2bb45c8709d173a53",
+  "fromId": "cn-math-fraction-fundamental-property",
+  "id": "rel-math-5ed3a01e877fcfadd5e296e9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数的基本性质”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-reduction"
+}

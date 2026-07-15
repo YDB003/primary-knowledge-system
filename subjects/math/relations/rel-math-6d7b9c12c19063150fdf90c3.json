@@ -1,0 +1,12 @@
+{
+  "contentHash": "bee7d4cf2396a92814d61cc53006aeb2d290f8e62a14c679fe69563fea8fe7d9",
+  "fromId": "cn-math-find-percentage-of-quantity",
+  "id": "rel-math-6d7b9c12c19063150fdf90c3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“求一个量的百分之几”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-find-percentage-rate"
+}

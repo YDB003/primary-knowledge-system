@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f9db26262cbbe0153633e94dcff66a861b74839e017ea321da2a737aa0b8003a",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-state-opinion-in-discussion-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-state-opinion-in-discussion-s1-curriculum-standard",
+    "review-cn-chn-expr-state-opinion-in-discussion-s1-unified-pre-2024",
+    "review-cn-chn-expr-state-opinion-in-discussion-s1-unified-2024-revision",
+    "review-cn-chn-expr-state-opinion-in-discussion-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中只完成在讨论中发表自己的意见这一操作，以与讨论主题相关的一条意见作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能说出与讨论主题相关的一条意见。\n- 能在另一轮讨论中说出与主题相关的一条意见。\n\n## 常见错误\n\n- 发言偏离正在讨论的问题。",
+  "title": "在讨论中发表自己的意见"
+}

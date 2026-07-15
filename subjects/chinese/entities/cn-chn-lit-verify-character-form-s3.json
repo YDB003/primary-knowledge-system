@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "fe1493a7c25a0c42751e52ad81ebd91f0095a77923f276e5de3f8ae4efccb67f",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-verify-character-form-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-verify-character-form-s3-curriculum-standard",
+    "review-cn-chn-lit-verify-character-form-s3-unified-pre-2024",
+    "review-cn-chn-lit-verify-character-form-s3-unified-2024-revision",
+    "review-cn-chn-lit-verify-character-form-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在不依赖具体字表的识字任务中完成这一字形核对操作。\n\n## 掌握证据\n\n- 能对未识汉字独立核对字形。\n- 能指出用于确认字形的可观察线索。\n\n## 常见错误\n\n- 只凭局部轮廓判断，没有核对完整字形。",
+  "title": "核对生字字形"
+}

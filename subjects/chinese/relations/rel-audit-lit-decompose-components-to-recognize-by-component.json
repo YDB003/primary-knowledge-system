@@ -1,0 +1,12 @@
+{
+  "contentHash": "7a2b8711d3395f61e10e0d1acd826256cc56c12b3fcb2c069ab3f6a4689ce539",
+  "fromId": "cn-chn-lit-decompose-components-s1",
+  "id": "rel-audit-lit-decompose-components-to-recognize-by-component",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "借助熟悉部件识认生字必须先能从整字中拆分出可辨认部件；缺少部件拆分时，无法确定用于推测和查验的熟悉线索。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-by-familiar-component-s1"
+}

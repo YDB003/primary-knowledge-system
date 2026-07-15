@@ -1,0 +1,12 @@
+{
+  "contentHash": "19f8a6e4756ce1906beb702208dedbfe8be15441111b02538c484de8fbe7f93c",
+  "fromId": "cn-math-measure-irregular-perimeter",
+  "id": "rel-math-2205f3d41af3d3bde9400a79",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“测量不规则图形周长”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-rectangle-perimeter"
+}

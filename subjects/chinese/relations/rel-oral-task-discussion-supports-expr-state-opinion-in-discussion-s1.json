@@ -1,0 +1,12 @@
+{
+  "contentHash": "411b26bb25f7e5d5f224dddb94047eb78095dbc42f748506ed16756c84974b81",
+  "fromId": "cn-chn-item-oral-task-discussion",
+  "id": "rel-oral-task-discussion-supports-expr-state-opinion-in-discussion-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“讨论任务”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-state-opinion-in-discussion-s1"
+}

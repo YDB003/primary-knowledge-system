@@ -1,0 +1,14 @@
+{
+  "contentHash": "466a3559adb4f5ce892898fe532bf4870de3713dc1161d8ec0cfaa2eff8f0ffe",
+  "fromId": "eng-theme-school-time",
+  "id": "eng-rel-theme-school-time-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

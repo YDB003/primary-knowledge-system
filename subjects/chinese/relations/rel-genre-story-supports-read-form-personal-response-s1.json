@@ -1,0 +1,12 @@
+{
+  "contentHash": "8881dfc85c790750daec52b27421d5cb2cef47cdcb0c7ba2656862568b4fc853",
+  "fromId": "cn-chn-item-genre-story",
+  "id": "rel-genre-story-supports-read-form-personal-response-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“故事”文体身份支持该能力针对课标所指文本类型完成对应阅读操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-form-personal-response-s1"
+}

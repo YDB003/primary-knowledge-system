@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3912c2f3f8cfee7bbcacf7e233faa58c9f368e64fadb4f1498d7b5980b5c143d",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-equivalent-fractions",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-equivalent-fractions-pep",
+    "review-cn-math-equivalent-fractions-bnup",
+    "review-cn-math-equivalent-fractions-jsep"
+  ],
+  "subject": "math",
+  "summary": "分子和分母不同的分数可以表示同一数量，这些分数在数线上位于同一点。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“等值分数表示同一个数”。\n- 能用数量关系或运算结构解释“等值分数表示同一个数”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 只看分子分母不同就断定两个分数不相等。",
+  "title": "等值分数表示同一个数"
+}

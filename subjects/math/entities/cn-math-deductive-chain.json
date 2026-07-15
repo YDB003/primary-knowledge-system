@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7b44ed3968e808685dba8d5ab12ed0832b98c25a2cb212eb5c6d13d18bf8225b",
+  "domain": "数学思维与方法",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-deductive-chain",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:mathematical-thinking-and-methods",
+    "anchor-stage-2-mathematical-thinking-and-methods",
+    "review-cn-math-deductive-chain-pep",
+    "review-cn-math-deductive-chain-bnup",
+    "review-cn-math-deductive-chain-jsep"
+  ],
+  "subject": "math",
+  "summary": "每一步由已知事实或性质推出下一步。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“建立演绎推理链”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "建立演绎推理链"
+}

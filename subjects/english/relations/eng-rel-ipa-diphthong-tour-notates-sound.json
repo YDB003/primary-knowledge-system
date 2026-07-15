@@ -1,0 +1,15 @@
+{
+  "contentHash": "219140323399ba57249c4f4903203a25d7132a04f9ce13d23f0c28dd94b451ed",
+  "fromId": "eng-ipa-diphthong-tour",
+  "id": "eng-rel-ipa-diphthong-tour-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ʊə/ 这个书写符号用于标记英语声音“双元音 /ʊə/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-diphthong-tour"
+}

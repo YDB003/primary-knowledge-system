@@ -1,0 +1,12 @@
+{
+  "contentHash": "19c194aa247579e24b492e5778fb379c72ba205b72dae9e5c8eacb3ca641ad04",
+  "fromId": "cn-math-multiplicative-find-factor",
+  "id": "rel-math-da855de202d015534024eed2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“已知两量求倍数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-additive-vs-multiplicative-comparison"
+}

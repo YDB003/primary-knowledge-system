@@ -1,0 +1,12 @@
+{
+  "contentHash": "18483eae5aac3d88e00ee2852478ad534a4fb2fac0e057a0cf70c42ef4cbce6b",
+  "fromId": "cn-math-randomness-unpredictable-single",
+  "id": "rel-math-87f900e840ec92b63c0496b9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“单次随机结果不可预知”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-equally-likely-outcomes"
+}

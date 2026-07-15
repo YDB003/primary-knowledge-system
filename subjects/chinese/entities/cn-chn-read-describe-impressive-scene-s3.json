@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3221e6a2d5d5ec42237792fc93e09b1c522a0ad73a15f3bdd023f5bf869089e4",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-describe-impressive-scene-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-describe-impressive-scene-s3-curriculum-standard",
+    "review-cn-chn-read-describe-impressive-scene-s3-unified-pre-2024",
+    "review-cn-chn-read-describe-impressive-scene-s3-unified-2024-revision",
+    "review-cn-chn-read-describe-impressive-scene-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "从叙事性作品中选择自己印象深刻的一个场景，按照地点、人物活动和现场特征进行具体描述。\n\n## 掌握证据\n\n- 能描述场景发生的地点和主要人物活动。\n- 能指出构成该场景的一项环境或氛围特征。\n\n## 常见错误\n\n- 只说场景令人难忘，没有描述场景中实际出现的内容。",
+  "title": "描述印象深刻的场景"
+}

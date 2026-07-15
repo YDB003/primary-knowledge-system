@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "7bd413d30727128378cf583d102c89cfd81818755e6ddabd732df73300e37951",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-phrase-reuse-water",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "reuse water 表示“再次利用水”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "reuse water"
+}

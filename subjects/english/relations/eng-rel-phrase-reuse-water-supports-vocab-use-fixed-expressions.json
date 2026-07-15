@@ -1,0 +1,14 @@
+{
+  "contentHash": "d898bb8935d1cc437e561264a1abab9c281cc50eb4dcd63f0a57577d20ac812e",
+  "fromId": "eng-phrase-reuse-water",
+  "id": "eng-rel-phrase-reuse-water-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

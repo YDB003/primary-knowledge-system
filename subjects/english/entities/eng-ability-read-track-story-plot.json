@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "4f81f62ddfa96e03997f31e11f41e6324482eb9e89490c0e4b3097dfcb16537f",
+  "domain": "reading",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-read-track-story-plot",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 归纳故事情节的发展和结局\n\n## 能力说明\n\n归纳故事情节的发展和结局，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能按顺序概括故事开端、发展和结局。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：reading\n- 课标锚点：[[eng-anchor-l2-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "归纳故事情节的发展和结局"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "b65001014a63087a466f4797862af981b3ce10aca274a0dd7cb8caa12f2d73bc",
+  "fromId": "cn-math-liter-milliliter",
+  "id": "rel-math-6565904580fc7acd1e1983ca",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“升与毫升的量感”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-read-graduated-container"
+}

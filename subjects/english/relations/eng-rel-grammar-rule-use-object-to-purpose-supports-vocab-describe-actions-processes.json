@@ -1,0 +1,14 @@
+{
+  "contentHash": "a29fc8cfd9df026baf88ac5d4381d5a883efdb03e58c3d87c4114c984f4ec020",
+  "fromId": "eng-grammar-rule-use-object-to-purpose",
+  "id": "eng-rel-grammar-rule-use-object-to-purpose-supports-vocab-describe-actions-processes",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-describe-actions-processes”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-describe-actions-processes"
+}

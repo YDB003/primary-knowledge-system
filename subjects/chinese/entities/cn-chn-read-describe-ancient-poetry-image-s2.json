@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9c6130061d11cb3ef9c05bf5f8c03556cd5e48dee8dfe5ea44cea946da5f2e9c",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-describe-ancient-poetry-image-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-describe-ancient-poetry-image-s2-curriculum-standard",
+    "review-cn-chn-read-describe-ancient-poetry-image-s2-unified-pre-2024",
+    "review-cn-chn-read-describe-ancient-poetry-image-s2-unified-2024-revision",
+    "review-cn-chn-read-describe-ancient-poetry-image-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "提取古诗中的景物、人物和动作意象，依据诗句关系描述它们构成的主要画面。\n\n## 掌握证据\n\n- 能圈画构成画面的景物、人物或动作意象。\n- 能描述意象之间的位置或动作关系。\n\n## 常见错误\n\n- 只罗列意象名称，没有形成诗句呈现的画面关系。",
+  "title": "描述古诗呈现的意象画面"
+}

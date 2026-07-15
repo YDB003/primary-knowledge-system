@@ -1,0 +1,12 @@
+{
+  "contentHash": "b50fb5f4c374dc08045fa5f566af2a10f1bb1ff4b9ea0f9d21f896588bf55331",
+  "fromId": "cn-math-written-addition",
+  "id": "rel-math-224581c6a5cf8155e4969d84",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“多位数加法笔算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-written-subtraction"
+}

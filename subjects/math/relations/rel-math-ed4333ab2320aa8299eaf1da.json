@@ -1,0 +1,12 @@
+{
+  "contentHash": "d72244f5e74c9a96b8f38174be642c37ee097c1ab348703a917604888d040232",
+  "fromId": "cn-math-proportion-equality",
+  "id": "rel-math-ed4333ab2320aa8299eaf1da",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比例表示两个比相等”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-proportion-cross-product"
+}

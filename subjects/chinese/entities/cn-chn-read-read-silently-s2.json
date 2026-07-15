@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "84fb167d3554b5393cc7c921d07908bd0855542132fb04ce502eca171089f62f",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-read-silently-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-read-silently-s2-curriculum-standard",
+    "review-cn-chn-read-read-silently-s2-unified-pre-2024",
+    "review-cn-chn-read-read-silently-s2-unified-2024-revision",
+    "review-cn-chn-read-read-silently-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "不出声、不指读地独立连续阅读文章，使视线沿文字顺序稳定推进。\n\n## 掌握证据\n\n- 能默读多个连续段落并保持不出声、不指读。\n- 能指出中断位置，并从该位置继续默读而不重复指读。\n\n## 常见错误\n\n- 默读时反复出声或逐字用手指移动。",
+  "title": "独立连续默读文章"
+}

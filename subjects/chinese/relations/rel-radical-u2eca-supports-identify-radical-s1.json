@@ -1,0 +1,12 @@
+{
+  "contentHash": "19f586874846cc7e5680ef0add45a02490a2d092048637892d4a0dbc5ea6dcb9",
+  "fromId": "cn-chn-item-radical-u2eca",
+  "id": "rel-radical-u2eca-supports-identify-radical-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该部首变体是辨认常用偏旁部首操作的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-identify-radical-s1"
+}

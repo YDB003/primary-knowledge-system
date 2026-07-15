@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "249b3fb389114d24363707fc4970cb0c8304e58e1ffa6149e59e3ca1e6ce2698",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-math-order-of-operations",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-order-of-operations-pep",
+    "review-cn-math-order-of-operations-bnup",
+    "review-cn-math-order-of-operations-jsep"
+  ],
+  "subject": "math",
+  "summary": "没有括号时先乘除后加减，同级运算通常从左到右进行。\n\n## 可观察证据\n\n- 能按规则正确计算混合算式。\n- 能用数量关系解释为什么不能随意改变顺序。\n\n## 常见误区\n\n- 把先乘除误解为先乘后除或先加后减。",
+  "title": "四则混合运算顺序"
+}

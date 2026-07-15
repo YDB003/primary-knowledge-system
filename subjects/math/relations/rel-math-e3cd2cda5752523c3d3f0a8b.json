@@ -1,0 +1,12 @@
+{
+  "contentHash": "db6141c521eb2f0468db2f358a4f220336e8e343f2e3b91085d178ccdee2dbe5",
+  "fromId": "cn-math-volume-surface-capacity-distinction",
+  "id": "rel-math-e3cd2cda5752523c3d3f0a8b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“体积表面积容积的区别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-cubic-volume-units"
+}

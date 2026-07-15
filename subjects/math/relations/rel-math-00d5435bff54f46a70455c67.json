@@ -1,0 +1,12 @@
+{
+  "contentHash": "e6d82daba66ceb45dd57434d819ab36f58bbdc0d76b6235d2c8a4495968df662",
+  "fromId": "cn-math-monitor-solution-process",
+  "id": "rel-math-00d5435bff54f46a70455c67",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“监控解决过程”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-reflect-transfer-strategy"
+}

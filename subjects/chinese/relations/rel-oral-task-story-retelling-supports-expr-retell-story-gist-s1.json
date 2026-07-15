@@ -1,0 +1,12 @@
+{
+  "contentHash": "32f9fc080f0cc562f521457a1321ea98b641f5becf72077ae7b3df469867b42f",
+  "fromId": "cn-chn-item-oral-task-story-retelling",
+  "id": "rel-oral-task-story-retelling-supports-expr-retell-story-gist-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“故事复述任务”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-retell-story-gist-s1"
+}

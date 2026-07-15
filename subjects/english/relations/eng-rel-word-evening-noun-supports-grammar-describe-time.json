@@ -1,0 +1,14 @@
+{
+  "contentHash": "6dd7471c7c23ae48d198566245aad39c90dd7d85ae181f90adab5f4dd8e9ab1e",
+  "fromId": "eng-word-evening-noun",
+  "id": "eng-rel-word-evening-noun-supports-grammar-describe-time",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-describe-time”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-describe-time"
+}

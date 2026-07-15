@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b51f420653193ec9af45f51875ec55c64f6b5be15454aaf0642d4a7623e6da88",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-speed-time-distance",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-speed-time-distance-pep",
+    "review-cn-math-speed-time-distance-bnup",
+    "review-cn-math-speed-time-distance-jsep"
+  ],
+  "subject": "math",
+  "summary": "匀速情境中路程等于速度乘时间，另外两个量可由乘除互逆关系求得。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“速度时间路程关系”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 混用小时和分钟而未统一时间单位。",
+  "title": "速度时间路程关系"
+}

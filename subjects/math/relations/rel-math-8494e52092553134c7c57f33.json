@@ -1,0 +1,12 @@
+{
+  "contentHash": "707b92fc334c7d59e380ffed889718d119303736477666c0146fcdc607844126",
+  "fromId": "cn-math-fraction-simplest-form",
+  "id": "rel-math-8494e52092553134c7c57f33",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“最简分数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-common-denominator"
+}

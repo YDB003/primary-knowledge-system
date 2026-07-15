@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b9bc9060d386f3cd94ee2e8a3030b7d152f659cb57aff1a93f48900da8dc6f92",
+  "domain": "图形与几何",
+  "entityType": "skill",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-compare-area-directly",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-compare-area-directly-pep",
+    "review-cn-math-compare-area-directly-bnup",
+    "review-cn-math-compare-area-directly-jsep"
+  ],
+  "subject": "math",
+  "summary": "可通过移动、重合、剪拼或补形比较两个区域的覆盖大小。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“直接重合比较面积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只比较图形高度或宽度中的一个。",
+  "title": "直接重合比较面积"
+}

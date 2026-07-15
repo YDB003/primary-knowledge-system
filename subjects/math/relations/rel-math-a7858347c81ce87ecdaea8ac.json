@@ -1,0 +1,12 @@
+{
+  "contentHash": "e0d6de946364ec0a1eb48930588b4390c45b86fd6f9d9e26806dcde17d3a1e68",
+  "fromId": "cn-math-formulate-data-question",
+  "id": "rel-math-a7858347c81ce87ecdaea8ac",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“提出可调查的数据问题”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-define-data-population"
+}

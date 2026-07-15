@@ -1,0 +1,12 @@
+{
+  "contentHash": "40fb04199fc8135d253b44c73d63570422eb121dd91e5225e0c6b02f59706c99",
+  "fromId": "cn-math-angle-types",
+  "id": "rel-math-c1a30793f3508cb3f8dbfb07",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“锐角直角钝角平角周角”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-draw-given-angle"
+}

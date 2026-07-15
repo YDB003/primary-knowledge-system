@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1e0a90ce466d3375fdf9e8a404360f106e7c3f918167ec14fe2160bd7378cb87",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-remainder-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-remainder-meaning-pep",
+    "review-cn-math-remainder-meaning-bnup",
+    "review-cn-math-remainder-meaning-jsep"
+  ],
+  "subject": "math",
+  "summary": "不能继续组成完整等份时剩下的数量是余数，余数必须小于除数。\n\n## 可观察证据\n\n- 能在分组情境中指出商和余数。\n- 能解释余数为什么必须小于除数。\n\n## 常见误区\n\n- 把剩余量达到一整组时仍保留为余数。",
+  "title": "除法中余数的意义"
+}

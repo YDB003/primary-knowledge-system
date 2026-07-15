@@ -1,0 +1,12 @@
+{
+  "contentHash": "2e9cc0804250e2addf9ff979d03af687c9961cd9da86463a9e3c0f56227908a2",
+  "fromId": "cn-math-read-write-money",
+  "id": "rel-math-57aec89c495e1b6cf27df527",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“人民币金额读写”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-add-subtract-money"
+}

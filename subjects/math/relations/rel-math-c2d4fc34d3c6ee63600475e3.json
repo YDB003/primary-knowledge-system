@@ -1,0 +1,12 @@
+{
+  "contentHash": "7d3b51f1a611244a0664633b460c6e8eadd95dcd721fe79bc50a4318b5f17a5f",
+  "fromId": "cn-math-additive-comparison-difference",
+  "id": "rel-math-c2d4fc34d3c6ee63600475e3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“两量相差关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-find-additive-difference"
+}

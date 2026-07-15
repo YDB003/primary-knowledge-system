@@ -1,0 +1,14 @@
+{
+  "contentHash": "713f42f44a4c574765a0a6b7fbd79fad94cdc9f80432d5a8b402e4d098ffdab6",
+  "fromId": "eng-grammar-rule-be-from-origin",
+  "id": "eng-rel-grammar-rule-be-from-origin-supports-speak-exchange-personal-info",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-exchange-personal-info”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-exchange-personal-info"
+}

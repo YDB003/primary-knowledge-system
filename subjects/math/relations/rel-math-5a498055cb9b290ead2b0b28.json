@@ -1,0 +1,12 @@
+{
+  "contentHash": "7a0b4e19b77c5666d2cd74b7a5f01a177bf18d7bf449bedebe9bc10aed08c922",
+  "fromId": "cn-math-represent-pattern-table",
+  "id": "rel-math-5a498055cb9b290ead2b0b28",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用表格表示对应规律”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-generalize-pattern-rule"
+}

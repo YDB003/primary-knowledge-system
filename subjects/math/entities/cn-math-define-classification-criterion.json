@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "77323f9ca75421f4039375594617f58c05abf179eb06a44c4e8cd60a369c8879",
+  "domain": "统计与概率",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-define-classification-criterion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:statistics-and-probability",
+    "anchor-stage-1-statistics-and-probability",
+    "review-cn-math-define-classification-criterion-pep",
+    "review-cn-math-define-classification-criterion-bnup",
+    "review-cn-math-define-classification-criterion-jsep"
+  ],
+  "subject": "math",
+  "summary": "分类前需明确可判断且互相一致的标准。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“确定分类标准”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 同一轮分类中途更换标准。",
+  "title": "确定分类标准"
+}

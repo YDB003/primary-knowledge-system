@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "bbcec96f3c69044adf739c124f7eda72a9d5983339936623f23d4cda217b820f",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-use-known-character-in-word-formation-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-use-known-character-in-word-formation-s3-curriculum-standard",
+    "review-cn-chn-lit-use-known-character-in-word-formation-s3-unified-pre-2024",
+    "review-cn-chn-lit-use-known-character-in-word-formation-s3-unified-2024-revision",
+    "review-cn-chn-lit-use-known-character-in-word-formation-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "选择已掌握汉字与其他语素组合成合乎语义的词，输出可在语境中使用的词语。\n\n## 掌握证据\n\n- 能用给定的已知汉字组成意义成立的词语。\n- 能把所组词语放入句子中使用并检查语义是否通顺。\n\n## 常见错误\n\n- 只按字形随意组合，所组形式不能表达稳定词义。",
+  "title": "用已知汉字组成词语"
+}

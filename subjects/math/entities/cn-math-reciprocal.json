@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "843173fc3ed04b4bd14ddb42e34cb6fd12432d706160ae1990c1050b13cac3fc",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-reciprocal",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-reciprocal-pep",
+    "review-cn-math-reciprocal-bnup",
+    "review-cn-math-reciprocal-jsep"
+  ],
+  "subject": "math",
+  "summary": "两个非零数的乘积为1时互为倒数，非零分数的倒数通过交换分子和分母得到。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“倒数”。\n- 能用数量关系或运算结构解释“倒数”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 认为0有倒数，或把相反数当作倒数。",
+  "title": "倒数"
+}

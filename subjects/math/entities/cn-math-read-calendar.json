@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7929ab3cb4a33bd7e18e4030dee204f263ca8cad08e6479e8170d9b8398d854e",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-read-calendar",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-read-calendar-pep",
+    "review-cn-math-read-calendar-bnup",
+    "review-cn-math-read-calendar-jsep"
+  ],
+  "subject": "math",
+  "summary": "日历按周排列日期，可由星期和日期位置推断相邻日期。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“阅读日历”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 跨月后继续沿用上一月最大日期。",
+  "title": "阅读日历"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "645fba2623d4d0bfef0fbd30ebd5a4793131bcdf65f666d1e684d18648efc907",
+  "fromId": "cn-math-speed-time-distance",
+  "id": "rel-math-c4c2ce864c53a60f112a1753",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“速度时间路程关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-unit-price-quantity-total"
+}

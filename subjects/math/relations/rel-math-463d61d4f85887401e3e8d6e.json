@@ -1,0 +1,12 @@
+{
+  "contentHash": "02f2b11247cc8d76f394c540ef4650df567c4579574c88eea023375b2cb22d32",
+  "fromId": "cn-math-recognize-cube",
+  "id": "rel-math-463d61d4f85887401e3e8d6e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正方体的识别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-recognize-cylinder"
+}

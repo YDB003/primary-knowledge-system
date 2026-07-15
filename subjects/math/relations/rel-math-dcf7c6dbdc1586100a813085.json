@@ -1,0 +1,12 @@
+{
+  "contentHash": "9f370a9a0593698853756a355e7973fb29354289d5ab62fa4cefbb3e584a57cd",
+  "fromId": "cn-math-counting-cardinality",
+  "id": "rel-math-dcf7c6dbdc1586100a813085",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“计数结果的基数意义”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-counting-order-independence"
+}

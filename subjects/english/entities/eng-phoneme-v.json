@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "c34dd971d15427e66a322268c4cc5bca61dd3188f59c94490f4eca4a66c78b9a",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-v",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n浊辅音 /v/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n上齿轻触下唇，让气流通过并保持声带振动。\n\n## 示例\n\n可在这些词中观察该声音：van、five。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "浊辅音 /v/"
+}

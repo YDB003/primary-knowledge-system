@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "9e1da62a2cba380b1bb6e28b1833db49de1233c90605d67288131288a71e1a20",
+  "domain": "writing",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-write-use-capitalization",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 正确使用大小写字母\n\n## 能力说明\n\n正确使用大小写字母，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 句首、专有名称和字母 I 的大小写使用基本正确。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：writing\n- 课标锚点：[[eng-anchor-l2-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "正确使用大小写字母"
+}

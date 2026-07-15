@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f4520757e7a74bafc4f5109721f36df80de7b7229bf6d4cc882338298c10699d",
+  "domain": "数量关系",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-direct-proportion-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-direct-proportion-meaning-pep",
+    "review-cn-math-direct-proportion-meaning-bnup",
+    "review-cn-math-direct-proportion-meaning-jsep"
+  ],
+  "subject": "math",
+  "summary": "两种相关量的比值保持不变时，它们成正比例，一种量扩大若干倍，另一种量同步扩大相同倍数。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“正比例关系”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 只要两种量同时增大就判断成正比例。",
+  "title": "正比例关系"
+}

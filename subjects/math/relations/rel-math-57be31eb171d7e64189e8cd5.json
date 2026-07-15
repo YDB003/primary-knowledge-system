@@ -1,0 +1,12 @@
+{
+  "contentHash": "31b337187ec9f11f127394a28c327c14acc30d84961740444b0ed61c52ad8eb4",
+  "fromId": "cn-math-fraction-times-fraction",
+  "id": "rel-math-57be31eb171d7e64189e8cd5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数乘分数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-multiplication-as-operator"
+}

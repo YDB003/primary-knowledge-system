@@ -1,0 +1,14 @@
+{
+  "contentHash": "b1284a9ece087ae09631ed86575de50b9364cd6e65473a4667320bc58b7e1f31",
+  "fromId": "eng-communicative-function-ask-about-possession",
+  "id": "eng-rel-communicative-function-ask-about-possession-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b754ec4ca448772a13512ba0bac48759bd7ea13982c4244f3c788e3edb6d9d91",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-square-area-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-square-area-units-pep",
+    "review-cn-math-square-area-units-bnup",
+    "review-cn-math-square-area-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "平方厘米、平方米等面积单位以相应边长的正方形为基准。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“平方单位”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把厘米和平方厘米当作同一种单位。",
+  "title": "平方单位"
+}

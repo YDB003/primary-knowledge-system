@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "4db94392850ea25eb73df48e6b1b870c48a325609510df943324e9c7bc7fe8d5",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5929",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":4,\"writtenForm\":\"天\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "天"
+}

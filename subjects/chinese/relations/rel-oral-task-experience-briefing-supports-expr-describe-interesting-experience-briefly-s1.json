@@ -1,0 +1,12 @@
+{
+  "contentHash": "8d133f29926448f87877b66e3a85d6b135ffdf5482e1deb657f71438c8431ba6",
+  "fromId": "cn-chn-item-oral-task-experience-briefing",
+  "id": "rel-oral-task-experience-briefing-supports-expr-describe-interesting-experience-briefly-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“见闻简述任务”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-describe-interesting-experience-briefly-s1"
+}

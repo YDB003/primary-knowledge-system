@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5bbcd4a7305d88bd78cce730b902089826d88e3c4cbbc03d0240bb7998e7976a",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-division-expression",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-division-expression-pep",
+    "review-cn-math-division-expression-bnup",
+    "review-cn-math-division-expression-jsep"
+  ],
+  "subject": "math",
+  "summary": "用除号和等号表示被除数、除数与商之间的关系。\n\n## 可观察证据\n\n- 能正确读写除法算式并指出各部分名称。\n- 能把平均分或等量分组图转换成除法算式。\n\n## 常见误区\n\n- 认为被除数和除数可以像乘法因数一样交换。",
+  "title": "除法算式的符号表达"
+}

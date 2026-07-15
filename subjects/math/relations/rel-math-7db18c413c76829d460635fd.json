@@ -1,0 +1,12 @@
+{
+  "contentHash": "b17d2224bab637a51c6d2508e594a95c51c6be349691d7d6c015192eab8b16d3",
+  "fromId": "cn-math-written-decimal-subtraction",
+  "id": "rel-math-7db18c413c76829d460635fd",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数减法笔算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-check-decimal-add-subtract"
+}

@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "812b990d790cd67d6c2c674b220b990d2275a666a3769ab561bb3999eed12f17",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-r",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n近音 /r/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌尖靠近但不接触齿龈后部，声带振动；宽式音标常写 /r/，实际英语音值常接近 [ɹ]。\n\n## 示例\n\n可在这些词中观察该声音：red、run。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "近音 /r/"
+}

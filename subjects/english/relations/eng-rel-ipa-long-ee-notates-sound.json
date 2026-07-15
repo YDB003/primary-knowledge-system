@@ -1,0 +1,15 @@
+{
+  "contentHash": "98de0f61625ae78b1916cb6b0eb0d024e74ed03dd333f570ef794fff60bce6c2",
+  "fromId": "eng-ipa-long-ee",
+  "id": "eng-rel-ipa-long-ee-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/iː/ 这个书写符号用于标记英语声音“长元音 /iː/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-long-ee"
+}

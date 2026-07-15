@@ -1,0 +1,12 @@
+{
+  "contentHash": "418c343cad1aa7f5a5085ee1672c6dfe8edbd5806a7c446b32691c4556eb90c0",
+  "fromId": "cn-chn-lit-write-basic-strokes-s1",
+  "id": "rel-audit-lit-basic-strokes-to-stroke-order",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "按正确笔顺书写汉字必须先能完成组成汉字的基本笔画；若基本笔画不能独立书写，笔顺序列就没有可执行的书写单位。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-apply-stroke-order-s1"
+}

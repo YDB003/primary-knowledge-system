@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f01d349e3ec4fb32d1341483ba7f77c85486fcf83d42be24d2ce6b9fa31dccc6",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-recommend-whole-book-with-reasons-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-recommend-whole-book-with-reasons-s3-curriculum-standard",
+    "review-cn-chn-read-recommend-whole-book-with-reasons-s3-unified-pre-2024",
+    "review-cn-chn-read-recommend-whole-book-with-reasons-s3-unified-2024-revision",
+    "review-cn-chn-read-recommend-whole-book-with-reasons-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "面向同伴提出明确的整书推荐，并用内容特点、表达特色或阅读价值中的具体信息说明理由。\n\n## 掌握证据\n\n- 能指出推荐对象并概括一个可核对的内容特点。\n- 能解释该特点为何值得目标读者阅读。\n\n## 常见错误\n\n- 只说精彩或有意义，没有提供可核对的推荐理由。",
+  "title": "说明理由推荐一本整书"
+}

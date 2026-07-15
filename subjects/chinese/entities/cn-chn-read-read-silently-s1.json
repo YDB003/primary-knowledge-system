@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "168f39121a0832ed217c7198825a80e1829c02a47d929413fd39d80203aace1f",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-read-silently-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-read-silently-s1-curriculum-standard",
+    "review-cn-chn-read-read-silently-s1-unified-pre-2024",
+    "review-cn-chn-read-read-silently-s1-unified-2024-revision",
+    "review-cn-chn-read-read-silently-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "阅读短文时不出声、不指读，保持视线连续移动并在结束后指出主要对象。\n\n## 掌握证据\n\n- 能默读一段短文时做到不出声且不逐字指读。\n- 能默读结束后指出短文主要写到的对象。\n\n## 常见错误\n\n- 嘴唇发声或用手逐字移动，无法形成连续默读。",
+  "title": "不出声地默读短文"
+}

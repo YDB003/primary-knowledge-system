@@ -1,0 +1,12 @@
+{
+  "contentHash": "a32a8fbba69b4e43cde95667608fa24f6190e26282fce3de4091ec8b112ec8f0",
+  "fromId": "cn-math-add-sub-whole-tens",
+  "id": "rel-math-6f84dfb820018f669e841a04",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“整十数加减口算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-mental-add-sub-hundreds"
+}

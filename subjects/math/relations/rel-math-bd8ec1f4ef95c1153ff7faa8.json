@@ -1,0 +1,12 @@
+{
+  "contentHash": "feb23e143062389f4d3470eac5f90330123abc20107461adfdd8604b568b6dc1",
+  "fromId": "cn-math-translate-more-less-language",
+  "id": "rel-math-bd8ec1f4ef95c1153ff7faa8",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“多几少几语言的关系转换”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-additive-comparison-bar-model"
+}

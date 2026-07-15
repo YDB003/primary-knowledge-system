@@ -1,0 +1,12 @@
+{
+  "contentHash": "a617c4138d383ab76435aabfafc6f1e8cdfd06e00c4029bc50086010c9029dca",
+  "fromId": "cn-math-fraction-to-terminating-decimal",
+  "id": "rel-math-5c943b3a7e54eb7c0ef34151",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数化有限小数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-choose-fraction-or-decimal"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "cc2fc887e4e9ccd89ef927402508d247818b7e6120504d392cd462bd3b57d964",
+  "domain": "vocabulary_semantics",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-vocab-describe-actions-processes",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-vocabulary"
+  ],
+  "subject": "english",
+  "summary": "# 用词汇描述行为和简单过程\n\n## 能力说明\n\n用词汇描述行为和简单过程，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能选用动词和顺序词描述熟悉活动的主要步骤。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：vocabulary_semantics\n- 课标锚点：[[eng-anchor-l2-vocabulary]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "用词汇描述行为和简单过程"
+}

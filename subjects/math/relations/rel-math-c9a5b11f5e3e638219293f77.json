@@ -1,0 +1,12 @@
+{
+  "contentHash": "151c4b87bae2449914e5fc6cd3b23c6ea49c9c622e995f82414b17df2b27646e",
+  "fromId": "cn-math-simplify-ratio",
+  "id": "rel-math-c9a5b11f5e3e638219293f77",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“化简比”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-create-equivalent-ratios"
+}

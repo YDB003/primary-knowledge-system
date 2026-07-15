@@ -1,0 +1,12 @@
+{
+  "contentHash": "67cdeec0872c0a53af050cef32783632274cd7065e77613014464edc4dab63a0",
+  "fromId": "cn-math-add-subtract-money",
+  "id": "rel-math-1634bb8902d18638aa94826b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“金额加减”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-make-change"
+}

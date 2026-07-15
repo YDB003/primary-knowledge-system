@@ -1,0 +1,12 @@
+{
+  "contentHash": "2aca18b523739c49840a95179a35fe33121da9b75ecd725b1ab6ddb20547086e",
+  "fromId": "cn-math-fraction-mixed-operations",
+  "id": "rel-math-92e81b08d1eb971065dad88a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数四则混合运算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-operation-laws"
+}

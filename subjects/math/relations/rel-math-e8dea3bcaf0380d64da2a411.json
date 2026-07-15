@@ -1,0 +1,12 @@
+{
+  "contentHash": "8d26d7025168a664c01a618f468d8328159ebcbbdf1f287bf63de202531af266",
+  "fromId": "cn-math-composite-area",
+  "id": "rel-math-e8dea3bcaf0380d64da2a411",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“组合图形面积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-circle-area"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "fbb66dd6311e202b9ee605ea5afa31aeb1cc3688a05cd3781382c00f0da227cf",
+  "fromId": "cn-chn-item-pinyin-alphabet-n",
+  "id": "rel-pinyin-alphabet-n-supports-recognize-uppercase-letters-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该大小写字母对是辨认拼音大写形式及其对应小写形式的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-uppercase-letters-s1"
+}

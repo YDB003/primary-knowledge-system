@@ -1,0 +1,12 @@
+{
+  "contentHash": "e7e47186b288439125038133c21b8e953808fe63600119a4c185b72456f741cb",
+  "fromId": "cn-math-direction-distance-location",
+  "id": "rel-math-59563f2ca943d20d4ba360d1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用方向和距离确定位置”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-map-scale-location"
+}

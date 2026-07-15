@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "9c3e57cb1f575f9f70a0903922f15cb17be21a9ad50ea30414109ee1353f2d85",
+  "domain": "PHONEME_SEQUENCE",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-sequence-ts",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n辅音序列 /ts/。本条是音位序列，不把它误标为单一音位。\n\n## 发音提示\n\n先发 /t/ 再紧接 /s/，常出现在以清辅音结尾的名词复数或动词形式中。\n\n## 示例\n\n可在这些词中观察该声音：cats、seats。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "辅音序列 /ts/"
+}

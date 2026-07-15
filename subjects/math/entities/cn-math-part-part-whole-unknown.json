@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d3b8cfc3f4d86fbf0f50ebedc8ca6d6a0bc30df298e049fe35ce15b652672abf",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-part-part-whole-unknown",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-part-part-whole-unknown-pep",
+    "review-cn-math-part-part-whole-unknown-bnup",
+    "review-cn-math-part-part-whole-unknown-jsep"
+  ],
+  "subject": "math",
+  "summary": "两个或多个互不重叠部分合成整体；已知各部分求整体用加法，已知整体和部分求另一部分用减法。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“部分整体关系中的未知量”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把相互重叠的数量也直接当作两个独立部分相加。",
+  "title": "部分整体关系中的未知量"
+}

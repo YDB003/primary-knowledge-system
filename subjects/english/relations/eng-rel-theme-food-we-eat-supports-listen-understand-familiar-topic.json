@@ -1,0 +1,14 @@
+{
+  "contentHash": "12b9cf5245a3a6423e5737f354316a23b5d014cfd44a62033e08e5ba6268df8f",
+  "fromId": "eng-theme-food-we-eat",
+  "id": "eng-rel-theme-food-we-eat-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "ab4a5354bd5ab36eafbecf4dfbdfd9617c67d6c0e8736b38fcae341668741f10",
+  "fromId": "eng-ipa-m",
+  "id": "eng-rel-ipa-m-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/m/ 这个书写符号用于标记英语声音“鼻辅音 /m/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-m"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "6798c07d0c2820998bb1ece30fac8f06a3c63a48aba6d5d1413bb9948ae88d20",
+  "fromId": "eng-theme-different-families",
+  "id": "eng-rel-theme-different-families-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

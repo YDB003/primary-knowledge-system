@@ -1,0 +1,14 @@
+{
+  "contentHash": "46029e560c8e19e7c635a473ba6f7ea4d5e03f1424eb2b2cb60f2333ab7f2c68",
+  "fromId": "eng-phrase-have-dinner",
+  "id": "eng-rel-phrase-have-dinner-supports-vocab-use-fixed-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-use-fixed-expressions”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-use-fixed-expressions"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e24da02a86b118e9d8a086597db0e45490ced7d3d3c61a2915d61c4b59bed52f",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-improper-fraction-and-mixed-number",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-improper-fraction-and-mixed-number-pep",
+    "review-cn-math-improper-fraction-and-mixed-number-bnup",
+    "review-cn-math-improper-fraction-and-mixed-number-jsep"
+  ],
+  "subject": "math",
+  "summary": "假分数表示一个或多个完整单位再加部分单位，带分数把这一数量写成整数部分与真分数部分之和。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“假分数与带分数的意义”。\n- 能用数量关系或运算结构解释“假分数与带分数的意义”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 认为分子大于分母的写法不是合法的数。",
+  "title": "假分数与带分数的意义"
+}

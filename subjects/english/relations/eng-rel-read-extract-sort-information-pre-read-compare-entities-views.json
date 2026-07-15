@@ -1,0 +1,15 @@
+{
+  "contentHash": "5b2b7579cded07227cbcaf7f60f6645a93f1c713a93ef72a737f23a7236c2f27",
+  "fromId": "eng-ability-read-extract-sort-information",
+  "id": "eng-rel-read-extract-sort-information-pre-read-compare-entities-views",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n用语篇证据比较人物、事物或观点的异同，必须先提取并整理两方对应信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-compare-entities-views"
+}

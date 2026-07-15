@@ -1,0 +1,12 @@
+{
+  "contentHash": "0f4aaee80283862e8f3c977be0be21ada1a340b02d685ef19d0d64cda192d581",
+  "fromId": "cn-chn-read-explain-literal-sentence-s1",
+  "id": "rel-read-explain-literal-sentence-s1-to-interpret-contextual-sentence-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "联系语境解释句意必须先辨明句子的字面信息，否则无法判断上下文为原句增添或调整了什么含义。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-interpret-contextual-sentence-s2"
+}

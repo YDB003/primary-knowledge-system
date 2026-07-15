@@ -1,0 +1,12 @@
+{
+  "contentHash": "7d157d31ace5cdab635f86a059a26c16f2ad0f7706bd2d69400a8b946ece9bf1",
+  "fromId": "cn-math-cuboid-volume",
+  "id": "rel-math-f2333b6be338f3306c5038c1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“长方体体积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-cube-volume"
+}

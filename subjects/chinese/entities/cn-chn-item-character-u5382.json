@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "9fbcb4a2ab54d9971a95e0b23df826c3e9e1b9feacd2ef922c281a866f60aa4d",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5382",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":2,\"writtenForm\":\"厂\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "厂"
+}

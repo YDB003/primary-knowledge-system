@@ -1,0 +1,12 @@
+{
+  "contentHash": "bb9bb4d804424379d3fdd7864614e4769c425fa7f3117eb1ba887a104baf5444",
+  "fromId": "cn-math-identify-real-world-quantities",
+  "id": "rel-math-5abe0249cb6955631e34531f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“识别真实情境中的数量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-state-model-assumptions"
+}

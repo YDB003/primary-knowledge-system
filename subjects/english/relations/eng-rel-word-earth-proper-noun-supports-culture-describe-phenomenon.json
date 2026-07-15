@@ -1,0 +1,14 @@
+{
+  "contentHash": "4994cbcde6e447cd692a8d45a11bf3cf2270f1afb09295d22a526b277398df24",
+  "fromId": "eng-word-earth-proper-noun",
+  "id": "eng-rel-word-earth-proper-noun-supports-culture-describe-phenomenon",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-culture-describe-phenomenon”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-culture-describe-phenomenon"
+}

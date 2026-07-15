@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "db75a30dc64a9448cd0eed4379c04c2c9775c39efce0f7521592857e0c726137",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-maintain-appropriate-writing-speed-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-maintain-appropriate-writing-speed-s3-curriculum-standard",
+    "review-cn-chn-expr-maintain-appropriate-writing-speed-s3-unified-pre-2024",
+    "review-cn-chn-expr-maintain-appropriate-writing-speed-s3-unified-2024-revision",
+    "review-cn-chn-expr-maintain-appropriate-writing-speed-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "同一学习者此前两次在题材、体裁、写作要求和建议篇幅均相同的同等范围习作中，在完成约定内容范围的前提下，记录每分钟完成字数的最小值和最大值，形成个人参照区间。其后两次同等范围习作的实际速度均落入个人参照区间且完成约定内容范围，作为保持学习者相对适当习作速度的可观察标准；不设统一数值门槛。\n\n## 掌握证据\n\n- 能在一次同等范围习作中记录实际分钟数、完成字数和每分钟完成字数，核对速度落入个人参照区间且完成约定内容范围。\n- 能在随后一次同等范围习作中再次记录实际分钟数、完成字数和每分钟完成字数，核对速度落入个人参照区间且完成约定内容范围。\n\n## 常见错误\n\n- 未完成约定内容范围，或用不同范围任务的速度判断是否保持适当习作速度。",
+  "title": "保持适当的习作速度"
+}

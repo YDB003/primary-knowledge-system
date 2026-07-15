@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "066b7d6d1efdbaee5ce1e6d810939291bfc5bdee1a28cd3e777ff8b481545f4a",
+  "domain": "量与计量",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-perimeter-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-perimeter-meaning-pep",
+    "review-cn-math-perimeter-meaning-bnup",
+    "review-cn-math-perimeter-meaning-jsep"
+  ],
+  "subject": "math",
+  "summary": "封闭图形一周边界的总长度是周长。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“周长的意义”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把面积单位格数当作周长。",
+  "title": "周长的意义"
+}

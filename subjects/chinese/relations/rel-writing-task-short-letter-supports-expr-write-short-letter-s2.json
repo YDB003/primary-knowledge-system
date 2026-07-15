@@ -1,0 +1,12 @@
+{
+  "contentHash": "e09ea608b710d04dc553cea1f40d7300fb89e3ac80e7ddadb73caf2e932f71e2",
+  "fromId": "cn-chn-item-writing-task-short-letter",
+  "id": "rel-writing-task-short-letter-supports-expr-write-short-letter-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“简短书信”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-write-short-letter-s2"
+}

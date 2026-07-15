@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f224c7e4d00a3d942ddf26c2819bca5a405b54c5eb3e7d795f47e91cbeed9bc9",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u8fdc",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":7,\"writtenForm\":\"远\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "远"
+}

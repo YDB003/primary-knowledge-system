@@ -1,0 +1,12 @@
+{
+  "contentHash": "59f301e424beb412adeadc9ea5a7de662cd47bccf98d58a1d314f83f34922ce2",
+  "fromId": "cn-math-arithmetic-mean",
+  "id": "rel-math-bb04eb26b1ac2d24f4794333",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平均数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-mean-sensitive-to-extremes"
+}

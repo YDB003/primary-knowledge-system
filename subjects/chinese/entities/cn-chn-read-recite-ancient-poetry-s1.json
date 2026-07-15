@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a6e0f6ae87c1610da57414cfe532013b3758aab8014a7e251a3862f3e635cda0",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-recite-ancient-poetry-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-recite-ancient-poetry-s1-curriculum-standard",
+    "review-cn-chn-read-recite-ancient-poetry-s1-unified-pre-2024",
+    "review-cn-chn-read-recite-ancient-poetry-s1-unified-2024-revision",
+    "review-cn-chn-read-recite-ancient-poetry-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "借助句序和节奏线索脱离文字提示，完整背诵学段范围内的浅近古诗。\n\n## 掌握证据\n\n- 能依据句序提示背诵全部诗句。\n- 能脱离文字后背诵并自行检查漏句或倒序。\n\n## 常见错误\n\n- 只记住零散名句，无法按原有句序完整背诵。",
+  "title": "背诵浅近古诗"
+}

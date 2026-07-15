@@ -1,0 +1,12 @@
+{
+  "contentHash": "36aed078c6d7128412589535285689532c8ca6db33ed1c1d85121e265d86a57e",
+  "fromId": "cn-chn-item-word-relation-antonym",
+  "id": "rel-word-antonym-supports-classify-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "反义词关系身份为第二学段按词义关系分类整理学过词语提供类别依据。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-inq-classify-learned-language-units-s2"
+}

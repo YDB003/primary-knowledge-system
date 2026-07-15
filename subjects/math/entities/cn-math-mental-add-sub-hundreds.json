@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "34f6996ffc6bc0107d442df8f5cf646a56554cd20de2319a368f45b711b87366",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-mental-add-sub-hundreds",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-mental-add-sub-hundreds-pep",
+    "review-cn-math-mental-add-sub-hundreds-bnup",
+    "review-cn-math-mental-add-sub-hundreds-jsep"
+  ],
+  "subject": "math",
+  "summary": "把多位数按整百、整十和个位分解，利用整单位或补整策略口算。\n\n## 可观察证据\n\n- 能口算适合分解的多位数加减。\n- 能说明拆数、补整或迁移的依据。\n\n## 常见误区\n\n- 把所有多位数都强行套用同一种口算步骤。",
+  "title": "多位数加减的口算分解"
+}

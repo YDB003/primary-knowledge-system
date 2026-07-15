@@ -1,0 +1,12 @@
+{
+  "contentHash": "8e2b66b57a5ec8de8daf7a3fe41ef28be458b24a53bb3b7457532d0d1550aacf",
+  "fromId": "cn-math-second-duration",
+  "id": "rel-math-ba9fd7ca8b927a1a70c75508",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“秒的量感”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-hour-minute-second-conversion"
+}

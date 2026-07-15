@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "56efcec36826d79099f56a24bd17d5e868f53fe786e306ed6e6bb9193dea6c66",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-geometric-enlargement-reduction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-geometric-enlargement-reduction-pep",
+    "review-cn-math-geometric-enlargement-reduction-bnup",
+    "review-cn-math-geometric-enlargement-reduction-jsep"
+  ],
+  "subject": "math",
+  "summary": "按同一比例改变所有对应长度可得到相似放缩图形，角度和形状保持而大小改变。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“图形按比例放大与缩小”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只改变宽或高中的一个方向。",
+  "title": "图形按比例放大与缩小"
+}

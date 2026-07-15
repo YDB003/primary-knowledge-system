@@ -1,0 +1,14 @@
+{
+  "contentHash": "ff90ebf1aa7415a4aae60b2302d4ded6057633eb8acd83cd7bbf08fca7ffd0a9",
+  "fromId": "eng-theme-colourful-world",
+  "id": "eng-rel-theme-colourful-world-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "3ac3a503a6a3c32ead6d8c9c8fbff51e17caa0dec05e8d1b98acdf68ddd125e5",
+  "fromId": "eng-communicative-function-ask-person-name",
+  "id": "eng-rel-communicative-function-ask-person-name-supports-speak-ask-personal-info",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-ask-personal-info”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-3a-m2"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-ask-personal-info"
+}

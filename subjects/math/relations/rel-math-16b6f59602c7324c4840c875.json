@@ -1,0 +1,12 @@
+{
+  "contentHash": "4d72341e33fdeecc7895d60a4d9d746d5193487173960ba16de306b064622ab0",
+  "fromId": "cn-math-quotient-remainder-relation",
+  "id": "rel-math-16b6f59602c7324c4840c875",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“被除数等于除数乘商加余数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multidigit-by-one-digit"
+}

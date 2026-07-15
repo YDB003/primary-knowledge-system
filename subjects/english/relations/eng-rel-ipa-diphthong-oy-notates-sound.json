@@ -1,0 +1,15 @@
+{
+  "contentHash": "01ce80bb2843b24fb015c51d3312fe05b851a4edcce6c09f936d0529c322075f",
+  "fromId": "eng-ipa-diphthong-oy",
+  "id": "eng-rel-ipa-diphthong-oy-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ɔɪ/ 这个书写符号用于标记英语声音“双元音 /ɔɪ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-diphthong-oy"
+}

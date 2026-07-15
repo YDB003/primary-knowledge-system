@@ -1,0 +1,12 @@
+{
+  "contentHash": "f2a9ab31eea024e10d81a07e532d4f432e61405171da281cf3120d4c8801350d",
+  "fromId": "cn-math-read-graduated-container",
+  "id": "rel-math-592c0b4e5176209c8537eadd",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“读取量杯量筒”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-estimate-capacity"
+}

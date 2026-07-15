@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ad24e0d4914a8099e58e19925f779b77d85330a323b32f98d80dacc0868bd26f",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-form-question-about-unclear-content-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-form-question-about-unclear-content-s2-curriculum-standard",
+    "review-cn-chn-read-form-question-about-unclear-content-s2-unified-pre-2024",
+    "review-cn-chn-read-form-question-about-unclear-content-s2-unified-2024-revision",
+    "review-cn-chn-read-form-question-about-unclear-content-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "识别阅读中尚未理解的具体位置，把不清楚之处转化为对象明确、可以讨论或查证的问题。\n\n## 掌握证据\n\n- 能标出不理解的词句或内容位置，并记录一个对应问题。\n- 能辨别问题所问的是词义、句意还是内容联系。\n\n## 常见错误\n\n- 只写“不懂”，没有指出不理解的对象或需要解答的内容。",
+  "title": "针对不理解的内容提出问题"
+}

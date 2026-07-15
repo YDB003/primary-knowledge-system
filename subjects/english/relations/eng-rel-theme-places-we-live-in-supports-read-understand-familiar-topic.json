@@ -1,0 +1,14 @@
+{
+  "contentHash": "55afe79f55f9ebc57fb45b596ea1421d182548b8df94d1c3dd3aa3cf6280d5e9",
+  "fromId": "eng-theme-places-we-live-in",
+  "id": "eng-rel-theme-places-we-live-in-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

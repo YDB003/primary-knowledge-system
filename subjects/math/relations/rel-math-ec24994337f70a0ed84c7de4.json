@@ -1,0 +1,12 @@
+{
+  "contentHash": "de214616e920d403dba9a269b37fee1bfc2ea3b671a2735a3e420e7f7ae454f6",
+  "fromId": "cn-math-straight-line",
+  "id": "rel-math-ec24994337f70a0ed84c7de4",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“直线”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-parallel-lines"
+}

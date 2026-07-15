@@ -1,0 +1,14 @@
+{
+  "contentHash": "779064c0ba8aac75e32b0288111670e6f79353ed83f8c8801eb702dcc15d52f6",
+  "fromId": "eng-sentence-pattern-where-are-person-from",
+  "id": "eng-rel-sentence-pattern-where-are-person-from-supports-grammar-use-simple-sentence-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-use-simple-sentence-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-use-simple-sentence-exchange"
+}

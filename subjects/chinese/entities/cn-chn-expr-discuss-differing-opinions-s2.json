@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "98391b0ec513f99ce18381fd6166a2113530ac658910110b79a9230133d1f6d8",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-discuss-differing-opinions-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-discuss-differing-opinions-s2-curriculum-standard",
+    "review-cn-chn-expr-discuss-differing-opinions-s2-unified-pre-2024",
+    "review-cn-chn-expr-discuss-differing-opinions-s2-unified-2024-revision",
+    "review-cn-chn-expr-discuss-differing-opinions-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头交流中围绕一项不同意见说出理由并接续商讨。\n\n## 掌握证据\n\n- 能针对一项不同意见说出自己的理由。\n- 能在对方回应后继续围绕同一分歧说出商讨意见。\n\n## 常见错误\n\n- 离开具体分歧，只重复自己的结论。",
+  "title": "就不同意见与人商讨"
+}

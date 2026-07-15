@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "16ce45f768fb5d9819fee46bdcbcd0f3b0827a57ab64d6a53210904e68ac8c12",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-whole-number-order",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-whole-number-order-pep",
+    "review-cn-math-whole-number-order-bnup",
+    "review-cn-math-whole-number-order-jsep"
+  ],
+  "subject": "math",
+  "summary": "整数按固定次序排列，每个非零自然数都有前一个和后一个整数。\n\n## 可观察证据\n\n- 能说出一个数前后相邻的整数。\n- 能用多1和少1解释相邻关系。\n\n## 常见误区\n\n- 把书写位置相邻误当成数值一定相邻。",
+  "title": "整数的前后顺序与相邻数"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "bb54bf2e9060e58d0d1fec78cf64d3111a397783f3b82f7a8286543c810ca794",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-share-whole-book-response-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-share-whole-book-response-s2-curriculum-standard",
+    "review-cn-chn-read-share-whole-book-response-s2-unified-pre-2024",
+    "review-cn-chn-read-share-whole-book-response-s2-unified-2024-revision",
+    "review-cn-chn-read-share-whole-book-response-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "选择整书中印象明确的内容，向同伴说明自己的感受及其对应的阅读依据。\n\n## 掌握证据\n\n- 能指出整书中引发感受的具体情节或信息。\n- 能向同伴解释该内容为何带来这一阅读感受。\n\n## 常见错误\n\n- 只说喜欢或不喜欢，没有对应的整书内容。",
+  "title": "分享整书阅读感受"
+}

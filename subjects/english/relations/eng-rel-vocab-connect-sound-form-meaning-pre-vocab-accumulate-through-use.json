@@ -1,0 +1,15 @@
+{
+  "contentHash": "028816a657f3e27d41abf8622f4c8ef27e844ee385587b32445b395f3bdf04df",
+  "fromId": "eng-ability-vocab-connect-sound-form-meaning",
+  "id": "eng-rel-vocab-connect-sound-form-meaning-pre-vocab-accumulate-through-use",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n在不同任务中重新使用并积累一个词，必须先能稳定关联该词的读音、拼写和含义。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-accumulate-through-use"
+}

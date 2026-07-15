@@ -1,0 +1,12 @@
+{
+  "contentHash": "2f11fcc97c80b3cb21467cf258a9cd0ad93149d542cbf8e7157e6d24b81c55d2",
+  "fromId": "cn-chn-item-pinyin-rule-umlaut-omission",
+  "id": "rel-pinyin-rule-umlaut-omission-supports-apply-umlaut-rule-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该规则身份是应用ü拼写规则操作所依据的规范内容。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-apply-umlaut-rule-s1"
+}

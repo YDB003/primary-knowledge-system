@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "94e70d3d065bd484d43a4fb2199de448c8fcc377e309c3de283eee48876241ae",
+  "domain": "CULTURE_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-culture-item-world-environment-day-june-5",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "世界环境日是关注全球环境议题的公共纪念日，日期为 6 月 5 日。学习时可结合具体环保行动理解其意义。",
+  "title": "World Environment Day"
+}

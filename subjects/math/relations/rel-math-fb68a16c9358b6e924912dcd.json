@@ -1,0 +1,12 @@
+{
+  "contentHash": "93d37eb2699b66de4b716df891de4185736b23294f74094c098fbe9071ac9c2d",
+  "fromId": "cn-math-inverse-proportion-meaning",
+  "id": "rel-math-fb68a16c9358b6e924912dcd",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“反比例关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-identify-inverse-proportion"
+}

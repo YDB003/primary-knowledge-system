@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ec6797f0491bc210c86981123c6b783159033fabb59894ed5e127ac6bcde1c18",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-attach-unit-to-result",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-attach-unit-to-result-pep",
+    "review-cn-math-attach-unit-to-result-bnup",
+    "review-cn-math-attach-unit-to-result-jsep"
+  ],
+  "subject": "math",
+  "summary": "测量和应用计算结果需标明与所求属性一致的单位。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“结果必须带合适单位”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 面积问题写长度单位或遗漏单位。",
+  "title": "结果必须带合适单位"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4109f54528eb274410b51c8991b779a36e35514820eb126c43dc9fae0605edc4",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-determine-contextual-character-meaning-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-determine-contextual-character-meaning-s2-curriculum-standard",
+    "review-cn-chn-lit-determine-contextual-character-meaning-s2-unified-pre-2024",
+    "review-cn-chn-lit-determine-contextual-character-meaning-s2-unified-2024-revision",
+    "review-cn-chn-lit-determine-contextual-character-meaning-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在不依赖具体字表的识字任务中按语境确定汉字意义，建立可核对的形音义联系。\n\n## 掌握证据\n\n- 能面对未学材料中的目标汉字独立按语境确定汉字意义。\n- 能用读音、语境意义或规范字形说明判断结果。\n\n## 常见错误\n\n- 只凭局部字形或单一读音作答，未核对形音义关系。",
+  "title": "按语境确定汉字意义"
+}

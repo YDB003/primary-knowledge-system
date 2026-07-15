@@ -1,0 +1,15 @@
+{
+  "contentHash": "0f3bbbf7382651c0f720082aa1148133f20f73335be7df7c3600419608015810",
+  "fromId": "eng-ability-vocab-know-word-letter-composition",
+  "id": "eng-rel-vocab-know-word-letter-composition-pre-vocab-connect-sound-form-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n建立单词的音形义联系，必须先知道单词的书写形式由哪些字母按序构成。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-connect-sound-form-meaning"
+}

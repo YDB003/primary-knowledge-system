@@ -1,0 +1,12 @@
+{
+  "contentHash": "63eebc16458f3f1528de68a7db566c0dd7832eb3fec0069e725e3b8628702a84",
+  "fromId": "cn-math-leap-year",
+  "id": "rel-math-c3326c3b4f3b193588945119",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平年与闰年”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-read-calendar"
+}

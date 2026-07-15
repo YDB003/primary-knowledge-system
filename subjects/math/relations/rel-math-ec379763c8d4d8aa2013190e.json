@@ -1,0 +1,12 @@
+{
+  "contentHash": "f8a047f6bb3a4a45b2de84a1095f6711f5f7df44b5b6a138d734093331210268",
+  "fromId": "cn-math-point-line-distance",
+  "id": "rel-math-ec379763c8d4d8aa2013190e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“点到直线的距离”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-measure-angle"
+}

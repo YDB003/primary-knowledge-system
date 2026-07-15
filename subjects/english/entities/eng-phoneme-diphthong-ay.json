@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "b0a05617ff9ef98b72be34a861e6789c9dc40d6c1a3e889867106449e662e7f6",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-diphthong-ay",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n双元音 /eɪ/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n从 /e/ 附近向 /ɪ/ 滑动，两个部分连贯完成，不拆成两个音节。\n\n## 示例\n\n可在这些词中观察该声音：name、day。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "双元音 /eɪ/"
+}

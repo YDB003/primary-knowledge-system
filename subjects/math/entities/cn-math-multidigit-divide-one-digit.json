@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d543e760847a3657b708dc06253f73afb9ad7790ab41b553865641814e19ddf2",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-multidigit-divide-one-digit",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-multidigit-divide-one-digit-pep",
+    "review-cn-math-multidigit-divide-one-digit-bnup",
+    "review-cn-math-multidigit-divide-one-digit-jsep"
+  ],
+  "subject": "math",
+  "summary": "从高位起逐位试商，把每一步余数与下一位重新组成可分数量。\n\n## 可观察证据\n\n- 能正确完成多位数除以一位数的竖式。\n- 能解释商的每一位为什么写在相应数位。\n\n## 常见误区\n\n- 首位不够除时仍在错误数位写商。",
+  "title": "多位数除以一位数笔算"
+}

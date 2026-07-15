@@ -1,0 +1,12 @@
+{
+  "contentHash": "0c723bc06e095faa48fa33e2710e77df5ea35d2ec31cee192a83acd2c6eb16f7",
+  "fromId": "cn-chn-item-word-relation-synonym",
+  "id": "rel-word-synonym-supports-classify-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "同义词关系身份为第二学段按词义关系分类整理学过词语提供类别依据。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-inq-classify-learned-language-units-s2"
+}

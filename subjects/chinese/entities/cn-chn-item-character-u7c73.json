@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "0f9e7f91b52f56b6b933b77d6277a239da66fdcbb4bd393a92a946a6d3a288f3",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7c73",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"writtenForm\":\"米\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "米"
+}

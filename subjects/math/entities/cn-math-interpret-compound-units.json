@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "009177d389e74bce1b56c1aa9420c4e15b0e564aed61c8912d9eeba0cc1c13f0",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-interpret-compound-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-interpret-compound-units-pep",
+    "review-cn-math-interpret-compound-units-bnup",
+    "review-cn-math-interpret-compound-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "千米每小时、元每千克等复合单位同时记录两个量的对应关系，分子分母单位不可随意交换。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“复合单位的含义”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 只保留数值，丢掉复合单位中的参照量。",
+  "title": "复合单位的含义"
+}

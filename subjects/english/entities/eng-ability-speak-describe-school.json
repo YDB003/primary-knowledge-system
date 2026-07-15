@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "9fceb848a2ab315796512556daba27735162a2b3d2b60c26f43a9d86018e731d",
+  "domain": "speaking_interaction",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-speak-describe-school",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 介绍学校和学校生活\n\n## 能力说明\n\n介绍学校和学校生活，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能介绍一种设施、课程、活动或校园人物。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：speaking_interaction\n- 课标锚点：[[eng-anchor-l1-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "介绍学校和学校生活"
+}

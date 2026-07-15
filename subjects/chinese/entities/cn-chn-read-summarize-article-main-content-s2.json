@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "34ffebe8a93f7b20b06897b16d257e19bd31bca6c2bf0cc32251387c58fe1b04",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-summarize-article-main-content-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-summarize-article-main-content-s2-curriculum-standard",
+    "review-cn-chn-read-summarize-article-main-content-s2-unified-pre-2024",
+    "review-cn-chn-read-summarize-article-main-content-s2-unified-2024-revision",
+    "review-cn-chn-read-summarize-article-main-content-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "整合文章各部分的核心对象、主要事件或关键信息，用简明陈述覆盖全文重点。\n\n## 掌握证据\n\n- 能概括各部分反复指向的核心对象或主要事件。\n- 能压缩次要细节后陈述覆盖全文的主要内容。\n\n## 常见错误\n\n- 只摘录一个段落或一个细节，未覆盖文章整体。",
+  "title": "概括文章主要内容"
+}

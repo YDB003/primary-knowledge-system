@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "25a945f43f32050242f6bdfa23e2c37fc83ac2dc077418492d39fb00acc63d67",
+  "domain": "识字与写字",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-identify-standard-character-form-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-identify-standard-character-form-s3-curriculum-standard",
+    "review-cn-chn-lit-identify-standard-character-form-s3-unified-pre-2024",
+    "review-cn-chn-lit-identify-standard-character-form-s3-unified-2024-revision",
+    "review-cn-chn-lit-identify-standard-character-form-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在不依赖具体字表的识字任务中辨认规范汉字字形，建立可核对的形音义联系。\n\n## 掌握证据\n\n- 能面对未学材料中的目标汉字独立辨认规范汉字字形。\n- 能用读音、语境意义或规范字形说明判断结果。\n\n## 常见错误\n\n- 只凭局部字形或单一读音作答，未核对形音义关系。",
+  "title": "辨认规范汉字字形"
+}

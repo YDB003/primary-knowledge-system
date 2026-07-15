@@ -1,0 +1,12 @@
+{
+  "contentHash": "27f3f9017cd4c86be7e622c132322da4eadcdadacc019488d149eca61e2f9141",
+  "fromId": "cn-math-parentheses-in-expressions",
+  "id": "rel-math-6f5c6e20b14eca1bac6f2538",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“括号改变运算顺序”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multidigit-divide-two-digit"
+}

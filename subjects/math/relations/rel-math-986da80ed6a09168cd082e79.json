@@ -1,0 +1,12 @@
+{
+  "contentHash": "65398d9781bda39c40fcc0020d999d39759e6e28804b25f71fadc5836d32f40d",
+  "fromId": "cn-math-equivalent-fractions",
+  "id": "rel-math-986da80ed6a09168cd082e79",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“等值分数表示同一个数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-fundamental-property"
+}

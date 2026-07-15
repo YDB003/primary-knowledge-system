@@ -1,0 +1,12 @@
+{
+  "contentHash": "ada2c4e4d230661742dbf5f7237c30f6e47bab62e597b3eb1d2d8e10591adb4b",
+  "fromId": "cn-math-choose-problem-representation",
+  "id": "rel-math-293683a11c71b24aba0cd792",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“选择问题表征”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-solution-methods"
+}

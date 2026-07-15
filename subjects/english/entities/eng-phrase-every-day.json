@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "26245462f8600754e116f775e60206bc8314e3f2e611cdc88c3a5b28544237c3",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-phrase-every-day",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "every day 表示“每天”，常和一般现在时一起说明习惯或固定安排。",
+  "title": "every day"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "d8fdefdf504ee23cc414953b9ba151280461570c0da22e4940c15175d5582a38",
+  "fromId": "eng-grapheme-rule-e-ee-to-long-i",
+  "id": "eng-rel-grapheme-rule-e-ee-to-long-i-supports-pron-perceive-simple-phonics",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-pron-perceive-simple-phonics”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-perceive-simple-phonics"
+}

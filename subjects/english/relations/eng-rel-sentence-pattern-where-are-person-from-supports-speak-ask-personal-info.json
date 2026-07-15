@@ -1,0 +1,14 @@
+{
+  "contentHash": "c0139d2bd9e6da9c028a548929232c9d1b934d9ef4e606a306f0e64aa21d0eca",
+  "fromId": "eng-sentence-pattern-where-are-person-from",
+  "id": "eng-rel-sentence-pattern-where-are-person-from-supports-speak-ask-personal-info",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-ask-personal-info”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-ask-personal-info"
+}

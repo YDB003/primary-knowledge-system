@@ -1,0 +1,12 @@
+{
+  "contentHash": "701ec3d21401a6a558e218467ead5d4e5c59ea38b2647b3a39bdad93d54833a5",
+  "fromId": "cn-math-digit-and-number",
+  "id": "rel-math-3fb49ab33114a87815907f6d",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“数字符号与数的区别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-zero-placeholder"
+}

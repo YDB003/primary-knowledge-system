@@ -1,0 +1,15 @@
+{
+  "contentHash": "dac1cd1194ebac4c70111b8537df35bf297362b2a1465a14754cd563045db745",
+  "fromId": "eng-ability-speak-shadow-av",
+  "id": "eng-rel-speak-shadow-av-pre-speak-read-learned-dialogue",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n分角色清楚朗读熟悉对话，必须先能跟随音频模仿并读出其中的短句。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-read-learned-dialogue"
+}

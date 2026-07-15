@@ -1,0 +1,12 @@
+{
+  "contentHash": "276828d1564fdd76e6157233f4e187b37bbd29fc4de1c6771701a6eba6697887",
+  "fromId": "cn-math-cuboid-surface-area",
+  "id": "rel-math-f6b23458f1f8edb4a4e25dad",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“长方体正方体表面积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-volume-capacity-conversion"
+}

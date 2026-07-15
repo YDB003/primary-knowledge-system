@@ -1,0 +1,15 @@
+{
+  "contentHash": "06d0cc8444278c6521ec1bd29a1568945fb21d1d0c68845e7bafcb2805fd9851",
+  "fromId": "eng-ipa-diphthong-air",
+  "id": "eng-rel-ipa-diphthong-air-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/eə/ 这个书写符号用于标记英语声音“双元音 /eə/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-diphthong-air"
+}

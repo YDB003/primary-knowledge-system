@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "aa910602c12b860ee4bb6dbce761a7d0e2c4063cd4c70647ad7a6d1aa51656b4",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-copy-brush-regular-script-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-copy-brush-regular-script-s2-curriculum-standard",
+    "review-cn-chn-lit-copy-brush-regular-script-s2-unified-pre-2024",
+    "review-cn-chn-lit-copy-brush-regular-script-s2-unified-2024-revision",
+    "review-cn-chn-lit-copy-brush-regular-script-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "观察正楷范字的笔画和结构后用毛笔临摹，输出与范字结构对应的单字书写。\n\n## 掌握证据\n\n- 能观察范字后用毛笔按笔顺临摹正楷字形。\n- 能对照范字检查笔画形态和部件位置，指出主要偏差。\n\n## 常见错误\n\n- 只追求外轮廓相似，忽略毛笔笔画形态和部件位置。",
+  "title": "用毛笔临摹正楷字形"
+}

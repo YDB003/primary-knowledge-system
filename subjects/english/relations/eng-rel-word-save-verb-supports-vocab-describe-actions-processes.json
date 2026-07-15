@@ -1,0 +1,14 @@
+{
+  "contentHash": "f580b36400f0bb656d70e335b2e3ff6cf3c4b662e450caef5012e0692b1bc01f",
+  "fromId": "eng-word-save-verb",
+  "id": "eng-rel-word-save-verb-supports-vocab-describe-actions-processes",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-describe-actions-processes”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-describe-actions-processes"
+}

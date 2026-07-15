@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6e0e0014843a71bd14c06cf1fff1b93fa745abb4303fdfaf9214b8940a4b57d5",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-math-parentheses-in-expressions",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-parentheses-in-expressions-pep",
+    "review-cn-math-parentheses-in-expressions-bnup",
+    "review-cn-math-parentheses-in-expressions-jsep"
+  ],
+  "subject": "math",
+  "summary": "括号标明应优先作为整体计算的部分，从而改变原有运算顺序。\n\n## 可观察证据\n\n- 能正确计算含小括号的混合算式。\n- 能根据数量关系选择需要括起的部分。\n\n## 常见误区\n\n- 看到括号只去掉符号而没有优先计算括号内。",
+  "title": "括号改变运算顺序"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "59d84f4c4ea157d23b77da7e2d218db8b83f9990f88f80ceeef1504c998de318",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5207",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":4,\"writtenForm\":\"切\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "切"
+}

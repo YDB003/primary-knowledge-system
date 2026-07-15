@@ -1,0 +1,12 @@
+{
+  "contentHash": "dda83f7d96598ecfba392eeb8c9af955c173b6ee68abbfebc107c86ea662183b",
+  "fromId": "cn-math-scale-down-by-factor",
+  "id": "rel-math-7833436c054d18c1aaedbf1e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“按倍数缩小”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-successive-multiplicative-change"
+}

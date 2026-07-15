@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "fefe0194deaab471b6ec3b453e863252d6ff2c4ae79db3b79c30d9a2178a10a9",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-multidigit-divide-two-digit",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-multidigit-divide-two-digit-pep",
+    "review-cn-math-multidigit-divide-two-digit-bnup",
+    "review-cn-math-multidigit-divide-two-digit-jsep"
+  ],
+  "subject": "math",
+  "summary": "通过估商、试商和调商逐位求多位数除以两位数的商。\n\n## 可观察证据\n\n- 能正确估商并完成除数为两位数的竖式。\n- 能用除数与商的乘积检查试商大小。\n\n## 常见误区\n\n- 估商后不检查乘积，导致商过大或过小。",
+  "title": "多位数除以两位数笔算"
+}

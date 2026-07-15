@@ -1,0 +1,12 @@
+{
+  "contentHash": "aea483b8a6982c186cbdac56dc2a6ba1a7e52a4e0d744b0400b81862ee46a292",
+  "fromId": "cn-math-ratio-value",
+  "id": "rel-math-b8119cd41933dc5c26160293",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比值”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-ratio-order-meaning"
+}

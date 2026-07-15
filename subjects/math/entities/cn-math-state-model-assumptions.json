@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2a670fbaef3f830c4dc4470e635115d537fd69933b38bdc584b45b98e2388559",
+  "domain": "综合与实践",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-state-model-assumptions",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:synthesis-and-practice",
+    "anchor-stage-1-synthesis-and-practice",
+    "review-cn-math-state-model-assumptions-pep",
+    "review-cn-math-state-model-assumptions-bnup",
+    "review-cn-math-state-model-assumptions-jsep"
+  ],
+  "subject": "math",
+  "summary": "把对现实的简化条件明确写出。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“说明建模假设”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "说明建模假设"
+}

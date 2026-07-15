@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "eebdde5cbd34cd32caecacb51182f4c2355c88ac09d29a5453b5b18c2aca5c53",
+  "domain": "GRAPHEME_RULE",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-grapheme-rule-oo-two-common-vowel-sounds",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "oo 有不止一种常见读音。遇到新词时可先按已知模式尝试，再通过音频或词典核验。",
+  "title": "oo 的两类常见读音"
+}

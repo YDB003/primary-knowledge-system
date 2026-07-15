@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3ff18d75a8536ecd095a20f33d5b2aaa8a7012268892ebe6294ec2259ffe813f",
+  "domain": "统计与概率",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-simple-probability-fraction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:statistics-and-probability",
+    "anchor-stage-3-statistics-and-probability",
+    "review-cn-math-simple-probability-fraction-pep",
+    "review-cn-math-simple-probability-fraction-bnup",
+    "review-cn-math-simple-probability-fraction-jsep"
+  ],
+  "subject": "math",
+  "summary": "等可能条件下概率等于有利结果数除以所有结果数。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“简单事件概率的分数表示”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 分母只写有利结果数。",
+  "title": "简单事件概率的分数表示"
+}

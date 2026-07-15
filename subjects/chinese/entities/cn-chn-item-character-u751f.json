@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "9e4b6290c43c2913065bdb7dc8c2976b5d8beb7cd549d8d9ce538ef00b12cf93",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u751f",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"writtenForm\":\"生\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "生"
+}

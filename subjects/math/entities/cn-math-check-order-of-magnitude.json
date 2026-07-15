@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b56ec14ae9a1cd4ebe25e54b1efd5048e0e0722247c26f4213392f3374465545",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-check-order-of-magnitude",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-check-order-of-magnitude-pep",
+    "review-cn-math-check-order-of-magnitude-bnup",
+    "review-cn-math-check-order-of-magnitude-jsep"
+  ],
+  "subject": "math",
+  "summary": "根据数的大小、运算方向和小数点位置判断结果应有的数量级，能发现多零少零或小数点错位。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“结果数量级检查”。\n- 能用数的结构或数量关系解释“结果数量级检查”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 只核对末尾数字，不看结果整体大小。",
+  "title": "结果数量级检查"
+}

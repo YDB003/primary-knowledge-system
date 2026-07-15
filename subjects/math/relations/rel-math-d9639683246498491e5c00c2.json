@@ -1,0 +1,12 @@
+{
+  "contentHash": "ea25ea1c804cf557594788175791ca26ab62c46275ca5836b0e54b2d67a19a64",
+  "fromId": "cn-math-state-model-assumptions",
+  "id": "rel-math-d9639683246498491e5c00c2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“说明建模假设”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-translate-context-to-model"
+}

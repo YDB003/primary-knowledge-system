@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "6debcd8cdae7aebf3c774d4367dfacd4d1fc6fb5c08ecc9e9300262256890a55",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-theme-shopping",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4b-resources"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕“Going shopping”组织基础听、说、读、看、写活动。学习时应把相关词句放回真实生活场景理解和使用。",
+  "title": "Going shopping"
+}

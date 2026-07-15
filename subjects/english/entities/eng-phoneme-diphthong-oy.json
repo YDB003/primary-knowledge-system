@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "714c327c552b3f7a9bc4c9ca144eebe20a4a165f1d5b060c8230f6e2129dee10",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-diphthong-oy",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n双元音 /ɔɪ/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n从圆唇的 /ɔ/ 附近向 /ɪ/ 滑动，发音连续。\n\n## 示例\n\n可在这些词中观察该声音：boy、toy。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "双元音 /ɔɪ/"
+}

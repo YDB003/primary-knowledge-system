@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "1576d0c4a6e3a319f31df5e34965707f8f5e3d3c0100ecd092bc261f27648e6e",
+  "domain": "PHONEME_SEQUENCE",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-sequence-dr",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n辅音序列 /dr/。本条是音位序列，不把它误标为单一音位。\n\n## 发音提示\n\n先发 /d/ 的阻塞，再迅速过渡到 /r/；它是两个音位的连续组合。\n\n## 示例\n\n可在这些词中观察该声音：dress、dream。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "辅音序列 /dr/"
+}

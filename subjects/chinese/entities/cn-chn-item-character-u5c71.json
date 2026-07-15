@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "231588587325fc72df9ad763dc2d2eb9d718e73dfd67150b3331cc45ea261ceb",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5c71",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":3,\"writtenForm\":\"山\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "山"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "8785acd7a3fe67fd00c03a7b026d821597625d90636e3f4096dc4d3cda12c513",
+  "fromId": "cn-math-fraction-times-integer",
+  "id": "rel-math-a7e7740dfae9a3415c4a5723",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数乘整数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-times-fraction"
+}

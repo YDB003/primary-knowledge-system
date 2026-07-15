@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "fe478d06dc79ec0def06ebe339669d8b28a55a27b134bab2338cf2e0a055e917",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-sh",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n清辅音 /ʃ/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌前部靠近齿龈后方，嘴唇略圆，声带不振动。\n\n## 示例\n\n可在这些词中观察该声音：she、fish。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "清辅音 /ʃ/"
+}

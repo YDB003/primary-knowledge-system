@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "deebdc53280d81472fa95dacb7ba03527fa9e172e29c109d4314e0e321eeecad",
+  "domain": "SENTENCE_PATTERN",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-sentence-pattern-when-do-person-activity",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "When do ...? 用来询问活动发生的时间。do 后面的主要动词使用原形。",
+  "title": "When do you go to school?"
+}

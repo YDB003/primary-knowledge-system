@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8cb03f9cddc1b17e45555b79295fbf21efc7e226e7fb2a10bc262ca25d0eb055",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-read-introduce-read-whole-book-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-reading-appreciation",
+    "review-cn-chn-read-introduce-read-whole-book-s1-curriculum-standard",
+    "review-cn-chn-read-introduce-read-whole-book-s1-unified-pre-2024",
+    "review-cn-chn-read-introduce-read-whole-book-s1-unified-2024-revision",
+    "review-cn-chn-read-introduce-read-whole-book-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "围绕书的基本内容和个人最感兴趣之处，用一种清楚方式向他人介绍已经读过的整书。\n\n## 掌握证据\n\n- 能概括整书主要写了什么并向他人介绍。\n- 能指出一个最感兴趣的内容并解释选择原因。\n\n## 常见错误\n\n- 只报书名或泛泛说好看，没有介绍实际阅读内容。",
+  "title": "向他人介绍读过的整书"
+}

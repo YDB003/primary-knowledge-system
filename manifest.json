@@ -1,0 +1,33 @@
+{
+  "dataVersion": "0.1.0",
+  "licenses": {
+    "originalData": "CC-BY-4.0",
+    "shareAlikeTranscriptions": "CC-BY-SA-4.0"
+  },
+  "manifestHash": "94f0f0e640d072601b00ee93c74291ae3e7be86be6805d83340f856525cf5633",
+  "schemaVersion": "1.0",
+  "subjects": {
+    "chinese": {
+      "bundleHash": "3d80e2a90146762b8f0587679dc595d2278b5de689ec930c61373da351d7d244",
+      "bundlePath": "subjects/chinese/dist/knowledge.json",
+      "entities": 735,
+      "relations": 471
+    },
+    "english": {
+      "bundleHash": "980a3e27cf5d98cc744d6f29d354455d3369e493c4586caf2bd61f978e130d4f",
+      "bundlePath": "subjects/english/dist/knowledge.json",
+      "entities": 432,
+      "relations": 404
+    },
+    "math": {
+      "bundleHash": "b83fec7ee8bf784ac6f8a80066a516889eb05cfcb932ffae5f18de838f729b82",
+      "bundlePath": "subjects/math/dist/knowledge.json",
+      "entities": 374,
+      "relations": 317
+    }
+  },
+  "totals": {
+    "entities": 1541,
+    "relations": 1192
+  }
+}

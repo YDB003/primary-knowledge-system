@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b37f432fd1bceeefcbf3e2894b2054b9de9bd612c75439562af094504482bb23",
+  "domain": "writing",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-write-imitate-model-structure",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 模仿范文结构写几句话\n\n## 能力说明\n\n模仿范文结构写几句话，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能保留范文基本结构并替换内容完成短文。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：writing\n- 课标锚点：[[eng-anchor-l2-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "模仿范文结构写几句话"
+}

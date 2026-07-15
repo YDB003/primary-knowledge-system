@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "ceb8c94e51f9a5af6ef29e50e76758f3232efe1b3b2c60c273d51b7769ecf661",
+  "domain": "GENRE",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-genre-nursery-rhyme",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022",
+    "anchor-stage-1-reading-appreciation"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"genreCategory\":\"课程标准直接命名文体身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "儿歌"
+}

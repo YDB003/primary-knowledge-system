@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "ca523fe6836a8a1edfa051bce6e5e1a5d0f4a8076c74d61f738763242064bbec",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u4f1a",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"writtenForm\":\"会\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "会"
+}

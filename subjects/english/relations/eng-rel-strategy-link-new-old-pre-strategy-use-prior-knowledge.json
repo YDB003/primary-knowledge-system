@@ -1,0 +1,15 @@
+{
+  "contentHash": "8e4ce53e0d704ac519cb9f3d7bb5a08cea5d05c7394a52b26de3a13c94d52777",
+  "fromId": "eng-ability-strategy-link-new-old",
+  "id": "eng-rel-strategy-link-new-old-pre-strategy-use-prior-knowledge",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n主动调用旧词句或生活经验完成新任务，必须先能识别新任务与已有知识的相关联系。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-strategy-use-prior-knowledge"
+}

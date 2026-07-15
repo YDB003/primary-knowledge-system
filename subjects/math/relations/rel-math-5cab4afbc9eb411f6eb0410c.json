@@ -1,0 +1,12 @@
+{
+  "contentHash": "6cb81f3d7d2f282a87840c8353b2930c645eef602f7e1b20c267093dab358b6c",
+  "fromId": "cn-math-recognize-sphere",
+  "id": "rel-math-5cab4afbc9eb411f6eb0410c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“球的识别”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-recognize-basic-plane-shapes"
+}

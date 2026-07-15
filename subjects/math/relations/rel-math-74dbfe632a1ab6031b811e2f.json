@@ -1,0 +1,12 @@
+{
+  "contentHash": "8cbe2436c67bd313a72ecec3492f11cbd79d313d7d375544aefce704b966ea6b",
+  "fromId": "cn-math-proportion-cross-product",
+  "id": "rel-math-74dbfe632a1ab6031b811e2f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比例的基本性质”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-solve-proportion"
+}

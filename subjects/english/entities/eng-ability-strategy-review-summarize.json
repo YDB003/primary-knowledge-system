@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "ea136a628d5ce6021c99e36b83c67a8b7cbf9f8dcf5503ff4d2c2bfc2900dc36",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-strategy-review-summarize",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 主动复习和归纳所学内容\n\n## 能力说明\n\n主动复习和归纳所学内容，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 课后能用列表或图示整理本次学习重点。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l2-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "主动复习和归纳所学内容"
+}

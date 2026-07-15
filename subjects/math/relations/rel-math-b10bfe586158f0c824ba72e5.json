@@ -1,0 +1,12 @@
+{
+  "contentHash": "33d45c1ca9af3c4ec1c161293d662332a63cb8cc0b1713e26253c259d4752596",
+  "fromId": "cn-math-ratio-fundamental-property",
+  "id": "rel-math-b10bfe586158f0c824ba72e5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比的基本性质”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-simplify-ratio"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "2074259e458a3904f98e93d5a69f63bf30d0c6138b7bd20f037bf3818f4d9161",
+  "fromId": "cn-math-decimal-point-and-places",
+  "id": "rel-math-bacd1fe3a46e9f64809b2718",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数点与小数数位”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-read-write-decimals"
+}

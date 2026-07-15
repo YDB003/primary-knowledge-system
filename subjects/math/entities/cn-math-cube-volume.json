@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "41c1cf3c2fed98e559f2993933f2755196797379ad794d20504ac0216b4f88cf",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-cube-volume",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-cube-volume-pep",
+    "review-cn-math-cube-volume-bnup",
+    "review-cn-math-cube-volume-jsep"
+  ],
+  "subject": "math",
+  "summary": "正方体体积等于棱长乘棱长乘棱长。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“正方体体积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把棱长乘6当作体积。",
+  "title": "正方体体积"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "1cc3c8131d69a520e0b3a28a71867300601f97055c3108f3517b5438f9df94e9",
+  "fromId": "cn-chn-item-punctuation-rule-quotation-direct",
+  "id": "rel-rule-quotation-direct-supports-quotation-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "引号标示直接引用规则身份直接支撑确定引用范围并成对使用引号。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-use-quotation-marks-by-expression-s2"
+}

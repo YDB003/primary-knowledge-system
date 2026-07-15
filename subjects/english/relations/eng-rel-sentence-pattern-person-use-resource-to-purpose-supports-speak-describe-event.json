@@ -1,0 +1,14 @@
+{
+  "contentHash": "12c6615df414fa1f9bc2ec94f6d6f8b71557e86a5bdf13bb5f28927d33fe4ecb",
+  "fromId": "eng-sentence-pattern-person-use-resource-to-purpose",
+  "id": "eng-rel-sentence-pattern-person-use-resource-to-purpose-supports-speak-describe-event",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-event”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-event"
+}

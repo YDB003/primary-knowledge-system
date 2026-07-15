@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7e12176c0448c3dcecd378c357993d4dce68082956dcee2be3bb962b83d8fefa",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-daily-literacy-attention-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-daily-literacy-attention-s1-curriculum-standard",
+    "review-cn-chn-lit-daily-literacy-attention-s1-unified-pre-2024",
+    "review-cn-chn-lit-daily-literacy-attention-s1-unified-2024-revision",
+    "review-cn-chn-lit-daily-literacy-attention-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在阅读或观察环境文字时，一遇到未识汉字便立即标记，输出能够对应目标字的位置记号。\n\n## 掌握证据\n\n- 能在独立阅读中每次遇到未识汉字时当场标出该字。\n- 能在观察环境文字时遇到未识汉字便用同一种记号标出位置。\n\n## 常见错误\n\n- 遇到未识汉字时直接跳过，或所作标记无法对应目标字。",
+  "title": "遇到未识汉字时主动标记"
+}

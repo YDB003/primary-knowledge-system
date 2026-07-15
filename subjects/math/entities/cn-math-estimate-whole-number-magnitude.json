@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8a4e3c8c7fcfcf074e7a923c911ac0f22bb19a5fe588bd2d0c64ada4e9a21d12",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-estimate-whole-number-magnitude",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-estimate-whole-number-magnitude-pep",
+    "review-cn-math-estimate-whole-number-magnitude-bnup",
+    "review-cn-math-estimate-whole-number-magnitude-jsep"
+  ],
+  "subject": "math",
+  "summary": "利用最高有效数位和计数单位判断整数的大致大小范围。\n\n## 可观察证据\n\n- 能判断一个大数更接近哪个整万或整亿。\n- 能用位数和最高位说明数量级。\n\n## 常见误区\n\n- 把精确读数和数量级估计混为一谈。",
+  "title": "整数数量级估计"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "b91d53f083bafb571ade6c605e8c3fcd514328bc9703a27ab7a831ab165993d3",
+  "fromId": "cn-math-multiplication-repeated-addition",
+  "id": "rel-math-2d18876853c35999eee29018",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“乘法表示相同加数连加”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplication-array"
+}

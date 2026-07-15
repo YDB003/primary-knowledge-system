@@ -1,0 +1,12 @@
+{
+  "contentHash": "e4a5decfc1e545f5b19bd6d1c4ec40634354e7c9904d609c7c126c396589fdcc",
+  "fromId": "cn-math-multidigit-by-one-digit",
+  "id": "rel-math-e6134cde6dd280342742fcf5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“多位数乘一位数笔算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multidigit-by-two-digit"
+}

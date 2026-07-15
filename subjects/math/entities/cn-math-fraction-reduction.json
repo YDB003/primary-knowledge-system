@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e7767b6df0715d0b0475e5983cc0b7c7395a6627f5f895485e4c897999cb70f4",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-fraction-reduction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-fraction-reduction-pep",
+    "review-cn-math-fraction-reduction-bnup",
+    "review-cn-math-fraction-reduction-jsep"
+  ],
+  "subject": "math",
+  "summary": "利用分子与分母的公因数同时相除，把分数改写为数值相等但更简洁的形式。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“约分”。\n- 能用数量关系或运算结构解释“约分”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 约分时分子分母分别除以不同的数。",
+  "title": "约分"
+}

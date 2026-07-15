@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "86cd99914847acda579f416eddc07b2fc594ea1614f3f9e58ff007c754a273ab",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-additive-change-diagram",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-additive-change-diagram-pep",
+    "review-cn-math-additive-change-diagram-bnup",
+    "review-cn-math-additive-change-diagram-jsep"
+  ],
+  "subject": "math",
+  "summary": "用起点、变化箭头和终点，或用线段长度，表示初始量、变化量与结果量的关系。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“加减变化的线段或状态图”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 图中线段和箭头没有对应数量，画图后仍无法确定未知量。",
+  "title": "加减变化的线段或状态图"
+}

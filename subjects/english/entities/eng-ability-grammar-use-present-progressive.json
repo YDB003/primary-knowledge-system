@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f8b28071ac146607cc42a6a3d9a184a82353a16d4f6b24ad17fb62cbba14c278",
+  "domain": "grammar_sentence_building",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-grammar-use-present-progressive",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-grammar"
+  ],
+  "subject": "english",
+  "summary": "# 用现在进行时描述正在发生的动作\n\n## 能力说明\n\n用现在进行时描述正在发生的动作，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能根据现场或图片说出人物正在做什么。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：grammar_sentence_building\n- 课标锚点：[[eng-anchor-l1-grammar]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "用现在进行时描述正在发生的动作"
+}

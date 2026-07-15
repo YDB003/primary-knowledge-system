@@ -1,0 +1,14 @@
+{
+  "contentHash": "87d8f5b08b66a0e53a87cda6b07066677dadbb8f3896db4065a1513adc419364",
+  "fromId": "eng-sentence-pattern-what-should-person-do",
+  "id": "eng-rel-sentence-pattern-what-should-person-do-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

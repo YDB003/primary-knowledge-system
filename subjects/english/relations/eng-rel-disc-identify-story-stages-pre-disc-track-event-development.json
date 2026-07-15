@@ -1,0 +1,15 @@
+{
+  "contentHash": "c61ceaec61c3b067f3c19155fe1bad3d40d4d957765aacd93e143f73f0e082d8",
+  "fromId": "eng-ability-disc-identify-story-stages",
+  "id": "eng-rel-disc-identify-story-stages-pre-disc-track-event-development",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n梳理事件从开始到发展的过程，必须先能区分故事的开端、中间和结尾。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-disc-track-event-development"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "85d326a6cb98aa83f0bd2c372fabd2a0aae9d9f57d3581a87f1816466bbb89c6",
+  "fromId": "eng-phrase-every-day",
+  "id": "eng-rel-phrase-every-day-supports-grammar-understand-present-simple",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-understand-present-simple”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-understand-present-simple"
+}

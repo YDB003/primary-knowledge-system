@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "5770fe64e15cdfd002df945b27d11c1c226dd01d8d38c2905e2a4fbb7d010b28",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7237",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"writtenForm\":\"爷\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "爷"
+}

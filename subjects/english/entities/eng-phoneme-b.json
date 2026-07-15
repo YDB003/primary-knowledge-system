@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "bb787aa73ad2d4c9d2eb1e2a0d9a8507a2566c469896217a1af9facf8d5f7879",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-b",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n浊辅音 /b/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n双唇先闭合再放开，声带振动，气流强度比 /p/ 弱。\n\n## 示例\n\n可在这些词中观察该声音：book、cab。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "浊辅音 /b/"
+}

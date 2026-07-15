@@ -1,0 +1,14 @@
+{
+  "contentHash": "d08ed82b5e1ae7ad4b4e7460799ec0675489897e5ef07d752fb0e9c3e83e18ad",
+  "fromId": "eng-theme-animal-habits",
+  "id": "eng-rel-theme-animal-habits-supports-speak-describe-animal",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-animal”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-6a-m7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-animal"
+}

@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "58e7b0d530db9cca3e828c02a61ca8e06caaf0ca0c37cf54c301353199f74cf9",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-short-u",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n短元音 /ʌ/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌位较低并靠中央，嘴自然张开，发音短促。\n\n## 示例\n\n可在这些词中观察该声音：cup、sun。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "短元音 /ʌ/"
+}

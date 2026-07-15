@@ -1,0 +1,12 @@
+{
+  "contentHash": "c6543717f36e54088bd664932afa1e002e54143717d067388e46479a8c4c2302",
+  "fromId": "cn-chn-item-genre-fairy-tale",
+  "id": "rel-genre-fairy-tale-supports-read-form-personal-response-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“童话”文体身份支持该能力针对课标所指文本类型完成对应阅读操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-form-personal-response-s1"
+}

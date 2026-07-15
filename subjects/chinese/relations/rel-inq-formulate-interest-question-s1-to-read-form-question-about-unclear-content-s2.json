@@ -1,0 +1,12 @@
+{
+  "contentHash": "9872b7932ed971e3522a3670dc37ef5a953f989e9a7d05344bed5952206cc7d0",
+  "fromId": "cn-chn-inq-formulate-interest-question-s1",
+  "id": "rel-inq-formulate-interest-question-s1-to-read-form-question-about-unclear-content-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "同一提问操作从兴趣探究任务迁移到阅读理解任务，围绕具体内容形成可回答问题句的方法可以复用。",
+  "relationType": "transfers_to",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-form-question-about-unclear-content-s2"
+}

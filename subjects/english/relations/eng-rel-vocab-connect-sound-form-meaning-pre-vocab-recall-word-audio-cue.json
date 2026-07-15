@@ -1,0 +1,15 @@
+{
+  "contentHash": "07a080ef2595a13ce72dce6d60d28f8d76717fbc32018bd11c784a425160d0aa",
+  "fromId": "eng-ability-vocab-connect-sound-form-meaning",
+  "id": "eng-rel-vocab-connect-sound-form-meaning-pre-vocab-recall-word-audio-cue",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n听到熟悉声音或描述后说出目标单词，必须先能把词的声音线索与形式和含义关联。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-recall-word-audio-cue"
+}

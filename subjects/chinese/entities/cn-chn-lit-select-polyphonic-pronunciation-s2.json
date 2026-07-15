@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "048483932a0c6fb599c122d64441e707aada761c27d36efe8903d92d8e3461d0",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-select-polyphonic-pronunciation-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-select-polyphonic-pronunciation-s2-curriculum-standard",
+    "review-cn-chn-lit-select-polyphonic-pronunciation-s2-unified-pre-2024",
+    "review-cn-chn-lit-select-polyphonic-pronunciation-s2-unified-2024-revision",
+    "review-cn-chn-lit-select-polyphonic-pronunciation-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在不依赖具体字表的识字任务中按语境选择多音字读音，建立可核对的形音义联系。\n\n## 掌握证据\n\n- 能面对未学材料中的目标汉字独立按语境选择多音字读音。\n- 能用读音、语境意义或规范字形说明判断结果。\n\n## 常见错误\n\n- 只凭局部字形或单一读音作答，未核对形音义关系。",
+  "title": "按语境选择多音字读音"
+}

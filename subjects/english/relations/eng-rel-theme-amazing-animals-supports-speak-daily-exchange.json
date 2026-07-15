@@ -1,0 +1,14 @@
+{
+  "contentHash": "88d66c9f39bb8c87cddd4bf280397737fc3432e0e3b293b50e6d7c08c16c215c",
+  "fromId": "eng-theme-amazing-animals",
+  "id": "eng-rel-theme-amazing-animals-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

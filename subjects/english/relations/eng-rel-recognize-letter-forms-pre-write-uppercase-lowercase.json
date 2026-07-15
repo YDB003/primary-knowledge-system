@@ -1,0 +1,15 @@
+{
+  "contentHash": "52b6a44f692cabc236bdf259671a30769e3ca6d1176e479a0737a1468249464e",
+  "fromId": "eng-ability-recognize-letter-forms",
+  "id": "eng-rel-recognize-letter-forms-pre-write-uppercase-lowercase",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n按规范字形写出英文字母，必须先能辨认目标字母及其大小写形态。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-write-uppercase-lowercase"
+}

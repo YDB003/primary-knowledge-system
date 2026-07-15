@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d4a5152f4baecf247de29be5f34ffed31186ef80d1ff08c4a9dfe0d3f6cbf45a",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-retell-story-gist-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-retell-story-gist-s1-curriculum-standard",
+    "review-cn-chn-expr-retell-story-gist-s1-unified-pre-2024",
+    "review-cn-chn-expr-retell-story-gist-s1-unified-2024-revision",
+    "review-cn-chn-expr-retell-story-gist-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在听完故事或看完影视作品后，用口头语言复述主要人物和核心事件，只呈现作品大意。\n\n## 掌握证据\n\n- 能口头复述故事或影视情节的大意。\n- 能再次口头复述同一作品的大意且不加入无关细节。\n\n## 常见错误\n\n- 只复述零散细节，听者无法辨认大意。",
+  "title": "复述所听故事的大意"
+}

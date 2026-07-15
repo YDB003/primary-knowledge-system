@@ -1,0 +1,15 @@
+{
+  "contentHash": "75b85c4769e1f3407acac5166b75bc248c6cb27c26da3cba7121d5489f66a81a",
+  "fromId": "eng-ability-pron-perceive-simple-phonics",
+  "id": "eng-rel-pron-perceive-simple-phonics-pre-pron-attempt-phonics-decode",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n尝试按规律拼读新词，必须先能从例词中感知相应的字母与发音对应。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-pron-attempt-phonics-decode"
+}

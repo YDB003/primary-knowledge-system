@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3a72758413c2edcafba65b51d461a7af18071f515ab89ff8ac7f77b99a677c32",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-read-write-money",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-read-write-money-pep",
+    "review-cn-math-read-write-money-bnup",
+    "review-cn-math-read-write-money-jsep"
+  ],
+  "subject": "math",
+  "summary": "金额可用复名数或小数表示，小数点两侧数位对应元与角分。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“人民币金额读写”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把3元5角写成3.5角。",
+  "title": "人民币金额读写"
+}

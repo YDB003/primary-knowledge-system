@@ -1,0 +1,12 @@
+{
+  "contentHash": "9eea90face7c9dc0c797c1891d023b1d3a1e953299a9f7e7e340edd883067d90",
+  "fromId": "cn-math-comparison-reference-roles",
+  "id": "rel-math-3889beb2574ac977171d513e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比较量与标准量的角色”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-find-larger-from-difference"
+}

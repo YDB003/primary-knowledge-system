@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "eadb289aa9d3cd761b063d71235af0a9db31efa4152f3d3726ee2e2fdd225106",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-cylinder-volume",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-cylinder-volume-pep",
+    "review-cn-math-cylinder-volume-bnup",
+    "review-cn-math-cylinder-volume-jsep"
+  ],
+  "subject": "math",
+  "summary": "圆柱可视为等底等高截面叠加，体积等于底面积乘高。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“圆柱体积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 用侧面积乘高或把直径当半径。",
+  "title": "圆柱体积"
+}

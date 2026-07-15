@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6abe1ff893abdad355806ece5cae63ac1b55a02bc301c089186552438ef7f66b",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-describe-impressive-character-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-describe-impressive-character-s3-curriculum-standard",
+    "review-cn-chn-read-describe-impressive-character-s3-unified-pre-2024",
+    "review-cn-chn-read-describe-impressive-character-s3-unified-2024-revision",
+    "review-cn-chn-read-describe-impressive-character-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "从叙事性作品中选择自己印象深刻的一个人物，用人物的行动、语言或外在表现描述其特征。\n\n## 掌握证据\n\n- 能描述人物的一项突出行动或语言表现。\n- 能指出这些表现共同呈现的人物特征。\n\n## 常见错误\n\n- 只给人物贴上性格标签，没有描述人物的实际表现。",
+  "title": "描述印象深刻的人物"
+}

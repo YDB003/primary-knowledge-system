@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "dd719d3aa84a06da69d5ec8d5fc77a43b0ab3e4fad1535c2f29b300a79e6f197",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-read-complete-whole-book-reading-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-reading-appreciation",
+    "review-cn-chn-read-complete-whole-book-reading-s2-curriculum-standard",
+    "review-cn-chn-read-complete-whole-book-reading-s2-unified-pre-2024",
+    "review-cn-chn-read-complete-whole-book-reading-s2-unified-2024-revision",
+    "review-cn-chn-read-complete-whole-book-reading-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "按照所选整书的阅读路径持续推进，覆盖全书各部分并确认已经读到结尾。\n\n## 掌握证据\n\n- 能记录每次阅读后已完成的章节或页段。\n- 能读完后核对目录，确认各主要部分均已阅读。\n\n## 常见错误\n\n- 只读开头或零散章节便把整书标记为完成。",
+  "title": "完成所选整书的阅读"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ac141c297224c84e01cae9c92d3fd00d8b1e33e35816324209b7d42b99541d79",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-state-discussion-viewpoint-clearly-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-state-discussion-viewpoint-clearly-s3-curriculum-standard",
+    "review-cn-chn-expr-state-discussion-viewpoint-clearly-s3-unified-pre-2024",
+    "review-cn-chn-expr-state-discussion-viewpoint-clearly-s3-unified-2024-revision",
+    "review-cn-chn-expr-state-discussion-viewpoint-clearly-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中只完成在讨论中说清自己的观点这一操作，以针对讨论焦点的明确观点作为家长能够直接查看或听取的结果。\n\n## 掌握证据\n\n- 能说出针对讨论焦点的明确观点。\n- 能围绕另一个讨论焦点说出明确观点。\n\n## 常见错误\n\n- 只重复材料而没有表明观点。",
+  "title": "在讨论中说清自己的观点"
+}

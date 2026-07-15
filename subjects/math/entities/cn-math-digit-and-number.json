@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "915d5d2081f75b57c219dcda64e19a578d0b1d95d6a908f1f76ab26e8077a2ec",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-digit-and-number",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-digit-and-number-pep",
+    "review-cn-math-digit-and-number-bnup",
+    "review-cn-math-digit-and-number-jsep"
+  ],
+  "subject": "math",
+  "summary": "数字是书写数的符号，同一个数字处在不同数位可以表示不同数量。\n\n## 可观察证据\n\n- 能区分一个数字符号和由数字组成的数。\n- 能说明相同数字在不同数位上的数值不同。\n\n## 常见误区\n\n- 把数字和数当作完全相同的概念。",
+  "title": "数字符号与数的区别"
+}

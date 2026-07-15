@@ -1,0 +1,14 @@
+{
+  "contentHash": "9069cf85064ef092c8008b64abb89eff34047cd75f2066e7fc801dd46895b3df",
+  "fromId": "eng-theme-feelings",
+  "id": "eng-rel-theme-feelings-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

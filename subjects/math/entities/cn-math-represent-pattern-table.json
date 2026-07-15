@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "43bedef636f88871f225344ae037c6fa996fcb8975b54f77617d48f1d9dc9193",
+  "domain": "数学思维与方法",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-represent-pattern-table",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:mathematical-thinking-and-methods",
+    "anchor-stage-1-mathematical-thinking-and-methods",
+    "review-cn-math-represent-pattern-table-pep",
+    "review-cn-math-represent-pattern-table-bnup",
+    "review-cn-math-represent-pattern-table-jsep"
+  ],
+  "subject": "math",
+  "summary": "把位置、次数和结果按对应关系记录。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“用表格表示对应规律”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "用表格表示对应规律"
+}

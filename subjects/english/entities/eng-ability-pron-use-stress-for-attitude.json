@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "a35e7cb133895aecbba71cfa5b6702a1e47d56b2d30fdcde3d5452cd43b9ffe0",
+  "domain": "pronunciation_phonics",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-pron-use-stress-for-attitude",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-pronunciation"
+  ],
+  "subject": "english",
+  "summary": "# 用句子重音表达态度和情感\n\n## 能力说明\n\n用句子重音表达态度和情感，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 同一句话能通过重读不同词语突出不同信息。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：pronunciation_phonics\n- 课标锚点：[[eng-anchor-l2-pronunciation]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "用句子重音表达态度和情感"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f662b7dfd42b2e5b99c7f25ee37903bbd83207d68f52883ec457a9c0fc7c79ea",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-rate-times-quantity-total",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-rate-times-quantity-total-pep",
+    "review-cn-math-rate-times-quantity-total-bnup",
+    "review-cn-math-rate-times-quantity-total-jsep"
+  ],
+  "subject": "math",
+  "summary": "当单位率保持不变时，总量等于单位率乘单位数量。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“率乘单位数得到总量”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把单位率与单位数量相加。",
+  "title": "率乘单位数得到总量"
+}

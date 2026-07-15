@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3cf5d2fc9197c9fafdb09db7e794cb4f711026ca85f11baa89cd0c389938994c",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-tenths-hundredths-fraction-decimal",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-tenths-hundredths-fraction-decimal-pep",
+    "review-cn-math-tenths-hundredths-fraction-decimal-bnup",
+    "review-cn-math-tenths-hundredths-fraction-decimal-jsep"
+  ],
+  "subject": "math",
+  "summary": "分母为10、100等十的幂的分数，可分别用一位、两位等小数表示。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“十分数百分数与小数的对应”。\n- 能用数量关系或运算结构解释“十分数百分数与小数的对应”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把分母中的零直接当作小数位数而不检查分母是否为十的幂。",
+  "title": "十分数百分数与小数的对应"
+}

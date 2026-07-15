@@ -1,0 +1,12 @@
+{
+  "contentHash": "88622cadecee21ba753fa4d1041b30427528ce760b483cbcfb3035310d2eda50",
+  "fromId": "cn-math-find-smaller-from-difference",
+  "id": "rel-math-d653f9247fcc231b93c7018b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“已知较大量和相差量求较小量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-translate-more-less-language"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "70508231f367ca8f2e7a55fcd65481f19187b9a65e6f38376e52d41918e4e333",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-phrase-good-morning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "Good morning 用于上午见面时问候他人，后面可以直接接称呼或姓名。",
+  "title": "Good morning"
+}

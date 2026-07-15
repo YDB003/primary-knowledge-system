@@ -1,0 +1,12 @@
+{
+  "contentHash": "5073949fb0b6e6e0445a91488e6f23dfad01559194f200eb37a0d2b00e715549",
+  "fromId": "cn-math-cylinder-volume",
+  "id": "rel-math-124c7ea54f9c2675c2bd99e3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“圆柱体积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-cone-volume"
+}

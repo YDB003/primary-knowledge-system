@@ -1,0 +1,12 @@
+{
+  "contentHash": "3b298a9a62f20bf4e0656cfb62cbc060f3d143c7a5c982bc12284aebfaf0d462",
+  "fromId": "cn-math-number-bonds-to-ten",
+  "id": "rel-math-de85588ac0e80378f6a6cb75",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“十以内数的互补关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-ten-as-composite-unit"
+}

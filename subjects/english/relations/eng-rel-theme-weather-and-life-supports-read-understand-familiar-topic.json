@@ -1,0 +1,14 @@
+{
+  "contentHash": "7cf375778be1996b9f2ac2da7473c0489bd06353fc32c1123c9a86ac577859ad",
+  "fromId": "eng-theme-weather-and-life",
+  "id": "eng-rel-theme-weather-and-life-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

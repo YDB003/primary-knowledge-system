@@ -1,0 +1,12 @@
+{
+  "contentHash": "c0f3d0fc5854c748151b70ec9e98e02efd46667f437307c017d9548d7c855367",
+  "fromId": "cn-math-cardinal-directions",
+  "id": "rel-math-c7a99607cbfd559a4c458895",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“东南西北与扩展方向”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-position-needs-reference"
+}

@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "73c9f165a4e1f12f8a38371550fe36c8dedc28ff6cde6962de38c527f7a658c1",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-schwa",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n弱读元音 /ə/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n口腔和舌头都放松，声音轻而短，常出现在非重读音节。\n\n## 示例\n\n可在这些词中观察该声音：about、teacher。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "弱读元音 /ə/"
+}

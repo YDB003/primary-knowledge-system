@@ -1,0 +1,12 @@
+{
+  "contentHash": "3e5922429f76a300b6cb9309ade0c6473311e561e81bc77aa5d93ddab82dadcd",
+  "fromId": "cn-chn-lit-detect-character-error-s2",
+  "id": "rel-audit-lit-detect-character-error-to-correct",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "主动改正错字必须先发现并标出错误位置与类型；否则无法确定需要替换的汉字及改正范围。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-correct-character-error-s2"
+}

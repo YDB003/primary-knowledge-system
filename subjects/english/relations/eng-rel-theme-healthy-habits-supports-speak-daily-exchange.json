@@ -1,0 +1,14 @@
+{
+  "contentHash": "88ba6586b74745d9ecb96538f33e89e91b538facd085163dfdaca78443fc9ca3",
+  "fromId": "eng-theme-healthy-habits",
+  "id": "eng-rel-theme-healthy-habits-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f792704b8572b7c7e7c5a80beadbf6fdbb9a520268815f642ee7b4d453cfa46a",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-multiplication-commutative",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-multiplication-commutative-pep",
+    "review-cn-math-multiplication-commutative-bnup",
+    "review-cn-math-multiplication-commutative-jsep"
+  ],
+  "subject": "math",
+  "summary": "交换两个因数的位置不会改变乘积，但情境中两个因数的含义可能互换。\n\n## 可观察证据\n\n- 能用阵列或分组验证交换因数积不变。\n- 能区分数值相同与情境含义相同。\n\n## 常见误区\n\n- 认为交换因数后情境中组数和每组数的含义也完全不变。",
+  "title": "交换因数积不变"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "7f912cb6a57ae9afdb4d8a3468cb109c9c7da244f9fe4a92ee252afbaf0be7a4",
+  "fromId": "eng-communicative-function-explain-resource-use",
+  "id": "eng-rel-communicative-function-explain-resource-use-supports-speak-describe-event",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-describe-event”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-describe-event"
+}

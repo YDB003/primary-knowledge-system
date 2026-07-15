@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c3410671d8ee15ea2e6fb450d2499a75e748aa06041dca28d4ba75fef4eda909",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-summarize-whole-book-main-content-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-summarize-whole-book-main-content-s3-curriculum-standard",
+    "review-cn-chn-read-summarize-whole-book-main-content-s3-unified-pre-2024",
+    "review-cn-chn-read-summarize-whole-book-main-content-s3-unified-2024-revision",
+    "review-cn-chn-read-summarize-whole-book-main-content-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "完成整书阅读后，综合各章节或部分提供的主要信息，形成覆盖全书的内容概括。\n\n## 掌握证据\n\n- 能概括各章节或部分的主要信息，再合并重复内容。\n- 能解释各章节的主要信息怎样共同构成全书主要内容。\n\n## 常见错误\n\n- 逐章罗列信息，没有合并重复内容或形成全书概括。",
+  "title": "概括整书的主要内容"
+}

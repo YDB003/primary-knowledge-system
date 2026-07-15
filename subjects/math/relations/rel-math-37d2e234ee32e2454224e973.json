@@ -1,0 +1,12 @@
+{
+  "contentHash": "f61cb9ed7fef4352e9d957f9560e443c3a12c9420846459a0788acddd38a0e38",
+  "fromId": "cn-math-rectangle-perimeter",
+  "id": "rel-math-37d2e234ee32e2454224e973",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“长方形周长”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-square-perimeter"
+}

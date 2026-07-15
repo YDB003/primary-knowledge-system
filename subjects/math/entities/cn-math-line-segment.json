@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0339652c69ae19039639cf1ff7f7832cbfae73014c5479b1f7e96ac90a3b7531",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-line-segment",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-line-segment-pep",
+    "review-cn-math-line-segment-bnup",
+    "review-cn-math-line-segment-jsep"
+  ],
+  "subject": "math",
+  "summary": "线段有两个端点，长度有限且可以测量。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“线段”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把弯曲路径或只有一个端点的图形叫线段。",
+  "title": "线段"
+}

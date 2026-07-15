@@ -1,0 +1,12 @@
+{
+  "contentHash": "342d0308a1592a6928c42eb5c23fe89c9fe57a718a7c535efbb178cc34aa81e3",
+  "fromId": "cn-math-use-ruler",
+  "id": "rel-math-dafebe940539a7d6cb39af92",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用直尺测量线段”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-estimate-length"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b841dc49c33272cf7c8824cfa4b534360385a171389662bf41864791706d4c9a",
+  "domain": "CULTURE_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-culture-item-country-names-and-origin",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "学习常见国家英文名称时，应同时理解其作为来源地的表达方式，并注意名称前冠词等差异。",
+  "title": "国家名称与来源表达"
+}

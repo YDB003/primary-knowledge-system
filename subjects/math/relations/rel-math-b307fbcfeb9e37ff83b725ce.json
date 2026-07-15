@@ -1,0 +1,12 @@
+{
+  "contentHash": "68bfa8ac71619fa1a0c563af34588300b4404f4cf0e4c910d4f4c3cb5226ee1c",
+  "fromId": "cn-math-two-step-additive-change",
+  "id": "rel-math-b307fbcfeb9e37ff83b725ce",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“连续两步加减变化”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-additive-change-diagram"
+}

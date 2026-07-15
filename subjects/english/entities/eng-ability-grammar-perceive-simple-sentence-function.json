@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "3d7143813f4f43ddb30b649a7af9434cce3b3d4f6843a6da8db235f1dac54796",
+  "domain": "grammar_sentence_building",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-grammar-perceive-simple-sentence-function",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-grammar"
+  ],
+  "subject": "english",
+  "summary": "# 感知常用简单句的表意功能\n\n## 能力说明\n\n感知常用简单句的表意功能，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能判断熟悉简单句是在陈述、提问、请求还是表达感受。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：grammar_sentence_building\n- 课标锚点：[[eng-anchor-l1-grammar]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "感知常用简单句的表意功能"
+}

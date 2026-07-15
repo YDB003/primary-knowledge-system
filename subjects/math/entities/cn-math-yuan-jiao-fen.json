@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8a964cde5d692f65f81160201044d2723f670289cff27c0211f217baded32e4c",
+  "domain": "量与计量",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-yuan-jiao-fen",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-yuan-jiao-fen-pep",
+    "review-cn-math-yuan-jiao-fen-bnup",
+    "review-cn-math-yuan-jiao-fen-jsep"
+  ],
+  "subject": "math",
+  "summary": "人民币常用单位元、角、分之间按十进关系换算。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“元角分的关系”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把元角分当作百进单位。",
+  "title": "元角分的关系"
+}

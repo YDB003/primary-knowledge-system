@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9775de237eb9379c05c9d34abdcdff5cf3d3d4001eee1891c7c1cb63b41934a8",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-math-four-operation-expression",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-four-operation-expression-pep",
+    "review-cn-math-four-operation-expression-bnup",
+    "review-cn-math-four-operation-expression-jsep"
+  ],
+  "subject": "math",
+  "summary": "一个算式可以组合加、减、乘、除来表示连续的数量变化。\n\n## 可观察证据\n\n- 能根据两步或多步情境列综合算式。\n- 能说明算式各部分对应的中间量。\n\n## 常见误区\n\n- 只按题目中数字出现顺序拼接运算符号。",
+  "title": "四则混合算式的结构"
+}

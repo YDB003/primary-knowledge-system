@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "743be95dc6c5403f32830c105ff3f3cfdd2fa311c637f4edaaa5030d124ad3e9",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5317",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"writtenForm\":\"北\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "北"
+}

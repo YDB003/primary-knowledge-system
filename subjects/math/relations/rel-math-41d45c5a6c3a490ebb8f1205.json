@@ -1,0 +1,12 @@
+{
+  "contentHash": "44b43b4b70f83c905753a5e29456920527d060583c89ac51d87d5cb6e6482bd3",
+  "fromId": "cn-math-unit-price-quantity-total",
+  "id": "rel-math-41d45c5a6c3a490ebb8f1205",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“单价数量总价关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-unit-rates"
+}

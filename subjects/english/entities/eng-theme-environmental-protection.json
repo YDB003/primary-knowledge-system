@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "d1cdde732660c23988eac48bcdad59f65ddd6ded96131ff9322fd1e8291231a5",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-theme-environmental-protection",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕水、能源、树木和塑料等资源讨论环境问题，并用英语提出可执行的保护建议。",
+  "title": "Protect the Earth"
+}

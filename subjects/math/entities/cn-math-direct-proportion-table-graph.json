@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "150479de613bd691762b9c92bdd8087eefb9e8cb5aca83da5cdd1f359b3ab7c8",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-direct-proportion-table-graph",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-direct-proportion-table-graph-pep",
+    "review-cn-math-direct-proportion-table-graph-bnup",
+    "review-cn-math-direct-proportion-table-graph-jsep"
+  ],
+  "subject": "math",
+  "summary": "正比例数据在表格中比值恒定，在统一坐标尺度下对应点位于经过原点的直线上。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“正比例的表格与图象”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 看到点大致成直线就忽略是否经过原点。",
+  "title": "正比例的表格与图象"
+}

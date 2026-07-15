@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e18b045b5f8deb61e634d91d410b4742e9d436867ce5649d9b3d06d054b5f331",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-in-the-morning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "in the morning 表示“在早晨；在上午”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "in the morning"
+}

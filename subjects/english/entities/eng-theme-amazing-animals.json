@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "d80b6d9a112ecfde7fb1747a8adc43e5605dcab2e990a739ba199577f2b34923",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-theme-amazing-animals",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕“Amazing animals”组织基础听、说、读、看、写活动。学习时应把相关词句放回真实生活场景理解和使用。",
+  "title": "Amazing animals"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ba0909a557d671765d644a3d44f6e9a33d628a5de710a8ed8d06bd821bc0f80d",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-fraction-add-subtract-different-denominator",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-fraction-add-subtract-different-denominator-pep",
+    "review-cn-math-fraction-add-subtract-different-denominator-bnup",
+    "review-cn-math-fraction-add-subtract-different-denominator-jsep"
+  ],
+  "subject": "math",
+  "summary": "异分母分数必须先通分为相同分数单位，再对分子进行加减并化简结果。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“异分母分数加减”。\n- 能用数量关系或运算结构解释“异分母分数加减”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 不统一分数单位就直接加减分子和分母。",
+  "title": "异分母分数加减"
+}

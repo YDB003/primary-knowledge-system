@@ -1,0 +1,15 @@
+{
+  "contentHash": "e28730f4ac192fa959e693356ceb5af5a5521485d4071bf82c9acbbe76e2a72d",
+  "fromId": "eng-ability-grammar-understand-present-simple",
+  "id": "eng-rel-grammar-understand-present-simple-pre-grammar-use-present-simple-description",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n用一般现在时描述人和物，必须先理解该形式表达经常性状态或事实的基本意义。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-use-present-simple-description"
+}

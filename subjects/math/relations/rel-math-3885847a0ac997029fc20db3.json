@@ -1,0 +1,12 @@
+{
+  "contentHash": "bbfdb048b290facfe6b0b5ab82f77b4ab8510d65e6d2ad1ccdb803b8567ed7da",
+  "fromId": "cn-math-addition-subtraction-inverse",
+  "id": "rel-math-3885847a0ac997029fc20db3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“加法与减法的互逆关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-subtraction-expression"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "46e1c6553e42f924609e2b0935a61fdcd7a8c860ad82aed5957da26fcc147756",
+  "fromId": "eng-word-energy-noun",
+  "id": "eng-rel-word-energy-noun-supports-vocab-name-objects",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-name-objects”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-name-objects"
+}

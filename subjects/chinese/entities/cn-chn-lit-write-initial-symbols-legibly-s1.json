@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "526e89c158a9b3a95862f05853b2676fbce4f282f1d1a76e0aff4e7ff281ae20",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-write-initial-symbols-legibly-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-write-initial-symbols-legibly-s1-curriculum-standard",
+    "review-cn-chn-lit-write-initial-symbols-legibly-s1-unified-pre-2024",
+    "review-cn-chn-lit-write-initial-symbols-legibly-s1-unified-2024-revision",
+    "review-cn-chn-lit-write-initial-symbols-legibly-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "按规范笔形和占格书写声母符号，输出清楚可辨的字母串。\n\n## 掌握证据\n\n- 能在四线格中书写给定声母符号，并保持笔形清楚。\n- 能检查声母符号的占格和相近字母差异，指出需要改写的位置。\n\n## 常见错误\n\n- 把相近声母写成同一形状，或占格位置使符号难以辨认。",
+  "title": "清楚书写声母符号"
+}

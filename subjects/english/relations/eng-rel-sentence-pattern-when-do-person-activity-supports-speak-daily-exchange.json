@@ -1,0 +1,14 @@
+{
+  "contentHash": "d0cca5de0a5b39ac3b906608b78e7dbe08fa85366e4ebacb3c69e224aaf02b6a",
+  "fromId": "eng-sentence-pattern-when-do-person-activity",
+  "id": "eng-rel-sentence-pattern-when-do-person-activity-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

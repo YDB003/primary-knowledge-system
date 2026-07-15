@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "17f4d73373f30b4fc0744406c122c534e54d44c435edd8d9970bb86798f134b0",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-write-standard-neatly-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-write-standard-neatly-s3-curriculum-standard",
+    "review-cn-chn-expr-write-standard-neatly-s3-unified-pre-2024",
+    "review-cn-chn-expr-write-standard-neatly-s3-unified-2024-revision",
+    "review-cn-chn-expr-write-standard-neatly-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在习作书写中保持字迹规范可辨和稿面整洁，不改变习作内容。\n\n## 掌握证据\n\n- 能写出字迹规范可辨且稿面整洁的一篇习作。\n- 能写出另一篇字迹规范可辨且稿面整洁的习作。\n\n## 常见错误\n\n- 字迹不规范难以辨认，或稿面多处杂乱。",
+  "title": "书写规范整洁的习作"
+}

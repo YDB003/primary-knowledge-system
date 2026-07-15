@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d21143e5105cf490dea46ff93a919d6b715e40e63eb22b564485a2ab6b947c1d",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-place-value-units",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-place-value-units-pep",
+    "review-cn-math-place-value-units-bnup",
+    "review-cn-math-place-value-units-jsep"
+  ],
+  "subject": "math",
+  "summary": "个位、十位、百位等数位分别对应一、十、百等计数单位。\n\n## 可观察证据\n\n- 能指出多位数中每个数字所在数位和表示的数量。\n- 能用计数单位解释一个整数的组成。\n\n## 常见误区\n\n- 只会背数位名称，不能说明该位数字实际表示多少。",
+  "title": "整数的数位与计数单位"
+}

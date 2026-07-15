@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a20643afe40bf92cd0e69a7de402473df8642e07a680721076ea4f5fcee0c08d",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-connect-character-meaning-to-experience-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-connect-character-meaning-to-experience-s2-curriculum-standard",
+    "review-cn-chn-lit-connect-character-meaning-to-experience-s2-unified-pre-2024",
+    "review-cn-chn-lit-connect-character-meaning-to-experience-s2-unified-2024-revision",
+    "review-cn-chn-lit-connect-character-meaning-to-experience-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "解释语境中的汉字意义时，联系亲历情境或生活观察，输出能够印证该义的经验描述。\n\n## 掌握证据\n\n- 能指出生活经历中与目标汉字语境义相符的情境。\n- 能说明该情境如何帮助确认汉字在句中的意义。\n\n## 常见错误\n\n- 只讲生活故事，没有说明经验与目标汉字意义的联系。",
+  "title": "联系生活经验说明汉字意义"
+}

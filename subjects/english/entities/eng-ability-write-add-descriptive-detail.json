@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "df6e44f4e1a8a2248d0ff640b3c0fe97d09bacfbcea243b4c75768b7f2ac2c83",
+  "domain": "writing",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-write-add-descriptive-detail",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 使用描述性词语补充细节\n\n## 能力说明\n\n使用描述性词语补充细节，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 修改初稿时能加入颜色、大小、时间或感受等细节。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：writing\n- 课标锚点：[[eng-anchor-l2-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "使用描述性词语补充细节"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "7788ece6a6425f4f6bf0b1f8b5fe0570300dd8d9b2081accf45ca574ffa82c30",
+  "domain": "量与计量",
+  "entityType": "skill",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-estimate-mass",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-estimate-mass-pep",
+    "review-cn-math-estimate-mass-bnup",
+    "review-cn-math-estimate-mass-jsep"
+  ],
+  "subject": "math",
+  "summary": "用熟悉物体质量作参照估计目标质量，并选择合适秤具复核。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“质量估测”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 只按外观大小估计密度不同的物体。",
+  "title": "质量估测"
+}

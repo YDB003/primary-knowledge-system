@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e1bfa7f3cd8a2d8cfd6a53b78825e53b82935c25068452c7c2d6238418bcb848",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-meet-silent-reading-speed-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-meet-silent-reading-speed-s3-curriculum-standard",
+    "review-cn-chn-read-meet-silent-reading-speed-s3-unified-pre-2024",
+    "review-cn-chn-read-meet-silent-reading-speed-s3-unified-2024-revision",
+    "review-cn-chn-read-meet-silent-reading-speed-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "默读一般现代读物时，在不出声、不指读的条件下达到每分钟不少于300字，并能通过明示信息核对保留基本理解。\n\n## 掌握证据\n\n- 能记录一般现代读物的字数和默读用时，计算结果达到每分钟不少于300字。\n- 能在计时后指出文本明示的主要对象和一项关键信息，证明保留基本理解。\n\n## 常见错误\n\n- 只报告速度数字，却不能指出刚读文本中的明示信息。",
+  "title": "达到一般现代读物默读速度要求"
+}

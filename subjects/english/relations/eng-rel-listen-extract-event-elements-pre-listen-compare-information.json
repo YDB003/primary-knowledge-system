@@ -1,0 +1,15 @@
+{
+  "contentHash": "37c462b84d79244385b3877471d6cafaa308df1aa552efa61d6bcec5ea56c4ca",
+  "fromId": "eng-ability-listen-extract-event-elements",
+  "id": "eng-rel-listen-extract-event-elements-pre-listen-compare-information",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n比较听看材料中人物或事物的异同，必须先提取可供比较的对应信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-compare-information"
+}

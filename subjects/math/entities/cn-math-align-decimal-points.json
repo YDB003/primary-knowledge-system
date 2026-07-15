@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ca21913ac83226c45b71a37c9bec17328de3d483731f075b0bf12b7634d69647",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-align-decimal-points",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-align-decimal-points-pep",
+    "review-cn-math-align-decimal-points-bnup",
+    "review-cn-math-align-decimal-points-jsep"
+  ],
+  "subject": "math",
+  "summary": "小数点对齐使相同计数单位处在同一列，是小数加减能够逐位合并的位值基础。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数加减对齐小数点”。\n- 能用数量关系或运算结构解释“小数加减对齐小数点”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 按数字末尾对齐而不是按小数点对齐。",
+  "title": "小数加减对齐小数点"
+}

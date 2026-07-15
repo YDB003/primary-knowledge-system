@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "92cbd7becc4d8e0f8c5825c9387ce998b22f5c90c6a7bea1cf3fa13995a9305b",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-counting-order-independence",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-counting-order-independence-pep",
+    "review-cn-math-counting-order-independence-bnup",
+    "review-cn-math-counting-order-independence-jsep"
+  ],
+  "subject": "math",
+  "summary": "同一组对象只要不增不减，无论从哪里开始或怎样排列，计数总数保持不变。\n\n## 可观察证据\n\n- 能用不同起点或排列重复计数并得到相同总数。\n- 能说明排列变化没有改变对象数量。\n\n## 常见误区\n\n- 对象位置改变后认为总数也发生了变化。",
+  "title": "计数结果与排列顺序无关"
+}

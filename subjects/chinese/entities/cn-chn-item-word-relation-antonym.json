@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "83445c57155f6dea8aa9ef9be5d92287eea0bc5290b3dcb9bbbf994670ca7158",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-item-word-relation-antonym",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"ruleCategory\":\"词义相反关系身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "反义词关系"
+}

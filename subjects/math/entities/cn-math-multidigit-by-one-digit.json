@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8b8f431bf108108223af7a2d2a7e7c6156f4354f478cf7837030a17f4d6ce2dc",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-multidigit-by-one-digit",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-multidigit-by-one-digit-pep",
+    "review-cn-math-multidigit-by-one-digit-bnup",
+    "review-cn-math-multidigit-by-one-digit-jsep"
+  ],
+  "subject": "math",
+  "summary": "从个位起用一位数依次乘多位数各位，按十进关系处理进位。\n\n## 可观察证据\n\n- 能正确完成含连续进位的多位数乘一位数。\n- 能用分配与位值解释部分积。\n\n## 常见误区\n\n- 把进位数直接拼接到结果而不是加入下一位乘积。",
+  "title": "多位数乘一位数笔算"
+}

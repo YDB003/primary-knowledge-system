@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6b45b84d6de32508d1a9c6c83c2ef0d46beef418884fcc81f6ff64935d79894f",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-cross-check-character-cues-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-cross-check-character-cues-s3-curriculum-standard",
+    "review-cn-chn-lit-cross-check-character-cues-s3-unified-pre-2024",
+    "review-cn-chn-lit-cross-check-character-cues-s3-unified-2024-revision",
+    "review-cn-chn-lit-cross-check-character-cues-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "比较同一汉字的两条或多条形、音、义线索，输出线索一致或冲突的判断。\n\n## 掌握证据\n\n- 能列出两条不同汉字线索并比较它们指向的结果。\n- 能指出线索之间的一致或冲突之处，并据此修正初步判断。\n\n## 常见错误\n\n- 只采用第一条线索，遇到冲突时仍直接保留原猜测。",
+  "title": "交叉核对汉字线索"
+}

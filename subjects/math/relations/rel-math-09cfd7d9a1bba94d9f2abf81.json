@@ -1,0 +1,12 @@
+{
+  "contentHash": "2e7680b0f0ec7e34b8e4e9826ae09d3afa75df5d0dd49bea05b3924e68779810",
+  "fromId": "cn-math-direct-proportion-table-graph",
+  "id": "rel-math-09cfd7d9a1bba94d9f2abf81",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正比例的表格与图象”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-inverse-proportion-meaning"
+}

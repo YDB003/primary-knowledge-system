@@ -1,0 +1,12 @@
+{
+  "contentHash": "ac892d84c45a185604da68c3c6e411a9949434ad1e49239ec537a9125b1e6a86",
+  "fromId": "cn-chn-item-punctuation-rule-terminal-selection",
+  "id": "rel-rule-terminal-selection-supports-terminal-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "句末点号选择规则身份直接支撑按陈述、疑问或感叹语气选择对应点号。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-choose-terminal-punctuation-by-expression-s1"
+}

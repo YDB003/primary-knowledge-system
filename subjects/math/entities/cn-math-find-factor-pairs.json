@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "18abc20e3fa7ffb7e3094b1d37f7985c9a66f703d9540ea9cff3c77d443a1b8e",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-find-factor-pairs",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-find-factor-pairs-pep",
+    "review-cn-math-find-factor-pairs-bnup",
+    "review-cn-math-find-factor-pairs-jsep"
+  ],
+  "subject": "math",
+  "summary": "从1开始按乘积成对检验，可系统找全一个正整数的因数，并在两个因数接近时停止重复。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“成对寻找一个数的因数”。\n- 能用数的结构或数量关系解释“成对寻找一个数的因数”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 只找到较小因数，漏掉与它配对的较大因数。",
+  "title": "成对寻找一个数的因数"
+}

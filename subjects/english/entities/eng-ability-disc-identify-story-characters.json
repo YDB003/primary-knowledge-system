@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b89fe8e2766cba260d50cb3495f2ae51ab29e78d8a2daf53f3cd18616095e2f2",
+  "domain": "discourse_pragmatics",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-disc-identify-story-characters",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-discourse-knowledge"
+  ],
+  "subject": "english",
+  "summary": "# 辨识故事中的主要人物\n\n## 能力说明\n\n辨识故事中的主要人物，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能列出主要人物并说明其与事件的关系。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：discourse_pragmatics\n- 课标锚点：[[eng-anchor-l2-discourse-knowledge]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "辨识故事中的主要人物"
+}

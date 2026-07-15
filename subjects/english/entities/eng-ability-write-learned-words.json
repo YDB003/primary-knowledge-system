@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "3a5ae59b97fa9fa4658b7af04e17d7c6027fafeefe80ab2c0be5a685bb4a445e",
+  "domain": "writing",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-write-learned-words",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-language-skills"
+  ],
+  "subject": "english",
+  "summary": "# 正确书写所学单词\n\n## 能力说明\n\n正确书写所学单词，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 听写或看图书写熟悉单词时字母顺序基本正确。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：writing\n- 课标锚点：[[eng-anchor-l1-language-skills]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "正确书写所学单词"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "9a0b42fa78774dace3449bb20b90c72fe1dd65af5cc4b75c7002523d8b8ca1fb",
+  "fromId": "cn-math-multiplicative-find-base",
+  "id": "rel-math-ccb12d72109dea5689f0ea86",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“已知新量和倍数求基准量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplicative-find-factor"
+}

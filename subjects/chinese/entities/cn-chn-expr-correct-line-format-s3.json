@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e6c189dca056a592364f6e7650d3e1021b8941b9ddb68847914226d4083a8d23",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-correct-line-format-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-correct-line-format-s3-curriculum-standard",
+    "review-cn-chn-expr-correct-line-format-s3-unified-pre-2024",
+    "review-cn-chn-expr-correct-line-format-s3-unified-2024-revision",
+    "review-cn-chn-expr-correct-line-format-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在习作校对中，只核对段首、换行和占格等行款位置，不改动内容意思。\n\n## 掌握证据\n\n- 能核对段首、换行和占格位置。\n- 能标出行款格式错误的具体位置。\n\n## 常见错误\n\n- 把内容修改与行款校对混在一起。",
+  "title": "校对习作行款格式"
+}

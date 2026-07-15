@@ -1,0 +1,12 @@
+{
+  "contentHash": "eaf85f2055fb0835cbe3d8ef8e529b90b648a02dae8b70688d93b48f5c3ba687",
+  "fromId": "cn-math-continue-sequence-pattern",
+  "id": "rel-math-105f00a4789032994d36fd44",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“依据规律续写序列”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-represent-pattern-table"
+}

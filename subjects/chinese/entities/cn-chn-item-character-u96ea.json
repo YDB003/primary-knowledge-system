@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f0ac1ac7cc6fd328aee065a34c29d95ed3e1cdd3d923faa6de39cd005a7574d3",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u96ea",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":11,\"writtenForm\":\"雪\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "雪"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "081607082aa0d149899931db24643a4060b4b930fe07beabc11c6efef1646172",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-write-activity-plan-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-write-activity-plan-s3-curriculum-standard",
+    "review-cn-chn-inq-write-activity-plan-s3-unified-pre-2024",
+    "review-cn-chn-inq-write-activity-plan-s3-unified-2024-revision",
+    "review-cn-chn-inq-write-activity-plan-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“写出语文实践活动计划”这一操作，以包含主题、任务、步骤和分工的活动计划作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能写出语文实践活动计划，产出包含主题、任务、步骤和分工的活动计划。\n- 能在另一项语文探究任务中写出语文实践活动计划，仍产出包含主题、任务、步骤和分工的活动计划。\n\n## 常见错误\n\n- 计划遗漏任务或分工，不能据此开展活动。",
+  "title": "写出语文实践活动计划"
+}

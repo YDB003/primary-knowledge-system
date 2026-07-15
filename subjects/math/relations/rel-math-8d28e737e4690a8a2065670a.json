@@ -1,0 +1,12 @@
+{
+  "contentHash": "b1675dc3ada96ea2cfca1a11a03e5bd3d4f0ba2e0d4d985b8cb727bf5183dd9e",
+  "fromId": "cn-math-add-sub-within-20-strategies",
+  "id": "rel-math-8d28e737e4690a8a2065670a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“20以内加减计算策略”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-add-sub-whole-tens"
+}

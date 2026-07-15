@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "20c6315ad0ae96de76bd45abf6b21ad75843e7822c0a2699e379e79bd8afbe23",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-verify-character-form-with-reference-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-verify-character-form-with-reference-s3-curriculum-standard",
+    "review-cn-chn-lit-verify-character-form-with-reference-s3-unified-pre-2024",
+    "review-cn-chn-lit-verify-character-form-with-reference-s3-unified-2024-revision",
+    "review-cn-chn-lit-verify-character-form-with-reference-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在工具书词条中核对目标汉字的规范字形，输出字形确认结果和词条位置。\n\n## 掌握证据\n\n- 能检索目标词条并指出登记的规范字形。\n- 能比较待核字形与词条字形，标出多写、少写或错位的部件。\n\n## 常见错误\n\n- 查到读音便停止，没有比较待核字形与规范字形。",
+  "title": "使用工具书核验汉字字形"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "9c04afc13066649c0677ad3c2a93cc3c2b3fd93865242b683db069c9f618767a",
+  "domain": "culture",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-culture-understand-sports-spirit",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-culture"
+  ],
+  "subject": "english",
+  "summary": "# 了解体育项目人物和体育精神\n\n## 能力说明\n\n了解体育项目人物和体育精神，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能介绍一项运动或运动员并说出体现的体育精神。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：culture\n- 课标锚点：[[eng-anchor-l2-culture]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "了解体育项目人物和体育精神"
+}

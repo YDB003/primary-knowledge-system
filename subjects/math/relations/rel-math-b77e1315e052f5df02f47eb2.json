@@ -1,0 +1,12 @@
+{
+  "contentHash": "fd41dc4cfe92e943b23633ca0ba29ebbfbbd02d8710155c3c6567e588d2da548",
+  "fromId": "cn-math-fraction-number-line-measure",
+  "id": "rel-math-b77e1315e052f5df02f47eb2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数在数线上的度量意义”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-fraction-reference-whole"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "859f28df4f8a4d9ffeb014939690b2169b2018bb15b1085ab3b9d82239716f50",
+  "fromId": "eng-theme-numbers-in-life",
+  "id": "eng-rel-theme-numbers-in-life-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

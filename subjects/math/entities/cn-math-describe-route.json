@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ccae04cfc6f535a3dd994b9c4b91930d13b8d7f7ad7892dda4f606deca2283a5",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-describe-route",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-describe-route-pep",
+    "review-cn-math-describe-route-bnup",
+    "review-cn-math-describe-route-jsep"
+  ],
+  "subject": "math",
+  "summary": "路线可按依次经过的方向、转折和距离分段描述，顺序不可颠倒。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“路线方向与转折描述”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只写起点终点而漏掉中间方向变化。",
+  "title": "路线方向与转折描述"
+}

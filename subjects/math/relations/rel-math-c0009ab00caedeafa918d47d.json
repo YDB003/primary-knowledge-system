@@ -1,0 +1,12 @@
+{
+  "contentHash": "2225d28cf2c548c23cfaa004070bd7a4b037c9f278b231146331303e18d8087f",
+  "fromId": "cn-math-compare-signed-numbers",
+  "id": "rel-math-c0009ab00caedeafa918d47d",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正负数大小比较”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-signed-distance-from-reference"
+}

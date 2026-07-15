@@ -1,0 +1,12 @@
+{
+  "contentHash": "defe150d98265fa18ff4d8d271537bfbf138750dd3599dc151795ad74ac52891",
+  "fromId": "cn-math-object-views",
+  "id": "rel-math-efc29347d102cb9daec2139f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“从不同方向观察物体”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-spatial-visualization"
+}

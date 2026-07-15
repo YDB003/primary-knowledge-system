@@ -1,0 +1,12 @@
+{
+  "contentHash": "6d0c656d91988db2b26b189bfbcd96cce97ffb1f16c4b28e5955475250ec92db",
+  "fromId": "cn-math-number-part-whole-composition",
+  "id": "rel-math-a356e90b3b71dc323f28bf3e",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“数的拆分与合成”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-number-bonds-to-ten"
+}

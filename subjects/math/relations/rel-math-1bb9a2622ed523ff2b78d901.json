@@ -1,0 +1,12 @@
+{
+  "contentHash": "788ce984c39cba6d3fa50d06ff1f01332a4bfd994d9826d1bde9107990bff19d",
+  "fromId": "cn-math-compare-fractions-on-number-line",
+  "id": "rel-math-1bb9a2622ed523ff2b78d901",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用数线比较分数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-compare-fractions-with-benchmark"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d1ea5a1ecf400e5884d31fcc350469bce38c8f97c25f19598eb06e013feaea38",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-cuboid-volume",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-cuboid-volume-pep",
+    "review-cn-math-cuboid-volume-bnup",
+    "review-cn-math-cuboid-volume-jsep"
+  ],
+  "subject": "math",
+  "summary": "长方体中单位正方体按长、宽、高三维排列，体积等于长乘宽乘高。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“长方体体积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 只乘长和宽得到底面积后停止。",
+  "title": "长方体体积"
+}

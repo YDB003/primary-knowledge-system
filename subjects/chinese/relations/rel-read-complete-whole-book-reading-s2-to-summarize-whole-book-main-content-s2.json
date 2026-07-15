@@ -1,0 +1,12 @@
+{
+  "contentHash": "13523eccd01390f2bcac964d2b8f06f09f1b58a2d03e7fcc49ee867b9e4a6dbf",
+  "fromId": "cn-chn-read-complete-whole-book-reading-s2",
+  "id": "rel-read-complete-whole-book-reading-s2-to-summarize-whole-book-main-content-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "概括整书主要内容必须以实际读完整书为前提，否则只能依据局部章节信息，无法覆盖全书主线。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-summarize-whole-book-main-content-s2"
+}

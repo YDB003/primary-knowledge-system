@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2dd7f5659ccd9afdb54fd44ea2e24aaf3813bc3b48425d0ed0b3a9967f54c2a4",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-write-imagined-content-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-write-imagined-content-s2-curriculum-standard",
+    "review-cn-chn-expr-write-imagined-content-s2-unified-pre-2024",
+    "review-cn-chn-expr-write-imagined-content-s2-unified-2024-revision",
+    "review-cn-chn-expr-write-imagined-content-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面表达中把自己的一个想象写成对象和情境可辨的内容，不要求完成整篇想象作文。\n\n## 掌握证据\n\n- 能写出一个想象对象及其所在情境。\n- 能补写使想象内容前后可辨的必要信息。\n\n## 常见错误\n\n- 只写想象很好玩等评价，没有写出想象内容。",
+  "title": "写下自己的想象"
+}

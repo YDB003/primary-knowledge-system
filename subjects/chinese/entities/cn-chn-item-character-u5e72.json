@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "72c6cb8f73f75ea5d49e43ee527b5ebd2dc87a430cc0514402867e7e53374eeb",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5e72",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":3,\"writtenForm\":\"干\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "干"
+}

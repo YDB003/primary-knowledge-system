@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "267c6dd29e039f4ce2de2cf8dabc1e7b45fb67257bcffbb09781d48eea0b6a86",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-identify-explanatory-text-key-points-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-identify-explanatory-text-key-points-s3-curriculum-standard",
+    "review-cn-chn-read-identify-explanatory-text-key-points-s3-unified-pre-2024",
+    "review-cn-chn-read-identify-explanatory-text-key-points-s3-unified-2024-revision",
+    "review-cn-chn-read-identify-explanatory-text-key-points-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "从说明性文章各部分筛出直接说明对象特征、过程或关系的核心信息，并列出文章要点。\n\n## 掌握证据\n\n- 能指出各主要部分直接说明的核心信息。\n- 能提取去除重复材料后仍覆盖全文的说明要点。\n\n## 常见错误\n\n- 把一个例子或数字当作全文要点，遗漏其他主要说明信息。",
+  "title": "指出说明性文章的要点"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b5084b9cce08bf1cd137273f16b22fc65f7114f036365e89fb831964de11e11b",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-phrase-save-water",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "save water 表示“节约用水”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "save water"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "61183ee01a0a0f6d2b6b3b794bb47ebe5775ff0c89c0777cea9f5419bc96414d",
+  "fromId": "eng-ipa-y",
+  "id": "eng-rel-ipa-y-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/j/ 这个书写符号用于标记英语声音“近音 /j/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-y"
+}

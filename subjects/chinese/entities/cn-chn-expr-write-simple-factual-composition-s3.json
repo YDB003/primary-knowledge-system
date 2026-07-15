@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "443788ed00c741c122c93a3740c5972b1435c415416999b98840262d16f897b5",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-write-simple-factual-composition-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-write-simple-factual-composition-s3-curriculum-standard",
+    "review-cn-chn-expr-write-simple-factual-composition-s3-unified-pre-2024",
+    "review-cn-chn-expr-write-simple-factual-composition-s3-unified-2024-revision",
+    "review-cn-chn-expr-write-simple-factual-composition-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在简单记实作文中写出人物、时间、地点和事件经过可辨的具体经历，并明确写出与该经历直接相关的真实感受；家长只查看习作中是否写有相互对应的经历和感受，不判断学习者内心。\n\n## 掌握证据\n\n- 能在一篇简单记实作文中写出人物、时间、地点和事件经过可辨的具体经历，并写出与该具体经历直接相关的真实感受。\n- 能在另一篇简单记实作文中写出另一项细节可辨的具体经历，并写出与该具体经历直接相关的真实感受。\n\n## 常见错误\n\n- 只写笼统事件或只写感受，没有把具体经历与真实感受对应起来。",
+  "title": "写内容具体且感情真实的简单记实作文"
+}

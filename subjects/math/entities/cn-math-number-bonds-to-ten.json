@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1f45be2d14448f5e7d96e85d6271304d811e56352b5681f661e6d52745c4151b",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-number-bonds-to-ten",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-number-bonds-to-ten-pep",
+    "review-cn-math-number-bonds-to-ten-bnup",
+    "review-cn-math-number-bonds-to-ten-jsep"
+  ],
+  "subject": "math",
+  "summary": "识别两个数合成10或其他基准数的互补关系。\n\n## 可观察证据\n\n- 能快速找出一个数到10还缺多少。\n- 能用数的拆合解释互补数之间的关系。\n\n## 常见误区\n\n- 把凑十当成孤立口诀，不能随基准数变化。",
+  "title": "十以内数的互补关系"
+}

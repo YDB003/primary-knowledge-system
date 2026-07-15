@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "1236e1a4884664b3bcad65d8328f95099ffc0c413c6137e5487648c33ac67122",
+  "domain": "IDIOM",
+  "entityType": "idiom",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "cn-chn-item-idiom-allusion-category",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"ruleCategory\":\"成语典故积累类别身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "成语典故类别"
+}

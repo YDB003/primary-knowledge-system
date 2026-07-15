@@ -1,0 +1,12 @@
+{
+  "contentHash": "ad9ce79de85c636769441bb9353529220e1a4d943282abe5df636d29061e3d9c",
+  "fromId": "cn-math-divisibility-by-2",
+  "id": "rel-math-0a6fbc381241c88a558586e1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“2的倍数特征”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-divisibility-by-5"
+}

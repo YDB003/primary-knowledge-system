@@ -1,0 +1,15 @@
+{
+  "contentHash": "0315bb33bef0f1ff1d39752813080b1ff40992681e9ec1fe383e58c8dddcd30f",
+  "fromId": "eng-ability-grammar-understand-past-simple",
+  "id": "eng-rel-grammar-understand-past-simple-pre-grammar-use-past-simple-events",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n用一般过去时描述已经发生的事件，必须先理解该形式所表达的过去时间意义。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-use-past-simple-events"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "77be04b2d974d492523768e2508af6e581620066bc1113702bc4afa2560c56c8",
+  "fromId": "cn-math-bar-chart",
+  "id": "rel-math-430ac16ed32bb021157ed931",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“条形统计图”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-table-chart-conversion"
+}

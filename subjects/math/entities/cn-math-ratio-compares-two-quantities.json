@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "f92c602664dd31a646db20b3b74c48a978bdd94c1c4892b598e31ebbc1a1eb3a",
+  "domain": "数量关系",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-ratio-compares-two-quantities",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-ratio-compares-two-quantities-pep",
+    "review-cn-math-ratio-compares-two-quantities-bnup",
+    "review-cn-math-ratio-compares-two-quantities-jsep"
+  ],
+  "subject": "math",
+  "summary": "两个数量a与b的比a:b描述a相对于b的份数关系，后项b不能为0。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“比表示两个量的对应关系”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把比的前项和后项当作可以任意交换。",
+  "title": "比表示两个量的对应关系"
+}

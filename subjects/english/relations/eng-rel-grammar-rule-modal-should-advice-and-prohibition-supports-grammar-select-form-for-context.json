@@ -1,0 +1,14 @@
+{
+  "contentHash": "6db5d91bf446f11795ebf4f48d4532314ebae630235d0a58f60ed9e6686b9d51",
+  "fromId": "eng-grammar-rule-modal-should-advice-and-prohibition",
+  "id": "eng-rel-grammar-rule-modal-should-advice-and-prohibition-supports-grammar-select-form-for-context",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-select-form-for-context”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-select-form-for-context"
+}

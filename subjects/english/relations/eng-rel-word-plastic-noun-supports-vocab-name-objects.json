@@ -1,0 +1,14 @@
+{
+  "contentHash": "cfe7c87f594dfa8d4dbe5bc59e81b8080ad2b177353965d3a719cba9d0c1d1df",
+  "fromId": "eng-word-plastic-noun",
+  "id": "eng-rel-word-plastic-noun-supports-vocab-name-objects",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-name-objects”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-name-objects"
+}

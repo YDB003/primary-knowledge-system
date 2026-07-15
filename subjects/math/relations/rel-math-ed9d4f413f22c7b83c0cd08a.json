@@ -1,0 +1,12 @@
+{
+  "contentHash": "d995a74647c2f34e928a0256ee978cc3c35ae9db8aa428cd08ad294e4d469b3e",
+  "fromId": "cn-math-estimate-before-exact-calculation",
+  "id": "rel-math-ed9d4f413f22c7b83c0cd08a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“先估后算再比较”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-exact-versus-approximate"
+}

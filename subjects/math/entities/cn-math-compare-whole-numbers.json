@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "15df854d36fdfdcc585b7a08892852bd8d3778f415e5d46a4813ffc254d39b5b",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-compare-whole-numbers",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-compare-whole-numbers-pep",
+    "review-cn-math-compare-whole-numbers-bnup",
+    "review-cn-math-compare-whole-numbers-jsep"
+  ],
+  "subject": "math",
+  "summary": "先比较位数，位数相同时从最高位起逐位比较整数大小。\n\n## 可观察证据\n\n- 能比较并排列若干整数。\n- 能用位值说明比较结论。\n\n## 常见误区\n\n- 只比较末位数字或只看某个显眼数字。",
+  "title": "整数大小比较"
+}

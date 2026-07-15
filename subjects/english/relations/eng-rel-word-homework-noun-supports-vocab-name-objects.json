@@ -1,0 +1,14 @@
+{
+  "contentHash": "9ba6db35ef2c9c26edaedd696e2e6604a30748bc011d87069e52f7087560620f",
+  "fromId": "eng-word-homework-noun",
+  "id": "eng-rel-word-homework-noun-supports-vocab-name-objects",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-name-objects”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-name-objects"
+}

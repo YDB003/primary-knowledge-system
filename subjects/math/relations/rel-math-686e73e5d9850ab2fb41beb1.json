@@ -1,0 +1,12 @@
+{
+  "contentHash": "520adcd8cd2484257c84178d7de37e8c4851c6cb9cedcd5e79fc42182dac568a",
+  "fromId": "cn-math-multiplicative-comparison",
+  "id": "rel-math-686e73e5d9850ab2fb41beb1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“倍数比较关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-multiplication-as-scaling"
+}

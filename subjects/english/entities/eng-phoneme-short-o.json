@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "604304b6dcd4cdf64ce8cc1f95381ed63a6db4c00082e27f64a5abcc3f8bdeef",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-short-o",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n短元音 /ɒ/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n舌位低而靠后，嘴唇略圆，发音短促；常见于英式发音。\n\n## 示例\n\n可在这些词中观察该声音：hot、clock。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "短元音 /ɒ/"
+}

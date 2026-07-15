@@ -1,0 +1,15 @@
+{
+  "contentHash": "a549f2914ac6233fc88668777b85c32c3643630bad2169a59c57c651222fba75",
+  "fromId": "eng-ipa-d",
+  "id": "eng-rel-ipa-d-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/d/ 这个书写符号用于标记英语声音“浊辅音 /d/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-d"
+}

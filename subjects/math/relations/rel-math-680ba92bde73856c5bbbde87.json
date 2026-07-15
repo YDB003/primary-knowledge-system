@@ -1,0 +1,12 @@
+{
+  "contentHash": "e2ea53afb7023f9232a351a5ebe965842adab41f5aed0aea59baf04ffe80607f",
+  "fromId": "cn-math-addition-combine",
+  "id": "rel-math-680ba92bde73856c5bbbde87",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“加法表示合并”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-addition-increase"
+}

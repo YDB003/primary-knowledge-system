@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "851500f801a1c9a225bfed1353f3684ed1fa142ad48988cd2f945bca3f1ecf19",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-subtraction-expression",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-subtraction-expression-pep",
+    "review-cn-math-subtraction-expression-bnup",
+    "review-cn-math-subtraction-expression-jsep"
+  ],
+  "subject": "math",
+  "summary": "用减号和等号表示被减数、减数与差的关系。\n\n## 可观察证据\n\n- 能正确读写减法算式并指出各部分名称。\n- 能把去掉、比较或求部分图示转换成减法算式。\n\n## 常见误区\n\n- 认为减号前后的数可以随意交换。",
+  "title": "减法算式的符号表达"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "91dea82664021c4f2c99d0600e71cc293364c84d072d1b8bee7d761bc66d5d88",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-maintain-writing-posture-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-maintain-writing-posture-s1-curriculum-standard",
+    "review-cn-chn-lit-maintain-writing-posture-s1-unified-pre-2024",
+    "review-cn-chn-lit-maintain-writing-posture-s1-unified-2024-revision",
+    "review-cn-chn-lit-maintain-writing-posture-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在持续的识字与书写活动中持续保持正确书写姿势，使该行为能够重复出现。\n\n## 掌握证据\n\n- 能在连续多次任务中主动持续保持正确书写姿势。\n- 发现偏差后能自行调整，并在后续任务中保持。\n\n## 常见错误\n\n- 只在提醒后短暂执行，不能在后续任务中持续保持。",
+  "title": "持续保持正确书写姿势"
+}

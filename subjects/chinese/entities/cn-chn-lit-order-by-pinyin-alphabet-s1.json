@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "dfe75891061ac6ad10a8d75c9d2ddc607abe565463135020b7d60a850220e5a4",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-order-by-pinyin-alphabet-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-order-by-pinyin-alphabet-s1-curriculum-standard",
+    "review-cn-chn-lit-order-by-pinyin-alphabet-s1-unified-pre-2024",
+    "review-cn-chn-lit-order-by-pinyin-alphabet-s1-unified-2024-revision",
+    "review-cn-chn-lit-order-by-pinyin-alphabet-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "依据拼音字母表的先后关系排列字母或拼音条目，输出顺序明确的列表。\n\n## 掌握证据\n\n- 能把一组无序拼音字母按字母表顺序排列。\n- 能比较两个拼音条目的首个不同字母并判断先后。\n\n## 常见错误\n\n- 只比较字母外形，或首字母相同时没有继续比较后续字母。",
+  "title": "按拼音字母表顺序排序"
+}

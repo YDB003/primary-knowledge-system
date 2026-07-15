@@ -1,0 +1,12 @@
+{
+  "contentHash": "c6e2cc1084047c0d382919d143577f42fbfaa09977e45415ddfce0d266bb8189",
+  "fromId": "cn-math-compare-unit-rates",
+  "id": "rel-math-08aca486046be1bb010c7726",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“用单位率比较方案”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-interpret-compound-units"
+}

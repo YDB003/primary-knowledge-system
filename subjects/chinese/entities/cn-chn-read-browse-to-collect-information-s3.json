@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1532d754005ea58df37cf46974f2de4bdaf265b6d8fcc9517bacbdea8524ca7c",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-browse-to-collect-information-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-browse-to-collect-information-s3-curriculum-standard",
+    "review-cn-chn-read-browse-to-collect-information-s3-unified-pre-2024",
+    "review-cn-chn-read-browse-to-collect-information-s3-unified-2024-revision",
+    "review-cn-chn-read-browse-to-collect-information-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "先明确所需信息，再浏览标题、目录、栏目和醒目标记，跳转到相关部分并提取目标信息。\n\n## 掌握证据\n\n- 能根据搜集目标选择要浏览的标题或栏目。\n- 能定位相关部分并提取满足目标的一项信息。\n\n## 常见错误\n\n- 无明确目标地快速翻看，未搜集到可用信息。",
+  "title": "浏览材料以搜集所需信息"
+}

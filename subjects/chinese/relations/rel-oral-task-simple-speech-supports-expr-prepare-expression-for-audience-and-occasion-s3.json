@@ -1,0 +1,12 @@
+{
+  "contentHash": "ba1bfc347b9c517a44a6169a08c4d5f03734f14226570fbc68dabb6d97428025",
+  "fromId": "cn-chn-item-oral-task-simple-speech",
+  "id": "rel-oral-task-simple-speech-supports-expr-prepare-expression-for-audience-and-occasion-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“简单发言任务”身份支持该能力在课标“作简单的发言”任务情境中完成面向对象和场合的准备表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-prepare-expression-for-audience-and-occasion-s3"
+}

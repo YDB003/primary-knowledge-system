@@ -1,0 +1,14 @@
+{
+  "contentHash": "149185637e557df964b311866c72b9810a6a10a280266fcb0fd4447b1f432e25",
+  "fromId": "eng-theme-numbers-in-life",
+  "id": "eng-rel-theme-numbers-in-life-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

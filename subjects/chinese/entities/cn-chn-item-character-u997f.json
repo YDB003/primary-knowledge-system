@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "055a91e3d011b78da45be68b8fb0e4b2f847629a56bd7b0317ea13120b34325c",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u997f",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":10,\"writtenForm\":\"饿\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "饿"
+}

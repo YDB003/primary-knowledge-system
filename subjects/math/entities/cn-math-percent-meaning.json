@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8200425ce5fc4b702a0ecd6a4ae5defd12dc39d34cd088a4cdb65cf1aa4af976",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-percent-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-percent-meaning-pep",
+    "review-cn-math-percent-meaning-bnup",
+    "review-cn-math-percent-meaning-jsep"
+  ],
+  "subject": "math",
+  "summary": "百分数表示一个数是另一个数的百分之几，本质上是分母固定为100的比率表达。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“百分数表示每一百份中的份额”。\n- 能用数量关系或运算结构解释“百分数表示每一百份中的份额”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 把百分数当作带单位的具体数量。",
+  "title": "百分数表示每一百份中的份额"
+}

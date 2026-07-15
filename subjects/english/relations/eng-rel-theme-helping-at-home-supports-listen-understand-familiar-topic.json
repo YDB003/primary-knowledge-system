@@ -1,0 +1,14 @@
+{
+  "contentHash": "38abe8be3cadcebc7fec42fb9230f15c18cfe358a5ebe180f25ed040448a7c2c",
+  "fromId": "eng-theme-helping-at-home",
+  "id": "eng-rel-theme-helping-at-home-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-4a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

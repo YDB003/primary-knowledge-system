@@ -1,0 +1,14 @@
+{
+  "contentHash": "f1ae244dca0a7365b8f88f2175ed1c516a09ebb366f1e8846afc9efcd0d1a5a5",
+  "fromId": "eng-grapheme-rule-oo-two-common-vowel-sounds",
+  "id": "eng-rel-grapheme-rule-oo-two-common-vowel-sounds-supports-strategy-phonics-new-words",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-strategy-phonics-new-words”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-strategy-phonics-new-words"
+}

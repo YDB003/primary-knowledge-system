@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ace1b38339570919239be4df5681d59717c39ee5ed13758072a5d5c34c28a822",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-area-meaning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-area-meaning-pep",
+    "review-cn-math-area-meaning-bnup",
+    "review-cn-math-area-meaning-jsep"
+  ],
+  "subject": "math",
+  "summary": "面积描述封闭平面图形所覆盖区域的大小，与周界长度是不同属性。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“面积表示平面区域大小”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 周长较长就必然认为面积较大。",
+  "title": "面积表示平面区域大小"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "a89b7e62087655042ea1616d316717d9667777ed23adebabe3cd919d366fe466",
+  "fromId": "cn-math-pictograph",
+  "id": "rel-math-e7db6c64aef3553106d1529b",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“象形统计图”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-bar-chart"
+}

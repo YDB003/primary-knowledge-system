@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "8e217be1845f0226015b487e2a9767716817bee3035b331cd6b19e24138e3417",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5173",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":6,\"writtenForm\":\"关\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "关"
+}

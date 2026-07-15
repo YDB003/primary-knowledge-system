@@ -1,0 +1,12 @@
+{
+  "contentHash": "f7c077783baaa420cc4265da09db0d8206e7bfa55dab795c3cbfa3664e9ee7f4",
+  "fromId": "cn-chn-item-pinyin-rule-tone-placement",
+  "id": "rel-pinyin-rule-tone-placement-supports-mark-tone-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该规则身份是标注音节声调操作所依据的规范内容。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-mark-tone-s1"
+}

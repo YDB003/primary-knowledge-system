@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2f3d98fc4298a9c91725fc7bfe2c7950ad60273b45a1e6c802a0edb228449679",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-draw-given-angle",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:shape-and-geometry",
+    "anchor-stage-2-shape-and-geometry",
+    "review-cn-math-draw-given-angle-pep",
+    "review-cn-math-draw-given-angle-bnup",
+    "review-cn-math-draw-given-angle-jsep"
+  ],
+  "subject": "math",
+  "summary": "先画一条射线，再用量角器定位度数并从共同端点画第二条射线。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“画指定度数的角”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 从错误的零刻度方向取点。",
+  "title": "画指定度数的角"
+}

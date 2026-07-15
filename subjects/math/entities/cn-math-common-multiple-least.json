@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "09821996dbd91e421b11f47ad063926585ddb5b0b18b2ea24b67a6cb486d99c8",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-common-multiple-least",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-common-multiple-least-pep",
+    "review-cn-math-common-multiple-least-bnup",
+    "review-cn-math-common-multiple-least-jsep"
+  ],
+  "subject": "math",
+  "summary": "几个整数共有的倍数是公倍数，其中最小的正公倍数可用于周期同步和异分母通分。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“公倍数与最小公倍数”。\n- 能用数的结构或数量关系解释“公倍数与最小公倍数”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 把最大公因数与最小公倍数的用途混淆。",
+  "title": "公倍数与最小公倍数"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "66cbb5a629b17eaca5ef7671021b38355272ccb0053f839b92da23e79105c96a",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u7b14",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":10,\"writtenForm\":\"笔\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "笔"
+}

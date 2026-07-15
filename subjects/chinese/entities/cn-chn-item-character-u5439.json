@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "f14bbfcbce64f993e7a20a9a5edc1e45a88895ab5b3fe62f5ceef7ed2a4871ab",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5439",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":7,\"writtenForm\":\"吹\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "吹"
+}

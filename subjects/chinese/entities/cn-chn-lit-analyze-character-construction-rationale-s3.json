@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "890d7c0dc6dc2e1375299227b404bed23d5dde6890981f07c3fd7a8affb5b4a5",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-analyze-character-construction-rationale-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-analyze-character-construction-rationale-s3-curriculum-standard",
+    "review-cn-chn-lit-analyze-character-construction-rationale-s3-unified-pre-2024",
+    "review-cn-chn-lit-analyze-character-construction-rationale-s3-unified-2024-revision",
+    "review-cn-chn-lit-analyze-character-construction-rationale-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "分析汉字部件配置与表意或示音线索的关系，输出一段可核对的构字理由说明。\n\n## 掌握证据\n\n- 能指出目标汉字中承担构形作用的部件。\n- 能说明部件配置如何提示字义范围或读音线索。\n\n## 常见错误\n\n- 只列出部件名称，没有解释部件配置与整字信息的关系。",
+  "title": "分析汉字构字理据"
+}

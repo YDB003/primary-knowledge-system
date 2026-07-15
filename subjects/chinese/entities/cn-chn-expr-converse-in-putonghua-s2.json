@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "88182135fae476c0b6def19062957acee0cf106022738ab6c5ced8dd1adaef8e",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-converse-in-putonghua-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-converse-in-putonghua-s2-curriculum-standard",
+    "review-cn-chn-expr-converse-in-putonghua-s2-unified-pre-2024",
+    "review-cn-chn-expr-converse-in-putonghua-s2-unified-2024-revision",
+    "review-cn-chn-expr-converse-in-putonghua-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头交谈中使用普通话表达并接续对方的回应。\n\n## 掌握证据\n\n- 能在一轮交谈中用普通话说出自己的意思。\n- 能在对方回应后继续用普通话说出下一轮内容。\n\n## 常见错误\n\n- 交谈中改用方言而没有继续使用普通话。",
+  "title": "用普通话交谈"
+}

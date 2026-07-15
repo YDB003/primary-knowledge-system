@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e5fc2e1e3f839defc3d9980d52dd7109e266246107ac12862e966cee0a12197d",
+  "domain": "综合与实践",
+  "entityType": "skill",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-plan-repeated-measurement",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:synthesis-and-practice",
+    "anchor-stage-2-synthesis-and-practice",
+    "review-cn-math-plan-repeated-measurement-pep",
+    "review-cn-math-plan-repeated-measurement-bnup",
+    "review-cn-math-plan-repeated-measurement-jsep"
+  ],
+  "subject": "math",
+  "summary": "规定位置、次数和操作方法以提高可比性。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“设计重复测量步骤”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "设计重复测量步骤"
+}

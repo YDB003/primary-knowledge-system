@@ -1,0 +1,12 @@
+{
+  "contentHash": "c28a4b28ea84af61448979361a0d50d9651709fbd5407ed823c23570fe63a6b7",
+  "fromId": "cn-math-check-order-of-magnitude",
+  "id": "rel-math-58d76673577251911a12f805",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“结果数量级检查”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-contextual-rounding-remainder"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a16785cd5c841742f923ba5e86247cb3d0d5725fcb86676a579aa2bde233c589",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-inq-collect-materials-purposefully-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-organizing-inquiry",
+    "review-cn-chn-inq-collect-materials-purposefully-s2-curriculum-standard",
+    "review-cn-chn-inq-collect-materials-purposefully-s2-unified-pre-2024",
+    "review-cn-chn-inq-collect-materials-purposefully-s2-unified-2024-revision",
+    "review-cn-chn-inq-collect-materials-purposefully-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“有目的地搜集资料”这一操作，以与明确问题对应并标注来源的资料清单作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能有目的地搜集资料，产出与明确问题对应并标注来源的资料清单。\n- 能围绕另一个专题问题有目的地搜集资料，仍产出与明确问题对应并标注来源的资料清单。\n\n## 常见错误\n\n- 搜集内容很多，却与所提问题没有关系。",
+  "title": "有目的地搜集资料"
+}

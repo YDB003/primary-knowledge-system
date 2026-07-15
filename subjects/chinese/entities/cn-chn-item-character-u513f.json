@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "a6f7b34ab834d2ff0577265dcf3a75b52bacbe75e1733644b02e226c7b146f96",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u513f",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":2,\"writtenForm\":\"儿\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "儿"
+}

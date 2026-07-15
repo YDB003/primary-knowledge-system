@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6c662fa06cb1f97a9a4f01abbcd7f3b8afa2d49cf1b7305a997945e3806482b7",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-adjacent-place-tenfold",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-adjacent-place-tenfold-pep",
+    "review-cn-math-adjacent-place-tenfold-bnup",
+    "review-cn-math-adjacent-place-tenfold-jsep"
+  ],
+  "subject": "math",
+  "summary": "十进制中相邻两个整数计数单位之间具有十倍关系。\n\n## 可观察证据\n\n- 能说明10个较小单位组成1个相邻较大单位。\n- 能利用十进关系完成跨数位换组。\n\n## 常见误区\n\n- 把相邻数位理解成相差10而不是单位大小相差10倍。",
+  "title": "相邻计数单位的十进关系"
+}

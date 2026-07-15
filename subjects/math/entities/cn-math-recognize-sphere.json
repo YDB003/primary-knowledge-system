@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c7fa8236dfc50755da40c1b17b3bdbbc5080078bf541cb01942333f4d919a9c0",
+  "domain": "图形与几何",
+  "entityType": "concept",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-recognize-sphere",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:shape-and-geometry",
+    "anchor-stage-1-shape-and-geometry",
+    "review-cn-math-recognize-sphere-pep",
+    "review-cn-math-recognize-sphere-bnup",
+    "review-cn-math-recognize-sphere-jsep"
+  ],
+  "subject": "math",
+  "summary": "球面上各点到球心距离相等，球从各方向观察的轮廓均为圆。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“球的识别”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把圆形平面图形和球体混为一谈。",
+  "title": "球的识别"
+}

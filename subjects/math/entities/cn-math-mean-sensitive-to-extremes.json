@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "310db4a65af0e76d575d8dd9c8905b3c4bb56543c3a3d4a2f82fab067ac714c0",
+  "domain": "统计与概率",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-mean-sensitive-to-extremes",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:statistics-and-probability",
+    "anchor-stage-3-statistics-and-probability",
+    "review-cn-math-mean-sensitive-to-extremes-pep",
+    "review-cn-math-mean-sensitive-to-extremes-bnup",
+    "review-cn-math-mean-sensitive-to-extremes-jsep"
+  ],
+  "subject": "math",
+  "summary": "异常大或小的数据会拉动平均数，解释时需结合分布。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“平均数受极端值影响”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 平均数一定是实际出现过的数据。",
+  "title": "平均数受极端值影响"
+}

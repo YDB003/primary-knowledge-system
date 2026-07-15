@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "0cd8f2f0c2c8c4eb958083ee17f7b0f4bc0334beb331656e279025b0f8f7cd0d",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-inq-locate-sources-with-basic-methods-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-organizing-inquiry",
+    "review-cn-chn-inq-locate-sources-with-basic-methods-s3-curriculum-standard",
+    "review-cn-chn-inq-locate-sources-with-basic-methods-s3-unified-pre-2024",
+    "review-cn-chn-inq-locate-sources-with-basic-methods-s3-unified-2024-revision",
+    "review-cn-chn-inq-locate-sources-with-basic-methods-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "围绕明确问题，只完成“用基本方法查找资料”这一操作，以通过图书馆、网络等渠道记录目录、索引、检索词或链接的查找过程作为可直接查看的结果。\n\n## 掌握证据\n\n- 能在图书馆用目录或索引查找资料，记录检索路径和书目信息。\n- 能在网络用检索词查找资料，记录网页标题、发布者和链接。\n\n## 常见错误\n\n- 只记录使用了图书馆或网络渠道，没有记录查找方法和可重新定位的路径。",
+  "title": "用基本方法查找资料"
+}

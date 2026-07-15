@@ -1,0 +1,15 @@
+{
+  "contentHash": "9bc66a7d3d33371a8757a6f4f4a9e5341d65e6e87bb1e9f9b19ac8b48cebb75f",
+  "fromId": "eng-ipa-w",
+  "id": "eng-rel-ipa-w-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/w/ 这个书写符号用于标记英语声音“近音 /w/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-w"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "3ed9bfb1b7c2e29f7884f061024f87c718212740c10f88acb493299427778bdf",
+  "fromId": "cn-math-order-of-operations",
+  "id": "rel-math-9450bbed2516a677dc7a18d5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“四则混合运算顺序”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-parentheses-in-expressions"
+}

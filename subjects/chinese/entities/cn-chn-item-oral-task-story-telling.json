@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e925b6c13f1bce8e7fffae720cbc0405c26cbf1ced25db66a703eb7b23fcd9bb",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-item-oral-task-story-telling",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"口语任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "故事讲述任务"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "64e8b0582538ea162e202b49eef12ab2118604886c6ba46787683a8bd898c107",
+  "fromId": "cn-chn-item-pinyin-tone-rising",
+  "id": "rel-pinyin-tone-rising-supports-mark-tone-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该书面声调符号是标注音节声调操作所使用的规范内容。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-mark-tone-s1"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "f31ac0da027a6a1e8eef64969da7045bf1d0bc7f1d0fa139f628893a0890cd7f",
+  "fromId": "cn-chn-item-writing-task-common-practical-text",
+  "id": "rel-writing-task-common-practical-text-supports-expr-write-common-practical-text-s3",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“常见应用文”身份支持该能力在课标直接命名的任务情境中完成对应表达操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-write-common-practical-text-s3"
+}

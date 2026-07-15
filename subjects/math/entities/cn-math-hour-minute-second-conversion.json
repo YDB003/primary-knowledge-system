@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "75369a9a9bc7818c694a7ccd702f94301664120ff9a1eea17567cec30ced5cf1",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-hour-minute-second-conversion",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-and-measurement",
+    "anchor-stage-1-quantity-and-measurement",
+    "review-cn-math-hour-minute-second-conversion-pep",
+    "review-cn-math-hour-minute-second-conversion-bnup",
+    "review-cn-math-hour-minute-second-conversion-jsep"
+  ],
+  "subject": "math",
+  "summary": "1小时等于60分，1分等于60秒，换算不是十进关系。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“时分秒换算”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 按100进制换算时分秒。",
+  "title": "时分秒换算"
+}

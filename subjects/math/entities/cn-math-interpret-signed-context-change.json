@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "9d98262f38c245fbf4e61d751d912319bc6ebb34d3372b2f9acd741385fccb30",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-interpret-signed-context-change",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-interpret-signed-context-change-pep",
+    "review-cn-math-interpret-signed-context-change-bnup",
+    "review-cn-math-interpret-signed-context-change-jsep"
+  ],
+  "subject": "math",
+  "summary": "温度、海拔、收支和升降等情境可用正负数相对基准建模，解释时必须保留单位和方向。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“生活情境中的正负变化解释”。\n- 能用数的结构或数量关系解释“生活情境中的正负变化解释”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 脱离单位直接比较来自不同情境的正负数。",
+  "title": "生活情境中的正负变化解释"
+}

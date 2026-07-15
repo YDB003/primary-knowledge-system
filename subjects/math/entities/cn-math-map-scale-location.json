@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "38ac7c6e22a24afa09dd797edb8a77fb444601c1036446f4a8e3440a813474cf",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-map-scale-location",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-map-scale-location-pep",
+    "review-cn-math-map-scale-location-bnup",
+    "review-cn-math-map-scale-location-jsep"
+  ],
+  "subject": "math",
+  "summary": "根据图上方向、比例尺和图上距离换算实际位置或绘制目标点。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“平面图中的比例尺定位”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 把图上长度直接当作实际距离。",
+  "title": "平面图中的比例尺定位"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3ede44bd24b8631c15413aad102285cb440fb6625255ced9ef4b13d07012f3ca",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-estimate-division-quotient-range",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-estimate-division-quotient-range-pep",
+    "review-cn-math-estimate-division-quotient-range-bnup",
+    "review-cn-math-estimate-division-quotient-range-jsep"
+  ],
+  "subject": "math",
+  "summary": "通过除数的相邻倍数或被除数与除数的数量级，可确定商的大致位数和范围。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“除法商的范围估计”。\n- 能用数的结构或数量关系解释“除法商的范围估计”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 试商后不检查除数乘商是否超过被除数。",
+  "title": "除法商的范围估计"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "cbc9b1f3ad230f65406d757287d3d490f46f3739a1b1b59de1b9e0d808c9de53",
+  "fromId": "cn-math-convert-length-units",
+  "id": "rel-math-97bb783ea7e3a84a0dfde445",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“长度单位换算”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-convert-mass-units"
+}

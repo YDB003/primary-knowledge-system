@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "a0e4d8b20ddabc021710be9c30dcade620145a928942a93c945ec6a9b5ac19c9",
+  "domain": "RADICAL",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-radical-u722b",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"radical\":\"爫\",\"variantForms\":[\"爪\"]}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "爪的部首变体爫"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "86871ef6c69914e7e9c24982932eaa51e674fcee00c345800a5f7be89c016445",
+  "fromId": "cn-math-decimal-divide-by-integer",
+  "id": "rel-math-8caf03516ba87a92f3c18406",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“小数除以整数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-divide-by-decimal"
+}

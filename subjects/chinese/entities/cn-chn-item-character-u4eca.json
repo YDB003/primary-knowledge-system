@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "7da1c23e3aa85edfcf6fe2cd40a9278397cb9aded0577a4cdb3d2d1ccfd4e090",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u4eca",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":4,\"writtenForm\":\"今\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "今"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "10a533a65cb3f875057aad5f3fb8bc8a965aeccf54c9c742b4a02b89d822f9ce",
+  "fromId": "cn-math-translation",
+  "id": "rel-math-b497b0cb6faa6f2727e42d47",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“平移”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-find-symmetry-axis"
+}

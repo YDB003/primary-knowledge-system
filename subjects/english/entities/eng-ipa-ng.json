@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "d5075060d25941dfae7bd920d2d0e415df2a64b1528b64e1c1f4dde4ed13b361",
+  "domain": "IPA_SYMBOL",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-ipa-ng",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 符号\n\n/ŋ/ 是本知识库“48 个英语音标”教学集合中的书写符号，归入辅音类。\n\n## 表示对象\n\n这个符号用于标记“鼻辅音 /ŋ/”。没有需要单独记录的常见替代写法。\n\n## 使用边界\n\n符号是记录声音的工具，不等同于字母。不同英语口音的实际音值可能略有差异。",
+  "title": "/ŋ/ 音标符号"
+}

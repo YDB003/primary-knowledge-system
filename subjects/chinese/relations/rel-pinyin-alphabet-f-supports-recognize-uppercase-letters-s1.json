@@ -1,0 +1,12 @@
+{
+  "contentHash": "b31260c7e91fac8c4b9623d4a06b56a6797b4a460e3c9fde9382242edbda8a8b",
+  "fromId": "cn-chn-item-pinyin-alphabet-f",
+  "id": "rel-pinyin-alphabet-f-supports-recognize-uppercase-letters-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该大小写字母对是辨认拼音大写形式及其对应小写形式的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-uppercase-letters-s1"
+}

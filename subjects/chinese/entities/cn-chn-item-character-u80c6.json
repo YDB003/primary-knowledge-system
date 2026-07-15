@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "3a8e8f8bb8bfa8c8c99f761d6bd09c0cdd7a8f338ca9131db2e0a879782597fc",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u80c6",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":9,\"writtenForm\":\"胆\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "胆"
+}

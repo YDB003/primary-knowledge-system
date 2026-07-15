@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ef133941c138dae67024c362cd7cb7cabb68f860105908189dcfd69b7cc928a3",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-regroup-tens-and-ones",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-regroup-tens-and-ones-pep",
+    "review-cn-math-regroup-tens-and-ones-bnup",
+    "review-cn-math-regroup-tens-and-ones-jsep"
+  ],
+  "subject": "math",
+  "summary": "在数量不变的前提下，把1个十换成10个一或把10个一合成1个十。\n\n## 可观察证据\n\n- 能用小棒或位值材料完成十与一的互换。\n- 能用重新组合解释进位和退位。\n\n## 常见误区\n\n- 换组时既保留原来的十又增加十个一，造成重复计数。",
+  "title": "十和一之间的重新组合"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "6b6284fa73152f94913e6621718589db61fce6c3213d5aaefb4bf10bf6592f11",
+  "fromId": "cn-math-read-clock-hour-minute",
+  "id": "rel-math-97a20c8915364ecfcd57a52a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“认识钟面时和分”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-second-duration"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "22a7c4892669d521a2991088e2fb52dd1a72d4226ed376f4e5a85b375bd418eb",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u996d",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":7,\"writtenForm\":\"饭\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "饭"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "dbddec8d876e16dc53cda6c2c34b38ceaa94b959d4318d4e37981177466e554e",
+  "fromId": "eng-ipa-h",
+  "id": "eng-rel-ipa-h-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/h/ 这个书写符号用于标记英语声音“清辅音 /h/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-h"
+}

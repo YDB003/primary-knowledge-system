@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "b403007eb8f6fb87b9940114e0b6e56d2cbd8e88b06835b214cd17be535d5321",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-signed-distance-from-reference",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-signed-distance-from-reference-pep",
+    "review-cn-math-signed-distance-from-reference-bnup",
+    "review-cn-math-signed-distance-from-reference-jsep"
+  ],
+  "subject": "math",
+  "summary": "符号描述相对基准的方向，数的无符号大小描述离基准的距离，二者承担不同信息。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“带符号位置与到基准距离的区别”。\n- 能用数的结构或数量关系解释“带符号位置与到基准距离的区别”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 用负距离描述长度，或只报距离而丢失方向。",
+  "title": "带符号位置与到基准距离的区别"
+}

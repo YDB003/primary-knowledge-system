@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c2267cc9b37dbfbe9ea85aa4ca644bfdc820a568ef6ae6a5e20112a31e2f3a9b",
+  "domain": "量与计量",
+  "entityType": "procedure",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-days-in-month",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-days-in-month-pep",
+    "review-cn-math-days-in-month-bnup",
+    "review-cn-math-days-in-month-jsep"
+  ],
+  "subject": "math",
+  "summary": "根据月份规律判断大月、小月和二月天数。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“判断月份天数”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 把月份序号单双与天数规律简单等同。",
+  "title": "判断月份天数"
+}

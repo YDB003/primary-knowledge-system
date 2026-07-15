@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "efe81e19a1c3d83bf72ce1df892e4ebcb87439aa35ab1088e6e2f3fc3c2e6fcc",
+  "domain": "数量关系",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-ratio-fundamental-property",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-ratio-fundamental-property-pep",
+    "review-cn-math-ratio-fundamental-property-bnup",
+    "review-cn-math-ratio-fundamental-property-jsep"
+  ],
+  "subject": "math",
+  "summary": "比的前项和后项同时乘或除以同一个非零数，比值不变，得到等值比。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“比的基本性质”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 只改变前项或只改变后项。",
+  "title": "比的基本性质"
+}

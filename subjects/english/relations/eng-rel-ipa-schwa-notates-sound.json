@@ -1,0 +1,15 @@
+{
+  "contentHash": "ad7653e5706ceec3ed3b10090ff0ad2d843702b39b0aec8234ea26c4a33ae2cb",
+  "fromId": "eng-ipa-schwa",
+  "id": "eng-rel-ipa-schwa-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ə/ 这个书写符号用于标记英语声音“弱读元音 /ə/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-schwa"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3fa08e84bded2eb52ac259ae3bf5482fd64001f8dd9b60055d62f386e4d125f9",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-expr-tell-short-story-completely-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-expression-communication",
+    "review-cn-chn-expr-tell-short-story-completely-s1-curriculum-standard",
+    "review-cn-chn-expr-tell-short-story-completely-s1-unified-pre-2024",
+    "review-cn-chn-expr-tell-short-story-completely-s1-unified-2024-revision",
+    "review-cn-chn-expr-tell-short-story-completely-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头表达中，讲述一个包含起因、经过和结果的短故事。\n\n## 掌握证据\n\n- 能口头讲述起因、经过和结果完整的小故事。\n- 能再次讲述同一小故事且不遗漏起因、经过和结果。\n\n## 常见错误\n\n- 讲到中途就结束，遗漏事情结果。",
+  "title": "完整讲述小故事"
+}

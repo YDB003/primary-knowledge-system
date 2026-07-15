@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "33630ae8cd816d627c49659a078c31f39067b556bfe20841cae5b3326852854a",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-correct-character-error-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-correct-character-error-s2-curriculum-standard",
+    "review-cn-chn-lit-correct-character-error-s2-unified-pre-2024",
+    "review-cn-chn-lit-correct-character-error-s2-unified-2024-revision",
+    "review-cn-chn-lit-correct-character-error-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在复核书写结果时，将已经发现的错字改成规范字形，输出改正后的文字。\n\n## 掌握证据\n\n- 能根据已标出的错误位置改正对应汉字。\n- 能对照上下文检查改正后的字形和用字是否恰当。\n\n## 常见错误\n\n- 只圈出错误却不改写，或改成另一个不合语境的字。",
+  "title": "主动改正错字"
+}

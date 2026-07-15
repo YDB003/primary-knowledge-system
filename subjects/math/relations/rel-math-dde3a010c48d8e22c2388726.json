@@ -1,0 +1,12 @@
+{
+  "contentHash": "76e99aa329b14bde2128961d73cbb50b73d81a7804f08011219f61f4afc7c107",
+  "fromId": "cn-math-positive-negative-opposite-quantities",
+  "id": "rel-math-dde3a010c48d8e22c2388726",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正负数表示相反意义的量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-zero-as-signed-reference"
+}

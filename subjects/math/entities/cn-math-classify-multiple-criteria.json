@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "33b502950eba2d9c4468e5a91e514da4d4039ae0012ed044988685570174ca4d",
+  "domain": "统计与概率",
+  "entityType": "procedure",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-classify-multiple-criteria",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:statistics-and-probability",
+    "anchor-stage-1-statistics-and-probability",
+    "review-cn-math-classify-multiple-criteria-pep",
+    "review-cn-math-classify-multiple-criteria-bnup",
+    "review-cn-math-classify-multiple-criteria-jsep"
+  ],
+  "subject": "math",
+  "summary": "可依次使用多个标准形成分层类别，并说明分类顺序。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“按多个标准分层分类”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 同时混用标准导致类别重叠。",
+  "title": "按多个标准分层分类"
+}

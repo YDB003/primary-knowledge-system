@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "067bda540bd397f9d9768023f689b91e88143b740ee9544b423d8c46898c4253",
+  "domain": "统计与概率",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-choose-statistical-display",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:statistics-and-probability",
+    "anchor-stage-3-statistics-and-probability",
+    "review-cn-math-choose-statistical-display-pep",
+    "review-cn-math-choose-statistical-display-bnup",
+    "review-cn-math-choose-statistical-display-jsep"
+  ],
+  "subject": "math",
+  "summary": "按比较类别、观察变化或表示构成的目的选择表格或统计图。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“选择统计表示”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 只选最漂亮的图而不看分析目的。",
+  "title": "选择统计表示"
+}

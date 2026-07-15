@@ -1,0 +1,14 @@
+{
+  "contentHash": "fcacbef23a485751b8fc5e582621461260a357916511adc51308b5c3164f79e9",
+  "fromId": "eng-word-protect-verb",
+  "id": "eng-rel-word-protect-verb-supports-vocab-describe-actions-processes",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-describe-actions-processes”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-describe-actions-processes"
+}

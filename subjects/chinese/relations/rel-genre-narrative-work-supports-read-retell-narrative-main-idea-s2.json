@@ -1,0 +1,12 @@
+{
+  "contentHash": "875585fc4b36d6ee9bff72c060e54f6b832393f12ddb310dd9d612146f4545b1",
+  "fromId": "cn-chn-item-genre-narrative-work",
+  "id": "rel-genre-narrative-work-supports-read-retell-narrative-main-idea-s2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "“叙事性作品”文体身份支持该能力针对课标所指文本类型完成对应阅读操作。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-read-retell-narrative-main-idea-s2"
+}

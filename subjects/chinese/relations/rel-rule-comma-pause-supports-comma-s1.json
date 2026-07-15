@@ -1,0 +1,12 @@
+{
+  "contentHash": "82accb09824119c3b417c9afeaaad832c478944c6c8be246db527819ba74c9f6",
+  "fromId": "cn-chn-item-punctuation-rule-comma-pause",
+  "id": "rel-rule-comma-pause-supports-comma-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "逗号句内停顿规则身份直接支撑在自己的写话中识别位置并使用逗号。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-expr-use-comma-by-expression-s1"
+}

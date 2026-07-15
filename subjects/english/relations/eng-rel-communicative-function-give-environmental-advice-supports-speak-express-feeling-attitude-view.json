@@ -1,0 +1,14 @@
+{
+  "contentHash": "f3b199498ab85ca8ffda85edd75bf2da2d9013526c590898e936ef85915fba8d",
+  "fromId": "eng-communicative-function-give-environmental-advice",
+  "id": "eng-rel-communicative-function-give-environmental-advice-supports-speak-express-feeling-attitude-view",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-express-feeling-attitude-view”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-express-feeling-attitude-view"
+}

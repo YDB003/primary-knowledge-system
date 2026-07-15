@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "0d38235fcc10e960fbae7ea5a2f83eba9061edd1a91dbbcca5e1b26bb8b1c601",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5e02",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":5,\"writtenForm\":\"市\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "市"
+}

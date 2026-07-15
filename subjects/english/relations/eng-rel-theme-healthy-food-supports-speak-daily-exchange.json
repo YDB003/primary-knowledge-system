@@ -1,0 +1,14 @@
+{
+  "contentHash": "3c2b176817b86044598617b9282fa6d920e05a548066a9e6ed894197dfd464fe",
+  "fromId": "eng-theme-healthy-food",
+  "id": "eng-rel-theme-healthy-food-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

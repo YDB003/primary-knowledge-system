@@ -1,0 +1,14 @@
+{
+  "contentHash": "fb79096aea399163e9b774259c762c0ea4839e90be7d94594fa2a32a30098da4",
+  "fromId": "eng-theme-environmental-protection",
+  "id": "eng-rel-theme-environmental-protection-supports-write-create-chart-poster",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-write-create-chart-poster”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-write-create-chart-poster"
+}

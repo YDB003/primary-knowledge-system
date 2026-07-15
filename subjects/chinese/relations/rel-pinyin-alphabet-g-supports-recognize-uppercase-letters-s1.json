@@ -1,0 +1,12 @@
+{
+  "contentHash": "7cda19dd779b42d65e16f14871f52844d6958d10bfd9fd50e24bfccee4cebdb6",
+  "fromId": "cn-chn-item-pinyin-alphabet-g",
+  "id": "rel-pinyin-alphabet-g-supports-recognize-uppercase-letters-s1",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该大小写字母对是辨认拼音大写形式及其对应小写形式的直接内容对象。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-recognize-uppercase-letters-s1"
+}

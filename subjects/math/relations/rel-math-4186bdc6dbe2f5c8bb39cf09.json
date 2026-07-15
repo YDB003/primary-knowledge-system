@@ -1,0 +1,12 @@
+{
+  "contentHash": "f2c95688ed1c946bb43d5fb9f513ac96bd6a9a9b899f5224c05039eda667f59b",
+  "fromId": "cn-math-volume-meaning",
+  "id": "rel-math-4186bdc6dbe2f5c8bb39cf09",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“体积表示占据空间大小”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-volume-surface-capacity-distinction"
+}

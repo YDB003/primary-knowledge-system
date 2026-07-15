@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6e4175000d36a85e39f5488f7533068319ee7e0f347ef04ec9eee13d1fe43cd7",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-math-multiplicative-comparison",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-multiplicative-comparison-pep",
+    "review-cn-math-multiplicative-comparison-bnup",
+    "review-cn-math-multiplicative-comparison-jsep"
+  ],
+  "subject": "math",
+  "summary": "用一个量包含另一个量的相同份数描述几倍关系。\n\n## 可观察证据\n\n- 能判断并表示一个量是另一个量的几倍。\n- 能区分相差多少与是几倍。\n\n## 常见误区\n\n- 看到两个量就用较大数除较小数，却不判断单位和比较含义。",
+  "title": "倍数比较关系"
+}

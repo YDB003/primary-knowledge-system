@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "d1971d9db57dc753fa5bd88729bf402ed48ddc79a7507e4f06062e6223c0add8",
+  "domain": "discourse_pragmatics",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-disc-connect-picture-text",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-discourse-knowledge"
+  ],
+  "subject": "english",
+  "summary": "# 体会图片与文字的意义联系\n\n## 能力说明\n\n体会图片与文字的意义联系，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能说明配图为文字补充了哪项人物、地点或动作信息。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：discourse_pragmatics\n- 课标锚点：[[eng-anchor-l1-discourse-knowledge]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "体会图片与文字的意义联系"
+}

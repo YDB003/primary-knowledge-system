@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "1a891b7eae176f8f8626ad1a9c0ba9475a8c92118511f5995dc3d6a3edbd8097",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-lit-identify-nonstandard-character-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-literacy-writing",
+    "review-cn-chn-lit-identify-nonstandard-character-s3-curriculum-standard",
+    "review-cn-chn-lit-identify-nonstandard-character-s3-unified-pre-2024",
+    "review-cn-chn-lit-identify-nonstandard-character-s3-unified-2024-revision",
+    "review-cn-chn-lit-identify-nonstandard-character-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "观察日常文字中的汉字形式，识别不符合规范的用字，输出明确的异常标记。\n\n## 掌握证据\n\n- 能从一组日常用字中识别并标出不规范形式。\n- 能指出被标形式与规范字形之间的关键差异。\n\n## 常见错误\n\n- 只凭个人书写习惯判断，把可接受的规范字形误标为错误。",
+  "title": "主动识别不规范用字"
+}

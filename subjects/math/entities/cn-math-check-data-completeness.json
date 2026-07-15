@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "88a1072f7620f9a2ff4212231ce147cbe15a2faedcbea33734902433b6753d0a",
+  "domain": "统计与概率",
+  "entityType": "skill",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-check-data-completeness",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:statistics-and-probability",
+    "anchor-stage-2-statistics-and-probability",
+    "review-cn-math-check-data-completeness-pep",
+    "review-cn-math-check-data-completeness-bnup",
+    "review-cn-math-check-data-completeness-jsep"
+  ],
+  "subject": "math",
+  "summary": "核对来源、样本数、缺失和重复记录后才能分析。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“检查数据完整与重复”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 把缺失值当作零。",
+  "title": "检查数据完整与重复"
+}

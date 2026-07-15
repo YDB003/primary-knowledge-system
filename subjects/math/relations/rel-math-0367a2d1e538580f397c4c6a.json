@@ -1,0 +1,12 @@
+{
+  "contentHash": "11627bfa43498f459a9f3029161ec96595cd625a68c0eb0eddb4dcdf60ba7ebc",
+  "fromId": "cn-math-square-perimeter",
+  "id": "rel-math-0367a2d1e538580f397c4c6a",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“正方形周长”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-composite-perimeter"
+}

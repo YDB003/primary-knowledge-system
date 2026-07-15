@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5fa5be811192e8194534a44d06b4a63c708042d6c7d99bd2289164613e1778a6",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-lit-record-unfamiliar-character-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-literacy-writing",
+    "review-cn-chn-lit-record-unfamiliar-character-s2-curriculum-standard",
+    "review-cn-chn-lit-record-unfamiliar-character-s2-unified-pre-2024",
+    "review-cn-chn-lit-record-unfamiliar-character-s2-unified-2024-revision",
+    "review-cn-chn-lit-record-unfamiliar-character-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "把阅读或交流中遇到的未识汉字及其出现语境写入识字清单，输出可供后续查验的记录项。\n\n## 掌握证据\n\n- 能将未识汉字的完整字形和所在语境记录到清单。\n- 能检查记录项是否保留了足以再次定位和查验的信息。\n\n## 常见错误\n\n- 只记模糊字形或脱离语境抄写，后续无法确认记录对象。",
+  "title": "记录未识汉字"
+}

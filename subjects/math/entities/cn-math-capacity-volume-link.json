@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "34cb289171647b120806e58af75f867376e84276feba4b7eacc043b3864c5085",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-capacity-volume-link",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-and-measurement",
+    "anchor-stage-3-quantity-and-measurement",
+    "review-cn-math-capacity-volume-link-pep",
+    "review-cn-math-capacity-volume-link-bnup",
+    "review-cn-math-capacity-volume-link-jsep"
+  ],
+  "subject": "math",
+  "summary": "规则容器内部体积可表示容量，1升等于1立方分米，1毫升等于1立方厘米。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“容量与体积联系”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 用外部尺寸体积直接当内部容量。",
+  "title": "容量与体积联系"
+}

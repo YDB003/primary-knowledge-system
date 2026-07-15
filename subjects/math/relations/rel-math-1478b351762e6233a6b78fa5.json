@@ -1,0 +1,12 @@
+{
+  "contentHash": "c5b8b5b55a52d54aeba77087b69944d769c62dae4e5816277a08de22938f09f5",
+  "fromId": "cn-math-design-fair-random-device",
+  "id": "rel-math-1478b351762e6233a6b78fa5",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“判断随机装置公平性”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-simple-probability-fraction"
+}

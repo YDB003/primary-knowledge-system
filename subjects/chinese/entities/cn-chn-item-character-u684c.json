@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "699634d29fbdd3e5e7374feec7614a502987d89bc8fea5835c287c19ff85c99b",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u684c",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":10,\"writtenForm\":\"桌\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "桌"
+}

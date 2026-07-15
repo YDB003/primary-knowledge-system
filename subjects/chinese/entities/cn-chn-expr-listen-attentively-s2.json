@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "8bba1bb3dc3483b3375eac69e68ad23b482f33a83b9c55c8a206e12bfed296c1",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-chn-expr-listen-attentively-s2",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-2-expression-communication",
+    "review-cn-chn-expr-listen-attentively-s2-curriculum-standard",
+    "review-cn-chn-expr-listen-attentively-s2-unified-pre-2024",
+    "review-cn-chn-expr-listen-attentively-s2-unified-2024-revision",
+    "review-cn-chn-expr-listen-attentively-s2-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在口头交流中持续倾听对方讲话，等对方说完后再作回应。\n\n## 掌握证据\n\n- 能在倾听对方说完后再作回应。\n- 能在对方讲话时不插话，并在说完后回应。\n\n## 常见错误\n\n- 对方尚未说完就插话或转移话题。",
+  "title": "认真倾听他人讲话"
+}

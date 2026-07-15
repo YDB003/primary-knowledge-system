@@ -1,0 +1,15 @@
+{
+  "contentHash": "4a1beab5ec2cdd5c7c46d06bbded901e101fb3a89ef1ce120002e47ed8c3724a",
+  "fromId": "eng-ability-culture-understand-festival-basics",
+  "id": "eng-rel-culture-understand-festival-basics-pre-culture-understand-festival-details",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n介绍节日的时间、庆祝方式和意涵，必须先知道该节日的名称及至少一项基本信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-culture-understand-festival-details"
+}

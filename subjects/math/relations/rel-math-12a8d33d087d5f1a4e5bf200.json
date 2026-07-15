@@ -1,0 +1,12 @@
+{
+  "contentHash": "4ef8e92ca01739d63d6b9abede2de0deb94ab6852bbdef95df8f36c276fbd28e",
+  "fromId": "cn-math-experimental-frequency",
+  "id": "rel-math-12a8d33d087d5f1a4e5bf200",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“重复试验中的频率”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-design-fair-random-device"
+}

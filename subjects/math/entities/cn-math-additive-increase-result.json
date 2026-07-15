@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "a825f025f852a2b784304e384b03c8904da4b3e70d5aa7acdc2b89894f63aef5",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 1,
+  "gradeStart": 1,
+  "id": "cn-math-additive-increase-result",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-additive-increase-result-pep",
+    "review-cn-math-additive-increase-result-bnup",
+    "review-cn-math-additive-increase-result-jsep"
+  ],
+  "subject": "math",
+  "summary": "已知初始量和增加量时，结果量等于初始量加增加量。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“增加变化中求结果量”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 把增加后的总量与增加量直接相加。",
+  "title": "增加变化中求结果量"
+}

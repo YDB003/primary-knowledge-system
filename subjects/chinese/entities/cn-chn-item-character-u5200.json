@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "85c8f6b7b8884c5207ad0715e52c2d1794fb2d80aed5926584b9af8ce74a5ff3",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5200",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":2,\"variantForms\":[\"刂\"],\"writtenForm\":\"刀\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "刀"
+}

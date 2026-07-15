@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "314fae7d3357b10562b6abce3cdcde48acaea283e817a0eb1deffc615646f46e",
+  "domain": "culture",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-culture-describe-phenomenon",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-culture"
+  ],
+  "subject": "english",
+  "summary": "# 用简单语言描述文化现象\n\n## 能力说明\n\n用简单语言描述文化现象，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能围绕一个具体文化事物说出几句连贯信息。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：culture\n- 课标锚点：[[eng-anchor-l2-culture]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "用简单语言描述文化现象"
+}

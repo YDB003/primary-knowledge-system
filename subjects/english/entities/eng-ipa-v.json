@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "0425c5cb4a5301997f40a0da4f53d4d8e0f9e8f51403ad4597735bdedbf646f5",
+  "domain": "IPA_SYMBOL",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-ipa-v",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 符号\n\n/v/ 是本知识库“48 个英语音标”教学集合中的书写符号，归入辅音类。\n\n## 表示对象\n\n这个符号用于标记“浊辅音 /v/”。没有需要单独记录的常见替代写法。\n\n## 使用边界\n\n符号是记录声音的工具，不等同于字母。不同英语口音的实际音值可能略有差异。",
+  "title": "/v/ 音标符号"
+}

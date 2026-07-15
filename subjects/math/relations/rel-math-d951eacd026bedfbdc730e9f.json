@@ -1,0 +1,12 @@
+{
+  "contentHash": "4c7299353b24cc5bfe2b29b991d3c782ee268edaa5b67f0a73e98baef5043d3c",
+  "fromId": "cn-math-percent-meaning",
+  "id": "rel-math-d951eacd026bedfbdc730e9f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“百分数表示每一百份中的份额”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-read-write-percent"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "04db232c6952a1061804bdee512a28e7b00840ada7efd90c82b675089d51e5cd",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "cn-math-multiplication-as-scaling",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-multiplication-as-scaling-pep",
+    "review-cn-math-multiplication-as-scaling-bnup",
+    "review-cn-math-multiplication-as-scaling-jsep"
+  ],
+  "subject": "math",
+  "summary": "把一个基准量按给定倍数放大，乘积表示缩放后的量。\n\n## 可观察证据\n\n- 能根据基准量和倍数求缩放后的数量。\n- 能说明因数分别表示基准量和缩放倍数。\n\n## 常见误区\n\n- 把放大几倍误解成在原量上增加相同的数。",
+  "title": "乘法表示按倍数缩放"
+}

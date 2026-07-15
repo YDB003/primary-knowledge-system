@@ -1,0 +1,14 @@
+{
+  "contentHash": "88fd6df78283b6e5f525db4e64f2ce0c7cd89a08c76262ca9785901d6fceece1",
+  "fromId": "eng-theme-meeting-new-people",
+  "id": "eng-rel-theme-meeting-new-people-supports-speak-daily-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-speak-daily-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-speak-daily-exchange"
+}

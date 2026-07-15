@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "fb6b541605fa8088d93fd2e3a068f6f0e192227e4462d48fe020c2890ef9cafe",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-strategy-use-learned-english",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 积极运用所学英语表达交流\n\n## 能力说明\n\n积极运用所学英语表达交流，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 完成任务时能主动使用刚学过的词句。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l1-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "积极运用所学英语表达交流"
+}

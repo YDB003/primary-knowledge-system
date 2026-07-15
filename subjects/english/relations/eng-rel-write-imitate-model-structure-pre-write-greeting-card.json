@@ -1,0 +1,15 @@
+{
+  "contentHash": "e2dd0d4ba123e2b6f8f131ce70bf60245dc36a4606eaf1001a3e5cb93542ca8a",
+  "fromId": "eng-ability-write-imitate-model-structure",
+  "id": "eng-rel-write-imitate-model-structure-pre-write-greeting-card",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n参照范例写出对象、祝福语和署名，必须先能保留范文结构并替换具体内容。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-write-greeting-card"
+}

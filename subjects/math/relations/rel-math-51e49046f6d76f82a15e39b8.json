@@ -1,0 +1,12 @@
+{
+  "contentHash": "b91c1055e085603ba5365edb314b6dc2ac7ff2b85748ff2207281d9998468c36",
+  "fromId": "cn-math-exact-versus-approximate",
+  "id": "rel-math-51e49046f6d76f82a15e39b8",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“精确结果与近似结果的选择”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-check-order-of-magnitude"
+}

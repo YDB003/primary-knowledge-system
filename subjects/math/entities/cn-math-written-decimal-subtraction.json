@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "22eb084f8f98a0d1dc5a19b77d23c8dfa3abf123def44a0c77cc398a8fc9518e",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-written-decimal-subtraction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:number-and-operations",
+    "anchor-stage-2-number-and-operations",
+    "review-cn-math-written-decimal-subtraction-pep",
+    "review-cn-math-written-decimal-subtraction-bnup",
+    "review-cn-math-written-decimal-subtraction-jsep"
+  ],
+  "subject": "math",
+  "summary": "将相同数位对齐，必要时在小数末尾补0，再按位退位相减。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“小数减法笔算”。\n- 能用数量关系或运算结构解释“小数减法笔算”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 被减数位数较少时不补占位0就错位相减。",
+  "title": "小数减法笔算"
+}

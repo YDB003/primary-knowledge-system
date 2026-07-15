@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "55facb2df3398b81c3ad315ee8946875549b50c0432c08c17b29292ad4751119",
+  "domain": "图形与几何",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-cuboid-surface-area",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-cuboid-surface-area-pep",
+    "review-cn-math-cuboid-surface-area-bnup",
+    "review-cn-math-cuboid-surface-area-jsep"
+  ],
+  "subject": "math",
+  "summary": "表面积是所有外表面面积之和，应根据相对面成对关系及实际缺面情况计算。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“长方体正方体表面积”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 不看是否有盖或是否贴墙就机械计算六个面。",
+  "title": "长方体正方体表面积"
+}

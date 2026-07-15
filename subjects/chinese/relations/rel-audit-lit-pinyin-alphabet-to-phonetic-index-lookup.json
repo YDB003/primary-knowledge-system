@@ -1,0 +1,12 @@
+{
+  "contentHash": "ee9191556ec689ead3297a791aa837180b25d50d11b142e950cb5de2e0fb83a9",
+  "fromId": "cn-chn-lit-order-by-pinyin-alphabet-s1",
+  "id": "rel-audit-lit-pinyin-alphabet-to-phonetic-index-lookup",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "使用音序查字法必须依据拼音字母表比较字母先后；缺少这一排序能力时，无法在音序索引中确定检索入口。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-phonetic-index-lookup-s1"
+}

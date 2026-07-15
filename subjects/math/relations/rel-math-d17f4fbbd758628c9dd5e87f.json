@@ -1,0 +1,12 @@
+{
+  "contentHash": "9a7fb9bb634b2013d9c8caf6468f64e5bf63417717e6e8b059088dd21ca207d6",
+  "fromId": "cn-math-example-versus-general-proof",
+  "id": "rel-math-d17f4fbbd758628c9dd5e87f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“区分举例与一般说明”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-reason-by-cases"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "539220b3801b534703f3ff6468b355198b748f5d1888f5d6a448dbd858343401",
+  "fromId": "cn-math-equivalent-ratio-table",
+  "id": "rel-math-6676c7af565b723dcd4dc419",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“等比关系表”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-proportional-allocation"
+}

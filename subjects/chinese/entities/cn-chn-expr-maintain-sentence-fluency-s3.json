@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6c1e6db5c610e1c214f8fc01205714c7c32561cd7e7d05d89ee34b5c53d2cb40",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-maintain-sentence-fluency-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-maintain-sentence-fluency-s3-curriculum-standard",
+    "review-cn-chn-expr-maintain-sentence-fluency-s3-unified-pre-2024",
+    "review-cn-chn-expr-maintain-sentence-fluency-s3-unified-2024-revision",
+    "review-cn-chn-expr-maintain-sentence-fluency-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面修改中，只处理妨碍语句通顺的词序或搭配问题。\n\n## 掌握证据\n\n- 能修改词序或搭配不当之处，使语句通顺。\n- 能重写读起来不通顺的句子。\n\n## 常见错误\n\n- 修改后仍保留原有词序或搭配问题。",
+  "title": "修改习作使语句通顺"
+}

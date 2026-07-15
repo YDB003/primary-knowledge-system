@@ -1,0 +1,12 @@
+{
+  "contentHash": "d58ba7b513cc3e48979a0118d4ee6de5a68cd53737456d12137135fe01a0e1c3",
+  "fromId": "cn-math-read-weighing-scale",
+  "id": "rel-math-af6e59b13963dc1e6cc40584",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“读取秤的示数”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-estimate-mass"
+}

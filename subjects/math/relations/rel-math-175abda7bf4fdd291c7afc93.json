@@ -1,0 +1,12 @@
+{
+  "contentHash": "40f807081e6b1e53a5cdde172ea39285bc09e952869fcca8edbddcdceb8fb23c",
+  "fromId": "cn-math-frequency-table",
+  "id": "rel-math-175abda7bf4fdd291c7afc93",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“频数统计表”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-check-data-completeness"
+}

@@ -1,0 +1,14 @@
+{
+  "contentHash": "45ecfb59bbda6414df78daec268686df8bbe4ff33b75a8d58ef409c8bf861b35",
+  "fromId": "eng-sentence-pattern-person-should-action",
+  "id": "eng-rel-sentence-pattern-person-should-action-supports-grammar-use-simple-sentence-exchange",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-grammar-use-simple-sentence-exchange”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-grammar-use-simple-sentence-exchange"
+}

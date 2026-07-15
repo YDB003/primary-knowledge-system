@@ -1,0 +1,12 @@
+{
+  "contentHash": "3c8e509152b7fae1dde52633ed397982ef2639dee0188a86162a0ca880f206ee",
+  "fromId": "cn-math-trapezoid-area",
+  "id": "rel-math-427e4d3684717f6838b8b374",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“梯形面积”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-composite-area"
+}

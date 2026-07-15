@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "e1d73be9407df2a973d2bdbbc73ca1792f0e68d7300f555aa3bc37d69712dd9c",
+  "domain": "WORD",
+  "entityType": "word",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "eng-word-waste-verb",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "summary": "waste 在本知识点中作verb，基本义为“浪费”。例句为知识库原创，用于说明常见搭配和句中位置。",
+  "title": "waste"
+}

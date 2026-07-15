@@ -1,0 +1,12 @@
+{
+  "contentHash": "6209b0b3a0f1afbc4b6a03ec7110bad8ee2ad74a41c69e15247736ae1184ab5f",
+  "fromId": "cn-math-tenths-hundredths-fraction-decimal",
+  "id": "rel-math-2dde173f75465c17e55bff22",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“十分数百分数与小数的对应”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-decimal-to-fraction"
+}

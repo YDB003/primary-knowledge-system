@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2db1f8831a334a0519004bb8760521c43866dccfaaab3fbd51760a1fc3b8505d",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-divide-by-fraction",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-divide-by-fraction-pep",
+    "review-cn-math-divide-by-fraction-bnup",
+    "review-cn-math-divide-by-fraction-jsep"
+  ],
+  "subject": "math",
+  "summary": "除以一个非零分数等价于乘这个分数的倒数，这一规则保持乘除互逆关系。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“除以分数”。\n- 能用数量关系或运算结构解释“除以分数”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 只把除数颠倒却忘记把除法改为乘法。",
+  "title": "除以分数"
+}

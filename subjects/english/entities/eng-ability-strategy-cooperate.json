@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "101deb284574a241284c5bd2e79d5fd1627f0544b54783e1198f83914a1d4513",
+  "domain": "learning_strategies",
+  "entityType": "skill",
+  "gradeEnd": 4,
+  "gradeStart": 3,
+  "id": "eng-ability-strategy-cooperate",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l1-learning-strategies"
+  ],
+  "subject": "english",
+  "summary": "# 与同伴合作完成英语任务\n\n## 能力说明\n\n与同伴合作完成英语任务，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能承担小组角色并与同伴共同提交学习成果。\n\n## 课程定位\n\n- 正式课程：3 至 4 年级\n- 领域：learning_strategies\n- 课标锚点：[[eng-anchor-l1-learning-strategies]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "与同伴合作完成英语任务"
+}

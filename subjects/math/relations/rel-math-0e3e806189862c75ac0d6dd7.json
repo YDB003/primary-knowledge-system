@@ -1,0 +1,12 @@
+{
+  "contentHash": "40a020bd30d21f75219d3a28ef59e58c1b875ac073fa7e311febf1b608104dbc",
+  "fromId": "cn-math-fraction-multiplication-as-operator",
+  "id": "rel-math-0e3e806189862c75ac0d6dd7",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数乘法表示取一个量的部分”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-reciprocal"
+}

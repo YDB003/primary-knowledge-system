@@ -1,0 +1,12 @@
+{
+  "contentHash": "7844be5bbf34bf0e8319c07827c78381cbca34ba7f34cf48d6227aae43b2754a",
+  "fromId": "cn-math-yuan-jiao-fen",
+  "id": "rel-math-d8a9f786fa65b22e8f2b27ae",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“元角分的关系”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-read-write-money"
+}

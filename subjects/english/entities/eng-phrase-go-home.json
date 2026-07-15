@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "4821cd1fa860dedc915d4f66d84f4b092a82dfbad48ff9e6c3d2d58fce27ad83",
+  "domain": "PHRASE",
+  "entityType": "phrase",
+  "gradeEnd": 6,
+  "gradeStart": 4,
+  "id": "eng-phrase-go-home",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-4b-u3"
+  ],
+  "subject": "english",
+  "summary": "go home 表示“回家”。学习时应把它作为常用搭配整体记忆，并注意在句中的位置。",
+  "title": "go home"
+}

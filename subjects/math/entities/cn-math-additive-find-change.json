@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3635b86e8e1094639641d33d47ba35d744f430e9f9c6596f921768cac757d16f",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-additive-find-change",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-additive-find-change-pep",
+    "review-cn-math-additive-find-change-bnup",
+    "review-cn-math-additive-find-change-jsep"
+  ],
+  "subject": "math",
+  "summary": "变化量描述结果相对初始增加或减少多少，可用两个状态量的差并结合方向确定。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“已知初始和结果求变化量”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 只算差的绝对大小却不说明增加还是减少。",
+  "title": "已知初始和结果求变化量"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "6a81027865b496c3335f070ad3ed9c93531db88ff355a0dfd3f3a1bcafc372ef",
+  "domain": "阅读与鉴赏",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-read-explain-word-expression-effect-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-reading-appreciation",
+    "review-cn-chn-read-explain-word-expression-effect-s3-curriculum-standard",
+    "review-cn-chn-read-explain-word-expression-effect-s3-unified-pre-2024",
+    "review-cn-chn-read-explain-word-expression-effect-s3-unified-2024-revision",
+    "review-cn-chn-read-explain-word-expression-effect-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "结合词语在句中的具体含义，说明该词怎样使对象特征、语气或程度表达得更准确鲜明。\n\n## 掌握证据\n\n- 能解释关键词语怎样突出对象的一项特征。\n- 能比较替换前后的表达，指出语气或程度发生的变化。\n\n## 常见错误\n\n- 只说词语生动准确，没有说明具体增强了哪一项表达。",
+  "title": "解释词语的表达效果"
+}

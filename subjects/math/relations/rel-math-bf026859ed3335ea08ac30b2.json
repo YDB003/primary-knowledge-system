@@ -1,0 +1,12 @@
+{
+  "contentHash": "11d86009f19c07bcc9758fdcefb3a05da810d053cf073536436e6c698585ad6f",
+  "fromId": "cn-math-line-segment",
+  "id": "rel-math-bf026859ed3335ea08ac30b2",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“线段”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-angle-as-two-rays"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "39f3017772bc95b0a3a3e5f11f38b975310c5e78e45e59779bb1b140ebd83750",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-factor-and-multiple",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-factor-and-multiple-pep",
+    "review-cn-math-factor-and-multiple-bnup",
+    "review-cn-math-factor-and-multiple-jsep"
+  ],
+  "subject": "math",
+  "summary": "若整数a乘整数b得到整数c，则a和b是c的因数，c是a和b的倍数，这一关系依赖具体的一组整数。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“因数与倍数的关系”。\n- 能用数的结构或数量关系解释“因数与倍数的关系”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 孤立地说某个数是因数或倍数，却没有说明相对于哪个数。",
+  "title": "因数与倍数的关系"
+}

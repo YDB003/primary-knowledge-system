@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "320158bb970f893ebe39c1a0a7e0dc67ec68fbccf0a7549e654b20e94f1970ee",
+  "domain": "量与计量",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-24-hour-clock",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-and-measurement",
+    "anchor-stage-2-quantity-and-measurement",
+    "review-cn-math-24-hour-clock-pep",
+    "review-cn-math-24-hour-clock-bnup",
+    "review-cn-math-24-hour-clock-jsep"
+  ],
+  "subject": "math",
+  "summary": "一天用0到24时连续记时，下午时刻可与普通记时法对应转换。\n\n## 可观察证据\n\n- 能在实物、测量工具、单位记录或生活情境中正确运用“24时记时法”。\n- 能说明单位、数值和测量方法的关系，并用估测或换算检查结果。\n\n## 常见误区\n\n- 中午12时后所有时刻机械加12，包括午夜。",
+  "title": "24时记时法"
+}

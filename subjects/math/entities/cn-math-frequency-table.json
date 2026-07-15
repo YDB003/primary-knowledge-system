@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "3d0cbe572ee9390c65ec46db3641763bb8fb89aea194c922ad14fb4ac8132746",
+  "domain": "统计与概率",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-frequency-table",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:statistics-and-probability",
+    "anchor-stage-2-statistics-and-probability",
+    "review-cn-math-frequency-table-pep",
+    "review-cn-math-frequency-table-bnup",
+    "review-cn-math-frequency-table-jsep"
+  ],
+  "subject": "math",
+  "summary": "统计表用类别和频数汇总原始数据，总频数应等于样本数。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“频数统计表”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 频数合计与原始数据数量不符。",
+  "title": "频数统计表"
+}

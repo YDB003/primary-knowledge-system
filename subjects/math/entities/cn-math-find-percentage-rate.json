@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5d4e2abd6f346d6ac8d637ffda99d5f5be90dc24ab1e4bbadd52e30684137273",
+  "domain": "数与运算",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-find-percentage-rate",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-find-percentage-rate-pep",
+    "review-cn-math-find-percentage-rate-bnup",
+    "review-cn-math-find-percentage-rate-jsep"
+  ],
+  "subject": "math",
+  "summary": "用比较量除以单位1的量，再把商改写成百分数，表示比较量所占的相对份额。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“求一个量占另一个量的百分率”。\n- 能用数量关系或运算结构解释“求一个量占另一个量的百分率”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 颠倒比较量和单位1的量。",
+  "title": "求一个量占另一个量的百分率"
+}

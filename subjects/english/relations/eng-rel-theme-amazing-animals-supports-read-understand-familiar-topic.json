@@ -1,0 +1,14 @@
+{
+  "contentHash": "205193a697ec44d819a70f2487ceba5fb86e83e63c0c53e8d95ad333f30cedbc",
+  "fromId": "eng-theme-amazing-animals",
+  "id": "eng-rel-theme-amazing-animals-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

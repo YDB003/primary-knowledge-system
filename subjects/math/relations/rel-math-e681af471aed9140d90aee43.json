@@ -1,0 +1,12 @@
+{
+  "contentHash": "4a92cf462f3c880b390210dc1063e89524f982ceca59fd58443cb4057633f343",
+  "fromId": "cn-math-compare-solution-methods",
+  "id": "rel-math-e681af471aed9140d90aee43",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比较多种解法”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-monitor-solution-process"
+}

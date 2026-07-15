@@ -1,0 +1,12 @@
+{
+  "contentHash": "58a064065ce8524875bb12abbfdf2672f36ab10b72fc5a4fc4d0c1b366fe25c2",
+  "fromId": "cn-math-additive-find-start",
+  "id": "rel-math-f7d93aa75ea84de359f514f9",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“已知变化和结果求初始量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-additive-find-change"
+}

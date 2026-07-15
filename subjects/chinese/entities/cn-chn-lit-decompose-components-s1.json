@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "16695e18ef61c6c71db9c488d2d91c90b92693b4fbf13fa92bfc55e83d4773c7",
+  "domain": "识字与写字",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-decompose-components-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-decompose-components-s1-curriculum-standard",
+    "review-cn-chn-lit-decompose-components-s1-unified-pre-2024",
+    "review-cn-chn-lit-decompose-components-s1-unified-2024-revision",
+    "review-cn-chn-lit-decompose-components-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "观察汉字构形时拆分汉字部件，以笔画、偏旁、部件或结构关系呈现结果。\n\n## 掌握证据\n\n- 能在陌生字形中准确拆分汉字部件。\n- 能指出所依据的构形位置或部件线索。\n\n## 常见错误\n\n- 把笔画、偏旁、部件和整字结构混为同一层级。",
+  "title": "拆分汉字部件"
+}

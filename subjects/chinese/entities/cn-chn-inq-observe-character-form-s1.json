@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "c9fdd7e77ec57928701c1083f79c35eca7d5f899b6079c3aec1f10e2c33f5dbe",
+  "domain": "梳理与探究",
+  "entityType": "skill",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-inq-observe-character-form-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-organizing-inquiry",
+    "review-cn-chn-inq-observe-character-form-s1-curriculum-standard",
+    "review-cn-chn-inq-observe-character-form-s1-unified-pre-2024",
+    "review-cn-chn-inq-observe-character-form-s1-unified-2024-revision",
+    "review-cn-chn-inq-observe-character-form-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在语文材料或探究记录中，只完成“观察汉字字形”这一操作，以标出具体字形特征的观察记录作为可直接查看或听取的结果。\n\n## 掌握证据\n\n- 能观察汉字字形，产出标出具体字形特征的观察记录。\n- 能换用另一组汉字材料观察汉字字形，仍产出标出具体字形特征的观察记录。\n\n## 常见错误\n\n- 只说字形好看，没有指出可见特征。",
+  "title": "观察汉字字形"
+}

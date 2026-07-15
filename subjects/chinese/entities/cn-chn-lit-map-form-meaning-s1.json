@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "2834660fb261f8b9c01f50c331324ad5c797c14b8bf1fbce52bc9a44517756d7",
+  "domain": "识字与写字",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-lit-map-form-meaning-s1",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-1-literacy-writing",
+    "review-cn-chn-lit-map-form-meaning-s1-curriculum-standard",
+    "review-cn-chn-lit-map-form-meaning-s1-unified-pre-2024",
+    "review-cn-chn-lit-map-form-meaning-s1-unified-2024-revision",
+    "review-cn-chn-lit-map-form-meaning-s1-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在不依赖具体字表的识字任务中由字形联系字义，建立可核对的形音义联系。\n\n## 掌握证据\n\n- 能面对未学材料中的目标汉字独立由字形联系字义。\n- 能用读音、语境意义或规范字形说明判断结果。\n\n## 常见错误\n\n- 只凭局部字形或单一读音作答，未核对形音义关系。",
+  "title": "由字形联系字义"
+}

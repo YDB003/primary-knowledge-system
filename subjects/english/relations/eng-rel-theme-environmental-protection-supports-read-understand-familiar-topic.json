@@ -1,0 +1,14 @@
+{
+  "contentHash": "48e2488a81b8255dbbaf526ddfa1157bcdc255edcb09129fa4947df37c704215",
+  "fromId": "eng-theme-environmental-protection",
+  "id": "eng-rel-theme-environmental-protection-supports-read-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-read-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-read-understand-familiar-topic"
+}

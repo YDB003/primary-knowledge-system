@@ -1,0 +1,12 @@
+{
+  "contentHash": "b40cc763fac035ef25e69daf113b5e24b312bb23959007909dfae7a8aae9c5ac",
+  "fromId": "cn-math-part-part-whole-unknown",
+  "id": "rel-math-ea64e06b3f01b62261e27b3f",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“部分整体关系中的未知量”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-additive-find-start"
+}

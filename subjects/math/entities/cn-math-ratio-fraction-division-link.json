@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "395f641453500cef37743d897e234a261a4f97310cf4dc7598936d5444927d5f",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 6,
+  "gradeStart": 6,
+  "id": "cn-math-ratio-fraction-division-link",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:quantity-relations",
+    "anchor-stage-3-quantity-relations",
+    "review-cn-math-ratio-fraction-division-link-pep",
+    "review-cn-math-ratio-fraction-division-link-bnup",
+    "review-cn-math-ratio-fraction-division-link-jsep"
+  ],
+  "subject": "math",
+  "summary": "a:b的比值等于a除以b，也可写成分数a/b，但三种形式在情境中强调的对象不同。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“比与分数除法的联系”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 因为数值相同就认为比、除法和分数的语义完全相同。",
+  "title": "比与分数除法的联系"
+}

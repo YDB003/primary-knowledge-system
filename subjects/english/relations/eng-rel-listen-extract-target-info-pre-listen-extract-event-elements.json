@@ -1,0 +1,15 @@
+{
+  "contentHash": "3e2d1d1c65b4c429a114c96de45e2268b181f7ecd4f156d4e2dbaf038f67fe50",
+  "fromId": "eng-ability-listen-extract-target-info",
+  "id": "eng-rel-listen-extract-target-info-pre-listen-extract-event-elements",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "# 能力先修关系\n\n## 必要性\n\n记录人物、时间、地点和事件四类要素，必须先能从听看材料中定位任务指定的信息。\n\n## 边界\n\n这条关系表示完成后项任务不可缺少的先修能力，不表示教材单元顺序。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-moe-standard-2022"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-extract-event-elements"
+}

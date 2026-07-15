@@ -1,0 +1,15 @@
+{
+  "contentHash": "6bc0e0956f8addf71348b60d3f4dfa66f372b306d3a691953cb34465c15add63",
+  "fromId": "eng-ipa-g",
+  "id": "eng-rel-ipa-g-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/g/ 这个书写符号用于标记英语声音“浊辅音 /g/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-g"
+}

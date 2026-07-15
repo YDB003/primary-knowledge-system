@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "bb9ac7a042ebd7b1085ab0224b173457de98c791da0b86814fdf3971a12a55cd",
+  "domain": "ACCUMULATION_ITEM",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-oral-task-short-story-telling",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"accumulationCategory\":\"口语任务身份\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "小故事讲述任务"
+}

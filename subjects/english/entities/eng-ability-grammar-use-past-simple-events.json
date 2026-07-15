@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "62d44c42a524d9578220750c0b64e6836674d7bd94ee2e6c4a4235e6078e2e57",
+  "domain": "grammar_sentence_building",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-ability-grammar-use-past-simple-events",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-anchor-l2-grammar"
+  ],
+  "subject": "english",
+  "summary": "# 用一般过去时描述已发生事件\n\n## 能力说明\n\n用一般过去时描述已发生事件，并能在适合小学阶段的真实或模拟语境中完成相应任务。\n\n## 可观察证据\n\n- 能用几句简单话讲述昨天或过去的熟悉经历。\n\n## 课程定位\n\n- 正式课程：5 至 6 年级\n- 领域：grammar_sentence_building\n- 课标锚点：[[eng-anchor-l2-grammar]]\n\n## 边界\n\n本条描述可发展的英语能力，不是教材单元、单词条目或学生掌握状态。",
+  "title": "用一般过去时描述已发生事件"
+}

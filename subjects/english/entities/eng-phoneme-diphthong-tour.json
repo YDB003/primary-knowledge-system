@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "af8945409c46511bd6224ec96a8a5e7fdbab252c95d1b2b9aab9bcdb680ffd66",
+  "domain": "PHONEME",
+  "entityType": "phoneme",
+  "gradeEnd": null,
+  "gradeStart": null,
+  "id": "eng-phoneme-diphthong-tour",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "summary": "## 声音\n\n双元音 /ʊə/。本条记录一个单一音位或基础教学音素。\n\n## 发音提示\n\n从 /ʊ/ 向中央元音滑动；现代口音中可能出现其他读法。\n\n## 示例\n\n可在这些词中观察该声音：tour、sure。例词只用于辨音，实际发音会受口音和相邻声音影响。",
+  "title": "双元音 /ʊə/"
+}

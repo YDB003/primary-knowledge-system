@@ -1,0 +1,12 @@
+{
+  "contentHash": "5ad4e1a1d8890de511d75a03a2a9ff787f3682f9bb65ccbb29125f4cb9cc9f69",
+  "fromId": "cn-math-compare-two-data-groups",
+  "id": "rel-math-0c7da14238a8584717155dcb",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“比较两组数据”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-describe-data-trend"
+}

@@ -1,0 +1,12 @@
+{
+  "contentHash": "a935449cb417787ab930791c3ad7d6035e3fb2bc7d7f3a8a834fefcd24deab1b",
+  "fromId": "cn-chn-lit-distinguish-tone-s1",
+  "id": "rel-audit-lit-distinguish-tone-to-read-toned-syllable",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "拼读带调音节必须能辨别目标音节的声调；缺少声调辨别时，无法把调号转换为正确的实际读音。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "chinese",
+  "toId": "cn-chn-lit-read-toned-syllable-s1"
+}

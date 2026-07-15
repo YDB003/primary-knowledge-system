@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "cd840d1d63dbc1f7ee827acab7b3fc74e74219a57edd5b10f297b763b7c7d506",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-zero-as-signed-reference",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-zero-as-signed-reference-pep",
+    "review-cn-math-zero-as-signed-reference-bnup",
+    "review-cn-math-zero-as-signed-reference-jsep"
+  ],
+  "subject": "math",
+  "summary": "0通常表示选定的基准位置或状态，正数和负数位于它的两侧，0本身既不是正数也不是负数。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“0作为正负数的分界与参照”。\n- 能用数的结构或数量关系解释“0作为正负数的分界与参照”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 认为0一定表示完全没有，或把0归入正数。",
+  "title": "0作为正负数的分界与参照"
+}

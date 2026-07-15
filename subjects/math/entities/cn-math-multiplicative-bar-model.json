@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "d16bc6e1854055c5af55ea57f3f66c88e9d52e0f4f403f455d93dda292e3b990",
+  "domain": "数量关系",
+  "entityType": "model",
+  "gradeEnd": 3,
+  "gradeStart": 3,
+  "id": "cn-math-multiplicative-bar-model",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:quantity-relations",
+    "anchor-stage-2-quantity-relations",
+    "review-cn-math-multiplicative-bar-model-pep",
+    "review-cn-math-multiplicative-bar-model-bnup",
+    "review-cn-math-multiplicative-bar-model-jsep"
+  ],
+  "subject": "math",
+  "summary": "把基准量画成一份等长线段，比较量画成若干相同份，可表示求总量、一份量或份数。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“倍数关系线段图”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 每份线段长度不等却仍用份数表示倍数。",
+  "title": "倍数关系线段图"
+}

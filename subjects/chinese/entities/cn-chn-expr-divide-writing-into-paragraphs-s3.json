@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "5286a31a631ee601b2c4bb92732c4a7ab65521d44c1e6b6a98541c15ad2d367b",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-divide-writing-into-paragraphs-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-divide-writing-into-paragraphs-s3-curriculum-standard",
+    "review-cn-chn-expr-divide-writing-into-paragraphs-s3-unified-pre-2024",
+    "review-cn-chn-expr-divide-writing-into-paragraphs-s3-unified-2024-revision",
+    "review-cn-chn-expr-divide-writing-into-paragraphs-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在书面表达中，只根据内容层次划分段落，不改写各层内容。\n\n## 掌握证据\n\n- 能按内容层次划分段落。\n- 能把另一组内容按主要内容划分为段落。\n\n## 常见错误\n\n- 只按字数换行，段落与内容层次不对应。",
+  "title": "根据内容表达需要分段"
+}

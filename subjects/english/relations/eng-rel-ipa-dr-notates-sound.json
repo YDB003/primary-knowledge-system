@@ -1,0 +1,15 @@
+{
+  "contentHash": "4f01e2d4d6fa7b00d59548153d6131bc03af0946a75b6e187bd4e6fdb48784f6",
+  "fromId": "eng-ipa-dr",
+  "id": "eng-rel-ipa-dr-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/dr/ 这个书写符号用于标记辅音音位序列“辅音序列 /dr/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-sequence-dr"
+}

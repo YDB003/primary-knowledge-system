@@ -1,0 +1,14 @@
+{
+  "contentHash": "c3c62ba1672bb41566512beb91606b64d33dcb0a5c87e6eca8c3642cd0887c58",
+  "fromId": "eng-word-oil-noun",
+  "id": "eng-rel-word-oil-noun-supports-vocab-name-objects",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-vocab-name-objects”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-yilin-2011-legacy-6a-u7"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-vocab-name-objects"
+}

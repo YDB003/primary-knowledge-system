@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "497353c8fe01c5aed30c96c9130b6653d5732e1eeb02b405087828ac8ced762f",
+  "domain": "数与运算",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-math-addition-subtraction-inverse",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:number-and-operations",
+    "anchor-stage-1-number-and-operations",
+    "review-cn-math-addition-subtraction-inverse-pep",
+    "review-cn-math-addition-subtraction-inverse-bnup",
+    "review-cn-math-addition-subtraction-inverse-jsep"
+  ],
+  "subject": "math",
+  "summary": "加法把部分合成整体，减法可从整体还原部分，两种运算在相应关系中互相逆转。\n\n## 可观察证据\n\n- 能由一个加法算式写出相关减法算式。\n- 能用逆运算解释或检验未知数。\n\n## 常见误区\n\n- 只把加减法当作两套无关的计算口诀。",
+  "title": "加法与减法的互逆关系"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "26d2aeab82ca85d2b314c0171445d040a6fd4fac5bd9c7bf4722dc0e4f7f0a95",
+  "domain": "数与运算",
+  "entityType": "procedure",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-fraction-to-terminating-decimal",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-fraction-to-terminating-decimal-pep",
+    "review-cn-math-fraction-to-terminating-decimal-bnup",
+    "review-cn-math-fraction-to-terminating-decimal-jsep"
+  ],
+  "subject": "math",
+  "summary": "可把分数改写为分母是10的幂的等值分数，或用分子除以分母得到小数表示。\n\n## 可观察证据\n\n- 能在图示、数线、算式或实际情境中识别并正确运用“分数化有限小数”。\n- 能用数量关系或运算结构解释“分数化有限小数”，并用估算、逆向检查或另一种表征核验结果。\n\n## 常见误区\n\n- 认为所有分数都一定能化成位数有限的小数。",
+  "title": "分数化有限小数"
+}

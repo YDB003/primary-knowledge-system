@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "22c5fed0e18010d61c74810ec94c802fb239e49fd4ca1684f3bcd94726eaeabc",
+  "domain": "综合与实践",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-define-data-population",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:synthesis-and-practice",
+    "anchor-stage-3-synthesis-and-practice",
+    "review-cn-math-define-data-population-pep",
+    "review-cn-math-define-data-population-bnup",
+    "review-cn-math-define-data-population-jsep"
+  ],
+  "subject": "math",
+  "summary": "明确要研究的对象、时间和范围。\n\n## 可观察证据\n\n- 能在真实任务或数学探究中独立运用“确定调查对象与范围”。\n- 能说明选择依据、记录过程并依据证据检查或改进。\n\n## 常见误区\n\n- 只完成表面步骤，没有说明依据或检查结论。",
+  "title": "确定调查对象与范围"
+}

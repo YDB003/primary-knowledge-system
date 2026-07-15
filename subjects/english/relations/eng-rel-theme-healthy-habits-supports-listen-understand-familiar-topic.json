@@ -1,0 +1,14 @@
+{
+  "contentHash": "9bc74f05b9e6047cc598bb5a6949a60d3d0713839769caa7c03aabd22b35e468",
+  "fromId": "eng-theme-healthy-habits",
+  "id": "eng-rel-theme-healthy-habits-supports-listen-understand-familiar-topic",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "该正式语言知识点为能力“eng-ability-listen-understand-familiar-topic”提供教材内容支撑。",
+  "relationType": "supports",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "toId": "eng-ability-listen-understand-familiar-topic"
+}

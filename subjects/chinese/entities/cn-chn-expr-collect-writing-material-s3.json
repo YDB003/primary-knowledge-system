@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "11751903f58db17c8d0ca06cb30b573a485f5b784b314900868e70c471b99243",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-collect-writing-material-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-collect-writing-material-s3-curriculum-standard",
+    "review-cn-chn-expr-collect-writing-material-s3-unified-pre-2024",
+    "review-cn-chn-expr-collect-writing-material-s3-unified-2024-revision",
+    "review-cn-chn-expr-collect-writing-material-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在写作准备中，把见闻或感受整理成标明来源或情境的一条习作素材。\n\n## 掌握证据\n\n- 能记录一条标明来源或情境的习作素材。\n- 能再记录一条与具体见闻或感受对应的习作素材。\n\n## 常见错误\n\n- 素材没有来源或情境信息。",
+  "title": "积累与见闻感受相关的习作素材"
+}

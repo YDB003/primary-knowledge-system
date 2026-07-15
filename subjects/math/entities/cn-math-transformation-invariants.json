@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "e945dda8b0501b0d105ef7e49b9253000d1cdf8dd2fc9ae797556f1644a6673a",
+  "domain": "图形与几何",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-transformation-invariants",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:shape-and-geometry",
+    "anchor-stage-3-shape-and-geometry",
+    "review-cn-math-transformation-invariants-pep",
+    "review-cn-math-transformation-invariants-bnup",
+    "review-cn-math-transformation-invariants-jsep"
+  ],
+  "subject": "math",
+  "summary": "平移、旋转和轴对称保持长度与角度，比例放缩保持角度和长度比；可用不变量检查变换。\n\n## 可观察证据\n\n- 能在实物、图示、方格或操作活动中识别并正确运用“图形变换中的不变量”。\n- 能用几何性质、测量数据或变换不变量解释判断，并用画图、拼摆或计算核验。\n\n## 常见误区\n\n- 认为所有变换都保持面积和周长不变。",
+  "title": "图形变换中的不变量"
+}

@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "b3cf6142c0600d95780448a1a61bf74a9afeed80f7c50d16b5038f39d02815ad",
+  "domain": "THEME",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "eng-theme-friendship-and-differences",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-5a-resources"
+  ],
+  "subject": "english",
+  "summary": "本主题围绕“Different friends”组织基础听、说、读、看、写活动。学习时应把相关词句放回真实生活场景理解和使用。",
+  "title": "Different friends"
+}

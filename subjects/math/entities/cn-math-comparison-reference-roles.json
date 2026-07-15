@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "4bbfafbf8f7f5efc47053745c7f7c7b221ca19689fa5febc1b004cfebe1a720a",
+  "domain": "数量关系",
+  "entityType": "concept",
+  "gradeEnd": 2,
+  "gradeStart": 2,
+  "id": "cn-math-comparison-reference-roles",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-1:quantity-relations",
+    "anchor-stage-1-quantity-relations",
+    "review-cn-math-comparison-reference-roles-pep",
+    "review-cn-math-comparison-reference-roles-bnup",
+    "review-cn-math-comparison-reference-roles-jsep"
+  ],
+  "subject": "math",
+  "summary": "比较叙述包含被比较的量、作为标准的量和比较结果，改变标准量会改变语言表达。\n\n## 可观察证据\n\n- 能在文字、线段图、表格或算式中识别“比较量与标准量的角色”的已知量、未知量和对应关系。\n- 能根据数量关系正确列式或变换表征，并用单位、逆关系或代回原情境检查结果。\n\n## 常见误区\n\n- 只根据人名或语序决定谁减谁。",
+  "title": "比较量与标准量的角色"
+}

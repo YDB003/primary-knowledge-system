@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "contentHash": "6bf706ace6222ec445c00e7d45e1792fdba32bea45fd573c2d35d68f9adc1234",
+  "domain": "COMMUNICATIVE_FUNCTION",
+  "entityType": "concept",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-communicative-function-greet-others",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-fltrp-2011-legacy-3a-m2",
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "根据时间、熟悉程度和场景选择合适问候语，并自然回应对方。",
+  "title": "问候他人"
+}

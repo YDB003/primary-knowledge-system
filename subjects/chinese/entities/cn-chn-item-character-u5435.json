@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "359fb8b47837bf6cab8001587475d5e6fba556d41cd7bc04d50355804a715687",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u5435",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":7,\"writtenForm\":\"吵\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "吵"
+}

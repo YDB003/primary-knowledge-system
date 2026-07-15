@@ -1,0 +1,12 @@
+{
+  "contentHash": "00e83db43f1a870c6aa1055602adb5949e66ef7c3c6f397eb3ddc5542b64af7d",
+  "fromId": "cn-math-gram-kilogram-ton",
+  "id": "rel-math-bcf6b1207fec7a284ffda6bc",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“克千克吨的量感”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-read-weighing-scale"
+}

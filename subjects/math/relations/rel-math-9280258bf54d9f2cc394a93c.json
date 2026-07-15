@@ -1,0 +1,12 @@
+{
+  "contentHash": "518c5f1be80b1c40f6d4a238041b2e5f9699c8236b37298534649aac85bf9bcc",
+  "fromId": "cn-math-fraction-reference-whole",
+  "id": "rel-math-9280258bf54d9f2cc394a93c",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“分数所依赖的单位整体”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-improper-fraction-and-mixed-number"
+}

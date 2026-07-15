@@ -1,0 +1,12 @@
+{
+  "contentHash": "c9d35f9dd280c3ed63c8660526362d5e31bfacc2104e910c06862e07b67e7eba",
+  "fromId": "cn-math-identify-inverse-proportion",
+  "id": "rel-math-a1c6b52fb98f520e16fa4936",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“判断反比例”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-distinguish-proportional-relations"
+}

@@ -1,0 +1,15 @@
+{
+  "contentHash": "06040abe3a2fcd23f46ca287730732b82843f2fc76b7240f6089a586961da546",
+  "fromId": "eng-ipa-long-oo",
+  "id": "eng-rel-ipa-long-oo-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/uː/ 这个书写符号用于标记英语声音“长元音 /uː/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-long-oo"
+}

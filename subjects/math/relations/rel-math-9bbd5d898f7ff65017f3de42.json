@@ -1,0 +1,12 @@
+{
+  "contentHash": "bdada7f7772b16b9809dfefb65882fe58246add5ff668073ba94266eb46804c6",
+  "fromId": "cn-math-identify-direct-proportion",
+  "id": "rel-math-9bbd5d898f7ff65017f3de42",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“判断正比例”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-direct-proportion-table-graph"
+}

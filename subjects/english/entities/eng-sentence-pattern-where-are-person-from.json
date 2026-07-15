@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "361fa5391f277c4f0c725e6a321ee4db7f5026f7ad2bc2620341dec633ba9bab",
+  "domain": "SENTENCE_PATTERN",
+  "entityType": "grammar",
+  "gradeEnd": 6,
+  "gradeStart": 3,
+  "id": "eng-sentence-pattern-where-are-person-from",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-english-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-pep-2022-revised-3b-resources"
+  ],
+  "subject": "english",
+  "summary": "Where are ... from? 用于询问来源地。实际使用时，be 动词要和主语保持一致。",
+  "title": "Where are you from?"
+}

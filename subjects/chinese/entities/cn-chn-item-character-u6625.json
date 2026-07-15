@@ -1,0 +1,18 @@
+{
+  "aliases": [],
+  "contentHash": "4f7aae0d044f27fd095b887df0faae4761aef20a73da92c332f8465d4ccbb3fb",
+  "domain": "CHARACTER",
+  "entityType": "character",
+  "gradeEnd": 2,
+  "gradeStart": 1,
+  "id": "cn-chn-item-character-u6625",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "source-moe-chinese-curriculum-2022"
+  ],
+  "subject": "chinese",
+  "summary": "## 内容属性\n\n{\"strokeCount\":9,\"writtenForm\":\"春\"}\n\n## 证据线\n\n- CURRICULUM_STANDARD",
+  "title": "春"
+}

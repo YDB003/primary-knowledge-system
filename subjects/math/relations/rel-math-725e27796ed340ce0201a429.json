@@ -1,0 +1,12 @@
+{
+  "contentHash": "6123793fd5844bbff26c404e9849ada5194cd7d1a746e15e33a36d6ccd0f5b50",
+  "fromId": "cn-math-plan-repeated-measurement",
+  "id": "rel-math-725e27796ed340ce0201a429",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "先掌握“设计重复测量步骤”有助于理解本知识点所使用的对象、表征或方法。",
+  "relationType": "prerequisite",
+  "schemaVersion": "1.0",
+  "sourceRefs": [],
+  "subject": "math",
+  "toId": "cn-math-record-measurement-project"
+}

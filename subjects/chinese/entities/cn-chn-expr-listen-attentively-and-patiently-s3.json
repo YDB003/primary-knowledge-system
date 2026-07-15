@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "39ab17a08dacc6f49a71ce0a320f782d0f279492f68016d3f149172389047ef1",
+  "domain": "表达与交流",
+  "entityType": "skill",
+  "gradeEnd": 6,
+  "gradeStart": 5,
+  "id": "cn-chn-expr-listen-attentively-and-patiently-s3",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-chinese-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "anchor-stage-3-expression-communication",
+    "review-cn-chn-expr-listen-attentively-and-patiently-s3-curriculum-standard",
+    "review-cn-chn-expr-listen-attentively-and-patiently-s3-unified-pre-2024",
+    "review-cn-chn-expr-listen-attentively-and-patiently-s3-unified-2024-revision",
+    "review-cn-chn-expr-listen-attentively-and-patiently-s3-quality-and-norm"
+  ],
+  "subject": "chinese",
+  "summary": "在较长的口头交流中认真、耐心地倾听对方，等发言结束后再回应。\n\n## 掌握证据\n\n- 能耐心倾听到对方发言结束后再回应。\n- 能在对方连续说出多个要点时不插话，并在结束后回应。\n\n## 常见错误\n\n- 因对方发言较长而中途打断。",
+  "title": "认真耐心地听人说话"
+}

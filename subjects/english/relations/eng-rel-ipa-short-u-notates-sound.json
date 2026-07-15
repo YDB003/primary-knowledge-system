@@ -1,0 +1,15 @@
+{
+  "contentHash": "adcf1fb64828566ed7f920a18e390d6999709c1f74ecc6b16723511a42e46bc5",
+  "fromId": "eng-ipa-short-u",
+  "id": "eng-rel-ipa-short-u-notates-sound",
+  "licenseClass": "CC-BY-4.0",
+  "reason": "/ʌ/ 这个书写符号用于标记英语声音“短元音 /ʌ/”。",
+  "relationType": "notates",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "eng-source-project-policy",
+    "eng-source-ipa-chart"
+  ],
+  "subject": "english",
+  "toId": "eng-phoneme-short-u"
+}

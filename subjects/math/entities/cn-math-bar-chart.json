@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "ca40d7cf2340f01a00bff61afe8e540fe81973a3adc395ae00272c73bbfa1e9a",
+  "domain": "统计与概率",
+  "entityType": "model",
+  "gradeEnd": 4,
+  "gradeStart": 4,
+  "id": "cn-math-bar-chart",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-2:statistics-and-probability",
+    "anchor-stage-2-statistics-and-probability",
+    "review-cn-math-bar-chart-pep",
+    "review-cn-math-bar-chart-bnup",
+    "review-cn-math-bar-chart-jsep"
+  ],
+  "subject": "math",
+  "summary": "等宽条形长度按统一刻度表示各类别数量。\n\n## 可观察证据\n\n- 能在数据、表格、统计图或随机试验中正确运用“条形统计图”。\n- 能说明判断依据并用总数、刻度或重复试验检查。\n\n## 常见误区\n\n- 条宽或起点不同造成视觉误判。",
+  "title": "条形统计图"
+}

@@ -1,0 +1,22 @@
+{
+  "aliases": [],
+  "contentHash": "981f13fe4f9a3dee7693cec8f3e6ff023979c972023d1361030e1ab3e6dd96e7",
+  "domain": "数与运算",
+  "entityType": "skill",
+  "gradeEnd": 5,
+  "gradeStart": 5,
+  "id": "cn-math-divisibility-reasoning",
+  "licenseClass": "CC-BY-4.0",
+  "originRepositoryId": "cn-primary-math-taxonomy",
+  "schemaVersion": "1.0",
+  "sourceRefs": [
+    "moe-2022-math:stage-3:number-and-operations",
+    "anchor-stage-3-number-and-operations",
+    "review-cn-math-divisibility-reasoning-pep",
+    "review-cn-math-divisibility-reasoning-bnup",
+    "review-cn-math-divisibility-reasoning-jsep"
+  ],
+  "subject": "math",
+  "summary": "整除特征应通过十进位值分解或倍数结构说明，并用除法余数检查，而不只是背口诀。\n\n## 可观察证据\n\n- 能在数线、算式、表格或实际情境中识别并正确运用“整除特征的解释与验证”。\n- 能用数的结构或数量关系解释“整除特征的解释与验证”，并用估算、逆向检查或举出反例核验判断。\n\n## 常见误区\n\n- 把某个特征错误推广到其他除数。",
+  "title": "整除特征的解释与验证"
+}
