@@ -8,6 +8,7 @@ from typing import Any
 import pytest
 
 import pks.cli as cli_module
+import pks.public_sync as public_sync_module
 from pks.cli import main
 from pks.contracts import ProtocolError
 from pks.imports import ImportEntity
@@ -244,6 +245,79 @@ def test_sync_state_rejects_unapproved_repository_url_change(tmp_path: Path) -> 
 
     with pytest.raises(ProtocolError, match="PUBLIC_REPOSITORY_ID_CONFLICT"):
         service._load_state(repository_id, "https://example.com/two.git", "main")
+
+
+def test_checkout_retries_transient_windows_directory_lock(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    service = PublicSyncService(tmp_path / "vault", AcceptingModel())
+    commit = "a" * 40
+    real_replace = public_sync_module.os.replace
+    replace_attempts = 0
+
+    def fake_git(arguments: list[str], *, timeout: int = 120) -> str:
+        del timeout
+        if arguments[0] == "clone":
+            checkout = Path(arguments[-1])
+            checkout.mkdir(parents=True)
+            return ""
+        return commit
+
+    def transient_replace(source: Path, target: Path) -> None:
+        nonlocal replace_attempts
+        replace_attempts += 1
+        if replace_attempts == 1:
+            raise PermissionError("simulated transient Windows directory lock")
+        real_replace(source, target)
+
+    monkeypatch.setattr(public_sync_module, "_run_git", fake_git)
+    monkeypatch.setattr(public_sync_module.os, "replace", transient_replace)
+
+    checkout = service._checkout(
+        "cn-primary-knowledge-base",
+        "https://github.com/YDB003/primary-knowledge-system.git",
+        "main",
+        commit,
+    )
+
+    assert checkout.is_dir()
+    assert replace_attempts == 2
+
+
+def test_checkout_cleanup_preserves_persistent_move_error(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    service = PublicSyncService(tmp_path / "vault", AcceptingModel())
+    commit = "b" * 40
+
+    def fake_git(arguments: list[str], *, timeout: int = 120) -> str:
+        del timeout
+        if arguments[0] == "clone":
+            checkout = Path(arguments[-1])
+            pack = checkout / ".git/objects/pack/test.idx"
+            pack.parent.mkdir(parents=True)
+            pack.write_bytes(b"index")
+            pack.chmod(0o444)
+            return ""
+        return commit
+
+    def persistent_replace(source: Path, target: Path) -> None:
+        del source, target
+        raise PermissionError("persistent move failure")
+
+    monkeypatch.setattr(public_sync_module, "_run_git", fake_git)
+    monkeypatch.setattr(public_sync_module.os, "replace", persistent_replace)
+
+    with pytest.raises(PermissionError, match="persistent move failure"):
+        service._checkout(
+            "cn-primary-knowledge-base",
+            "https://github.com/YDB003/primary-knowledge-system.git",
+            "main",
+            commit,
+        )
+
+    upstreams = service.paths.public_sync_upstreams
+    assert not any(path.name.startswith("t-") for path in upstreams.rglob("t-*"))
 
 
 def test_public_sync_reuses_existing_origin_repository_identity(
