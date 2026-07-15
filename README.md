@@ -78,9 +78,13 @@ $env:PKS_REVIEW_ENDPOINT = "http://127.0.0.1:8000/v1/chat/completions"
 $env:PKS_REVIEW_MODEL = "local-review-model"
 $env:PKS_REVIEW_API_KEY = "local-only-key"
 pks public-sync --vault .\local-vault `
-  --repository-id primary-knowledge-system `
+  --repository-id cn-primary-knowledge-base `
   --url https://github.com/YDB003/primary-knowledge-system.git
 ```
+
+The logical repository ID intentionally remains `cn-primary-knowledge-base` so
+existing local sync state migrates to the unified URL without duplicate
+entities. It is an identity key, not a second GitHub repository.
 
 Every changed entity, relation, and deletion passes deterministic rules and
 the configured model. Missing model configuration leaves changes pending.

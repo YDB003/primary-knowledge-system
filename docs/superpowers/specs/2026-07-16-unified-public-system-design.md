@@ -49,9 +49,13 @@ repository layout, validation, and reviewed synchronization. Public sync uses:
 
 ```powershell
 pks public-sync --vault .\local-vault `
-  --repository-id primary-knowledge-system `
+  --repository-id cn-primary-knowledge-base `
   --url https://github.com/YDB003/primary-knowledge-system.git
 ```
+
+The stable logical ID is retained so existing local state can migrate from the
+former public-data URL without creating duplicate entities. The engine permits
+only this explicit old-to-new URL move and rejects arbitrary rebindings.
 
 Contribution guidance covers code and knowledge changes. `CODEOWNERS` assigns
 the repository owner to `subjects/`, `manifest.json`, and data-license files.

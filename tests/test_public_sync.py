@@ -220,6 +220,32 @@ def test_sync_rejects_non_main_branch(tmp_path: Path) -> None:
         )
 
 
+def test_sync_state_migrates_legacy_public_repository_url(tmp_path: Path) -> None:
+    service = PublicSyncService(tmp_path / "vault", AcceptingModel())
+    repository_id = "cn-primary-knowledge-base"
+    legacy_url = "https://github.com/YDB003/cn-primary-knowledge-base.git"
+    unified_url = "https://github.com/YDB003/primary-knowledge-system.git"
+    state = service._load_state(repository_id, legacy_url, "main")
+    state["acceptedRecords"] = {"entity:math-fraction": {"id": "math-fraction"}}
+    service._save_state(repository_id, state)
+
+    migrated = service._load_state(repository_id, unified_url, "main")
+
+    assert migrated["repositoryUrl"] == unified_url
+    assert migrated["repositoryUrlHistory"] == [legacy_url]
+    assert migrated["acceptedRecords"] == state["acceptedRecords"]
+
+
+def test_sync_state_rejects_unapproved_repository_url_change(tmp_path: Path) -> None:
+    service = PublicSyncService(tmp_path / "vault", AcceptingModel())
+    repository_id = "another-public-source"
+    state = service._load_state(repository_id, "https://example.com/one.git", "main")
+    service._save_state(repository_id, state)
+
+    with pytest.raises(ProtocolError, match="PUBLIC_REPOSITORY_ID_CONFLICT"):
+        service._load_state(repository_id, "https://example.com/two.git", "main")
+
+
 def test_public_sync_reuses_existing_origin_repository_identity(
     tmp_path: Path,
 ) -> None:
