@@ -237,6 +237,33 @@ def test_sync_state_migrates_legacy_public_repository_url(tmp_path: Path) -> Non
     assert migrated["acceptedRecords"] == state["acceptedRecords"]
 
 
+def test_completed_sync_persists_legacy_repository_url_history(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    repository = tmp_path / "public-data"
+    commit = initialize_public_repo(repository)
+    service = PublicSyncService(tmp_path / "vault", AcceptingModel())
+    repository_id = "cn-primary-knowledge-base"
+    legacy_url = "https://github.com/YDB003/cn-primary-knowledge-base.git"
+    unified_url = "https://github.com/YDB003/primary-knowledge-system.git"
+    service._save_state(
+        repository_id,
+        service._load_state(repository_id, legacy_url, "main"),
+    )
+    monkeypatch.setattr(service, "_resolve_commit", lambda url, branch: commit)
+    monkeypatch.setattr(
+        service,
+        "_checkout",
+        lambda repository_id, repository_url, branch, commit: repository,
+    )
+
+    service.sync(repository_id, unified_url)
+
+    saved = json.loads(service._state_path(repository_id).read_text(encoding="utf-8"))
+    assert saved["repositoryUrl"] == unified_url
+    assert saved["repositoryUrlHistory"] == [legacy_url]
+
+
 def test_sync_state_rejects_unapproved_repository_url_change(tmp_path: Path) -> None:
     service = PublicSyncService(tmp_path / "vault", AcceptingModel())
     repository_id = "another-public-source"
@@ -257,7 +284,7 @@ def test_checkout_retries_transient_windows_directory_lock(
 
     def fake_git(arguments: list[str], *, timeout: int = 120) -> str:
         del timeout
-        if arguments[0] == "clone":
+        if "clone" in arguments:
             checkout = Path(arguments[-1])
             checkout.mkdir(parents=True)
             return ""
@@ -284,6 +311,34 @@ def test_checkout_retries_transient_windows_directory_lock(
     assert replace_attempts == 2
 
 
+def test_checkout_enables_git_long_paths(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    service = PublicSyncService(tmp_path / "vault", AcceptingModel())
+    commit = "c" * 40
+    calls: list[list[str]] = []
+
+    def recording_git(arguments: list[str], *, timeout: int = 120) -> str:
+        del timeout
+        calls.append(arguments)
+        if "clone" in arguments:
+            Path(arguments[-1]).mkdir(parents=True)
+            return ""
+        return commit
+
+    monkeypatch.setattr(public_sync_module, "_run_git", recording_git)
+
+    service._checkout(
+        "cn-primary-knowledge-base",
+        "https://github.com/YDB003/primary-knowledge-system.git",
+        "main",
+        commit,
+    )
+
+    clone_arguments = next(arguments for arguments in calls if "clone" in arguments)
+    assert clone_arguments[:3] == ["-c", "core.longpaths=true", "clone"]
+
+
 def test_checkout_cleanup_preserves_persistent_move_error(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:
@@ -292,7 +347,7 @@ def test_checkout_cleanup_preserves_persistent_move_error(
 
     def fake_git(arguments: list[str], *, timeout: int = 120) -> str:
         del timeout
-        if arguments[0] == "clone":
+        if "clone" in arguments:
             checkout = Path(arguments[-1])
             pack = checkout / ".git/objects/pack/test.idx"
             pack.parent.mkdir(parents=True)
