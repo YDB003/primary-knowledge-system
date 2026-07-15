@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "primary-knowledge-system"
+version = "0.2.0"
+description = "Event-backed knowledge core for Chinese primary-school learning"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.11"
+keywords = ["knowledge-graph", "obsidian", "education", "rag"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+
+[project.scripts]
+pks = "pks.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/YDB003/primary-knowledge-system"
+Repository = "https://github.com/YDB003/primary-knowledge-system"
+Issues = "https://github.com/YDB003/primary-knowledge-system/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-ra"
