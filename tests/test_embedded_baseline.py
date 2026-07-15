@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import subprocess
 
 from pks.public_data import validate_public_repository
 
@@ -27,3 +28,19 @@ def test_embedded_public_baseline_is_complete() -> None:
     assert len(list((ROOT / "subjects").glob("*/entities/*.json"))) == 1_541
     assert len(list((ROOT / "subjects").glob("*/relations/*.json"))) == 1_192
     assert validate_public_repository(ROOT, check_dist=True) == []
+
+
+def test_embedded_runtime_bundles_are_versioned() -> None:
+    result = subprocess.run(
+        ["git", "ls-files", "subjects/*/dist/knowledge.json"],
+        cwd=ROOT,
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    tracked = set(result.stdout.splitlines())
+    assert tracked == {
+        "subjects/chinese/dist/knowledge.json",
+        "subjects/english/dist/knowledge.json",
+        "subjects/math/dist/knowledge.json",
+    }
