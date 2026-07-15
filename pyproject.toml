@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "primary-knowledge-system"
-version = "0.2.0"
-description = "Event-backed knowledge core for Chinese primary-school learning"
+version = "0.3.0"
+description = "Primary education knowledge engine with an embedded reviewed baseline"
 readme = "README.md"
 license = {file = "LICENSE"}
 requires-python = ">=3.11"

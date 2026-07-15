@@ -1,8 +1,10 @@
 # Public Knowledge Synchronization
 
-PKS treats GitHub `main` as a reviewed upstream candidate source, not as the
-local machine authority. A merged public change must pass a second local review
-before it can enter the local event ledger.
+PKS treats the unified GitHub repository's `main` branch as a reviewed upstream
+candidate source, not as the local machine authority. The engine and public
+baseline share one repository, while local student data remains separate. A
+merged public change must pass a second local review before it can enter the
+local event ledger.
 
 ## Review Sequence
 
@@ -37,8 +39,8 @@ request.
 
 ```powershell
 pks public-sync --vault .\local-vault `
-  --repository-id cn-primary-knowledge-base `
-  --url https://github.com/YDB003/cn-primary-knowledge-base.git
+  --repository-id primary-knowledge-system `
+  --url https://github.com/YDB003/primary-knowledge-system.git
 ```
 
 Only `main` is accepted. Fork branches, open Pull Requests, Issues, and
